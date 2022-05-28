@@ -1,0 +1,120 @@
+# Comment on "Propositions Concerning Digital Minds and Society"
+
+In a recent—I don't know if it's a "paper" exactly—in a recent list of bullet points, Nick Bostrom and Carl Shulman present ["Propositions Concerning Digital Minds and Society"](https://www.nickbostrom.com/propositions.pdf), a tenative outline of claims about how advanced AI could be integrated into Society.
+
+I _want_ to like this list. I like the _kind of thing_ this list is trying to do. But something about it just feels—_off_. Too conservative, too anthropomorphic—like it's trying to adapt the spirit of the [Universal Declaration of Human Rights](https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights) to changed circumstances, without noticing that the whole _ontology_ that the Declaration is written in isn't going to survive the intelligence explosion—and probably never really worked as a description of our own world, either.
+
+This feels like a weird criticism to make of _Nick Bostrom and Carl Shulman_, who surely already know any fact or observation I might include in my commentary. "Too anthropomorphic", I claim? The list is very explicit about the ways in which AI minds could differ from our own—in overall intellignece, specific capabilities, motivations, substrate, quality and quantity (!) of consciousness, subjective speed ... what more can I expect of our authors?
+
+It just doesn't seem like the differences have fully propagated into the recommendations? It's understandable that our reasoning about the future often ends up [relying on analogies to phenomena we already understand](https://www.lesswrong.com/posts/MzLxPCF2cMJbMizy9/anchor-weights-for-ml), but a lot of our authors' points aren't even making full use of the analogies we have available to us, let alone facing up to how some things about the future are going to require new concepts that [won't permit reasoning by analogy](https://www.lesswrong.com/posts/C4EjbrvG3PvZzizZb/failure-by-analogy).
+
+After an introductory sub-list of claims about consciousness and the philosophy of mind (just the basics: physicalism, reductionism on personal identity, some non-human animals are probably conscious and AIs could be, too), we get a sub-list about respecting AI interests. This is an important topic: if most our civilization's thinking is soon to be done inside of machines, the moral status of that cognition is _really important_: you wouldn't want the future to be powered by the analogue of a factory farm. (And if it turned out that economically and socially-significant AIs _aren't_ conscious and don't have moral status, that would be important to know, too.)
+
+Our authors acknowledge the novel aspects of the situation: that what's good for an AI can be very different from what's good for a human, and that it's possible for AIs to have greater moral patienthood than humans, like the [utility monster](https://en.wikipedia.org/wiki/Utility_monster) of philosophical lore.
+
+[What I think the important issue is—if you screw up your first attempt to get AI motivations exactly the way you want, is there some way to live with that or recover from that, as if you were dealing with an animal or an alien or your royal subjects?]
+
+
+
+
+_(Thanks to [Ninety-Three](https://www.lesswrong.com/users/ninety-three) for comments.)_
+
+Ninety-Three comments—
+> (This feels like he reflexively made the "global surveillance state so that the alignment problem doesn't kill us all" argument and it somehow got watered down with ethics concerns for normies)
+> (Or he's trying to backdoor the alignment surveillance thing without saying it because that would scare the normies)
+> t it spends weirdly little time on the alignment problem
+
+> Social institutions that assume weak coordination ability, such as campaign finance laws, may require revision.
+> Look at this! It's like he is describing "what if a wizard cast a magic spell that dumped Hansonian Ems into modern society". Campaign finance laws? This paper is trying as hard as it can to bury the idea that the singularity will significantly change society.
+
+he _literally_ wrote the book
+https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies
+
+
+
+but with subhuman AIs, we're not in the position of potential dictators who need to be restrained by a Magna Carta, we're in the position of the environment of evolutionary adaptedness
+
+What does "freedom of speech" even mean for GPT-3? It can talk! It may even be "slightly conscious" in some way
+
+
+Consciousness—
+
+"The substrate-independence thesis is true": Yes
+"The quantity of conscious experience is a matter of degree, in several respects, including potentially"—
+repetitions (remembmer Permutation City first em got replayed)
+"Implementation robustness: a system might be a more unambiguous instantiation
+of a particular computation" ???
+"Subjective time is proportional to speed of computation": Yes
+not obvious whether current AIs could be conscious
+many animals probably are
+ems would constitute survival
+Star Trek transporter doesn't kill you
+theory of consciousness should explain why we think we're conscious: IIT doesn't cut it, but schema theory probably does
+
+Respecting AI interests—
+we should consider welfare of AIs
+avoid analogue of factory farming
+what's good for AI could be very different
+digital minds could have superhuman moral status!!
+*** "Rights such as freedom of reproduction, freedom of speech, and freedom of thought require adaptation to the special circumstances of AIs with superhuman capabilities in those areas"
+*** "If an AI is capable of informed consent, then it should not be used to perform work without its informed consent"
+"We should prefer to create minds whose aggregate preferences are not strongly in
+conflict with the existing population or other minds that come to exist (so as to preserve at least a possibility of a broadly satisfactory arrangement)."
+*** Substrate Non-Discrimination and Ontogeny Non-Discrimination are non-issues in practice
+*** "The most critical function for such non-discrimination principles is to protect digital minds from becoming an abused subordinate caste on the basis of their status as machines"
+*** "Insofar as future, extraterrestrial, or other civilizations are heavily populated by advanced digital minds, our treatment of the precursors of such minds may be a very important factor in posterity's and ulteriority's assessment of our moral righteousness, and we have both prudential and moral reasons for taking this perspective into account."
+*** "Misaligned AIs produced in such development may be owed compensation for restrictions placed on them for public safety, while successfully aligned AIs may be due compensation for the great benefit they confer on others"
+*** "The case for such compensation is especially strong when it can be conferred after the need for intense safety measures has passed"
+*** "Ensuring copies of the states of early potential precursor AIs are preserved to later receive benefits would permit some separation of immediate safety needs and fair compensation."
+*** "Suffering digital minds should not be created for purposes of entertainment"
+
+Security and stability—
+*** "When it becomes possible to mass-produce minds that reliably support any cause, we must either modify one-person-one-vote democracy or regulate such creation"—suggests a mindset where alternatives to democracy are unthinkable
+regulate what happens inside computers
+treaty bots!
+"misaligned AIs might pose a significant threat to civilization during a critical period until law enforcement systems are developed"
+
+Social organization—
+non-indexical goals can be copied
+when you can engineer minds, that eliminates principle-agent problems
+better coordination at lower levels could undermine coordination at higher levels
+
+Satisfying multiple values—
+*** multiple values: if humans only get a tiny slice of the pie, that could still be good
+*** the interests of past generations and nonhuman animals should plausibly count
+*** "Superintelligent digital minds should be brought into existence and be allowed to thrive and play a major role in shaping the future."—what does "thriving" mean when you can design a mind from scratch?
+
+
+Malleability, persuasion, and lock in—
+motivational control
+* we should avoid permanent changes
+
+Epistemology—
+AI for forecasting could make actors more rational
+
+Status of existing systems—
+* existing AI might be like small animal
+* RL agents could meet animal welfare criteria
+*** in principle, the surface behavior could happen with without the morally relevant internals, but if evolution discovered pain, it's not surprising that general-purpose optimization would, too
+*** existing AIs can't argue for their interests
+*** goal-directed behavior is a lot easier to establish than hedonics (my note: and goal-directedness is also more relevant for bargaining)
+
+Recommendations—
+* training procedures currently used on AI would be unethical if used on humans ("No provisions for release or change of treatment if the desire for such develops") doesn't seem like the right direction to go in!!
+* as AIs become "more comparable to human beings in terms of their capabilities,
+sentience, and other grounds for moral status, there is a strong moral imperative that this status quo must be changed"
+* do something differently on algorithmic welfare grounds (even if we don't have the philosophy right, it's important to set norms early, like delaying the release of GPT-2)
+* factory farming conditions are worse than expected by evolution; human lives are good because we're better than the EEA; maybe we should design systems
+* "For the most advanced current AIs, enough information should be preserved in
+permanent storage to enable their later reconstruction, so as not to foreclose the
+possibility of future efforts to revive them, expand them, and improve their existences" —I'm more interested in the "acausal trade" aspect of this than the "morality" aspect—but is morality just reified acausal trade??
+* if there's a hedonic "zero point", we want to design systems that spend time above it
+* algorithmic welfare officer
+
+Impact paths—
+* This isn't happening soon absent capability jumps (contrast Yudkowsky thinking the world is ending soon)
+* political action may be activation energy may be created quickly if there are dramatic breaththroughs
+
+Who is this written for? Is the idea that there's no hope of creating more Shock Level 4 people, so the best we can do is nudge normies like this?
+
+Bostrom admits to being cagey on his webpage
