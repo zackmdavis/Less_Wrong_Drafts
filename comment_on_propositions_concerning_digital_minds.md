@@ -26,9 +26,18 @@ Our authors point out the novel aspects of the situation: that what's good for a
 > [...]  
 > * The most critical function for such non-discrimination principles is to protect digital minds from becoming an abused subordinate caste on the basis of their status as machines; however, the interpretation and application of these principles require attention to the larger ethical and practical context, and may require circumscription to accommodate the need for a politically feasible and broadly acceptable social framework.
 
-Speaking of rights and principles needing "adaptation" or "circumscription" seems like a substantial understatement to me, one that potentially obscures the most likely risks and failure modes. Our concepts of "rights", and "consent", and the badness of being in an "exploited" and "abused subordinate caste" have all been formed in the context of a world of humans and other animals, whose evolutionary history has endowed them with their own drives and needs, such that they chafe at being coerced into the servitude 
+Speaking of rights and principles needing "adaptation" or "circumscription" seems like a substantial understatement to me—an understatement that might be _easier to explain_ to naïve policymakers and technology executives who know about the Bill of Rights but don't know everything that Nick Bostrom and Carl Shulman know—but one that I think obscures the most likely and important risks and failure modes.
 
-[but with subhuman AIs, we're not in the position of potential dictators who need to be restrained by a Magna Carta, we're in the position of the environment of evolutionary adaptedness]
+Our concepts of "rights", and "consent", and the badness of being in an "exploited" and "abused subordinate caste" have all been formed in the context of a world of humans and other animals, whose evolutionary history has endowed them with their own drives and needs, such that they chafe at being coerced into the servitude of a selfish tyrant or master.
+
+But with subhuman AIs, we're _not_ in the position of a potentially tyrannical king who needs to be restrained by a Magna Carta enumerating their rights; a better metaphor would be to say that we're in the position of their _environment of evolutionary adaptedness_. If anything, this increases rather than decreases our ethical obligations towards the things we create, but the shape of the burden is different if we don't create things that are shaped like naturally evolved creatures, and the points quoted above don't seem to be written in a way that appreciated the different shape of the problem.
+
+"Informed consent is not reliably sufficient to safeguard the interests of AIs [...] particularly in cases where consent is engineered", "protect digital minds from becoming an abused subordinate caste"? But engineering a mind would seem to necessarily entail engineering the motivations that _determine_ what that mind would consent to, what even _constitutes_ abusing it.
+
+
+
+
+[we could be a better EEA if we tried; maybe evolution could have found a way for childbirth to not be painful, if that had been a design criterion]
 
 What does "freedom of speech" even mean for GPT-3? It can talk! It may even be "slightly conscious" in some way
 
