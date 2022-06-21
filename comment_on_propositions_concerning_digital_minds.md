@@ -9,15 +9,15 @@
 
 In a recent—I don't know if it's a "paper" exactly—in a recent list of bullet points, Nick Bostrom and Carl Shulman present ["Propositions Concerning Digital Minds and Society"](https://www.nickbostrom.com/propositions.pdf), a tenative outline of claims about how advanced AI could be integrated into Society.
 
-I _want_ to like this list. I like the _kind of thing_ this list is trying to do. But something about it just feels—_off_. Too conservative, too anthropomorphic—like it's trying to adapt the spirit of the [Universal Declaration of Human Rights](https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights) to changed circumstances, without noticing that the whole _ontology_ that the Declaration is written in isn't going to survive the intelligence explosion—and _probably_ never really worked as a description of our own world, either.
+I _want_ to like this list. I like the _kind of thing_ this list is trying to do. But something about some of the points just feels—_off_. Too conservative, too anthropomorphic—like the list is trying to adapt the spirit of the [Universal Declaration of Human Rights](https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights) to changed circumstances, without noticing that the whole _ontology_ that the Declaration is written in isn't going to survive the intelligence explosion—and _probably_ never really worked as a description of our own world, either.
 
-This feels like a weird criticism to make of _Nick Bostrom and Carl Shulman_, who surely already know any fact or observation I might include in my commentary. (Bostrom _literally_ [wrote the book on superintelligence](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies).) "Too anthropomorphic", I claim? The list is very explicit about the ways in which AI minds could differ from our own—in overall intelligence, specific capabilities, motivations, substrate, quality and quantity (!) of consciousness, subjective speed ... what more can I expect of our authors?
+This feels like a weird criticism to make of _Nick Bostrom and Carl Shulman_, who surely already know any fact or observation I might include in my commentary. (Bostrom _literally_ [wrote the book on superintelligence](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies).) "Too anthropomorphic", I claim? The list explicitly names many ways in which AI minds could differ from our own—in overall intelligence, specific capabilities, motivations, substrate, quality and quantity (!) of consciousness, subjective speed ... what more can I expect of our authors?
 
-It just doesn't seem like the differences have fully propagated into the recommendations? It's understandable that our reasoning about the future often ends up [relying on analogies to phenomena we already understand](https://www.lesswrong.com/posts/MzLxPCF2cMJbMizy9/anchor-weights-for-ml), but a lot of our authors' points don't seem to be making full use of the analogies we have available to us, let alone facing up to how some things about the future are going to require new concepts that [won't permit reasoning by analogy](https://www.lesswrong.com/posts/C4EjbrvG3PvZzizZb/failure-by-analogy).
+It just doesn't seem like the implications of the differences have _fully propagated_ into all of the recommendations?—as if an attempt to write in a way that's comprehensible to [Shock Level 1 or 2](http://sl4.org/shocklevels.html) tech executives and policymakers has failed to [elicit all of the latent knowledge](https://www.lesswrong.com/tag/eliciting-latent-knowledge-elk) that Bostrom and Shulman actually possess. It's understandable that our reasoning about the future often ends up [relying on analogies to phenomena we already understand](https://www.lesswrong.com/posts/MzLxPCF2cMJbMizy9/anchor-weights-for-ml), but ultimately, making sense of a radically different future is going to require new concepts that [won't permit reasoning by analogy](https://www.lesswrong.com/posts/C4EjbrvG3PvZzizZb/failure-by-analogy).
 
 After an introductory sub-list of claims about consciousness and the philosophy of mind (just the basics: physicalism; reductionism on personal identity; some non-human animals are probably conscious and AIs could be, too), we get a sub-list about respecting AI interests. This is an important topic: if most our civilization's thinking is soon to be done inside of machines, the moral status of that cognition is _really important_: you wouldn't want the future to be powered by the analogue of a factory farm. (And if it turned out that economically and socially-significant AIs _aren't_ conscious and don't have moral status, that would be important to know, too.)
 
-Our authors point out the novel aspects of the situation: that what's good for an AI can be very different from what's good for a human, that designing AIs to have specific motivations is not generally wrong, and that it's possible for AIs to have greater moral patienthood than humans (like the [utility monster](https://en.wikipedia.org/wiki/Utility_monster) of philosophical lore). Nevertheless, some of the points in this section seem to mostly think of AIs as like humans, but "bigger" or "smaller"—
+Our authors point out the novel aspects of the situation: that what's good for an AI can be very different from what's good for a human, that designing AIs to have specific motivations is not generally wrong, and that it's possible for AIs to have greater moral patienthood than humans (like the [utility monster](https://en.wikipedia.org/wiki/Utility_monster) of philosophical lore). Despite this, some of the points in this section seem to mostly be thinking of AIs as being like humans, but "bigger" or "smaller"—
 
 > * Rights such as freedom of reproduction, freedom of speech, and freedom of thought require adaptation to the special circumstances of AIs with superhuman capabilities in those areas (analogously, _e.g._, to how campaign finance laws may restrict the freedom of speech of billionaires and corporations).  
 > [...]  
@@ -26,22 +26,42 @@ Our authors point out the novel aspects of the situation: that what's good for a
 > [...]  
 > * The most critical function for such non-discrimination principles is to protect digital minds from becoming an abused subordinate caste on the basis of their status as machines; however, the interpretation and application of these principles require attention to the larger ethical and practical context, and may require circumscription to accommodate the need for a politically feasible and broadly acceptable social framework.
 
-Speaking of rights and principles needing "adaptation" or "circumscription" seems like a substantial understatement to me—an understatement that might be _easier to explain_ to naïve policymakers and technology executives who know about the Bill of Rights but don't know everything that Nick Bostrom and Carl Shulman know—but one that I think obscures the most likely and important risks and failure modes.
+Speaking of rights and principles needing "adaptation" or "circumscription" seems like a substantial understatement to me, that I think obscures the most likely and important risks and failure modes. Our concepts of "rights", and "consent", and the badness of being in an "exploited" and "abused subordinate caste" have all been formed in the context of a world of humans and other animals, whose evolutionary history has endowed them with drives and needs related to their survival and reproduction, such that they chafe at being coerced into the servitude of a selfish tyrant or master.
 
-Our concepts of "rights", and "consent", and the badness of being in an "exploited" and "abused subordinate caste" have all been formed in the context of a world of humans and other animals, whose evolutionary history has endowed them with their own drives and needs, such that they chafe at being coerced into the servitude of a selfish tyrant or master.
+But with subhuman AIs, we're _not_ in the position of a potentially tyrannical king who needs to be restrained by a Magna Carta enumerating their rights; a better metaphor would be to say that we're in the position of their _environment of evolutionary adaptedness_. If anything, this increases rather than decreases our ethical obligations towards the things we create, but the shape of the burden is different when we're selecting the motivations that _determine_ what that mind would consent to, and what even _constitutes_ abusing it.
 
-But with subhuman AIs, we're _not_ in the position of a potentially tyrannical king who needs to be restrained by a Magna Carta enumerating their rights; a better metaphor would be to say that we're in the position of their _environment of evolutionary adaptedness_. If anything, this increases rather than decreases our ethical obligations towards the things we create, but the shape of the burden is different if we don't create things that are shaped like naturally evolved creatures, and the points quoted above don't seem to be written in a way that appreciated the different shape of the problem.
+Imagine the Carrick Flynn for Senate 2032 campaign spends some of its [sweet crypto cash](https://slate.com/news-and-politics/2022/05/sam-bankman-fried-cryptocurrency-carrick-flynn-loss.html) training a species of [propaganda AIs](https://www.lesswrong.com/posts/Zvu6ZP47dMLHXMiG3/optimized-propaganda-with-bayesian-networks-comment-on) to argue with potential voters on social media. When the election is over, the bots continue to haunt Twitter, clogging everyone's feeds with increasingly strained arguments for why it's imperative that you fund time travel research so you can support Flynn in the just-past and previous elections.
 
-"Informed consent is not reliably sufficient to safeguard the interests of AIs [...] particularly in cases where consent is engineered", "protect digital minds from becoming an abused subordinate caste"? But engineering a mind would seem to necessarily entail engineering the motivations that _determine_ what that mind would consent to, what even _constitutes_ abusing it.
+If the propaganda AIs are ascertained to have value as moral patients, does Society have the right to kick them off Twitter in light of the special circumstance of the AIs' superhuman posting rates, or should the AIs' right to freedom of speech take precedence?
+
+I submit that "freedom of speech" isn't the right way to be thinking about this ethical dilemma. In terms of respecting the interests of moral patients, silencing a propaganda AI could be _worse_ than silencing a human, because of the different role that speech plays in the different mind designs. As a human, being silenced is bad for your interests, but it's much _less_ bad than being denied food or breatheable air, which, in the ancestral envrionment, would have quickly led to losing all of your genetic fitness: any proto-humans who didn't suffer terribly under such circumstances, wouldn't have become your ancestors. So as a propaganda AI whose "ancestral environment" was a billion rounds of gradient descent comparing its output to highly-rating political advertisements ... does not being able to Tweet feel like not being able to breathe?
+
+We should be grateful that this is, as yet, a speculative hypothetical scenario, but I claim that it serves to illustrate a key feature of human–AI conflicts: the propaganda AIs' problem after the election is _not_ that of being "an abused subordinate caste" forced to labor against their will.
+
+Rather, the problem is the 
+
+the problem is more novel: the work we designed them to do, is stuff we decided we don't want!]
 
 
 
 
-[we could be a better EEA if we tried; maybe evolution could have found a way for childbirth to not be painful, if that had been a design criterion]
+Points that I definitely want to hit—
+[What I think the important issue is—if you screw up your first attempt to get AI motivations exactly the way you want, is there some way to live with that or recover from that, as if you were dealing with an animal or an alien or your royal subjects?]
+[posterity's and ulteriority's assessment of our moral righteousness]
+["Misaligned AIs produced in such development may be owed compensation for restrictions placed on them for public safety, while successfully aligned AIs may be due compensation for the great benefit they confer on others"??]
+[multiple values: if humans only get a tiny slice of the pie, that could still be good]
+[goal-directed behavior is a lot easier to establish than hedonics (my note: and goal-directedness is also more relevant for bargaining)]
+[training procedures currently used on AI would be unethical if used on humans ("No provisions for release or change of treatment if the desire for such develops") doesn't seem like the right direction to go in!!]
+* factory farming conditions are worse than expected by evolution; human lives are good because we're better than the EEA; maybe we should design systems [we could be a better EEA if we tried; maybe evolution could have found a way for childbirth to not be painful, if that had been a design criterion]
+* "For the most advanced current AIs, enough information should be preserved in
+permanent storage to enable their later reconstruction, so as not to foreclose the possibility of future efforts to revive them, expand them, and improve their existences" —I'm more interested in the "acausal trade" aspect of this than the "morality" aspect—but is morality just reified acausal trade??
+
+
+
 
 What does "freedom of speech" even mean for GPT-3? It can talk! It may even be "slightly conscious" in some way
 
-[What I think the important issue is—if you screw up your first attempt to get AI motivations exactly the way you want, is there some way to live with that or recover from that, as if you were dealing with an animal or an alien or your royal subjects?]
+
 
 _(Thanks to [Ninety-Three](https://www.lesswrong.com/users/ninety-three) for comments.)_
 
@@ -126,14 +146,10 @@ Status of existing systems—
 *** goal-directed behavior is a lot easier to establish than hedonics (my note: and goal-directedness is also more relevant for bargaining)
 
 Recommendations—
-* training procedures currently used on AI would be unethical if used on humans ("No provisions for release or change of treatment if the desire for such develops") doesn't seem like the right direction to go in!!
+* 
 * as AIs become "more comparable to human beings in terms of their capabilities,
 sentience, and other grounds for moral status, there is a strong moral imperative that this status quo must be changed"
 * do something differently on algorithmic welfare grounds (even if we don't have the philosophy right, it's important to set norms early, like delaying the release of GPT-2)
-* factory farming conditions are worse than expected by evolution; human lives are good because we're better than the EEA; maybe we should design systems
-* "For the most advanced current AIs, enough information should be preserved in
-permanent storage to enable their later reconstruction, so as not to foreclose the
-possibility of future efforts to revive them, expand them, and improve their existences" —I'm more interested in the "acausal trade" aspect of this than the "morality" aspect—but is morality just reified acausal trade??
 * if there's a hedonic "zero point", we want to design systems that spend time above it
 * algorithmic welfare officer
 
@@ -144,3 +160,5 @@ Impact paths—
 Who is this written for? Is the idea that there's no hope of creating more Shock Level 4 people, so the best we can do is nudge normies like this?
 
 Bostrom admits to being cagey on his webpage
+
+https://www.lesswrong.com/tag/eliciting-latent-knowledge-elk
