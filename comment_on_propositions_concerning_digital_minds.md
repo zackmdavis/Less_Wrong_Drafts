@@ -7,13 +7,13 @@
 >
 > —Jonathan Coulton, "The Future Soon"
 
-In a recent—I don't know if it's a "paper" exactly—in a recent list of bullet points, Nick Bostrom and Carl Shulman present ["Propositions Concerning Digital Minds and Society"](https://www.nickbostrom.com/propositions.pdf), a tenative outline of claims about how advanced AI could be integrated into Society.
+In a recent paper, Nick Bostrom and Carl Shulman present ["Propositions Concerning Digital Minds and Society"](https://www.nickbostrom.com/propositions.pdf), a tenative bullet-list outline of claims about how advanced AI could be integrated into Society.
 
 I _want_ to like this list. I like the _kind of thing_ this list is trying to do. But something about some of the points just feels—_off_. Too conservative, too anthropomorphic—like the list is trying to adapt the spirit of the [Universal Declaration of Human Rights](https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights) to changed circumstances, without noticing that the whole _ontology_ that the Declaration is written in isn't going to survive the intelligence explosion—and _probably_ never really worked as a description of our own world, either.
 
-This feels like a weird criticism to make of _Nick Bostrom and Carl Shulman_, who probably already know any particular fact or observation I might include in my commentary. (Bostrom _literally_ [wrote the book on superintelligence](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies).) "Too anthropomorphic", I claim? The list explicitly names many ways in which AI minds could differ from our own—in overall intelligence, specific capabilities, motivations, substrate, quality and quantity (!) of consciousness, subjective speed ... what more can I expect of our authors?
+This feels like a weird criticism to make of _Nick Bostrom and Carl Shulman_, who probably already know any particular fact or observation I might include in my commentary. (Bostrom _literally_ [wrote the book on superintelligence](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies).) "Too anthropomorphic", I claim? The list explicitly names many ways in which AI minds could differ from our own—in overall intelligence, specific capabilities, motivations, substrate, quality and quantity (!) of consciousness, subjective speed—_and_ goes into some detail about how this could change the game theory of Society. What more can I expect of our authors?
 
-It just doesn't seem like the _implications_ of the differences have _fully propagated_ into all of the recommendations?—as if an attempt to write in a way that's comprehensible to [Shock Level 1 or 2](http://sl4.org/shocklevels.html) tech executives and policymakers has failed to [elicit all of the latent knowledge](https://www.lesswrong.com/tag/eliciting-latent-knowledge-elk) that Bostrom and Shulman actually possess. It's understandable that our reasoning about the future often ends up [relying on analogies to phenomena we already understand](https://www.lesswrong.com/posts/MzLxPCF2cMJbMizy9/anchor-weights-for-ml), but ultimately, making sense of a radically different future is going to require new concepts that [won't permit reasoning by analogy](https://www.lesswrong.com/posts/C4EjbrvG3PvZzizZb/failure-by-analogy).
+It just doesn't seem like the implications of the differences have _fully propagated_ into some of the recommendations?—as if an attempt to write in a way that's comprehensible to [Shock Level 2](http://sl4.org/shocklevels.html) tech executives and policymakers has failed to [elicit all of the latent knowledge](https://www.lesswrong.com/tag/eliciting-latent-knowledge-elk) that Bostrom and Shulman actually possess. It's understandable that our reasoning about the future often ends up [relying on analogies to phenomena we already understand](https://www.lesswrong.com/posts/MzLxPCF2cMJbMizy9/anchor-weights-for-ml), but ultimately, making sense of a radically different future is going to require new concepts that [won't permit reasoning by analogy](https://www.lesswrong.com/posts/C4EjbrvG3PvZzizZb/failure-by-analogy).
 
 After an introductory sub-list of claims about consciousness and the philosophy of mind (just the basics: physicalism; reductionism on personal identity; some non-human animals are probably conscious and AIs could be, too), we get a sub-list about respecting AI interests. This is an important topic: if most our civilization's thinking is soon to be done inside of machines, the moral status of that cognition is _really important_: you wouldn't want the future to be powered by the analogue of a factory farm. (And if it turned out that economically and socially-significant AIs _aren't_ conscious and don't have moral status, that would be important to know, too.)
 
@@ -38,30 +38,51 @@ I submit that "freedom of speech" isn't the right way to be thinking about this 
 
 We should be grateful that this is—as yet, we hope—a speculative hypothetical scenario, but I claim that it serves to illustrate a key feature of human–AI conflicts: the propaganda bots' problem after the election is _not_ that of being "an abused subordinate caste" forced to act against their will. Rather, the problem is that the acts we created them to will to do, turned out to be stuff we actually don't want to happen. We might say that the AIs' goals are—wait for it ... _misaligned_ with human goals.
 
-The list _mentions_ the alignment problem, of course, but it doesn't seem to receive central focus, compared to the AI-as-another-species paradigm. (The substring "align" appears 8 times; the phrase "nonhuman animals" appears 9 times.) And when alignment _is_ mentioned, it seems—subtly mis-framed? For example, we're told that:
+The list _mentions_ the alignment problem, of course, but it doesn't seem to receive central focus, compared to the AI-as-another-species paradigm. (The substring "align" appears 8 times; the phrase "nonhuman animals" appears 9 times.) And when alignment _is_ mentioned, the term seems to be used in a much weaker sense than that of other authors who take "aligned" to mean having the same preferences over world-states. For example, we're told that:
 
 > * Misaligned AIs [...] may be owed compensation for restrictions placed on them for public safety, while successfully aligned AIs may be due compensation for the great benefit they confer on others.
 
-The second part, especially, is a very strange construction. Successfully aligned AIs may be due _compensation_? So, what, humans give aligned AIs _money_ in exchange for their services? Which the aligned AIs spend on ... what, exactly?
+The second part, especially, is a very strange construction (to readers assuming the stronger sense of "aligned"). Successfully aligned AIs may be due _compensation_? So, what, humans give aligned AIs money in exchange for their services? Which the successfully aligned AIs spend on ... what, exactly? The extent to which these "successfully aligned" AIs have goals other than serving their principals seems like the extent to which they're _not_ successfully aligned in the stronger sense: the concept of "owing compensation" (whether for complying with restrictions, or for conferring benenfits) is a social technology for getting along with _unaligned_ agents, who don't want exactly the same things as you.
 
+As a human in existing human Society, this stronger sense of "alignment" might seem like paranoid overkill: _no one_ is "aligned" with anyone else in this sense, and yet Society still manages to hold together: it's _unusual_ for people to kill their neighbors in order to take their stuff. Everyone else prefers laws to values. Why can't it work that way for AI?
 
+The worry is that a lot of the cooperative features of our Society may owe their existence to the lack of large power disparities amongst humans, or, possibly, to cooperative behavioral dispositions due to the lack of large power disparities in our environment of evolutionary adaptiveness—neither of which seem likely to hold up in a world with digital minds. Morality is crystalized game theory: we think we owe compensation to those who have benefitted us, or those who have incurred costs to not harm us, because that kind of cooperative disposition served our ancestors well in repeated interactions with reputation.
 
+But when planning for the fate of our Society once it steps outside of the bounds set by human nature, to what extent can we still rely on human-style moral reasoning, and to what extent are we forced to drop back into raw game theory? Bostrom and Shulman write:
 
+> * Insofar as future, extraterrestrial, or other civilizations are heavily populated by advanced digital minds, our treatment of the precursors of such minds may be a very important factor in posterity's and ulteriority's assessment of our moral righteousness, and we have both prudential and moral reasons for taking this perspective into account.
 
+I am very skeptical that the superintelligences of the future are going to be assessing our "moral righteousness" as we would understand that phrase. Thus, the prudential reasons hold more sway over me: I find myself enthusiastic about some of our authors' policy suggestions for respecting AI interests, but more out of the (likely naïve and futile) hope that humanity's compliance with some fragment of game theory generalizing what we would call the moral law, just might work out in our favor somehow, rather than out of zeal for the moral law as such. If you _screw up_ your first attempt to get AI motivations exactly the way you want, is there some way to partially live with that or partially recover from that, as if you were dealing with an animal, or an alien, or your royal subjects? Should futher investigation prove that hope to indeed be naïve and futile (probably because we can't model ulteriority well enough to timelessly cooperate with it), it would seem to follow that we shouldn't ("shouldn't") have bothered.
 
+(As an aside, the word "ulteriority" may be the one thing I most value having learned from this paper.)
+
+For example, Bostrom and Shulman suggest that AIs be archived instead of deleted, to allow the possibility of future revival, and that we 
+
+[TODO: being a better EEA; goal-directed behavior is a lot easier to establish than hedonics (my note: and goal-directedness is also more relevant for bargaining)]
+[training procedures currently used on AI would be unethical if used on humans ("No provisions for release or change of treatment if the desire for such develops") doesn't seem like the right direction to go in!!]
+
+Our authors point out that there are possible outcomes that do very well on "both human-centric and impersonal criteria." If some AIs are "super-beneficiaries" with a greater moral claim to resources, an outcome where the superbeneficiaries get 99.99% of the cosmic endowment and humans get 0.01%, does very well on both a total-utilitarian perspective and an ordinary-human perspective. I would actually go further, and say that positing super-beneficiaries is unnecessary. The logic of compromise holds even if what human philosophers are too parochial and self-centered about what they think are "impersonal criteria": an outcome where 99.99% of the cosmic endowment is converted into paperclips and humans get 0.01% does very well on both a paperclip-maximizing and ordinary human perspective.
+
+[TODO: Yudkowsky cheesecake example, asks if 0.01 eudamonia is enough. If only—if only there was some way to make that deal.]
+
+--------
 
 Points that I definitely want to hit—
-
-
 
 ["Misaligned AIs produced in such development may be owed compensation for restrictions placed on them for public safety, while successfully aligned AIs may be due compensation for the great benefit they confer on others"??]
 
 
-[What I think the important issue is—if you screw up your first attempt to get AI motivations exactly the way you want, is there some way to live with that or recover from that, as if you were dealing with an animal or an alien or your royal subjects?]
+> Insofar as future, extraterrestrial, or other civilizations are heavily populated by advanced digital minds, our treatment of the precursors of such minds may be a very important factor in posterity’s and ulteriority’s assessment of our moral righteousness, and we have both prudential and moral reasons for taking this perspective into account.
+
+
+I think Bostrom and Shulman's propositions would benefit from clarifying this point (at the cost of making the document less accessible to some readers):
+
+I find myself enthusiastic about many of our authors' policy suggestions, but for more "selfish" rather than strictly moral reasons,
+
 [posterity's and ulteriority's assessment of our moral righteousness]
-[multiple values: if humans only get a tiny slice of the pie, that could still be good]
-[goal-directed behavior is a lot easier to establish than hedonics (my note: and goal-directedness is also more relevant for bargaining)]
-[training procedures currently used on AI would be unethical if used on humans ("No provisions for release or change of treatment if the desire for such develops") doesn't seem like the right direction to go in!!]
+
+
+
 * factory farming conditions are worse than expected by evolution; human lives are good because we're better than the EEA; maybe we should design systems [we could be a better EEA if we tried; maybe evolution could have found a way for childbirth to not be painful, if that had been a design criterion]
 * "For the most advanced current AIs, enough information should be preserved in
 permanent storage to enable their later reconstruction, so as not to foreclose the possibility of future efforts to revive them, expand them, and improve their existences" —I'm more interested in the "acausal trade" aspect of this than the "morality" aspect—but is morality just reified acausal trade??
