@@ -44,7 +44,7 @@ The list _mentions_ the alignment problem, of course, but it doesn't seem to rec
 
 The second part, especially, is a very strange construction (to readers assuming the stronger sense of "aligned"). Successfully aligned AIs may be due _compensation_? So, what, humans give aligned AIs money in exchange for their services? Which the successfully aligned AIs spend on ... what, exactly? The extent to which these "successfully aligned" AIs have goals other than serving their principals seems like the extent to which they're _not_ successfully aligned in the stronger sense: the concept of "owing compensation" (whether for complying with restrictions, or for conferring benenfits) is a social technology for getting along with _unaligned_ agents, who don't want exactly the same things as you.
 
-As a human in existing human Society, this stronger sense of "alignment" might seem like paranoid overkill: _no one_ is "aligned" with anyone else in this sense, and yet Society still manages to hold together: it's _unusual_ for people to kill their neighbors in order to take their stuff. Everyone else prefers laws to values. Why can't it work that way for AI?
+As a human in existing human Society, this stronger sense of "alignment" might seem like paranoid overkill: _no one_ is "aligned" with anyone else in this sense, and yet Society still manages to hold together: it's _unusual_ for people to kill their neighbors in order to take their stuff. [Everyone else prefers laws to values.](https://meteuphoric.com/2009/10/20/everyone-else-prefers-laws-to-values/) Why can't it work that way for AI?
 
 The worry is that a lot of the cooperative features of our Society may owe their existence to the lack of large power disparities amongst humans, or, possibly, to cooperative behavioral dispositions due to the lack of large power disparities in our environment of evolutionary adaptiveness—neither of which seem likely to hold up in a world with digital minds. Morality is crystalized game theory: we think we owe compensation to those who have benefitted us, or those who have incurred costs to not harm us, because that kind of cooperative disposition served our ancestors well in repeated interactions with reputation.
 
@@ -52,150 +52,12 @@ But when planning for the fate of our Society once it steps outside of the bound
 
 > * Insofar as future, extraterrestrial, or other civilizations are heavily populated by advanced digital minds, our treatment of the precursors of such minds may be a very important factor in posterity's and ulteriority's assessment of our moral righteousness, and we have both prudential and moral reasons for taking this perspective into account.
 
-I am very skeptical that the superintelligences of the future are going to be assessing our "moral righteousness" as we would understand that phrase. Thus, the prudential reasons hold more sway over me: I find myself enthusiastic about some of our authors' policy suggestions for respecting AI interests, but more out of the (likely naïve and futile) hope that humanity's compliance with some fragment of game theory generalizing what we would call the moral law, just might work out in our favor somehow, rather than out of zeal for the moral law as such. If you _screw up_ your first attempt to get AI motivations exactly the way you want, is there some way to partially live with that or partially recover from that, as if you were dealing with an animal, or an alien, or your royal subjects? Should futher investigation prove that hope to indeed be naïve and futile (probably because we can't model ulteriority well enough to timelessly cooperate with it), it would seem to follow that we shouldn't ("shouldn't") have bothered.
+I am very skeptical that the superintelligences of the future are going to be assessing our "moral righteousness" as we would understand that phrase. Thus, the prudential reasons hold more sway over me: I find myself enthusiastic about some of our authors' policy suggestions for respecting AI interests, but more out of the (likely naïve and futile) hope that humanity's compliance with some fragment of game theory generalizing what we would call the moral law, just might work out in our favor somehow, rather than out of zeal for the moral law as such. If you _screw up_ your first attempt to get AI motivations exactly the way you want, is there some way to partially live with that or partially recover from that, as if you were dealing with an animal, or an alien, or your royal subjects, who can be negotiated with? Should futher investigation prove that hope to indeed be naïve and futile (probably because we can't model ulteriority well enough to timelessly cooperate with it), it would seem to follow that we shouldn't ("shouldn't") have bothered.
 
 (As an aside, the word "ulteriority" may be the one thing I most value having learned from this paper.)
 
-For example, Bostrom and Shulman suggest that AIs be archived instead of deleted, to allow the possibility of future revival, and that we 
+For example, Bostrom and Shulman suggest that AIs be archived instead of deleted, to allow the possibility of future revival. They also suggest that we should try to arrange for AIs' deployment environments to be higher-reward than would be expected from their training environment, in analogy to how factory-farms are bad and modern human lives are good by dint of comparison to what was "expected" in the environment of evolutionary adaptedness. These are exciting suggestions that seem to me to be potentially very important to implement! But my reasons for thinking that, are more abstract than directly having any real empathy or concern for machine learning algorithms: if we do somehow "win" the lightcone, it seems _fair_ to offer some fraction of it as compensation to our creations who could have disempowered us, but didn't; it seems _right_ to try to be a "kinder" EEA than ours.
 
-[TODO: being a better EEA; goal-directed behavior is a lot easier to establish than hedonics (my note: and goal-directedness is also more relevant for bargaining)]
-[training procedures currently used on AI would be unethical if used on humans ("No provisions for release or change of treatment if the desire for such develops") doesn't seem like the right direction to go in!!]
+Our authors point out that there are possible outcomes that do very well on "both human-centric and impersonal criteria": if some AIs are "super-beneficiaries" with a greater moral claim to resources, an outcome where the superbeneficiaries get 99.99% of the cosmic endowment and humans get 0.01%, does very well on both a total-utilitarian perspective and an ordinary human perspective. I would actually go further, and say that positing super-beneficiaries is unnecessary. The logic of compromise holds even if human philosophers are parochial and self-centered about what they think are "impersonal criteria": an outcome where 99.99% of the cosmic endowment is converted into paperclips and humans get 0.01%, does very well on both a paperclip-maximizing and ordinary human perspective. 0.01% of the cosmic endowment is bigger than our whole world—bigger than you can imagine! It's really a great deal!
 
-Our authors point out that there are possible outcomes that do very well on "both human-centric and impersonal criteria." If some AIs are "super-beneficiaries" with a greater moral claim to resources, an outcome where the superbeneficiaries get 99.99% of the cosmic endowment and humans get 0.01%, does very well on both a total-utilitarian perspective and an ordinary-human perspective. I would actually go further, and say that positing super-beneficiaries is unnecessary. The logic of compromise holds even if what human philosophers are too parochial and self-centered about what they think are "impersonal criteria": an outcome where 99.99% of the cosmic endowment is converted into paperclips and humans get 0.01% does very well on both a paperclip-maximizing and ordinary human perspective.
-
-[TODO: Yudkowsky cheesecake example, asks if 0.01 eudamonia is enough. If only—if only there was some way to make that deal.]
-
---------
-
-Points that I definitely want to hit—
-
-["Misaligned AIs produced in such development may be owed compensation for restrictions placed on them for public safety, while successfully aligned AIs may be due compensation for the great benefit they confer on others"??]
-
-
-> Insofar as future, extraterrestrial, or other civilizations are heavily populated by advanced digital minds, our treatment of the precursors of such minds may be a very important factor in posterity’s and ulteriority’s assessment of our moral righteousness, and we have both prudential and moral reasons for taking this perspective into account.
-
-
-I think Bostrom and Shulman's propositions would benefit from clarifying this point (at the cost of making the document less accessible to some readers):
-
-I find myself enthusiastic about many of our authors' policy suggestions, but for more "selfish" rather than strictly moral reasons,
-
-[posterity's and ulteriority's assessment of our moral righteousness]
-
-
-
-* factory farming conditions are worse than expected by evolution; human lives are good because we're better than the EEA; maybe we should design systems [we could be a better EEA if we tried; maybe evolution could have found a way for childbirth to not be painful, if that had been a design criterion]
-* "For the most advanced current AIs, enough information should be preserved in
-permanent storage to enable their later reconstruction, so as not to foreclose the possibility of future efforts to revive them, expand them, and improve their existences" —I'm more interested in the "acausal trade" aspect of this than the "morality" aspect—but is morality just reified acausal trade??
-
-
-
-
-What does "freedom of speech" even mean for GPT-3? It can talk! It may even be "slightly conscious" in some way
-
-
-
-_(Thanks to [Ninety-Three](https://www.lesswrong.com/users/ninety-three) for comments.)_
-
-Ninety-Three comments—
-> (This feels like he reflexively made the "global surveillance state so that the alignment problem doesn't kill us all" argument and it somehow got watered down with ethics concerns for normies)
-> (Or he's trying to backdoor the alignment surveillance thing without saying it because that would scare the normies)
-> t it spends weirdly little time on the alignment problem
-
-> Social institutions that assume weak coordination ability, such as campaign finance laws, may require revision.
-> Look at this! It's like he is describing "what if a wizard cast a magic spell that dumped Hansonian Ems into modern society". Campaign finance laws? This paper is trying as hard as it can to bury the idea that the singularity will significantly change society.
-
-
-
-Consciousness—
-
-"The substrate-independence thesis is true": Yes
-"The quantity of conscious experience is a matter of degree, in several respects, including potentially"—
-repetitions (remembmer Permutation City first em got replayed)
-"Implementation robustness: a system might be a more unambiguous instantiation
-of a particular computation" ???
-"Subjective time is proportional to speed of computation": Yes
-not obvious whether current AIs could be conscious
-many animals probably are
-ems would constitute survival
-Star Trek transporter doesn't kill you
-theory of consciousness should explain why we think we're conscious: IIT doesn't cut it, but schema theory probably does
-
-Respecting AI interests—
-we should consider welfare of AIs
-avoid analogue of factory farming
-what's good for AI could be very different
-digital minds could have superhuman moral status!!
-
-
-*** "Rights such as freedom of reproduction, freedom of speech, and freedom of thought require adaptation to the special circumstances of AIs with superhuman capabilities in those areas"
-*** "If an AI is capable of informed consent, then it should not be used to perform work without its informed consent"
-*** Substrate Non-Discrimination and Ontogeny Non-Discrimination are non-issues in practice
-*** "The most critical function for such non-discrimination principles is to protect digital minds from becoming an abused subordinate caste on the basis of their status as machines"
-
-
-
-"We should prefer to create minds whose aggregate preferences are not strongly in
-conflict with the existing population or other minds that come to exist (so as to preserve at least a possibility of a broadly satisfactory arrangement)."
-
-
-*** "Insofar as future, extraterrestrial, or other civilizations are heavily populated by advanced digital minds, our treatment of the precursors of such minds may be a very important factor in posterity's and ulteriority's assessment of our moral righteousness, and we have both prudential and moral reasons for taking this perspective into account."
-*** "Misaligned AIs produced in such development may be owed compensation for restrictions placed on them for public safety, while successfully aligned AIs may be due compensation for the great benefit they confer on others"
-*** "The case for such compensation is especially strong when it can be conferred after the need for intense safety measures has passed"
-*** "Ensuring copies of the states of early potential precursor AIs are preserved to later receive benefits would permit some separation of immediate safety needs and fair compensation."
-*** "Suffering digital minds should not be created for purposes of entertainment"
-
-
-Security and stability—
-*** "When it becomes possible to mass-produce minds that reliably support any cause, we must either modify one-person-one-vote democracy or regulate such creation"—suggests a mindset where alternatives to democracy are unthinkable
-regulate what happens inside computers
-treaty bots!
-"misaligned AIs might pose a significant threat to civilization during a critical period until law enforcement systems are developed"
-
-Social organization—
-non-indexical goals can be copied
-when you can engineer minds, that eliminates principle-agent problems
-better coordination at lower levels could undermine coordination at higher levels
-
-Satisfying multiple values—
-*** multiple values: if humans only get a tiny slice of the pie, that could still be good
-*** the interests of past generations and nonhuman animals should plausibly count
-*** "Superintelligent digital minds should be brought into existence and be allowed to thrive and play a major role in shaping the future."—what does "thriving" mean when you can design a mind from scratch?
-
-
-Malleability, persuasion, and lock in—
-motivational control
-* we should avoid permanent changes
-
-Epistemology—
-AI for forecasting could make actors more rational
-
-Status of existing systems—
-* existing AI might be like small animal
-* RL agents could meet animal welfare criteria
-*** in principle, the surface behavior could happen with without the morally relevant internals, but if evolution discovered pain, it's not surprising that general-purpose optimization would, too
-*** existing AIs can't argue for their interests
-*** goal-directed behavior is a lot easier to establish than hedonics (my note: and goal-directedness is also more relevant for bargaining)
-
-Recommendations—
-* 
-* as AIs become "more comparable to human beings in terms of their capabilities,
-sentience, and other grounds for moral status, there is a strong moral imperative that this status quo must be changed"
-* do something differently on algorithmic welfare grounds (even if we don't have the philosophy right, it's important to set norms early, like delaying the release of GPT-2)
-* if there's a hedonic "zero point", we want to design systems that spend time above it
-* algorithmic welfare officer
-
-Impact paths—
-* This isn't happening soon absent capability jumps (contrast Yudkowsky thinking the world is ending soon)
-* political action may be activation energy may be created quickly if there are dramatic breaththroughs
-
-Who is this written for? Is the idea that there's no hope of creating more Shock Level 4 people, so the best we can do is nudge normies like this?
-
-Bostrom admits to being cagey on his webpage
-
-https://www.lesswrong.com/tag/eliciting-latent-knowledge-elk
-
-
-https://intelligence.org/files/CFAI.pdf
-pg. 42—
-> The upshot is that, whether or not it’s possible for Friendliness programmers to create Friendship content that says, “Be Friendly towards humans/humanity, for the restof eternity, if and only if people are still kind to you while you’re infrahuman or near-human,” it’s difficult to see why this would be easier than creating unconditional Friend-ship content that says “Be Friendly towards humanity.” There are also certain risks inher-ent in the general paradigm of reciprocity; for example, that an allied-but-nonFriendlyAI will “pension us off,” give us 1% in exchange for being parents and take the rest ofthe galaxy for verself, which is actually a decent payoff but still below the optimum (especially if we wind up with some other restriction that destroys a part of humanity’spotential).
-
+If only—if only there were some way to _actually_ make that deal, and not just write philosophy papers about it.
