@@ -10,13 +10,13 @@
 
 -----
 
-Mostly, I don't expect to disagree with heavily-traded prediction markets. If the market says it's going to rain on Saturday with 85% probability, then I (lacking any special meterology knowledge) basically think it's going to rain on Saturday at 85% probability.
+Mostly, I don't expect to disagree with heavily-traded prediction markets. If the market says it's going to rain on Saturday with 85% probability, then I (lacking any special meteorology knowledge) basically think it's going to rain on Saturday at 85% probability.
 
-Why is this? Why do I defer to the market, instead of tarot cards, or divination sticks, or my friend Maddie the meterology enthusiast?
+Why is this? Why do I defer to the market, instead of tarot cards, or divination sticks, or my friend Maddie the meteorology enthusiast?
 
 Well, I don't expect the tarot cards to tell me anything about whether it will rain on Saturday, because there's no [plausible physical mechanism by which information about the weather could influence the cards](https://www.lesswrong.com/posts/6s3xABaXKPdFwA3FS/what-is-evidence). Shuffling and dealing the cards should work the same in worlds where it will rain and worlds where it won't rain. Even if there is _some_ influence (because whether it will rain affects the moisture and atmospheric pressure in the air, which affects my grip on the cards, which affects my shuffling motion?), it's not something I can detect from which cards are drawn.
 
-I _do_ expect my friend Maddie the meterology enthusiast to tell me something about whether it will rain on Saturday. That's because she's always looking at the latest satellite cloud data and tinkering with her computer models, which is a mechanism by which information about the weather can influence her forecasts. The cloud data will be different in worlds where it will rain and worlds where it won't rain. If Maddie is pretty sharp and knows her stuff, maybe she can tell the difference.
+I _do_ expect my friend Maddie the meteorology enthusiast to tell me something about whether it will rain on Saturday. That's because she's always looking at the latest satellite cloud data and tinkering with her computer models, which is a mechanism by which information about the weather can influence her forecasts. The cloud data will be different in worlds where it will rain and worlds where it won't rain. If Maddie is pretty sharp and knows her stuff, maybe she can tell the difference.
 
 And yet—no offense, Maddie—I expect the market to do even better. It's not just that the market has a lot of other pretty sharp people looking at the cloud data, and that maybe some of them are even sharper than Maddie, even though Maddie is my friend and my friends are the best.
 
