@@ -6,7 +6,7 @@
 
  * However, prediction markets illustrate fundamental reasons why rational discourse doesn't particularly look like "aiming for convergence." When market prices converge on the truth, it's _because_ traders can only make money by looking for divergences where their beliefs are more accurate than the market's. Similarly, when discussions converge on the truth, it's _because_ interlocutors can only advance the discussion by making points where the discussion-so-far has been wrong or incomplete. Convergence, if it happens, happens as a side-effect of ironing out all existing mispricings/disagreements; it seems odd to describe this as "aiming for convergence."
 
-[TODO: summary of the part about "cooperation"]
+[TODO: summary of the part about "cooperation" and "faith"]
 
  * If ["bad faith"](https://en.wikipedia.org/wiki/Bad_faith) means putting on an appearance of being moved by one set of motives, while actually acting from another, then a guideline to "behave as if your interlocutors are also aiming for convergence on truth" would seem to be an instruction to behave in bad faith.
 
@@ -54,13 +54,13 @@ Imagine giving the analogous advice to a prediction market user: "Aim for conver
 
 In _some_ sense, this is kind of unobjectionable: you do want to make trades that bring the market price closer to your subjective probability, and in the process, you should take into account that other traders are also already doing this.
 
-But interpreted another way, the advice is backwards: traders make money by finding _divergences_ where their own beliefs are more accurate than the market's. The markets in which your fellow traders are aiming for convergence on the correct probability are precisely the markets that you shouldn't trade in. Every trade is an expression of the belief that your counterparty is _not_ aiming to converge on the correct probability—that there's a sucker at every table, and that _this time it isn't you_.
+But interpreted another way, the advice is backwards: traders make money by finding _divergences_ where their own beliefs are more accurate than the market's. Every trade is an expression of the belief that your counterparty is _not_ aiming to converge on the correct probability—that there's a sucker at every table, and that _this time it isn't you_.
 
 (This is with respect to the sense of "aiming" in which an archer "aiming" an arrow at a target might not hit it every time, but we say that their "aim" is good insofar as they _systematically_ tend to hit the target, that any misses are best modeled by a random error term that can't be predicted. Similarly, the market might not always be right, but if you can _predict_ when the market is wrong, the traders must not have been "aiming" correctly from your perspective.)
 
 So why is the advice "behave as if your interlocutors are also aiming for convergence on truth", rather than "seek out conversations where you don't think your interlocutors are aiming to converge on truth, because those are exactly the conversations where you have something substantive to say instead of already having converged"?
 
-(For example, the reason I'm writing a blog post contesting Sabien's Fifth Guideline of "Aim for convergence on truth [...]" and not the First Guideline of "Don't say straightforwardly false things", is because I think the Fifth Guideline is importantly wrong, and the First Guideline seems fine.)
+(For example, the reason I'm writing the present blog post contesting Sabien's Fifth Guideline of "Aim for convergence on truth [...]" and not the First Guideline of "Don't say straightforwardly false things", is because I think the Fifth Guideline is importantly wrong, and the First Guideline seems fine.)
 
 Sabien's guidelines are explicitly [disclaimed to be shorthand](https://www.lesswrong.com/posts/XPv4sYrKnPzeJASuk/basics-of-rationalist-discourse-1#Prelude__On_Shorthand) that it [sometimes makes sense to violate](https://www.lesswrong.com/posts/XPv4sYrKnPzeJASuk/basics-of-rationalist-discourse-1#What_does_it_mean_for_something_to_be_a__guideline__); the post helpfully includes another 900 words elaborating on how the Fifth Guideline should be interpreted. Unfortunately, the additional exposition does not seem to clarify matters. Sabien writes:
 
@@ -74,43 +74,33 @@ But the only way to make money on prediction markets is by correcting mispricing
 
 To be sure, most traders shouldn't bet in most markets; you should only bet when you think you see a mispricing. In the same way, most thinkers shouldn't speak in most discussions; you should only speak up when you have something substantive to say. All else being equal, the more heavily-traded the market or the more well-trodden the discussion, the more worried you should be that the mispricing or opportunity to make a point that you thought you saw, was illusory. In any trade, one party has to be on the losing side; in any disagreement, _at least_ one party has to be in the wrong; be wary if not afraid that it might be you!
 
-But given that you're _already_ in the (unusual!) situation of making a trade or prosecuting a disagreement, "aim for convergence on truth" doesn't seem like particularly useful advice, and "behave as if your interlocutors [or counterparties] are also aiming for convergence on truth" borders on the contradictory. If you _really_ believed that, you wouldn't be here!
+But given that you're _already_ in the (unusual!) situation of making a trade or prosecuting a disagreement, "aim for convergence on truth" doesn't seem like particularly useful advice, because the "for convergence" part isn't doing any work.
+
+[TODO: alignment vs. capabilities, as operationalized by counterfactuals; you have to believe you have some kind of edge over your counterparty, but it could be a capabilities edge; https://www.overcomingbias.com/2008/09/disagreement-is.html ]
+
+And "behave as if your interlocutors [or counterparties] are also aiming for convergence on truth" borders on the contradictory: if you _really_ believed that, you wouldn't be here!
 
 -------
 
-Sabien's exposition of the Fifth Guideline expresses grave concern about how to distinguish "genuine bad faith" from "good faith and genuinely trying to cooperate", about the prevalence of "defection strategies" getting in the way of "treat[ing] someone as a collaborative truth-seeker".
+Sabien's exposition on the Fifth Guideline expresses grave concern about how to distinguish "genuine bad faith" from "good faith and genuinely trying to cooperate", about the prevalence of "defection strategies" getting in the way of "treat[ing] someone as a collaborative truth-seeker".
 
-My problem with this is that [_I don't know what any of those words mean_](https://www.lesswrong.com/posts/uvqd3YiBcrPxXzxQM/what-does-the-word-collaborative-mean-in-the-phrase). Or rather, I know how these words in _my_ vocabulary map onto concepts in _my_ ontology, but my understanding doesn't seem consistent with the way Sabien seems to be using the words.
+My problem with this is that [_I don't know what any of those words mean_](https://www.lesswrong.com/posts/uvqd3YiBcrPxXzxQM/what-does-the-word-collaborative-mean-in-the-phrase). Or rather, I know how these words in _my_ vocabulary map onto concepts in _my_ ontology, but those meanings don't seem consistent with the way Sabien seems to be using the words.
 
-In my vocabulary, I understand the word "cooperate" in the proximity of the word "defect" to indicate a Prisoner's Dilemma-like situation, where [each party would be better off Defecting if their counterparty's behavior were held constant](https://www.lesswrong.com/posts/HFyWNBnDNEDsDNLrZ/the-true-prisoner-s-dilemma), but both parties prefer the Cooperate–Cooperate outcome over the Defect–Defect outcome (and also prefer Cooperate–Cooperate over taking turns alternating between Cooperate–Defect and Defect–Cooperate). Sabien's references to "running a tit-for-tat algorithm", "appear[ing] like the _first_ one who broke cooperation", and "would-be cooperators hav[ing] been trained and traumatized into hair-trigger defection" would seem to suggest he has something like this in mind?
+In _my_ vocabulary, I understand the word "cooperate" used _in the proximity of the word "defect" or "defection"_ to indicate a Prisoner's Dilemma-like situation, where [each party would be better off Defecting if their counterparty's behavior were held constant](https://www.lesswrong.com/posts/HFyWNBnDNEDsDNLrZ/the-true-prisoner-s-dilemma), but both parties prefer the Cooperate–Cooperate outcome over the Defect–Defect outcome (and also prefer Cooperate–Cooperate over taking turns alternating between Cooperate–Defect and Defect–Cooperate). Sabien's references to "running a tit-for-tat algorithm", "appear[ing] like the _first_ one who broke cooperation", and "would-be cooperators hav[ing] been trained and traumatized into hair-trigger defection" would seem to suggest he has something like this in mind?
+
+[TODO: alternatively, "cooperate" could be meant in a looser sense of "Ready to work with" someone; address this case in detail here and below]
 
 But, normatively, rationalist discourse shouldn't be a Prisoner's Dilemma-like situation at all. If I'm trying to get things right (make sense of the world, have true insights, acquire the map that reflects the territory), I can just try to get things right _unilaterally_. I _prefer_ to talk to people who I judge as also trying to get things right, if any are available—they probably have more to teach me, and are better at learning from me, than people who are motivatedly getting things wrong.
 
-But the idiom of "cooperation"—in which one cooperates _in order to induce others to cooperate_—doesn't apply. If my interlocutor is motivatedly getting things wrong, I'm not going to start getting things wrong _in order to punish them_.
+But the idiom of "cooperation" as contrasted to "defection", in which one cooperates _in order to induce others to cooperate_, doesn't apply. If my interlocutor is motivatedly getting things wrong, I'm not going to start getting things wrong _in order to punish them_.
 
 (In contrast, if my roommate refused to do the dishes when it was their turn, I might very well refuse when it's my turn in order to punish them, because "fair division of chores" actually does have the Prisoner's Dilemma-like structure, because having to do the dishes is in itself a cost rather than a benefit; I want clean dishes, but I don't _want to do the dishes_ in the way that I want to get things right intellectually.)
 
-A Prisoner's Dilemma framing would make sense if we modeled discourse as social exchange: I accept a belief from you, if you accept a belief from me; I'll use cognitive algorithms that produce a map that reflects the territory as long as you do, too. But _that would be crazy_.
+A Prisoner's Dilemma framing _would_ make sense if we modeled discourse as social exchange: I accept a belief from you, if you accept a belief from me; I'll use cognitive algorithms that produce a map that reflects the territory as long as you do, too. But that would be crazy; if people are natively disposed to think of discourse as a Prisoner's Dilemma in this way, we should be trying to disabuse them of the whole ontology, not convince them to "cooperate".
 
+Relatedly, the way Sabien speaks of "good faith and genuinely trying to cooperate" in the same breath (almost as if they were synonymous?) makes me think I don't understand what he means by "good faith" or "bad faith". In _my_ vocabulary, I understand "bad faith" to mean [putting on the appearance of being moved by one set of motives, while actually acting from another](https://en.wikipedia.org/wiki/Bad_faith).
 
-
-
-
-
-
-
-
-
-
-
-
-In my vocabulary, I understand the phrase "bad faith" to mean [putting on the appearance of being moved by one set of motives, while actually acting from another](https://en.wikipedia.org/wiki/Bad_faith).
-
-But under this definition, the Fifth Guideline seems to be an instruction to act in bad faith: we are told to "behave _as if_ [emphasis mine] your interlocutors are also aiming for convergence on truth",
-
-even if we don't believe it
-
-(and, depending on the exact meaning of "aim", probably _shouldn't_ believe it, given the strange situation of being in a disagreement at all).
+[TODO: But on this understanding, good faith doesn't have anything to do with cooperativeness (in either the Prisoner's Dilemma-like sense, or the willing-to-work with sense); one can be hostile in good faith, or friendly in bad faith]
 
 Sabien gives this example of a request one might make of someone whose comments are insufficiently adhering to the Fifth Guideline:
 
@@ -120,17 +110,18 @@ Suppose someone were to reply:
 
 > "You don't need to apologize for being blunt! Let me be equally blunt. The sense you're getting is accurate: no, I am not treating you as a cooperative partner in this conversation. I think your position is wrong, and I think I know why, and I feel very motivated to explain it to you in public, partially for the education of third parties, and partially to raise my status at the expense of yours."
 
-I consider this a _good faith_ reply. It's certainly not a polite thing to say. But _politeness is bad faith_.
+I consider this a _good faith_ reply. It's certainly not a polite thing to say. But _politeness is bad faith_. (That's why someone might say in response to a compliment, "Do you really mean it, or are you just being polite?")
 
+[TODO: Seventh Guideline disclaimer
 
+In accordance with Sabien's Seventh Guideline ("Be careful with extrapolation, interpretation, and summary/​restatement"), I should emphasize that the preceding paragraphs are extrapolating a fair amount from the text that was written; perhaps Sabien means something different by terms like "defection" or "bad faith"
 
-
-
-In accordance with Sabien's Seventh Guideline ("Be careful with extrapolation, interpretation, and summary/​restatement"), I should emphasize that the preceding paragraphs are extrapolating a fair amount from the text that was written; perhaps Sabien means something different by terms like "defection", such that my reply of "But this isn't a Prisoner's Dilemma" is inapplicable.
+, such that my replies of "But this isn't a Prisoner's Dilemma" are inapplicable.
 
 Thus, my conclusion, again, is not that the "wrong"
 
+]
 
-
+[TODO: move this observation up to discussion of alignment-neutral good faith?]
 
 In slogan form, you could perhaps say that I don't believe in collaborative truth-seeking; I believe in competitive truth-seeking? But I don't like that slogan, because in my ontology, they're not actually different things. "Attacking your argument because it sucks" sounds mean, and "Suggesting improvements to your argument to make it even better" sounds nice, but the nice/mean dimension is _not intellectually substantive_. The math is the same either way.
