@@ -1,8 +1,8 @@
 ## "You'll Never Persuade People Like That"
 
-Sometimes, when someone is arguing for some proposition, their interlocutor will reply that the speaker's choice of arguments or tone won't be effective at persuading some third party.
+Sometimes, when someone is arguing for some proposition, their interlocutor will reply that the speaker's choice of arguments or tone wouldn't be effective at persuading some third party.
 
-This would seem to be an odd change of topic. I was arguing that this-and-such proposition is _actually true_. Whether or not my arguments would persuade some third party who _isn't here_, is a _separate question_.
+This would seem to be an odd change of topic. If I was arguing for this-and-such proposition, and my interlocutor isn't, themselves, convinced by my arguments, it makes sense for them to reply about why they, personally, aren't convinced. Why is it relevant whether I would convince some third party that _isn't here_?
 
 What's going on in this kind of situation? Why would someone think "You'll never persuade people like that" was a relevant reply?
 
@@ -14,29 +14,16 @@ The [bargaining model of war](https://en.wikipedia.org/wiki/Bargaining_model_of_
 
 That's because war is costly. If I estimate that by continuing to wage war, there's a 60% chance my armies will hold a desirable piece of territory, I can achieve my war objectives equally well [in expectation](https://en.wikipedia.org/wiki/Expected_value)—while saving a lot of money and human lives—by instead signing a peace treaty that divides the territory with the enemy 60/40.
 
-If the enemy will agree to that, of course. The enemy has their own forecast probabilities and their own war objectives. There's usually a range of possible treaties that both parties will prefer to fighting, but the parties need to negotiate to select a particular treaty, because there's no uniquely obvious "fair" treaty—similar to how a buyer and seller need to negotiate a price for a rare and expensive item for which there is no uniquely obvious "fair" price.
+If the enemy will agree to that, of course. The enemy has their own forecast probabilities and their own war objectives. There's usually a range of possible treaties that both combatants will prefer to fighting, but the parties need to negotiate to select a particular treaty, because there's typically no uniquely obvious "fair" treaty—similar to how a buyer and seller need to negotiate a price for a rare and expensive item for which there is no uniquely obvious "fair" price.
 
 -----
 
-If [war is bargaining](https://en.wikipedia.org/wiki/Bargaining_model_of_war), and arguments are soldiers, then debate is negotiation.
+If war is bargaining, and arguments are soldiers, then debate is negotiation: the same game-theoretic structure shines through armies fighting over the borders on the world's political map, buyer and seller haggling over contract items, and debaters arguing over the beliefs on Society's shared map. Strong arguments, like a strong batallion, make it less tenable for the adversary to maintain their current position.
 
+Unfortunately, the theory of interdependent decision is ... subtle. Although [recent work points toward the outlines of a more elegant theory](https://arbital.com/p/logical_dt/) with fewer pathologies, the classical understanding of negotiation often recommends "rationally irrational" tactics in which an agent handicaps its own capabilities in order to extract concessions from a counterparty: for example, in the deadly game of chicken, if I visibly throw away my steering wheel, oncoming cars are forced to swerve for me in order to avoid a crash, but if the oncoming drivers have already blindfolded themselves, they wouldn't be able to _see_ me throw away my steering wheel, and I am forced to swerve for them.
 
-Thomas Schelling teaches us that 
+Thomas Schelling teaches us that one such tactic is to _move the locus of the negotiation elsewhere_, onto some third party who has less of an incentive to concede or is less able to be communicated with. If business purchases over $500 have to be approved by my hard-to-reach boss, an impatient seller of an item that ordinarily goes for $600 might be persuaded to give me a discount.
 
+And that's what explains the attractiveness of the appeal-to-persuading-third-parties. What "You'll never persuade people like that" _really_ means is, "You are starting to persuade _me_ against my will, and I'm laundering my cognitive dissonance by asserting that you actually need to persuade someone else." When someone is desperate enough to try to get away with that, you _know_ you've got them cornered. Go for the throat!
 
-Wilhelm—
-> "you are starting to persuade me, or you might be persuade others, and I don't want you to do that because I am in cognitive dissonance or have pre-existing commitments that are counter to your perspective"
-
-> if A is talking to B, and then B starts telling A what he needs to do to be more persuasive to C, this is logical rudeness, unless A accepts the premise that the goal is to persuade C
-
-> what's really going on in the ABC scenario is that B is uncomfortable with A's claims due to cognitive dissonance, but doesn't have an immediate rebuttal to provide, so he launders his discomfort by saying that C would not be persuaded
-
-non-truthseeking conversation as a negotiation
-move the locus of negotiation elsewhere
-
-angelic irony response: persuasion is anti-social
-straightforward response: this post
-
- I'm trying to say what I actually think and feel in clear language! Whether other people are persuaded by this is their business, not mine!
-
-https://www.lesswrong.com/posts/bwkZD6uskCQBJDCeC/self-consciousness-wants-to-make-everything-about-itself#Tone_arguments
+(Unless the belief you're arguing for is false. You checked that beforehand, right??)
