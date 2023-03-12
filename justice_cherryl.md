@@ -6,33 +6,46 @@
 
 ## I.
 
-An unfortunate obstacle to appreciating the work of Ayn Rand (as someone who adores the "sense of life" portrayed in Rand's fiction, without buying her philosophy) is that Rand uses the words "selfishness" and "altruism" in her own idiosyncratic ideological sense, that doesn't really match how most people would use those words.
+An unfortunate obstacle to appreciating the work of Ayn Rand (as someone who adores the "sense of life" portrayed in Rand's fiction, without buying her philosophy) is that when Rand praises selfishness and condemns altruism, she's using the words "selfishness" and "altruism" in her own idiosyncratic ideological sense, that doesn't really match how most people would use those words.
 
 If you look at what the characters _do_ (not just the words they say in philosophical monologues), it's true that Rand's heroes are relatively selfish in the conventional sense, of being primarily concerned with optimizing their own lives and wanting to acquire wealth for themselves.
 
-But Rand's villains are _also_ selfish in the conventional sense.
+But Rand's villains are _also_ selfish in the conventional sense, using social maneuvering and political trickery to acquire power and line their own pockets, while claiming to be acting for the common good.
 
-In _Atlas Shrugged_,
+In _Atlas Shrugged_, 
 
-We _also_ see examples of Rand's heroes being altruistic in the conventional sense, of being motivated to help others.
-
-
-
- * Rand talks about "selfishness" in weird, ideological ways; her heros are selfish in that they want wealth and power, but they're honest about it, they want to get rich _by means of_ doing good work that's actually worth paying for. The villains are selfish ...
- * Example of villains being selfish: Railroard and Steel Unification plans, _Think Twice_ Beckenridge 
- * Example of a hero being altruistic: Ward Harvester Company, Roark being nice to Steven Mallory
-
-Looking at the universe of _Atlas Shrugged_ (again, not at what the characters say), it's not that altruism is bad. It's that altruists _don't exist_. The people claiming to be altruists are _lying_.
+In _Think Twice_, 
 
 
- * It's not that altruism is bad. Altruists don't exist.
- * Looking at revealed preferences, it's not that charity is bad, if the giver actually wants to give; what's evil is force charity, charity-by-right
+[TODO: Taggart/Boyle, Walter Beckenridge]
+
+We _also_ see examples of Rand's heroes being altruistic in the conventional sense, of being motivated to help others. [TODO: Rearden "It's so much for him, and so little for me!"; Dagny saving the tramp]
+
+Overall, when I look at the universe portrayed in Rand's fiction, it seems to me that the implied moral isn't that altruism is bad.
+
+It's that altruists _don't exist_. The people claiming to be altruists are _lying_. The distinguishing feature of our heroes isn't, actually, that they're unusually selfish. (They mostly seem to have the normal range of human emotions, with the additional quirk of making long philosophical speeches about the virtue of selfishness and the superiority of _laissez-faire_ capitalism.) It's that they're _honest_ about being selfish. Given that everyone is mostly selfish and everyone has to eat, the question is: are you going to eat by means of production and trade, or by—other means?
+
+_That's_ the distinction between Rand's heroes and villains. The heroes want to get rich _by means of_ doing good work that's actually worth paying for; fame and wealth acquired by fraud obviously "don't count." [TODO: "You're getting more than I am"]
+
+The ultimate sin in Rand's moral universe (again, looking at revealed preferences and not verbal behavior) isn't _giving_ charity. (Because, within the ideology, helping those others whom _you_ want to help, is "selfish.") What's evil is _demanding_ charity, expecting other people to work for your benefit because _you_ supposedly need them to.
+
+[TODO: link to Hoffman on fetishization in the Gulch]
 
 ## II.
 
-Come back when you can model me
+Something people have noticed about my intellectual style is that I like to win arguments; I like to show off how smart I am by being the one to prove other people wrong.
 
- * they say ITT is better than steelmanning, because ITT is measuring against a real opponent, not your hallucination of similar opinions you agree with—but I would _never_ demand that someone pass my ITT as a prerequisite for listening to their opinion
+This is correctly noted to be a dangerous tendency.
+
+
+
+Collaborative truthseekers _don't exist_. The people claiming to be collaborative truthseekers are _lying_.
+
+
+[ when _someone who is currently trying to persaude me of something_ tells me to exert effort to think of reasons why they're right, that immediately makes me think they're more likely to be wrong: if they had an argument, they would be telling me the argument]
+
+I will _never_ ask my interlocutors to be more "charitable" to me. (If you see me doing this, please link to this post and call me a hypocrite.) I _do_ sometimes say, "That's not what I meant," followed by an attempt to clarify, or "I don't think that's a reasonable interpretation of the text I published" when I don't think a clarification should be necessary—but the latter is a positive claim about how typical readers will interpret the text, which I expect to be able to justify to third parties. It's a claim about my interlocutor's poor reading comprhension, not about their failing any obligations to me, because they don't _have_ any obligations to me.
+
 
 
 ## III.
@@ -41,11 +54,9 @@ My favorite scene
 
 "I married Jim because I ... I thought that he was _you_."
 
-It's worth quoting at length
+It's worth quoting at length:
 
-----
-
-> "You've had a terrible time, haven't you?"
+> "You've had a terrible time, haven't you?" [said Dagny.]
 >
 > "Yes ... but that doesn't matter ... that's my own problem ... and my own fault."
 >
@@ -81,7 +92,7 @@ It's worth quoting at length
 >
 > "But it's true, Cherryl, I _am_, in the sense they mean—only have they ever told you in just what sense they mean it?"
 >
-> "No. They never do. They only sneer at me when I aske them what they mean by anything ... about anything. What did they mean about you?"
+> "No. They never do. They only sneer at me when I ask them what they mean by anything ... about anything. What did they mean about you?"
 >
 > "Whenever anyone accuses some person of being 'unfeeling', he means that that person is just. He means that that person has no causeless emotions and will not grant him a feeling which he does not deserve. He means that 'to feel' is to go against reason, against moral values, against reality. He means ... What's the matter?" she asked, seeing the abnormal intensity of the girl's face.
 >
