@@ -1,8 +1,21 @@
-# The Evolution of Humans Was Net-Negative for AGI Alignment
+# The Evolution of Humans May Have Been Net-Negative for Human Values
 
-_(Epistemic status: tongue in cheek, but also making a serious point)_
+Some observers have argued that the totality of "AI safety" and "alignment" efforts to date have plausibly had a _negative_ rather than positive impact on the ultimate prospects for safe and aligned artificial general intelligence. This perverse outcome is possible because research ["intended"](https://www.lesswrong.com/posts/sXHQ9R5tahiaXEZhR/algorithmic-intent-a-hansonian-generalized-anti-zombie) to help with AI alignment can have a larger impact on AI capabilities: moving existentially-risky systems [closer to us in time](https://rationalaltruist.com/2013/01/06/how-useful-is-progress/) without making [corresponding cumulative progress on the alignment problem](https://www.lesswrong.com/posts/FS6NCWzzP8DHp4aD4/do-earths-with-slower-economic-growth-have-a-better-chance).
 
-Some observers have argued that the totality of "AI safety" and "alignment" efforts to date have had a _negative_ rather than positive impact on the ultimate prospects for safe and aligned artificial general intelligence. This perverse outcome is possible because research ["intended"](https://www.lesswrong.com/posts/sXHQ9R5tahiaXEZhR/algorithmic-intent-a-hansonian-generalized-anti-zombie) to help with AI alignment can have a larger impact on AI capabilities: moving existentially risky systems [closer to us in time](https://rationalaltruist.com/2013/01/06/how-useful-is-progress/) without making [corresponding cumulative progress on the alignment problem](https://www.lesswrong.com/posts/FS6NCWzzP8DHp4aD4/do-earths-with-slower-economic-growth-have-a-better-chance).
+When things are going poorly, one is often inclined to ask "when it all went wrong." In this context, some identify the founding of OpenAI in 2015 as a turning point, given that [no one who had been following the existential risk discourse thought the original vision of OpenAI was a good idea](http://benjaminrosshoffman.com/openai-makes-humanity-less-safe/). But if we're thinking about counterfactual impacts on outcomes, rather than grading the performance of the contemporary existential-risk-reduction movement in particular, it makes sense to posit earlier turning points.
 
- 
-https://www.lesswrong.com/posts/2KNN9WPcyto7QH9pi/this-failing-earth
+Perhaps—_much_ earlier. Foresighted thinkers such as Marvin Minsky (1960), Alan Turing (1951), and George Eliot (1880!!) had pointed to AI takover as something that would happen eventually—is the failure theirs for not starting preparations earlier? Should we go back even earlier, and [blame the ancient Greeks for failing to discover evolution and therefore adopt a eugenics program](https://www.lesswrong.com/posts/2KNN9WPcyto7QH9pi/this-failing-earth) that would have given their descendants higher biological intelligence with which to solve the machine intelligence alignment problem?
+
+Or—even earlier? There's an idea that humans are the stupidest possible creatures that could have built civilization: if it could have happened at a lower level of intelligence, it would have (and higher intelligence would have no time to evolve).
+
+But intelligence isn't the _only_ input into our species's penchant for technology; our hands with [opposable thumbs](https://www.smithsonianmag.com/science-nature/how-dexterous-thumbs-may-have-helped-shape-evolution-two-million-years-ago-180976870/) are well-suited for making and using tools, even though the proto-hands of our ancestors were directly adapted for climbing trees. An equally-intelligent species with a less "lucky" body plan or habitat, similar to crows (lacking hands) or octopuses (living underwater, where, _e.g._, fires cannot start), might not have gotten started down the path of cultural accumulation of technology—even while a _more_ intelligent crow- or octopus-analogue might have done so.
+
+It's [plausible that the values of humans and biological aliens overlap to a much higher degree than those of humans and AIs](https://www.lesswrong.com/posts/HoQ5Rp7Gs6rebusNP/superintelligent-ai-is-necessary-for-an-amazing-future-but-1); we should be "happy for" other biological species that solve their alignment problem, even if their technologically-mature utopia is different from the one we would create.
+
+But that being the case, it follows that we should regard some alien civilizations as more valuable than our own, whenever the difference in values is outweighed by a sufficiently large increase in the probability of solving the alignment problem. If opposable thumbs were more differentially favorable to AI capabilities than AI alignment, we should perhaps regard the evolution of humans as a tragedy: we should prefer to go extinct and be replaced by some other species that needed a higher level of intelligence in order to wield technology.
+
+
+----
+
+TODO: check Minsky date
+appropriate octopus/crow links
