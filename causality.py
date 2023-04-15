@@ -70,25 +70,50 @@ def powerset(s):
         return subproblem | frozenset({t | frozenset({e}) for t in subproblem})
 
 
-def build_graph(distribution, variables):
+class Variable:
+    def __init__(self, identifier):
+        self.identifier = identifier
+        self.parents = []
+
+    def add_parent(self, variable):
+        self.parents.append(variable)
+
+
+class BayesianNetwork:
+    def __init__(self, identifiers):
+        self.variables = {}
+        for identifier in identifiers:
+            self.variables[identifier] = Variable(identifier)
+
+    def render_edges(self):
+        edges = []
+        for variable in self.variables.values():
+            for parent in variable.parents:
+                edges.append("{} → {}".format(parent.identifier, variable.identifier))
+        return edges
+
+
+def build_graph(distribution, identifiers):
     # Algorithm 3.2 in Daphne Koller and the other guy §3.4.1, p. 80
-    edges = []
-    for i in range(len(variables)):
-        predecessors = frozenset(variables[:i])
+    network = BayesianNetwork(identifiers)
+    for i in range(len(identifiers)):
+        predecessors = frozenset(identifiers[:i])
         parents = predecessors
         for prospective_parents in powerset(predecessors):
             if conditionally_independent(
                     distribution,
                     # XXX: conflating the variables with the "True" event
-                    {variables[i]: True},
+                    {identifiers[i]: True},
                     {s: True for s in predecessors - prospective_parents},
                     {s: True for s in prospective_parents}
             ):
                 if len(prospective_parents) < len(parents):
                     parents = prospective_parents
         for parent in parents:
-            edges.append("{} → {}".format(parent, variables[i]))
-    return edges
+            network.variables[identifiers[i]].add_parent(
+                network.variables[parent]
+            )
+    return network
 
 
 if __name__ == "__main__":
@@ -103,11 +128,7 @@ if __name__ == "__main__":
     print(conditionally_independent(worlds, {"rain": True}, {"sprinkler": True}, givens={"wet": True})) # false, conditioning on "wet" collider unblocks
 
     true_graph = build_graph(worlds, ["rain", "sprinkler", "wet", "slippery"])
-    print(true_graph)
-    print(len(true_graph)) # 3
+    print(true_graph.render_edges())
 
     crazy_graph = build_graph(worlds, ["wet", "sprinkler", "slippery", "rain"])
-    print(crazy_graph)
-    print(len(crazy_graph)) # 4
-
-    # XXX: I have a bug; seeing "sprinkler → slippery" edges that shouldn't be there in both test cases
+    print(crazy_graph.render_edges())
