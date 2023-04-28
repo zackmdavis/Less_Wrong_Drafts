@@ -6,54 +6,58 @@
 
 ## I.
 
-An unfortunate obstacle to appreciating the work of Ayn Rand (as someone who adores the "sense of life" portrayed in Rand's fiction, while having a much lower opinion of her philosophy) is that when Rand praises selfishness and condemns altruism, she's using the words "selfishness" and "altruism" in her own idiosyncratic ideological sense, that doesn't really match how most people would use those words.
+An unfortunate obstacle to appreciating the work of Ayn Rand (as someone who adores the ["sense of life"](http://aynrandlexicon.com/lexicon/sense_of_life.html) portrayed in Rand's fiction, while having a much lower opinion of her philosophy) is that when Rand praises selfishness and condemns altruism, she's using the words "selfishness" and "altruism" in her own idiosyncratic ideological sense, that doesn't really match how most people would use those words.
 
-If you look at what the characters _do_ (not just the words they say in philosophical monologues), it's true that Rand's heroes are relatively selfish in the conventional sense, of being primarily concerned with optimizing their own lives and wanting to acquire wealth for themselves.
+It's true that Rand's heroes are relatively selfish in the sense of being primarily concerned with their own life and work, rather than their effects on others.
 
-But Rand's villains are _also_ selfish in the conventional sense, using guile and political maneuvering to acquire power and line their own pockets, while claiming to be acting for the common good. [TODO: Toohey's power-lust, Jim Taggart]
+But if you look at what the characters _do_ (not just the doctrines they profess), Rand's villains are _also_ selfish in the conventional sense, using guile and political maneuvering to acquire power and line their own pockets, while claiming to be acting for the common good. In _Atlas Shrugged_, for example, the various directives ostensibly issued for the economic health of the country, are seen to instead benefit politically-connected crony capitalists like Jim Taggart and Orren Boyle. In [_Think Twice_](https://tvtropes.org/pmwiki/pmwiki.php/Theatre/ThinkTwice), the philanthropist Walter Beckenridge cultivates an public image as an inventor and benefactor of humanity, while actually taking credit for his junior partner's work, and deriving gratification from exerting power over the people he "helps" (for example, adopting a disabled son from a father who couldn't support him, and denying the boy a surgery that would have allowed him to walk).
 
-We _also_ see examples of Rand's heroes being altruistic in the conventional sense, of being motivated to help others. [TODO: Rearden "It's so much for him, and so little for me!"]
+Despite [paying lip service to a pretense of only trading and never giving](http://benjaminrosshoffman.com/on-the-fetishization-of-money-in-galts-gulch/), we _also_ see examples of Rand's heroes being altruistic in the conventional sense, of being motivated to help others.
+
+In _Atlas Shrugged_, Hank Rearden
+
+rearranges 
+
+"It's so much for him, thought Rearden, and so little for me!"
+
+
+
 
 Overall, when I look at the universe portrayed in Rand's fiction, it seems to me that the implied moral isn't that altruism is bad.
 
-It's that altruists _don't exist_. The people claiming to be altruists are _lying_. The distinguishing feature of our heroes isn't, actually, that they're unusually selfish. It's that they're _honest_ about being selfish. Given that everyone is mostly selfish and everyone has to eat, the question is: are you going to eat by means of production and trade, or by—other means?
+It's that altruists _don't exist_. The people claiming to be altruists are _lying_. The distinguishing feature of our heroes isn't, actually, that they're unusually selfish. It's that they're _honest_ about being selfish.
 
-_That's_ the distinction between Rand's heroes and villains. The heroes want to get rich _by means of_ doing good work that's actually worth paying for; fame and wealth acquired by fraud obviously "don't count." [TODO: "You're getting more than I am"]
 
-[TODO: "nor ask another man to live for me"]
+
+Given that everyone is mostly selfish and everyone has to eat, the question is: are you going to eat by means of production and trade, or by—other means?
+
+_That's_ the distinction between Rand's heroes and villains. The heroes want to get rich _by means of_ doing genuinely good work that other people will have a genuine self-interest in paying for. 
+
+
+As Greg Hastings, the district attorney in _Think Twice_, puts it: "[T]he man who admits that he cares for money is all right. He's usually worth the money he makes. He won't kill for it. He doesn't have to. But watch out for the man who yells too loudly how much he scorns money. Watch out particularly for the one who yells that others must scorn it. He's after something much worse than money."
+
+In particular, fame and wealth acquired by fraud obviously "don't count."
+
+
+> "You'll get everything society can give a man. You'll keep all the money. You'll take any fame or honor anyone might want to grant. You'll accept such gratitude as the tenants might feel. And I—I'll take what nobody can give a man, except himself. I will have built Cortlandt."
+>
+> "You're getting more than I am, Howard."
+
+
+
+
+"I swear by my life and my love of it that I will never live for the sake of another man, nor ask another man to live for mine."
+
 
 The ultimate sin in Rand's moral universe isn't _giving_ charity. (Because, within the ideology, helping those others whom _you_ want to help, is selfish.) What's evil is _demanding_ charity, expecting other people to work for your benefit because _you_ supposedly need them to.
 
-[TODO: link to Hoffman on fetishization in the Gulch]
-
 ## II.
-
-Something people have noticed about my intellectual style is that I like to win arguments; I like to show off how smart I am by being the one to prove other people wrong.
-
-
-
-
-Collaborative truthseekers _don't exist_. The people claiming to be collaborative truthseekers are _lying_.
-
-[once you're talking about charity _to a person_, you're _already_ doing social-monkey stuff instead of Bayes; maybe an AI wouldn't have an ego, but if you're not an AI, better to bind your ego to good conduct (taking pride in good work, rather than taking pride in being a good swindler) than pretending not to have an ego]
-
-[try to update on the other person's arguments _for the same reason_ you would update on the results of an experiment; it doesn't make sense to be "charitable" to an experimental apparatus]
-
-["you're not willing to tone it down even when it would be more effective at persuading people" vs. "my work done my way"]
-
-[people are afraid that pride will make me try to "win" arguments by tricking the audience]
-
-[ when _someone who is currently trying to persaude me of something_ tells me to exert effort to think of reasons why they're right, that immediately makes me think they're more likely to be wrong: if they had an argument, they would be telling me the argument]
-
-[sometimes I do want people to understand a _specific_ truth, for selfish reasons of my own, because that specific truth is relevant to me; I'm willing to do the work to fight to get it on the shared map; I don't expect charity]
-
-I will _never_ ask my interlocutors to be more "charitable" to me. (If you see me doing this, please link to this post and call me a hypocrite.) I _do_ sometimes say, "That's not what I meant," followed by an attempt to clarify, or "I don't think that's a reasonable interpretation of the text I published" when I don't think a clarification should be necessary—but the latter is a positive claim about how typical readers will interpret the text, which I expect to be able to justify to third parties. It's a claim about my interlocutor's poor reading comprhension, not about their failing any obligations to me, because they don't _have_ any obligations to me.
 
 
 
 ## III.
 
-My favorite scene in _Atlas Sh
+My favorite scene in _Atlas Shrugged_ 
 
 "I married Jim because I ... I thought that he was _you_."
 

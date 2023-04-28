@@ -1,3 +1,5 @@
+import itertools
+
 from collections import namedtuple
 from fractions import Fraction
 
@@ -71,19 +73,37 @@ def powerset(s):
 
 
 class Variable:
-    def __init__(self, identifier):
+    def __init__(self, network, identifier):
+        self.network = network
         self.identifier = identifier
         self.parents = []
 
     def add_parent(self, variable):
         self.parents.append(variable)
 
+    def build_conditional_distribution(self):
+        parent_identifiers = [p.identifier for p in self.parents]
+        n = len(parent_identifiers)
+        worlds = []
+        for keys, values in zip(
+                itertools.repeat(parent_identifiers, 2**n),
+                itertools.product([True, False], repeat=n)
+        ):
+            world = dict(zip(keys, values))
+            worlds.append((world, query(self.network.distribution, world)))
+            # TODO FINISH!!!—unlike joint dist'n being a association of worlds
+            # and probabilities, type of CPD is parents associated with
+            # probabilities for each possibility for this node
+        return worlds
+
 
 class BayesianNetwork:
-    def __init__(self, identifiers):
+    def __init__(self, distribution):
+        self.distribution = distribution
+        identifiers = distribution[0][0].keys()
         self.variables = {}
         for identifier in identifiers:
-            self.variables[identifier] = Variable(identifier)
+            self.variables[identifier] = Variable(self, identifier)
 
     def render_edges(self):
         edges = []
@@ -93,24 +113,24 @@ class BayesianNetwork:
         return edges
 
 
-def build_graph(distribution, identifiers):
+def build_graph(distribution, variable_ordering):
     # Algorithm 3.2 in Daphne Koller and the other guy §3.4.1, p. 80
-    network = BayesianNetwork(identifiers)
-    for i in range(len(identifiers)):
-        predecessors = frozenset(identifiers[:i])
+    network = BayesianNetwork(distribution)
+    for i in range(len(variable_ordering)):
+        predecessors = frozenset(variable_ordering[:i])
         parents = predecessors
         for prospective_parents in powerset(predecessors):
             if conditionally_independent(
                     distribution,
                     # XXX: conflating the variables with the "True" event
-                    {identifiers[i]: True},
+                    {variable_ordering[i]: True},
                     {s: True for s in predecessors - prospective_parents},
                     {s: True for s in prospective_parents}
             ):
                 if len(prospective_parents) < len(parents):
                     parents = prospective_parents
         for parent in parents:
-            network.variables[identifiers[i]].add_parent(
+            network.variables[variable_ordering[i]].add_parent(
                 network.variables[parent]
             )
     return network
