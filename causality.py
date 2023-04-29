@@ -35,13 +35,19 @@ def joint_distribution():
                     )
     return worlds
 
-def query(distribution, conditions):
+def query(distribution, events):
     total_probability = 0
     for world, probability in distribution:
-        if all(world[k] == v for k, v in conditions.items()):
+        if all(world[k] == v for k, v in events.items()):
             total_probability += probability
     return total_probability
 
+def conditional_query(distribution, events, conditions):
+    # P(A|C) = P(A & C) / P(C)
+    return (
+        query(distribution, merge(events, conditions)) /
+        query(distribution, conditions)
+    )
 
 def merge(d1, *more):
     out = d1.copy()
@@ -90,16 +96,26 @@ class Variable:
                 itertools.product([True, False], repeat=n)
         ):
             world = dict(zip(keys, values))
-            worlds.append((world, query(self.network.distribution, world)))
-            # TODO FINISH!!!—unlike joint dist'n being a association of worlds
-            # and probabilities, type of CPD is parents associated with
-            # probabilities for each possibility for this node
+            worlds.append(
+                (
+                    world,
+                    [
+                        conditional_query(
+                            self.network.distribution,
+                            {self.identifier: v},
+                            world
+                        )
+                        for v in [True, False]
+                    ]
+                )
+            )
         return worlds
 
 
 class BayesianNetwork:
-    def __init__(self, distribution):
+    def __init__(self, distribution, variable_ordering):
         self.distribution = distribution
+        self.variable_ordering = variable_ordering
         identifiers = distribution[0][0].keys()
         self.variables = {}
         for identifier in identifiers:
@@ -112,10 +128,12 @@ class BayesianNetwork:
                 edges.append("{} → {}".format(parent.identifier, variable.identifier))
         return edges
 
+    ...
+
 
 def build_graph(distribution, variable_ordering):
     # Algorithm 3.2 in Daphne Koller and the other guy §3.4.1, p. 80
-    network = BayesianNetwork(distribution)
+    network = BayesianNetwork(distribution, variable_ordering)
     for i in range(len(variable_ordering)):
         predecessors = frozenset(variable_ordering[:i])
         parents = predecessors
@@ -152,3 +170,13 @@ if __name__ == "__main__":
 
     crazy_graph = build_graph(worlds, ["wet", "sprinkler", "slippery", "rain"])
     print(crazy_graph.render_edges())
+
+    # 'wet' is a collider in the true graph; two parents
+    true_wet_cpd = true_graph.variables['wet'].build_conditional_distribution()
+    print(true_wet_cpd, len(true_wet_cpd))
+
+    # 'wet' is the root in the crazy graph; this should be unconditional
+    crazy_wet_cpd = crazy_graph.variables['wet'].build_conditional_distribution()
+    print(crazy_wet_cpd, len(crazy_wet_cpd))
+
+    print(query(worlds, {"wet": True}))
