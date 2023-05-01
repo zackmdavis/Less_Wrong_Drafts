@@ -146,6 +146,10 @@ class Variable:
         self.conditional_distribution = worlds
         return worlds
 
+    def intervene(self, value):
+        self.parents = []
+        self.conditional_distribution = [({}, [1, 0] if value else [0, 1])]
+
 
 class BayesianNetwork:
     def __init__(self, distribution, variable_ordering):
@@ -172,6 +176,7 @@ class BayesianNetwork:
                 self.variables[identifier].conditional_distribution
             )
         worlds = sorted(worlds, key=lambda e: (e[1], sorted(e[0].items())))
+        self.distribution = worlds
         return worlds
 
 
@@ -210,10 +215,10 @@ if __name__ == "__main__":
     print(conditionally_independent(worlds, {"rain": True}, {"sprinkler": True}, givens={})) # true, blocked by "wet" collider
     print(conditionally_independent(worlds, {"rain": True}, {"sprinkler": True}, givens={"wet": True})) # false, conditioning on "wet" collider unblocks
 
-    true_graph = build_graph(worlds, ["rain", "sprinkler", "wet", "slippery"])
+    true_graph = build_graph(worlds.copy(), ["rain", "sprinkler", "wet", "slippery"])
     print(true_graph.render_edges())
 
-    crazy_graph = build_graph(worlds, ["wet", "sprinkler", "slippery", "rain"])
+    crazy_graph = build_graph(worlds.copy(), ["wet", "sprinkler", "slippery", "rain"])
     print(crazy_graph.render_edges())
 
     # 'wet' is a collider in the true graph; two parents
@@ -231,3 +236,30 @@ if __name__ == "__main__":
 
     print("recompiled from faithful graph = original ", recompiled_true == worlds)
     print("recompiled from crazy graph = original ", recompiled_crazy == worlds)
+
+    # in the true graph, intervening on wet doesn't change the probability
+    # of rain
+    print("original P(rain)", query(worlds, {'rain': True}))
+    true_graph.variables['wet'].intervene(True)
+    true_graph.recompile_distribution()
+    print("P(rain | do(wet))", query(true_graph.distribution, {'rain': True}))
+
+    # in the crazy graph, intervening on 'wet' does change the probability of 'rain'
+    print("original (but 'crazy') P(rain)", query(worlds, {'rain': True}))
+    crazy_graph.variables['wet'].intervene(True)
+    crazy_graph.recompile_distribution()
+    print("'crazy' P(rain | do(wet))", query(crazy_graph.distribution, {'rain': True}))  # 319/448—it changed!
+
+    print("\n\n")
+
+    # in the crazy graph, intervening on 'sprinkler' also changes the
+    # probability of 'rain', but doesn't change the probability of 'wet'
+    crazy_graph = build_graph(worlds.copy(), ["wet", "sprinkler", "slippery", "rain"])
+    print("original (but 'crazy') P(rain)", query(worlds, {'rain': True}))
+    print("original (but 'crazy') P(wet)", query(worlds, {'wet': True}))
+
+    crazy_graph.variables['sprinkler'].intervene(True)
+    crazy_graph.recompile_distribution()
+
+    print("'crazy' P(rain | do(sprinkler))", query(crazy_graph.distribution, {'rain': True}))
+    print("'crazy' P(wet | do(sprinkler))", query(crazy_graph.distribution, {'wet': True}))
