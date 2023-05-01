@@ -3,7 +3,7 @@ import itertools
 from collections import namedtuple
 from fractions import Fraction
 
-def joint_distribution():
+def our_joint_distribution():
     worlds = []
     for rain in [True, False]:
         for sprinkler in [True, False]:
@@ -33,7 +33,17 @@ def joint_distribution():
                             rain_p * sprinkler_p * wet_p * slippery_p
                         )
                     )
+    worlds = sorted(worlds, key=lambda e: (e[1], sorted(e[0].items())))
     return worlds
+
+def merge(d1, *more):
+    out = d1.copy()
+    for di in more:
+        out.update(di)
+    return out
+
+def is_subworld(superworld, candidate_subworld):
+    return set(candidate_subworld.items()) <= set(superworld.items())
 
 def query(distribution, events):
     total_probability = 0
@@ -49,11 +59,35 @@ def conditional_query(distribution, events, conditions):
         query(distribution, conditions)
     )
 
-def merge(d1, *more):
-    out = d1.copy()
-    for di in more:
-        out.update(di)
-    return out
+def joint_distribution_build_step(old_joint, new_identifier, conditional_distribution):
+    # joint distribution format is a list of (world-state-dict, probability)
+    # tuples, summing to 1
+    #
+    # conditional distribution format is a list of (parent-states-dict,
+    # list-of-probabilities-for-this-state) tuples, where each of the
+    # list-of-probabilities-for-this-state sum to 1
+    #
+    # A → C induces P(A, B, C) = P(A, B)P(C | A)
+    #
+    # The `P(C | A)` factor will be used more than once (for multiple values of
+    # B), but that's fine
+    worlds = []
+    identifiers = list(old_joint[0][0].keys()) + [new_identifier]
+    n = len(identifiers)
+    for old_world, p in old_joint:
+        conditional_table_rows = [
+            (w, ps) for w, ps in conditional_distribution
+            if is_subworld(old_world, w)
+        ]
+        assert len(conditional_table_rows) == 1, "actually got {} rows: {}".format(len(conditional_table_rows), conditional_table_rows)
+
+        conditional_table_row, = conditional_table_rows
+        parent_subworld, new_value_distribution = conditional_table_row
+        for new_value, l in zip([True, False], new_value_distribution):
+            worlds.append(
+                (merge(old_world, {new_identifier: new_value}), p * l)
+            )
+    return worlds
 
 def conditionally_independent(distribution, u, v, givens):
     # P(U & V | G) = P(U | G) * P(V | G)
@@ -109,6 +143,7 @@ class Variable:
                     ]
                 )
             )
+        self.conditional_distribution = worlds
         return worlds
 
 
@@ -128,7 +163,16 @@ class BayesianNetwork:
                 edges.append("{} → {}".format(parent.identifier, variable.identifier))
         return edges
 
-    ...
+    def recompile_distribution(self):
+        worlds = [({}, 1)]
+        for identifier in self.variable_ordering:
+            worlds = joint_distribution_build_step(
+                worlds,
+                identifier,
+                self.variables[identifier].conditional_distribution
+            )
+        worlds = sorted(worlds, key=lambda e: (e[1], sorted(e[0].items())))
+        return worlds
 
 
 def build_graph(distribution, variable_ordering):
@@ -151,12 +195,13 @@ def build_graph(distribution, variable_ordering):
             network.variables[variable_ordering[i]].add_parent(
                 network.variables[parent]
             )
+    for _, v in network.variables.items():
+        v.build_conditional_distribution()
     return network
 
 
 if __name__ == "__main__":
-    worlds = joint_distribution()
-    worlds = sorted(worlds, key=lambda w: w[1])
+    worlds = our_joint_distribution()
     print(sum(world[1] for world in worlds))
     for world in worlds:
         print(world, float(world[1]))
@@ -172,11 +217,17 @@ if __name__ == "__main__":
     print(crazy_graph.render_edges())
 
     # 'wet' is a collider in the true graph; two parents
-    true_wet_cpd = true_graph.variables['wet'].build_conditional_distribution()
+    true_wet_cpd = true_graph.variables['wet'].conditional_distribution
     print(true_wet_cpd, len(true_wet_cpd))
 
     # 'wet' is the root in the crazy graph; this should be unconditional
-    crazy_wet_cpd = crazy_graph.variables['wet'].build_conditional_distribution()
+    crazy_wet_cpd = crazy_graph.variables['wet'].conditional_distribution
     print(crazy_wet_cpd, len(crazy_wet_cpd))
 
     print(query(worlds, {"wet": True}))
+
+    recompiled_true = true_graph.recompile_distribution()
+    recompiled_crazy = crazy_graph.recompile_distribution()
+
+    print("recompiled from faithful graph = original ", recompiled_true == worlds)
+    print("recompiled from crazy graph = original ", recompiled_crazy == worlds)
