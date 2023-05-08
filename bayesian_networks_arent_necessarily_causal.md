@@ -1,8 +1,8 @@
 ## Bayesian Networks Aren't Necessarily Causal
 
-As a casual formal epistemology fan, you've probably [heard that the philosophical notion of causality can be formalized in terms of Bayesian networks](https://www.lesswrong.com/posts/hzuSDMx7pd2uxFc5w/causal-diagrams-and-causal-models)—but also as a casual formal epistemology fan, you also probably don't know the details all that well.
+As a casual formal epistemology fan, you've probably [heard that the philosophical notion of causality can be formalized in terms of Bayesian networks](https://www.lesswrong.com/posts/hzuSDMx7pd2uxFc5w/causal-diagrams-and-causal-models), which involve directed graphs where the arrows point from "cause" to "effect"—but also as a casual formal epistemology fan, [you also probably don't](https://www.lesswrong.com/posts/tp4rEtQqRshPavZsr/learn-bayes-nets) know the details all that well.
 
-One day, while going through the family archives, you come across a meticulously maintained dataset describing a joint probability distribution over four variables: whether it rained that day, whether the sprinkler was on, whether the sidewalk was wet, and whether the sidewalk was slippery. The distribution is specified in this table:
+One day, while going through the family archives, you come across a meticulously maintained dataset describing a joint probability distribution over four variables: whether it rained that day, whether the sprinkler was on, whether the sidewalk was wet, and whether the sidewalk was slippery. The distribution is specified in this table (using the abbreviated labels "rain", "slippery", "sprinkler", and "wet"):
 
 [TODO: joint distribution table]
 
@@ -14,11 +14,11 @@ You've read that Bayesian networks "factorize" an unwieldly joint probability di
 
 You've _read_ that, but you've never actually done it before! You decide that constructing a Bayesian network to represent this distribution will be a useful excercise.
 
-To start, you re-label the variables for brevity:
+To start, you re-label the variables for brevity. (On a whim, you assign indices in reverse-alphabetical order: $X_1$ = wet, $X_2$ = sprinkler, $X_3$ = slippery, $X_4$ = rain.)
 
 [TODO: joint distribution table, with x₁=wet, x₂=sprinkler, x₃=slippery, x₄=rain]
 
-Now, how do you go about building a Bayesian network? Consulting algorithm 3.2 in §3.4.1 of [the book by Daphne Koller and the other guy](https://mitpress.mit.edu/9780262013192/probabilistic-graphical-models/), it seems like you should be able to just—pick a variable, allocate a graph node to represent it, find the smallest subset of the previously-allocated nodes such that the variable represented by the new node is conditionally independent of the other previously-allocated variables given that subset, and then draw directed edges from each of the nodes in the subset to the new node?—and keep doing that for each variable—and then compute conditional probability tables for each variable given its parents in the resulting graph?
+Now, how do you go about building a Bayesian network? Consulting algorithm 3.2 in §3.4.1 of [the book by Daphne Koller and the other guy](https://mitpress.mit.edu/9780262013192/probabilistic-graphical-models/), it seems like you should be able to just—pick a variable, allocate a graph node to represent it, find the smallest subset of the previously-allocated variables such that the variable represented by the new node is conditionally independent of the other previously-allocated variables given that subset, and then draw directed edges from each of the nodes in the subset to the new node?—and keep doing that for each variable—and then compute conditional probability tables for each variable given its parents in the resulting graph?
 
 That seems complicated when you say it abstractly, but you have faith that it will make more sense as you carry out the computations.
 
@@ -30,7 +30,7 @@ Then you allocate a node for $X_2$. $X_2$ is not independent of $X_1$. (Because 
 
 [TODO: crazy graph in progress, with X₁ and X₂, including CPDs]
 
-Next is $X_3$. Now that you have two possible parents, you need to check whether conditioning on either of $X_1$ and $X_2$ would render $X_3$ conditionally independent of the other. If not, then both $X_1$ and $X_2$ will be parents of $X_3$; if so, then the variable you conditioned on will be the sole parent. (You assume that the case were $X_3$ is just independent from both $X_1$ and $X_2$ does not pertain; if that were true, $X_3$ wouldn't be connected to the rest of the graph at all.)
+Next is $X_3$. Now that you have two possible parents, you need to check whether conditioning on either of $X_1$ and $X_2$ would render $X_3$ conditionally independent of the other. If not, then both $X_1$ and $X_2$ will be parents of $X_3$; if so, then the variable you conditioned on will be the sole parent. (You assume that the case where $X_3$ is just independent from both $X_1$ and $X_2$ does not pertain; if that were true, $X_3$ wouldn't be connected to the rest of the graph at all.)
 
 It turns out that $X_3$ and $X_2$ are conditionally independent given $X_1$. That is, $P(X_3 \land X_2 \mid X_1) = P(X_3 \mid X_1) \cdot P(X_2 \mid X_1)$. (Because the left-hand side is $\frac{P(X_3 \land X_2 \land X_1)}{P(X_1)} = \frac{507}{1792}$, and the right-hand side is $\frac{3}{4} \cdot \frac{169}{448} = \frac{507}{1792}$.) So $X_1$ is a parent of $X_3$, and $X_2$ isn't; you draw an arrow from $X_1$ (and only $X_1$) to $X_3$, and compile the corresponding conditional probability table.
 
@@ -62,4 +62,5 @@ If you had carried out your procedure in the order $X_4$, $X_2$, $X_1$, $X_3$ (u
 
 —for which giving the arrows a causal interpretation seems much more reasonable.
 
-You now have additional questions. If both the "true" network (with the commonsensical arrows running from cause to effect) and your "crazy" network (with "wet" at the root, apparently causing everything) both represent the same probability distribution, what happened to the dream of understanding causality with Bayesian networks? In this example, you know from reasons _outside_ the math, that "wet" shouldn't cause "rain", but you can't count on that were you to apply these methods to problems further removed from intuition. In what sense is the "true" network _better_, if the crazy network will give you all the same probabilities?
+You now have additional questions. If both the "true" network (with the arrows running from commonsensical cause to effect) and your "crazy" network (with "wet" at the root, apparently causing everything) both represent the same probability distribution, what happened to the dream of understanding causality with Bayesian networks? In this example, you know from reasons _outside_ the math, that "wet" shouldn't cause "rain", but you couldn't count on that were you to apply these methods to problems further removed from intuition. The "true" network and the "crazy" network give the same answers to marginal and conditional probability queries—which amounts to them making the _same predictions_ about the world. So if [beliefs are supposed to correspond to predictions](https://www.lesswrong.com/posts/a7n8GdKiAZRX86T5A/making-beliefs-pay-rent-in-anticipated-experiences), in what sense could the "true" network be _better_? What does your conviction that rain causes wetness even _mean_, if someone who believed the opposite could make all the same predictions?
+
