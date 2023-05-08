@@ -205,8 +205,40 @@ def build_graph(distribution, variable_ordering):
     return network
 
 
+def latex_for_joint_distribution(distribution, math_labels=False):
+    def render_world(world):
+        if math_labels:
+            return ',\\: '.join("{}=\mathrm{{{}}}".format(key, value) for key, value in sorted(world.items()))
+        else:
+            return ',\\: '.join("\mathrm{{{}}}=\mathrm{{{}}}".format(key, value) for key, value in sorted(world.items()))
+
+    def render_probability_fraction(p):
+        return "\\frac{{{}}}{{{}}}".format(p.numerator, p.denominator)
+
+    parts = ["\\begin{matrix}"] + [
+        "{} & {} \cr".format(render_world(world), render_probability_fraction(p))
+        for world, p in distribution
+    ]  + ["\end{matrix}"]
+
+    return ' '.join(parts)
+
+
+def substitute_labels(distribution, substitutions):
+    return [({substitutions[k]: v for k, v in world.items()}, p) for world, p in distribution]
+
+
 if __name__ == "__main__":
     worlds = our_joint_distribution()
+
+    print(latex_for_joint_distribution(worlds))
+
+    obfuscated_worlds = substitute_labels(
+        worlds,
+        {'wet': "X_1", 'sprinkler': "X_2", 'slippery': "X_3", 'rain': "X_4"}
+    )
+
+    print(latex_for_joint_distribution(obfuscated_worlds, math_labels=True))
+
     print(sum(world[1] for world in worlds))
     for world in worlds:
         print(world, float(world[1]))
