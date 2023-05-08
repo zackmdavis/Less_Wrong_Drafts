@@ -263,3 +263,8 @@ if __name__ == "__main__":
 
     print("'crazy' P(rain | do(sprinkler))", query(crazy_graph.distribution, {'rain': True}))
     print("'crazy' P(wet | do(sprinkler))", query(crazy_graph.distribution, {'wet': True}))
+
+
+# TODO—
+#  • write a quick unittest test to make bullet-sure that crazy and true graphs give the same result for non-interventional queries
+#  • write methods to generate GraphViz graphs and HTML tables to assist in presenting this work
