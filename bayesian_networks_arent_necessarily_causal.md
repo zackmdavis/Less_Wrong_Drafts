@@ -24,27 +24,27 @@ That seems complicated when you say it abstractly, but you have faith that it wi
 
 First, you allocate a graph node for $X_1$. It doesn't have any parents, so the associated conditional ("conditional") probability distribution, is really just the marginal distribution for $X_1$.
 
-[TODO: crazy graph in progress, with just X₁, including CPD]
+![](rain_wet_network-secret_crazy-1.png)
 
 Then you allocate a node for $X_2$. $X_2$ is not independent of $X_1$. (Because $P(X_1 \land X_2)$ = 169/1400, which isn't the same as $P(X_1) \cdot P(X_2)$ = 8/25 · 1/7 = 8/175.) So you make $X_1$ a parent of $X_2$, and your conditional probability table for $X_2$ separately specifies the probabilities of $X_2$ being true or false, depending on whether $X_1$ is true or false.
 
-[TODO: crazy graph in progress, with X₁ and X₂, including CPDs]
+![](rain_wet_network-secret_crazy-2.png)
 
 Next is $X_3$. Now that you have two possible parents, you need to check whether conditioning on either of $X_1$ and $X_2$ would render $X_3$ conditionally independent of the other. If not, then both $X_1$ and $X_2$ will be parents of $X_3$; if so, then the variable you conditioned on will be the sole parent. (You assume that the case where $X_3$ is just independent from both $X_1$ and $X_2$ does not pertain; if that were true, $X_3$ wouldn't be connected to the rest of the graph at all.)
 
 It turns out that $X_3$ and $X_2$ are conditionally independent given $X_1$. That is, $P(X_3 \land X_2 \mid X_1) = P(X_3 \mid X_1) \cdot P(X_2 \mid X_1)$. (Because the left-hand side is $\frac{P(X_3 \land X_2 \land X_1)}{P(X_1)} = \frac{507}{1792}$, and the right-hand side is $\frac{3}{4} \cdot \frac{169}{448} = \frac{507}{1792}$.) So $X_1$ is a parent of $X_3$, and $X_2$ isn't; you draw an arrow from $X_1$ (and only $X_1$) to $X_3$, and compile the corresponding conditional probability table.
 
-[TODO: crazy graph in progress, with X₁ and X₂ and X₃, including CPDs]
+![](rain_wet_network-secret_crazy-3.png)
 
 Finally, you have $X_4$. The chore of finding the parents is starting to feel more intuitive now. Out of the $2^3 = 8$ possible subsets of the preceding variables, you need to find the smallest subset, such that conditioning on that subset renders $X_4$ (conditionally) independent of the variables not in that subset. After some calculations that the authors of expository blog posts have sometimes been known to callously leave as an exercise to the reader, you determine that $X_1$ and $X_2$ are the parents of $X_4$.
 
 And with one more conditional probability table, your Bayesian network is complete!
 
-[TODO: completed crazy graph]
+![](rain_wet_network-secret_crazy-4.png)
 
 Eager to interpret the meaning of this structure regarding the philosophy of causality, you translate the $X_i$ variable labels back to English:
 
-[TODO: completed crazy graph with English labels]
+![](rain_wet_network-crazy.png)
 
 ...
 
@@ -58,7 +58,7 @@ Actually, nothing! The procedure you used for factorizing a joint distribution i
 
 If you had carried out your procedure in the order $X_4$, $X_2$, $X_1$, $X_3$ (using the $X_i$ labels), you would have gotten this network (with the English labels):
 
-[TODO: completed true graph with English labels]
+![](rain_wet_network-true.png)
 
 —for which giving the arrows a causal interpretation seems much more reasonable.
 

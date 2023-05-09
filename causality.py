@@ -1,4 +1,5 @@
 import itertools
+import re
 
 from collections import namedtuple
 from fractions import Fraction
@@ -146,6 +147,29 @@ class Variable:
         self.conditional_distribution = worlds
         return worlds
 
+    def render_conditional_distribution_html_table(self):
+
+        # thanks to GPT-4 for writing this helper faster than I could :/ :(
+        def convert_subscript(string):
+            def replace(match):
+                return "{}<sub>{}</sub>".format(match.group(1), match.group(2))
+            return re.sub(r"(\w)_(\d+)", replace, string)
+
+        header_values = ["{} =".format(convert_subscript(self.identifier)), "True", "False"]
+        header = '<tr>' + ''.join("<th>{}</th>".format(v) for v in header_values) + '</tr>'
+        rows = []
+        for world, ps in self.conditional_distribution:
+            world_label = ', '.join("{}={}".format(convert_subscript(key), value) for key, value in sorted(world.items()))
+            row = '<tr>' + '<th>{}</th>'.format(world_label) + ''.join("<td>{}</td>".format(p) for p in ps) + '</tr>'
+            rows.append(row)
+
+        return """
+        <table>
+        {}
+        {}
+        </table>
+        """.format(header, '\n'.join(rows))
+
     def intervene(self, value):
         self.parents = []
         self.conditional_distribution = [({}, [1, 0] if value else [0, 1])]
@@ -166,6 +190,14 @@ class BayesianNetwork:
             for parent in variable.parents:
                 edges.append("{} → {}".format(parent.identifier, variable.identifier))
         return edges
+
+    def render_graphviz(self):
+        edges = []
+        for variable in self.variables.values():
+            for parent in variable.parents:
+                edges.append("{} -> {}".format(parent.identifier, variable.identifier))
+        return "digraph G {{ {} }}".format('; '.join(edge for edge in edges))
+
 
     def recompile_distribution(self):
         worlds = [({}, 1)]
