@@ -237,7 +237,7 @@ def build_graph(distribution, variable_ordering):
     return network
 
 
-def latex_for_joint_distribution(distribution, math_labels=False):
+def latex_for_joint_distribution(distribution, math_labels=False, decimal_approximations=False):
     def render_world(world):
         if math_labels:
             return ',\\: '.join("{}=\mathrm{{{}}}".format(key, value) for key, value in sorted(world.items()))
@@ -245,7 +245,10 @@ def latex_for_joint_distribution(distribution, math_labels=False):
             return ',\\: '.join("\mathrm{{{}}}=\mathrm{{{}}}".format(key, value) for key, value in sorted(world.items()))
 
     def render_probability_fraction(p):
-        return "\\frac{{{}}}{{{}}}".format(p.numerator, p.denominator)
+        result = "\\frac{{{}}}{{{}}}".format(p.numerator, p.denominator)
+        if decimal_approximations:
+            result += " \\approx {:.4f}".format(float(p))
+        return result
 
     parts = ["\\begin{matrix}"] + [
         "{} & {} \cr".format(render_world(world), render_probability_fraction(p))
@@ -331,4 +334,3 @@ if __name__ == "__main__":
 
 # TODO—
 #  • write a quick unittest test to make bullet-sure that crazy and true graphs give the same result for non-interventional queries
-#  • write methods to generate GraphViz graphs and HTML tables to assist in presenting this work
