@@ -1,67 +1,59 @@
-### "Justice, Cherryl."
+# "Justice, Cherryl."
 
 > Selfishness and altruism are positively correlated within individuals, for the obvious reason.
 >
-> —[@InstanceOfClass](https://twitter.com/InstanceOfClass/status/355050621147152386)
+> —[\@InstanceOfClass](https://twitter.com/InstanceOfClass/status/355050621147152386)
 
 ## I.
 
-An unfortunate obstacle to appreciating the work of Ayn Rand (as someone who adores the ["sense of life"](http://aynrandlexicon.com/lexicon/sense_of_life.html) portrayed in Rand's fiction, while having a much lower opinion of her philosophy) is that when Rand praises selfishness and condemns altruism, she's using the words "selfishness" and "altruism" in her own idiosyncratic ideological sense, that doesn't really match how most people would use those words.
+An unfortunate obstacle to appreciating the work of Ayn Rand (as someone who adores the ["sense of life"](http://aynrandlexicon.com/lexicon/sense_of_life.html) portrayed in Rand's fiction, while having a much lower opinion of her philosophy) is that when Rand praises selfishness and condemns altruism, she's using the words "selfishness" and "altruism" in her own idiosyncratic ideological sense, that doesn't match how most people would use those words.
 
-It's true that Rand's heroes are relatively selfish in the sense of being primarily concerned with their own life and work, rather than their effects on others.
+It's true that Rand's heroes are relatively selfish in the sense of being primarily concerned with their own lives, rather than their effects on others. But if you look at what the characters _do_ (rather than the words they say), Rand's villains are _also_ selfish in the conventional sense, using guile and political maneuvering to acquire power and line their own pockets, while claiming to be acting for the common good. For example, in _Atlas Shrugged_, the various directives ostensibly issued for the economic health of the country, are seen to instead benefit politically-connected crony capitalists like Jim Taggart and Orren Boyle. In [_Think Twice_](https://tvtropes.org/pmwiki/pmwiki.php/Theatre/ThinkTwice), the philanthropist Walter Beckenridge cultivates an public image as an inventor and benefactor of humanity, while actually taking credit for his junior partner's work, and deriving gratification from exerting power and control over the people he helps.
 
-But if you look at what the characters _do_ (not just the doctrines they profess), Rand's villains are _also_ selfish in the conventional sense, using guile and political maneuvering to acquire power and line their own pockets, while claiming to be acting for the common good. In _Atlas Shrugged_, for example, the various directives ostensibly issued for the economic health of the country, are seen to instead benefit politically-connected crony capitalists like Jim Taggart and Orren Boyle. In [_Think Twice_](https://tvtropes.org/pmwiki/pmwiki.php/Theatre/ThinkTwice), the philanthropist Walter Beckenridge cultivates an public image as an inventor and benefactor of humanity, while actually taking credit for his junior partner's work, and deriving gratification from exerting power over the people he "helps" (for example, adopting a disabled son from a father who couldn't support him, and denying the boy a surgery that would have allowed him to walk).
-
-Despite [paying lip service to a pretense of only trading and never giving](http://benjaminrosshoffman.com/on-the-fetishization-of-money-in-galts-gulch/), we _also_ see examples of Rand's heroes being altruistic in the conventional sense, of being motivated to help others.
-
-In _Atlas Shrugged_, Hank Rearden
-
-rearranges 
-
-"It's so much for him, thought Rearden, and so little for me!"
-
-
-
+Despite [paying lip service to a pretense of only trading and never giving](http://benjaminrosshoffman.com/on-the-fetishization-of-money-in-galts-gulch/), we _also_ see examples of Rand's heroes being altruistic in the conventional sense, of being motivated to help others. For example, in _Atlas Shrugged_, Hank Rearden rearranges his production schedule (at a critical time when he could scarcely afford to do so) in order to be able to sell steel to a Mr. Ward, who needs the steel to save his factory. Rearden is moved: "It's so much for him, thought Rearden, and so little for me!" Giving What We Can couldn't have chosen a better slogan.
 
 Overall, when I look at the universe portrayed in Rand's fiction, it seems to me that the implied moral isn't that altruism is bad.
 
-It's that altruists _don't exist_. The people claiming to be altruists are _lying_. The distinguishing feature of our heroes isn't, actually, that they're unusually selfish. It's that they're _honest_ about being selfish.
+It's that altruists _don't exist_. The people claiming to be altruists are _lying_. The distinguishing feature of our heroes isn't, actually, that they're unusually selfish. It's that they're _honest_ about being mostly selfish, and that they want to persue their interests within a framework of rights that respects that other people are also trying to persue _their_ interests. "I swear by my life and my love of it that I will never live for the sake of another man, _nor ask another man to live for mine_," goes the motto of the striking heroes of _Atlas Shrugged_ (emphasis mine); the second clause is important. Given that everyone is mostly selfish and everyone has to eat, the question is: are you going to eat by means of production and trade, or by—other means?
 
-
-
-Given that everyone is mostly selfish and everyone has to eat, the question is: are you going to eat by means of production and trade, or by—other means?
-
-_That's_ the distinction between Rand's heroes and villains. The heroes want to get rich _by means of_ doing genuinely good work that other people will have a genuine self-interest in paying for. 
-
+_That's_ the distinction between Rand's heroes and villains. The heroes want to get rich _by means of_ doing genuinely good work that other people will have a genuine self-interest in paying for. The villains want to wield power by means of psychological manipulation, guilting and blackmailing the people who _can_ do good work into serving their own parasites and destroyers.
 
 As Greg Hastings, the district attorney in _Think Twice_, puts it: "[T]he man who admits that he cares for money is all right. He's usually worth the money he makes. He won't kill for it. He doesn't have to. But watch out for the man who yells too loudly how much he scorns money. Watch out particularly for the one who yells that others must scorn it. He's after something much worse than money."
 
-In particular, fame and wealth acquired by fraud obviously "don't count."
+In particular, fame and wealth acquired by fraud obviously "don't count." In _The Fountainhead_, Peter Keating's outwardly successful architecture career has been a sham: he social-engineered his way into partnership in his firm, and all of his best work was plagiarized from the hero, Howard Roark. The turning point for Keating's character is when he asks Roark to let him plagiarize Roark's work one last time, for the Cortlandt housing project, which Roark would never be allowed to work on for political reasons—and realizes that fraudulent "success" in the eyes of others is no success at all:
 
-
-> "You'll get everything society can give a man. You'll keep all the money. You'll take any fame or honor anyone might want to grant. You'll accept such gratitude as the tenants might feel. And I—I'll take what nobody can give a man, except himself. I will have built Cortlandt."
+> "You'll get everything society can give a man. You'll keep all the money. You'll take any fame or honor anyone might want to grant. You'll accept such gratitude as the tenants might feel. And I—I'll take what nobody can give a man, except himself. I will have built Cortlandt." [said Roark.]
 >
 > "You're getting more than I am, Howard."
 
-
-
-
-"I swear by my life and my love of it that I will never live for the sake of another man, nor ask another man to live for mine."
-
-
-The ultimate sin in Rand's moral universe isn't _giving_ charity. (Because, within the ideology, helping those others whom _you_ want to help, is selfish.) What's evil is _demanding_ charity, expecting other people to work for your benefit because _you_ supposedly need them to.
+In summary, the ultimate sin in Rand's moral universe isn't _giving_ charity. (Because, within the ideology, helping those others whom _you_ want to help, is selfish.) What's evil is _demanding_ charity, claiming the _unearned_, expecting other people to work for your benefit because _you_ supposedly need them to.
 
 ## II.
 
+Something people have occasionally noticed about my commenting style is that I like to win arguments.
 
+[TODO—
+ * People have noticed that I like to win arguments; that I like to be the one to prove others wrong; they say I should be more of a collaborative truth-seeker; that I should be more charitable to others' viewpoints; that I'm not willing to tone it down even when it would be more effective at persuading people
+ * They're correct to point out that there's a danger in wanting to be right, if it were to motivate someone to try to "win" arguments with sophistry by scoring points in front of an undiscriminating audience. Given that collaborative truth-seeking wouldn't have this failure mode, why am I so skeptical of collaborative truth-seeking?
+ * It's that collaborative truth-seeking _doesn't exist_. The people claiming to be collaborative truth-seekers are _lying_. Given that everyone wants to be right, the question is: are you going to try to be right by means of providing valid evidence and reasoning, or by—other means?
+ * once you're talking about charity _to a person_, you're _already_ doing social-monkey stuff instead of Bayes; maybe an AI wouldn't have an ego, but if you're not an AI, better to bind your ego to good conduct (taking pride in good work, rather than taking pride in being a good swindler) than pretending not to have an ego
+ * try to update on the other person's arguments _for the same reason_ you would update on the results of an experiment; it doesn't make sense to be "charitable" to an experimental apparatus; it's selfish, about working to understand the people who _you_ think have something valuable to say
+  * when _someone who is currently trying to persaude me of something_ tells me to exert effort to think of reasons why they're right, that immediately makes me think they're more likely to be wrong: if they had an argument, they would be telling me the argument
+ * The commenter who admits he cares for status is all right. He's usually worth the status he earns. He won't lie for it. He won't have to. 
+ * In particular, "winning" in front of an undiscriminating audience doesn't count; maybe I could fool them, but _I'd_ know it wasn't real
+ * sometimes I do want people to understand a _specific_ truth, for selfish reasons of my own, because that specific truth is relevant to me; I'm willing to do the work to fight to get it on the shared map
+ * when someone asks me questions about my work, I don't regard it as an attack, because I expect to be able to answer them—and if I can't, that's _my_ problem
+ * I will never ask my interlocutors to be more charitable to me.
+ * I will say "That's not what I meant", or "That's not a reasonable interpretation of the text I published"—but that's a claim about what _I_ mean, or a claim about the text; it's not that they _owe_ me anything; I would not expect people to listen to me because _I_ supposedly need them to 
+]
 
 ## III.
 
-My favorite scene in _Atlas Shrugged_ 
+My favorite scene in _Atlas Shrugged_ is the one where Cherryl Taggart (neé Brooks) goes to see Dagny Taggart after discovering the truth about her marriage. Cherryl had married Dagny's brother James thinking that he was the intrepid industrialist responsible for the success of the Taggart Transcontinental railroad, only to later find out that James is a phony political actor who took credit for Dagny's accomplishments after the fact, even after having opposed Dagny's initatives and made her work more difficult.
 
-"I married Jim because I ... I thought that he was _you_."
+("I married Jim because I ... I thought that he was _you_," Cherryl tells Dagny. There is some very beautiful slash fanfiction that needs to be written picking up from that line, which is out of scope for this blog post.)
 
-It's worth quoting at length:
+Cherryl intends only to briefly apologize to Dagny for earlier insulting remarks, and not to make any further imposition—and is surprised when Dagny not only forgives her, but seems to take a genuine interest in her welfare. It's worth quoting at length:
 
 > "You've had a terrible time, haven't you?" [said Dagny.]
 >
