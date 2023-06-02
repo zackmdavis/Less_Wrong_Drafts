@@ -14,13 +14,13 @@ Despite [paying lip service to a pretense of only trading and never giving](http
 
 Overall, when I look at the universe portrayed in Rand's fiction, it seems to me that the implied moral isn't that altruism is bad.
 
-It's that altruists _don't exist_. The people claiming to be altruists are _lying_. The distinguishing feature of our heroes isn't, actually, that they're unusually selfish. It's that they're _honest_ about being mostly selfish, and that they want to persue their interests within a framework of rights that respects that other people are also trying to persue _their_ interests. "I swear by my life and my love of it that I will never live for the sake of another man, _nor ask another man to live for mine_," goes the motto of the striking heroes of _Atlas Shrugged_ (emphasis mine); the second clause is important. Given that everyone is mostly selfish and everyone has to eat, the question is: are you going to eat by means of production and trade, or by—other means?
+It's that altruists _don't exist_. The people claiming to be altruists are _lying_. The distinguishing feature of our heroes isn't, actually, that they're unusually selfish. It's that they're _honest_ about being mostly selfish, and that they want to pursue their interests within a framework of rights that respects that other people are also trying to pursue _their_ interests. "I swear by my life and my love of it that I will never live for the sake of another man, _nor ask another man to live for mine_," goes the motto of the striking heroes of _Atlas Shrugged_ (emphasis mine); the second clause is important. Given that everyone is mostly selfish and everyone has to eat, the question is: are you going to eat by means of production and trade, or by—other means?
 
 _That's_ the distinction between Rand's heroes and villains. The heroes want to get rich _by means of_ doing genuinely good work that other people will have a genuine self-interest in paying for. The villains want to wield power by means of psychological manipulation, guilt-tripping and blackmailing the people who _can_ do good work into serving their own parasites and destroyers.
 
 As Greg Hastings, the district attorney in _Think Twice_, puts it: "[T]he man who admits that he cares for money is all right. He's usually worth the money he makes. He won't kill for it. He doesn't have to. But watch out for the man who yells too loudly how much he scorns money. Watch out particularly for the one who yells that others must scorn it. He's after something much worse than money."
 
-In particular, fame and wealth acquired by fraud obviously "don't count." In _The Fountainhead_, Peter Keating's outwardly successful architecture career has been a sham: he social-engineered his way into partnership in his firm, and all of his best work was plagiarized from the hero, Howard Roark. The turning point for Keating's character is when he asks Roark to let him plagiarize his work one last time, for the Cortlandt housing project, which Roark would never be allowed to work on for political reasons—and realizes that fraudulent "success" in the eyes of others is no success at all:
+In particular, wealth and fame acquired by fraud obviously "don't count." In _The Fountainhead_, Peter Keating's outwardly successful architecture career has been a sham: he social-engineered his way into partnership in his firm, and all of his best work was plagiarized from the hero, Howard Roark. The turning point for Keating's character is when he asks Roark to let him plagiarize his work one last time, for the Cortlandt housing project, which Roark would never be allowed to work on for political reasons. Keating finally realizes that fraudulent "success" in the eyes of others is no success at all:
 
 > "You'll get everything society can give a man. You'll keep all the money. You'll take any fame or honor anyone might want to grant. You'll accept such gratitude as the tenants might feel. And I—I'll take what nobody can give a man, except himself. I will have built Cortlandt." [said Roark.]
 >
@@ -30,20 +30,39 @@ In summary, the ultimate sin in Rand's moral universe isn't _giving_ charity. (B
 
 ## II.
 
-Something people have occasionally noticed about my intellectual style is that I like to win arguments; I take pride and pleasure in pointing out flaws in other people's work in the anticipation that the audience will appreciate how clever I am for being the one to find the hole in the argument.
+Something people have occasionally noticed about my intellectual style is that I like to win arguments; I take pride and pleasure in pointing out flaws in other people's work in the anticipation of the audience appreciating how clever I am for pointing out the hole in the argument.
 
-The people pointing out this fact about me generally seem to think it's a bad thing. They tell me that I should be more _charitable_ to the viewpoints of others, that I ought to be doing _collaborative_ truth-seeking.
+The people pointing out this fact about me generally seem to think it's a bad thing. They tell me that I should be more charitable to the viewpoints of others, that I ought to be doing _collaborative_ truth-seeking.
 
-It's true, of course, that there's a terrible danger in wanting to win arguments.
+It's true, of course, that there's a terrible danger in wanting to win arguments. [Once your conclusion has been determined, coming up with more arguments for it can't make you more correct](https://www.lesswrong.com/posts/34XxbRFe54FycoCDw/the-bottom-line), even if it can help you "win" a debate. Learning something entails changing your mind, which people are often reluctant to do because it amounts to "losing" the argument.
+
+A useful heuristic for overcoming this bias against being willing to "lose" arguments is to take heed of a ["principle of charity"](https://en.wikipedia.org/wiki/Principle_of_charity), that the person you're arguing against is trying to do what _they_ think is right. If you end up disagreeing with them, it shouldn't be because they're just stupid and evil; your theory about why the other person is getting t he wrong answer shouldn't make them look _that_ bad. If it does, that's a sign that you haven't really understood their point of view, and therefore can't claim to have justly refuted it.
+
+From the standpoint of normative epistemology, however, the "principle of charity" is not a principle, and the idea of "charity" itself is irrelevant or incoherent. Normatively, theories are prefered to [the quantitative extent that they are simple and predict the observed data](https://www.lesswrong.com/posts/mB95aqTSJLNR9YyjH/message-length). There is no concept of a theory "belonging to" someone, or favoring someone's interests.
+
+For contingent evolutionary-psychological reasons, humans are innately biased to prefer "their own" ideas, and in that context, a "principle of charity" can be useful as a corrective heuristic—but the corrective heuristic only works by colliding the non-normative bias with a fairness instinct, effectively playing the bias against itself: you wouldn't like it if someone dismissed "your" ideas without understanding why they appeal to you, goes the thought, so you should extend the same consideration to others.
+
+Normatively, of course, this is nonsense. You should update on an interlocutor's arguments _for the same reason_ that a scientist working alone would update on the results of an experiment: because (and to the extent that) the result conveys information about reality. We would not speak of being _charitable_ to an experimental apparatus. The scientist is not doing their lab equipment a _favor_.
+
+Because the principle of charity is merely a corrective heuristic, it really only makes sense to apply in one direction—as a corrective for _one's own_ thoughts.
+
+I tell myself to make a special effort to look for reasons why I might be wrong and my interlocutor is right, _because_
 
 
 [TODO—
- * They're correct to point out that there's a danger in wanting to be right, if it were to motivate someone to try to "win" arguments with sophistry by scoring points in front of an undiscriminating audience. Given that collaborative truth-seeking wouldn't have this failure mode, why am I so skeptical of collaborative truth-seeking?
- * It's that collaborative truth-seeking _doesn't exist_. The people claiming to be collaborative truth-seekers are _lying_. Given that everyone wants to be right, the question is: are you going to try to be right by means of providing valid evidence and reasoning, or by—other means?
- * once you're talking about charity _to a person_, you're _already_ doing social-monkey stuff instead of Bayes; maybe an AI wouldn't have an ego, but if you're not an AI, better to bind your ego to good conduct (taking pride in good work, rather than taking pride in being a good swindler) than pretending not to have an ego
- * try to update on the other person's arguments _for the same reason_ you would update on the results of an experiment; it doesn't make sense to be "charitable" to an experimental apparatus; it's selfish, about working to understand the people who _you_ think have something valuable to say
   * when _someone who is currently trying to persaude me of something_ tells me to exert effort to think of reasons why they're right, that immediately makes me think they're more likely to be wrong: if they had an argument, they would be telling me the argument
- * Or to put it another way: the commenter who admits they care for status is all right. They're usually worth the status they earn. They won't lie for it. They don't have to. But watch out for the commenter who yells too loudly how much they scorn status. Watch out particularly for the one who yells that others must scorn it. They're after something much worse than status.
+   * It's not that collaborative truth-seeking is bad
+
+https://www.lesswrong.com/posts/jrLkMFd88b4FRMwC6/don-t-double-crux-with-suicide-rock
+https://www.lesswrong.com/posts/uvqd3YiBcrPxXzxQM/what-does-the-word-collaborative-mean-in-the-phrase
+
+]
+
+It's that collaborative truth-seeking _doesn't exist_. The people claiming to be collaborative truth-seekers are _lying_. Given that everyone wants to be right, the question is: are you going to try to be right by means of providing valid evidence and reasoning, or by—other means?
+
+Or to put it another way: the commenter who admits they care for status is all right. They're usually worth the status they earn. They won't lie for it. They don't have to. But watch out for the commenter who yells too loudly how much they scorn status. Watch out particularly for the one who yells that others must scorn it. They're after something much worse than status.
+
+[TODO—
  * In particular, "winning" in front of an undiscriminating audience doesn't count; maybe I could fool them, but _I'd_ know it wasn't real
  * sometimes I do want people to understand a _specific_ truth, for selfish reasons of my own, because that specific truth is relevant to me; I'm willing to do the work to fight to get it on the shared map
  * when someone asks me questions about my work, I don't regard it as an attack, because I expect to be able to answer them—and if I can't, that's _my_ problem

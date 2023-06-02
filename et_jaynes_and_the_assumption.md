@@ -6,18 +6,18 @@ These paragraphs from E. T. Jaynes's _Probability Theory: The Logic of Science_ 
 >
 > Loss functions operate in just the opposite way. People with similar loss functions are after the same thing, and are in contention with each other. People with different loss functions get along well because each is willing to give something the other wants. Amicable trade or business transactions, advantageous to all, are possible only between parties with very different loss functions. We illustrated this by the example of insurance above.
 
-(Jaynes writes in terms of [loss functions](https://en.wikipedia.org/wiki/Loss_function) for which lower values are better, where we more often speak of [utility functions](https://en.wikipedia.org/wiki/Utility#Utility_function) for which higher values are better, but the choice of convention doesn't matter—as long as you're _extremely_ sure which one you're using.)
+(Jaynes writes in terms of [loss functions](https://en.wikipedia.org/wiki/Loss_function) for which lower values are better, whereas we more often speak of [utility functions](https://en.wikipedia.org/wiki/Utility#Utility_function) for which higher values are better, but the choice of convention doesn't matter—as long as you're _extremely_ sure which one you're using.)
 
 The passage is fascinating because the conclusion looks so _self-evidently_ wrong from our perspective. Agents with the same goals are in contention with each other? Agents with different goals get along? _What!?_
 
-The disagreement stems from a clash of implicit assumptions. Our prototypical agent is the superintelligent paperclip maximizer, with a utility function about the universe—specifically, the number of paperclips in it—not about itself. It doesn't care _who_ makes the paperclips. It [doesn't even need to trade with anyone](https://www.lesswrong.com/posts/6KzFwcDy7hsCkzJKY/the-point-of-trade).
+The disagreement stems from a clash of implicit assumptions. Our prototypical agent is the superintelligent paperclip maximizer, with a utility function about the universe—specifically, the number of paperclips in it—not about itself. It doesn't care _who_ makes the paperclips. It [probably doesn't even need to trade with anyone](https://www.lesswrong.com/posts/6KzFwcDy7hsCkzJKY/the-point-of-trade).
+
+In contrast, although _Probability Theory_ makes use of the rhetorical device of programming a robot to reason, this passage seems to suggest that Jaynes hadn't thought much about 
 
 
 
-In contrast, 
 
-[TODO—
-  * Although _Probability Theory_ in places makes use of the rhetorical device of programming a robot to reason, this passage seems to suggest that Jaynes hadn't thought much about agents-in-general, and is thinking about humans. (The passage didn't _say_ "agents"—but humans don't have loss functions.)
+in places makes use of the rhetorical device of programming a robot to reason, this passage seems to suggest that Jaynes hadn't thought much about agents-in-general, and is thinking about humans. (The passage didn't _say_ "agents"—but humans don't have loss functions.)
 ]
 
 

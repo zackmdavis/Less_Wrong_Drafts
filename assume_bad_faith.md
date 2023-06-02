@@ -1,7 +1,12 @@
-# Assume Bad Faith
+## Assume Bad Faith
 
-* I tend to avoid the phrase "good faith" or "bad faith", partially because I'm suspicious that most people who have picked up the phrase by osmosis don't actually know what it means, and partially because the thing that it does mean, doesn't carve reality at the joints
- * A lot of people get very touchy about "bad faith" accusations: they think you should assume good faith, and that if you think someone is in bad faith, then you shouldn't even be talking with them, you need to exile them
+I've been trying to avoid the terms "good faith" and "bad faith". I'm suspicious that most people who have picked up the phrase "bad faith" from hearing it used, don't actually know what it means—and maybe, that the thing it does mean doesn't [carve reality at the joints](https://www.lesswrong.com/posts/esRZaPXSHgWzyB2NL/where-to-draw-the-boundaries).
+
+People get very touchy about "bad faith" accusations: they think that you should assume good faith, but that if you've determined someone is in bad faith, you shouldn't even be talking to them, that you need to exile them.
+
+What does "bad faith" _mean_, though?
+
+
  * Bad faith doesn't mean "with ill intent"; it means the apparent motives aren't the real motives
  * The problem: hidden motives are ubiquitous in human life!! A world without them would be incredibly alien. X isn't about Y.
  * And so, "Be very reluctant to accuse people of bad faith, and cut off contact with them if you think they are" isn't practicable, becasuse I don't trust _anyone_ in that way, not even myself.

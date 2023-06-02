@@ -32,7 +32,7 @@ The woman's cell phone rings. She explains that it's her mother, probably callin
 
 "Hello?" she answers the phone—still at the table, with our protagonist hearing every word. "Yes, I'm with him right now. ... No, not very attractive. ... No, doesn't make much money. It's alright, though, seems nice, kind of funny. ... A bit fat. ... Has a funny little—snub nose, kind of like a frog in the—facial ... No, I won't be sleeping with him tonight. ... No, probably not even a kiss. ... Okay, you too, 'bye."
 
-The scene is [funny because](https://en.wikipedia.org/wiki/Cringe_comedy) of how it violates the expected social conventions of our own world. In our world, politeness demands that you not say negative-valence things about someone in front of them, because people don't like hearing negative-valence things about themselves. Someone in our world who behaved like the woman in this scene—calling someone unattractive and poor and fat right in front of them—could only be acting out of deliberate cruelty.
+The scene is [funny because](https://en.wikipedia.org/wiki/Cringe_comedy) of how it violates the expected social conventions of our own world. In our world, politeness demands that you not say negative-valence things about someone in front of them, because people don't like hearing negative-valence things about themselves. Someone in our world who behaved like the woman in this scene—calling someone ugly and poor and fat right in front of them—could only be acting out of deliberate cruelty.
 
 But the people in the movie _aren't like us_. Having taken the call, why _should_ she speak any differently just because the man she was talking about could hear? Why would he object? To a decision-theoretic agent, the [value of information](https://en.wikipedia.org/wiki/Value_of_information) is always nonnegative. Given that his date thought he was unattractive, how could it be worse for him to know rather than not-know?
 
@@ -42,7 +42,7 @@ The world of _The Invention of Lying_ is simpler, clearer, easier to navigate th
 
 ------
 
-In ["Los Alamos From Below"](https://calteches.library.caltech.edu/34/3/FeynmanLosAlamos.htm), physicist Richard Feynman's account of his work on the [Manhattan Project](https://en.wikipedia.org/wiki/Manhattan_Project) to build the first atomic bomb, Feynman recalls being sought out by a superior specifically for his lack of social graces:
+In ["Los Alamos From Below"](https://calteches.library.caltech.edu/34/3/FeynmanLosAlamos.htm), physicist Richard Feynman's account of his work on the [Manhattan Project](https://en.wikipedia.org/wiki/Manhattan_Project) to build the first atomic bomb, Feynman recalls being sought out by a much more senior physicist specifically for his lack of social graces:
 
 > I also met Niels Bohr. His name was Nicholas Baker in those days, and he came to Los Alamos with Jim Baker, his son, whose name is really Aage Bohr. They came come Denmark, and they were _very_ famous physicists, as you know. Even to the big shot guys, Bohr was a great god.
 >
