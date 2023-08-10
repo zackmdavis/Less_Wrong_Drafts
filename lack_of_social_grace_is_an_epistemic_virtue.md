@@ -42,9 +42,9 @@ The world of _The Invention of Lying_ is simpler, clearer, easier to navigate th
 
 ------
 
-In ["Los Alamos From Below"](https://calteches.library.caltech.edu/34/3/FeynmanLosAlamos.htm), physicist Richard Feynman's account of his work on the [Manhattan Project](https://en.wikipedia.org/wiki/Manhattan_Project) to build the first atomic bomb, Feynman recalls being sought out by a much more senior physicist specifically for his lack of social graces:
+In ["Los Alamos From Below"](https://archive.is/3DKrJ), physicist Richard Feynman's account of his work on the [Manhattan Project](https://en.wikipedia.org/wiki/Manhattan_Project) to build the first atomic bomb, Feynman recalls being sought out by a much more senior physicist specifically for his lack of social graces:
 
-> I also met Niels Bohr. His name was Nicholas Baker in those days, and he came to Los Alamos with Jim Baker, his son, whose name is really Aage Bohr. They came come Denmark, and they were _very_ famous physicists, as you know. Even to the big shot guys, Bohr was a great god.
+> I also met Niels Bohr. His name was Nicholas Baker in those days, and he came to Los Alamos with Jim Baker, his son, whose name is really Aage Bohr. They came from Denmark, and they were _very_ famous physicists, as you know. Even to the big shot guys, Bohr was a great god.
 >
 > We were at a meeting once, the first time he came, and everybody wanted to _see_ the great Bohr. So there were a lot of people there, and we were discussing the problems of the bomb. I was back in a corner somewhere. He came and went, and all I could see of him was from between people's heads.
 >
