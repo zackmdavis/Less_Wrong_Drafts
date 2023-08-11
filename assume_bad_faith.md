@@ -2,16 +2,28 @@
 
 I've been trying to avoid the terms "good faith" and "bad faith". I'm suspicious that most people who have picked up the phrase "bad faith" from hearing it used, don't actually know what it means—and maybe, that the thing it does mean doesn't [carve reality at the joints](https://www.lesswrong.com/posts/esRZaPXSHgWzyB2NL/where-to-draw-the-boundaries).
 
-People get very touchy about "bad faith" accusations: they think that you should assume good faith, but that if you've determined someone is in bad faith, you shouldn't even be talking to them, that you need to exile them.
+People get very touchy about bad faith accusations: they think that you should assume good faith, but that if you've determined someone is in bad faith, you shouldn't even be talking to them, that you need to exile them.
 
-What does "bad faith" _mean_, though?
+What does "bad faith" _mean_, though? It doesn't mean "with ill intent." [Following _Wikipedia_](https://en.wikipedia.org/wiki/Bad_faith), bad faith is "a sustained form of deception which consists of entertaining or pretending to entertain one set of feelings while acting as if influenced by another." The great encyclopedia goes on to provide examples: the solider who waves a flag of surrender but then fires when the enemy comes out of their trenches, the attorney who prosecutes a case she knows to be false, the representative of a company facing a labor dispute who comes to the negotiating table with no intent of compromising.
+
+That is, bad faith is when someone's apparent reasons for doing something aren't the same as the real reasons. This is distinct from malign intent. The uniformed solider who shoots you without pretending to surrender is acting in good faith, because what you see is what you get: the man whose clothes indicate that his job is to try to kill you is, in fact, trying to kill you.
+
+The policy of assuming good faith (and mercilessly punishing rare cases of bad faith when detected) would make sense if you lived in an honest world where what you see generally is what you get (and you wanted to keep it that way), a world where the possibility of hidden motives in everyday life wasn't a significant consideration.
+
+On the contrary, however, I think hidden motives in everyday life are ubiquitous. As evolved creatures, we're designed to believe as it benefitted our ancestors to believe. As social animals in particular, the most beneficial belief isn't always the true one, because tricking your conspecifics into adopting a map that implies that they should benefit you is sometimes more valuable than possessing the map that reflects the territory, and the most persuasive lie is the one you believe yourself. [A world where people were straightforwardly trying to inform each other would look incredibly alien to us.](https://www.lesswrong.com/posts/h2Hk2c2Gp5sY4abQh/lack-of-social-grace-is-an-epistemic-virtue)
+
+But if that's the case (and you shouldn't take my word for it), being too touchy about bad faith accusations seems maladaptive. If it's normal for people's stated reasons to not be the same as the real reasons, it shouldn't be beyond the pale to think that of some particular person, nor should it necessarily entail cutting the "bad faith actor" out of public life—if only because, applied consistently, there would be no one left. Why would you trust anyone so highly as to think they never have a hidden agenda? Why would you trust yourself?
+
+The conviction that bad faith is unusual contributes to a warped view of the world
 
 
- * Bad faith doesn't mean "with ill intent"; it means the apparent motives aren't the real motives
- * The problem: hidden motives are ubiquitous in human life!! A world without them would be incredibly alien. X isn't about Y.
- * And so, "Be very reluctant to accuse people of bad faith, and cut off contact with them if you think they are" isn't practicable, becasuse I don't trust _anyone_ in that way, not even myself.
- * In particular, people seem to believe that persistent "good faith" disagreements are a thing: that we can both be honest seekers of truth, and still end up persistently disagreeing
- * Actual good faith disagreements (where you're both just trying to get to the truth, and there are no other hidden motives, no _something else_ going on) tend not to persist!
+In particular, people seem to believe that persistent good faith disagreements are an ordinary phenomenon.
+
+that we can both be honest seekers of truth, and still end up persistently disagreeing
+
+
+https://www.lesswrong.com/posts/sXHQ9R5tahiaXEZhR/algorithmic-intent-a-hansonian-generalized-anti-zombie
+ * Actual good faith disagreements (where you're both just trying to get to the truth, and there are no other hidden motives, no _something else_ going on) tend not to persist! https://www.lesswrong.com/posts/iThwqe3yPog56ytyq/aiming-for-convergence-is-like-discouraging-betting
  * Example 1: I ask you if it's going to rain. You say, "Yes, I read the weather report". I _immediately_ replace my belief with yours.
  * Example 2: We're both trying to calculate something, and we get different answers. If I think we're both equally good calculators, I don't feel particularly attached to the belief that my answer is right.
  * Most disagreements of note—most disagreements that people _care about_—don't look like this, from which we can infer that there is "something else" going on than just trying to get the facts
