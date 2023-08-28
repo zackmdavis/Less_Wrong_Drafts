@@ -20,22 +20,18 @@ class Polynomial:
 
 
 def gradient(p, x, y):
-    return [2 * x**i * (p(x) - y)**2 for i in range(len(p.coefficients))]
+    return [2 * x**i * (p(x) - y) for i in range(len(p.coefficients))]
 
 
 def update_on_example(p, x, y, rate):
     delta = gradient(p, x, y)
     return Polynomial([c - rate*d for c, d in zip(p.coefficients, delta)])
 
-
-# This blows up—need to implement line search—and likely also use full-batch GD
-# rather than 1-example minibatch SGD
-#
-# if __name__ == "__main__":
-#     p = Polynomial([2, 2, 2])
-#     print(p)
-#     for _ in range(100000):
-#         x = random.random()
-#         y = x**2
-#         p = update_on_example(p, x, y, 0.0001)
-#         print(p)
+if __name__ == "__main__":
+    p = Polynomial([2, 2, 2])
+    print(p)
+    for _ in range(100000):
+        x = random.random()
+        y = x**2
+        p = update_on_example(p, x, y, 0.01)
+        print(p)
