@@ -1,4 +1,5 @@
 import random
+from math import log2
 from collections import deque
 
 class Polynomial:
@@ -37,40 +38,58 @@ def gradient(p, x, y):
     return [2 * x**i * (p(x) - y) for i in range(len(p.coefficients))]
 
 
-def loss(p, dataset):
-    total_loss = 0
+def log_loss(p, dataset):
+    # print(p)
+    total = 0
     for x, y in dataset:
-        total_loss += (p(x) - y)**2
-    return total_loss
+        # print(p, p(x), y, total)
+        total += log2((p(x) - y)**2)
+    return total
 
 
-def gradient_descent_polynomial_fit(training_set, degree, rate=0.000001, max_steps=250000):
+# XXX: broken
+def gradient_descent_polynomial_fit(training_set, degree, max_steps=250000):
     step_counter = 0
-    p = Polynomial([1] * (degree+1))
-    recent_losses = deque()
+    p = Polynomial([random.random()] * (degree+1))
+    recent_log_losses = deque([float('inf')])
     continue_training = True
 
     while continue_training:
+        # full batch
+        g = [0 for _ in range(degree+1)]
         for x, y in training_set:
-            g = gradient(p, x, y)
-            p = Polynomial([c - rate*d for c, d in zip(p.coefficients, g)])
+            contribution = gradient(p, x, y)
+            for i, c in enumerate(contribution):
+                g[i] += c
 
-        new_loss = loss(p, training_set)
-        recent_losses.append(new_loss)
+        step_size = 0.01
+        new_coefficients = [c - step_size*d for c, d in zip(p.coefficients, g)]
+        while log_loss(Polynomial(new_coefficients), training_set) >= recent_log_losses[-1] or any(c > 9 for c in new_coefficients):
+            step_size /= 2
+            new_coefficients = [c - step_size*d for c, d in zip(p.coefficients, g)]
+            # XXX: broken
+            if step_size < 1e-30:
+                import pudb; pudb.set_trace()
+
+        print("gradient, new coeffs", g, new_coefficients)
+        p = Polynomial(new_coefficients)
+
+        new_log_loss = log_loss(p, training_set)
+        recent_log_losses.append(new_log_loss)
         step_counter += 1
 
-        if len(recent_losses) > 5:
-            recent_losses.popleft()
+        if len(recent_log_losses) > 5:
+            recent_log_losses.popleft()
 
-            loss_reductions = [
-                recent_losses[i] - recent_losses[i+1]
-                for i in range(len(recent_losses)-1)
+            recent_reductions = [
+                recent_log_losses[i] - recent_log_losses[i+1]
+                for i in range(len(recent_log_losses)-1)
             ]
 
             if step_counter % 25000 == 0:
-                print("{} steps; reductions {}".format(step_counter, loss_reductions))
+                print("{} steps; reductions {}".format(step_counter, recent_reductions))
 
-            if all(r < 0.0000000001 for r in loss_reductions) or step_counter >= max_steps:
+            if step_counter >= max_steps:
                 continue_training = False
                 print("total steps {}".format(step_counter))
 
@@ -93,7 +112,9 @@ def double_descent_experiment():
 
 
 if __name__ == "__main__":
-    ...
+    truth = Polynomial([6, 5, 4, 3, 2, 1])
+    training_set = sample_from_polynomial(truth, 200)
+    gradient_descent_polynomial_fit(training_set, 5, max_steps=1000000)
     # truth = Polynomial([-7, -2, 3, 5])
     # print(truth)
     # training_set = sample_from_polynomial(truth, 10)
