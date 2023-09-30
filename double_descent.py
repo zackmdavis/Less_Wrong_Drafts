@@ -90,14 +90,30 @@ def evaluate_model(model, test_set, criterion):
 #    polynomial!!
 
 def double_descent_experiment():
-    truth = Polynomial(10, [10, 9, 8, 7, 6, 5, 4, 3, 2, 1])
-    training_set = sample_from_polynomial(truth, 5)
-    test_set = sample_from_polynomial(truth, 50)
+    # (x-1)(x-2)(x-3)(x-4)(x-5)(x-6)(x-7)(x-8)(x-9)
+    truth = Polynomial(9, [-362880, 1026576, -1172700, 723680, -269325, 63273, -9450, 870, -45, 1])
+    training_set = sample_from_polynomial(truth, 5, domain=(2, 8))
+    test_set = sample_from_polynomial(truth, 50, domain=(2, 8))
     for degree in range(1, 10):
         model = polynomial_fit(training_set, degree)
         print(model)
         loss = evaluate_model(model, test_set, nn.MSELoss())
         print(degree, loss)
+
+# this is actually too non-monotonic (down, then up, then down ... then up again)
+# hypothesis: 20K epochs is still "early stopping"; I need to measure that I'm
+# getting to zero training error?
+#
+# 1 15.725675000970334
+# 2 15.53512980824423
+# 3 15.687746837175872
+# 4 16.209581895109952
+# 5 16.3487153624384
+# 6 16.2676895828645
+# 7 16.007451103249903
+# 8 16.984831728836927
+# 9 22.828251261892657
+
 
 if __name__ == "__main__":
     double_descent_experiment()
