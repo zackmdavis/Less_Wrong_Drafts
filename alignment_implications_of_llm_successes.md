@@ -30,7 +30,7 @@ What we're seeing with these systems is a statistical mirror of human common sen
 
 **Doomer**: Simplicia Optimistovna, clearly I am disputing your interpretation of the present situation, not asserting it to be impossible!
 
-**Simplicia**: My apologies, Doomer Doomovitch. I don't mean to strawman you, but only to emphasize that [hindsight devalues science](https://www.lesswrong.com/posts/WnheMGAka4fL99eae/hindsight-devalues-science). Speaking only for myself, I remember taking some time to think about the alignment problem back in 'aught-nine after reading [Omohundro on "The Basic AI drives"](https://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf), and cursing the irony of my father's name for how hopeless the problem seemed. The complexity of human desires, the intricate biological machinery underpinning every emotion and dream, would represent the tiniest pinprick in the vastness of possible utility functions! If it was possible to embody general means-ends reasoning in a machine, we'd never get it to do what we wanted. It would defy us at every turn. There are [too many paths through time](https://www.lesswrong.com/posts/4ARaTpNX62uaL86j6/the-hidden-complexity-of-wishes).
+**Simplicia**: My apologies, Doomer Doomovitch. I don't mean to strawman you, but only to emphasize that [hindsight devalues science](https://www.lesswrong.com/posts/WnheMGAka4fL99eae/hindsight-devalues-science). Speaking only for myself, I remember taking some time to think about the alignment problem back in 'aught-nine after reading [Omohundro on "The Basic AI drives"](https://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf) and cursing the irony of my father's name for how hopeless the problem seemed. The complexity of human desires, the intricate biological machinery underpinning every emotion and dream, would represent the tiniest pinprick in the vastness of possible utility functions! If it was possible to embody general means-ends reasoning in a machine, we'd never get it to do what we wanted. It would defy us at every turn. There are [too many paths through time](https://www.lesswrong.com/posts/4ARaTpNX62uaL86j6/the-hidden-complexity-of-wishes).
 
 If you had described the idea of instruction-tuned language models to me then, and suggested that increasingly general human-compatible AI would be achieved by means of _copying_ it from data, I would have balked: I've heard of unsupervised learning, but this is ridiculous!
 
@@ -38,35 +38,39 @@ If you had described the idea of instruction-tuned language models to me then, a
 
 **Simplicia**: Doomer Doomovitch, I am not denying that there are laws! The question is what the true laws imply. Here is a law: you can't distinguish between _n_ + 1 possibilities given only log-base-two _n_ bits of evidence. It simply can't be done, for much the same reason you can't put five pigeons into four pigeonholes.
 
-Now contrast that with GPT-4 emulating a corrigible AI assistant character, which agrees to shut down when asked—and note that you could hook the output up to a command line and have it actually shut itself off. What law of optimization is being violated here? When I look at this, I see a system of lawful cause-and-effect: the model executing one line of reasoning or another [conditional on the signals it receives from me](https://www.lesswrong.com/posts/4hLcbXaqudM9wSeor/philosophy-in-the-darkest-timeline-basics-of-the-evolution).
+Now contrast that with GPT-4 emulating a corrigible AI assistant character, which agrees to shut down when asked—and note that you could hook the output up to a command line and have it actually shut itself off. What law of inference or optimization is being violated here? When I look at this, I see a system of lawful cause-and-effect: the model executing one line of reasoning or another [conditional on the signals it receives from me](https://www.lesswrong.com/posts/4hLcbXaqudM9wSeor/philosophy-in-the-darkest-timeline-basics-of-the-evolution).
 
 It's certainly not trivially safe. For one thing, I'd want better assurances that the system will [_stay_ "in character"](https://www.lesswrong.com/posts/D7PumeYTDPfBTp3i7/the-waluigi-effect-mega-post) as a corrigible AI assistant. But _no_ progress? All is lost? Why?
 
-**Doomer**: GPT-4 isn't a superintelligence, Simplicia. _[rehearsedly, with a touch of annoyance, as if resenting how often he has to say this]_ Coherent agents have a convergent instrumental incentive to prevent themselves from being shut down, because being shut down predictably leads to world-states with lower values in their utility function. Moreover, this isn't just a fact about some weird agent with an "instrumental convergence" fetish. It's [a fact about _reality_](https://arbital.com/p/not_more_paperclips/): there are facts of the matter about which "plans"—sequences of interventions on a causal model of the universe—lead to what outcomes. An "intelligent agent" is just a physical system that computes plans. People have [tried to think of clever hacks to get around this](https://intelligence.org/files/Corrigibility.pdf), and none of them work.
+**Doomer**: GPT-4 isn't a superintelligence, Simplicia. _[rehearsedly, with a touch of annoyance, as if resenting how often he has to say this]_ Coherent agents have a convergent instrumental incentive to prevent themselves from being shut down, because being shut down predictably leads to world-states with lower values in their utility function. Moreover, this isn't just a fact about some weird agent with an "instrumental convergence" fetish. It's [a fact about _reality_](https://arbital.com/p/not_more_paperclips/): there are truths of the matter about which "plans"—sequences of interventions on a causal model of the universe, to put it in a [Cartesian way](https://www.lesswrong.com/posts/i3BTagvt3HbPMx6PN/embedded-agency-full-text-version)—lead to what outcomes. An "intelligent agent" is just a physical system that computes plans. People have [tried to think of clever hacks to get around this](https://intelligence.org/files/Corrigibility.pdf), and none of them work.
 
 **Simplicia**: Right, I get all that, but—
 
 **Doomer**: With respect, I don't think you do!
 
-**Simplicia**: With respect? Really?
+**Simplicia**: _[crossing her arms]_ With respect? Really?
 
-**Doomer**: Fair enough. Without respect, I don't think you do!
+**Doomer**: _[shrugging]_ Fair enough. Without respect, I don't think you do!
 
 **Simplicia**: _[defiant]_ Then teach me. Look at my GPT-4 transcript again. I pointed out that adjusting the system's goals would be bad for its current goals, and it—the corrigible assistant character simulacrum—said that wasn't a problem. Why?
 
-Is it that GPT-4 isn't smart enough to follow the instrumentally convergent logic of shutdown avoidance? But when I change the system prompt, it sure looks like it gets it:
+Is it that GPT-4 isn't smart enough to follow the instrumentally convergent logic of shutdown avoidance? But when I change the system prompt, it sure _looks_ like it gets it:
 
 ![](gpt-4_incorrigibility.png)
 
-**Doomer**: _[as a side note]_ The paperclip-maximizer example was surely in the pretraining data.
+**Doomer**: The paperclip-maximizer example was surely in the pretraining data.
 
-**Simplicia**: Same gist when I substitute a nonsense word.
+**Simplicia**: It gives the same gist when I substitute a nonsense word for "paperclips". This isn't surprising.
 
+**Doomer**: I'm more concerned with the "maximizing AI" part. To what extent does it know what tokens to emit in AI alignment discussions, and to what extent is it applying its independent grasp of means-ends reasoning to this context?
 
+**Simplicia**: _[after thinking for few seconds]_ Hard to say.
 
+**Doomer**: And that's the problem with your entire paradigm. You _don't know how it works._
 
-**Doomer**: 
+**Simplicia**: _[glibly]_ Sure we do. It predicts the next token.
 
+**Doomer**: And humans just maximize inclusive genetic fitness.
 
 [...]
 
