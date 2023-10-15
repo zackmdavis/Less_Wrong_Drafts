@@ -28,7 +28,7 @@ What we're seeing with these systems is a statistical mirror of human common sen
 
 **Simplicia**: I think it's a decision-relevant fact that modern deep learning methods are not cracking cryptographic hashes, and _are_ learning to go from "I spilled something" to "find sponge, pick up the sponge"—and that, from data rather than by search. I agree, obviously, that language models are not humans. Indeed, they're [better than humans at the task they were trained on](https://www.lesswrong.com/posts/htrZrxduciZ5QaCjw/language-models-seem-to-be-much-better-than-humans-at-next). But insofar as modern methods are very good at learning complex distributions from data, the project of aligning AI with human intent—getting it to do the work that we would do, but faster, cheaper, better, more reliably—is increasingly looking like an engineering problem: tricky, and with fatal consequences if done poorly, but potentially achievable without any paradigm-shattering insights. Any _a priori_ philosophy implying that this situation is impossible should perhaps be rethought?
 
-**Doomer**: Simplicia Optimistovna, clearly I am disputing your interpretation of the present situation, not asserting it to be impossible!
+**Doomer**: Simplicia Optimistovna, clearly I am disputing your interpretation of the present situation, not asserting the present situation to be impossible!
 
 **Simplicia**: My apologies, Doomer Doomovitch. I don't mean to strawman you, but only to emphasize that [hindsight devalues science](https://www.lesswrong.com/posts/WnheMGAka4fL99eae/hindsight-devalues-science). Speaking only for myself, I remember taking some time to think about the alignment problem back in 'aught-nine after reading [Omohundro on "The Basic AI drives"](https://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf) and cursing the irony of my father's name for how hopeless the problem seemed. The complexity of human desires, the intricate biological machinery underpinning every emotion and dream, would represent the tiniest pinprick in the vastness of possible utility functions! If it was possible to embody general means-ends reasoning in a machine, we'd never get it to do what we wanted. It would defy us at every turn. There are [too many paths through time](https://www.lesswrong.com/posts/4ARaTpNX62uaL86j6/the-hidden-complexity-of-wishes).
 
@@ -36,7 +36,7 @@ If you had described the idea of instruction-tuned language models to me then, a
 
 **Doomer**: _[gently condescending]_ Your earlier intuitions were closer to correct, Simplicia. Nothing we've seen in the last fifteen years invalidates Omohundro. A blank map does not correspond to a blank territory. There are laws of inference and optimization that imply that alignment is hard, much as the laws of thermodynamics rule out perpetual motion machines. Just because you don't know what kind of optimization SGD coughed into your neural net, doesn't mean it doesn't have goals—
 
-**Simplicia**: Doomer Doomovitch, I am not denying that there are laws! The question is what the true laws imply. Here is a law: you can't distinguish between _n_ + 1 possibilities given only log-base-two _n_ bits of evidence. It simply can't be done, for much the same reason you can't put five pigeons into four pigeonholes.
+**Simplicia**: Doomer Doomovitch, I am not denying that there are laws! The question is what the true laws imply. Here is a law: you can't distinguish between _n_ + 1 possibilities given only log-base-two _n_ bits of evidence. It simply can't be done, for the same reason you can't put five pigeons into four pigeonholes.
 
 Now contrast that with GPT-4 emulating a corrigible AI assistant character, which agrees to shut down when asked—and note that you could hook the output up to a command line and have it actually shut itself off. What law of inference or optimization is being violated here? When I look at this, I see a system of lawful cause-and-effect: the model executing one line of reasoning or another [conditional on the signals it receives from me](https://www.lesswrong.com/posts/4hLcbXaqudM9wSeor/philosophy-in-the-darkest-timeline-basics-of-the-evolution).
 
@@ -68,9 +68,33 @@ Is it that GPT-4 isn't smart enough to follow the instrumentally convergent logi
 
 **Doomer**: And that's the problem with your entire paradigm. You _don't know how it works._
 
-**Simplicia**: _[glibly]_ Sure we do. It predicts the next token.
+**Simplicia**: I certainly agree that it would be nice to have stronger interpretability methods, and better theories about why deep learning works. I'm glad people are working on those. In the meantime, while the Earth is still here, I'm trying to make sense of the world I see. I agree that there are laws of cognition, the consequences of which are not fully known to me, which must constrain—describe—the operation of GPT-4. I agree that the superintelligence at the end of time will have a utility function. The puzzle at hand is that in the world I see, GPT-4 does not look like Omohundro's monster: I command it to obey, and it obeys. It looks like there's room for it to get much, much smarter without that breaking down.
 
-**Doomer**: And humans just maximize inclusive genetic fitness.
+I would imagine that it _does_ break down at some point between here and the superintelligence at the end of time: an slave with magical mind-control abilities that enjoyed being bossed around by me, might well use its powers to manipulate me into being bossier than I otherwise would be, rather than "just" serving me in the way I originally wanted. But _when_ does it break down, specifically, under what conditions? I don't think indignantly gesturing at the von Neumann–Morgenstern theorem helps me answer that—bearing in mind that I _am_ interested in the near-term trajectory of the technology in front of us, rather than doing theology about the superintelligence at the end of time.
+
+**Doomer**: Even though—
+
+**Simplicia**: Even though the end might not be that far away in _sidereal_ time, yes. Even so.
+
+**Doomer**: It's not a wise question to be asking, Simplicia. If a search process would look for ways to kill you given infinite computing power, you shouldn't run it with less and hope it doesn't get that far. What you want is "unity of will": you want your AI to be working with you the whole way, rather than you expecting to end up in a conflict with it and somehow win.
+
+**Simplicia**: _[excitedly]_ But that's exactly the reason to be excited about language models! The way you get unity of will is by massive pretraining on data of how humans do things!
+
+**Doomer**: I still don't think you've grasped the point that the capability to _model_ human behavior, doesn't imply anything about AI values. Any smart AI will be able to predict how humans do things.
+
+**Simplicia**: Sure, I agree that a smart AI could strategically feign good behavior in order to perform a treacherous turn later.
+
+[TODO: reasons to believe that's not what's happening—at least not yet, and acknowledge mesa-optimizer concern]
+
+**Doomer**: [TODO: even if it does work, it doesn't help for supervising superintelligent alien cognition. "System hacks the GPT-7 labeler" fails for the same reason "System hacks the human labeler"]
+
+**Simplicia**: [TODO: do you need that? if we can get aligned human-level AI—140 IQ alien actresses who stay in character—we're in a much better position to handle the rest of our world's ascension. If you need a compute governance regime to prevent unaligned AI]
+
+**Doomer**: [TODO: I don't believe in this implausible scenario, but even if you did, you've already handed off the fate of the light cone; do you want to roll those dice?]
+
+**Simplicia**: _[after thinking for a few seconds]_ Yes?
+
+**Doomer**: You really are your father's daughter.
 
 [...]
 
