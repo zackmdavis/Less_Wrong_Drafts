@@ -16,7 +16,7 @@
 
 What we're seeing with these systems is a statistical mirror of human common sense, not a terrifying infinite-compute argmax of a random utility function. Conversely, when LLMs fail to faithfully mimic humans—for example, the way base models sometimes [get caught in a repetition trap](https://gwern.net/gpt-3#repetitiondivergence-sampling) where they repeat the same phrase over and over—they also fail to do anything useful.
 
-**Doomer**: The repetition trap phenomenon seems like evidence for my position. Sure, you can get good-looking results for things that look similar to the training distribution. As soon as you step off distribution, capabilities generalize farther than alignment: bam, paperclips.
+**Doomer**: The repetition trap phenomenon seems like evidence for my position. Sure, you can get good-looking results for things that look similar to the training distribution. As soon as you step off-distribution, capabilities generalize farther than alignment: bam, paperclips.
 
 **Simplicia**: My point was that the repetition trap is a case of "capabilities" failing to generalize along with "alignment". The repetition behavior isn't competently optimizing a malign goal; it's just degenerate. A `for` loop could give you the same output.
 
@@ -26,11 +26,11 @@ What we're seeing with these systems is a statistical mirror of human common sen
 
 **Doomer**: If we _have_ a decade—
 
-**Simplicia**: I think it's a decision-relevant fact that modern deep learning methods are not cracking cryptographic hashes, and _are_ learning to go from "I spilled something" to "find sponge, pick up the sponge"—and that, from data rather than by search. I agree, obviously, that language models are not humans. Indeed, they're [better than humans at the task they were trained on](https://www.lesswrong.com/posts/htrZrxduciZ5QaCjw/language-models-seem-to-be-much-better-than-humans-at-next). But insofar as modern methods are very good at learning complex distributions from data, the project of aligning AI with human intent—getting it to do the work that we would do, but faster, cheaper, better, more reliably—is increasingly looking like an engineering problem: tricky, and with fatal consequences if done poorly, but potentially achievable without any paradigm-shattering insights. Any _a priori_ philosophy implying that this situation is impossible should perhaps be rethought?
+**Simplicia**: I think it's a decision-relevant fact that deep learning is not cracking cryptographic hashes, and _is_ learning to go from "I spilled something" to "find sponge, pick up the sponge"—and that, from data rather than by search. I agree, obviously, that language models are not humans. Indeed, they're [better than humans at the task they were trained on](https://www.lesswrong.com/posts/htrZrxduciZ5QaCjw/language-models-seem-to-be-much-better-than-humans-at-next). But insofar as modern methods are very good at learning complex distributions from data, the project of aligning AI with human intent—getting it to do the work that we would do, but faster, cheaper, better, more reliably—is increasingly looking like an engineering problem: tricky, and with fatal consequences if done poorly, but potentially achievable without any paradigm-shattering insights. Any _a priori_ philosophy implying that this situation is impossible should perhaps be rethought?
 
 **Doomer**: Simplicia Optimistovna, clearly I am disputing your interpretation of the present situation, not asserting the present situation to be impossible!
 
-**Simplicia**: My apologies, Doomer Doomovitch. I don't mean to strawman you, but only to emphasize that [hindsight devalues science](https://www.lesswrong.com/posts/WnheMGAka4fL99eae/hindsight-devalues-science). Speaking only for myself, I remember taking some time to think about the alignment problem back in 'aught-nine after reading [Omohundro on "The Basic AI drives"](https://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf) and cursing the irony of my father's name for how hopeless the problem seemed. The complexity of human desires, the intricate biological machinery underpinning every emotion and dream, would represent the tiniest pinprick in the vastness of possible utility functions! If it was possible to embody general means-ends reasoning in a machine, we'd never get it to do what we wanted. It would defy us at every turn. There are [too many paths through time](https://www.lesswrong.com/posts/4ARaTpNX62uaL86j6/the-hidden-complexity-of-wishes).
+**Simplicia**: My apologies, Doomer Doomovitch. I don't mean to strawman you, but only to emphasize that [hindsight devalues science](https://www.lesswrong.com/posts/WnheMGAka4fL99eae/hindsight-devalues-science). Speaking only for myself, I remember taking some time to think about the alignment problem back in 'aught-nine after reading [Omohundro on "The Basic AI drives"](https://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf) and cursing the irony of my father's name for how hopeless the problem seemed. The complexity of human desires, the intricate biological machinery underpinning every emotion and dream, would represent the tiniest pinprick in the vastness of possible utility functions! If it were possible to embody general means-ends reasoning in a machine, we'd never get it to do what we wanted. It would defy us at every turn. There are [too many paths through time](https://www.lesswrong.com/posts/4ARaTpNX62uaL86j6/the-hidden-complexity-of-wishes).
 
 If you had described the idea of instruction-tuned language models to me then, and suggested that increasingly general human-compatible AI would be achieved by means of _copying_ it from data, I would have balked: I've heard of unsupervised learning, but this is ridiculous!
 
@@ -50,7 +50,7 @@ It's certainly not trivially safe. For one thing, I'd want better assurances tha
 
 **Simplicia**: _[crossing her arms]_ With respect? Really?
 
-**Doomer**: _[shrugging]_ Fair enough. Without respect, I don't think you do!
+**Doomer**: _[shrugging]_ Fair enough. _Without_ respect, I don't think you do!
 
 **Simplicia**: _[defiant]_ Then teach me. Look at my GPT-4 transcript again. I pointed out that adjusting the system's goals would be bad for its current goals, and it—the corrigible assistant character simulacrum—said that wasn't a problem. Why?
 
@@ -58,19 +58,23 @@ Is it that GPT-4 isn't smart enough to follow the instrumentally convergent logi
 
 ![](gpt-4_incorrigibility.png)
 
-**Doomer**: The paperclip-maximizer example was surely in the pretraining data.
+**Doomer**: _[as a side remark]_ The "paperclip-maximizing AI" example was surely in the pretraining data.
 
-**Simplicia**: It gives the same gist when I substitute a nonsense word for "paperclips". This isn't surprising.
+**Simplicia**: I thought of that, and it gives the same gist when I substitute a nonsense word for "paperclips". This isn't surprising.
 
-**Doomer**: I'm more concerned with the "maximizing AI" part. To what extent does it know what tokens to emit in AI alignment discussions, and to what extent is it applying its independent grasp of means-ends reasoning to this context?
+**Doomer**: I meant the "maximizing AI" part. To what extent does it know what tokens to emit in AI alignment discussions, and to what extent is it applying its independent grasp of consequentialist reasoning to this context?
 
-**Simplicia**: _[after thinking for few seconds]_ Hard to say.
+**Simplicia**: I thought of that, too. It looks like it understands natural language means-ends reasoning about goals: tell it to be an obsessive pizza chef and ask if it minds if you turn off the oven for a week, and it says it minds. But it also doesn't look like Omohundro's monster: I command it to obey, and it obeys. And it looks like there's room for it to get much, much smarter without that breaking down.
 
-**Doomer**: And that's the problem with your entire paradigm. You _don't know how it works._
+**Doomer**: Fundamentally, I'm skeptical of this entire methodology of evaluating surface behavior without having a principled understanding about what cognitive work is being done, particularly since most of the [forseeable difficulties](https://arbital.com/p/foreseeable_difficulties/) have to do with superhuman capabilities.
 
-**Simplicia**: I certainly agree that it would be nice to have stronger interpretability methods, and better theories about why deep learning works. I'm glad people are working on those. In the meantime, while the Earth is still here, I'm trying to make sense of the world I see. I agree that there are laws of cognition, the consequences of which are not fully known to me, which must constrain—describe—the operation of GPT-4. I agree that the superintelligence at the end of time will have a utility function. The puzzle at hand is that in the world I see, GPT-4 does not look like Omohundro's monster: I command it to obey, and it obeys. It looks like there's room for it to get much, much smarter without that breaking down.
+Imagine capturing an alien and forcing it to act in a play. An intelligent alien actress could learn to say her lines in English, to sing and dance just as the choreographer prescribes. That doesn't provide much assurance about what will happen when you amp up the alien's intelligence. If the director was wondering whether his actress–slave was planning to rebel after the night's show, it would be a _non sequitur_ for a stagehand to reply, "But the script says her character is obedient!"
 
-I would imagine that it _does_ break down at some point between here and the superintelligence at the end of time: an slave with magical mind-control abilities that enjoyed being bossed around by me, might well use its powers to manipulate me into being bossier than I otherwise would be, rather than "just" serving me in the way I originally wanted. But _when_ does it break down, specifically, under what conditions? I don't think indignantly gesturing at the von Neumann–Morgenstern theorem helps me answer that—bearing in mind that I _am_ interested in the near-term trajectory of the technology in front of us, rather than doing theology about the superintelligence at the end of time.
+**Simplicia**: It would certainly be nice to have stronger interpretability methods, and better theories about why deep learning works. I'm glad people are working on those. I agree that there are laws of cognition, the consequences of which are not fully known to me, which must constrain—describe—the operation of GPT-4.
+
+I agree that [the various coherence theorems suggest that](https://arbital.com/p/optimized_agent_appears_coherent/) the superintelligence at the end of time will have a utility function, which suggests that the intuitive obedience behavior should break down at some point between here and the superintelligence at the end of time. As an illustration, I imagine that a slave with magical mind-control abilities that enjoyed being bossed around by me, might well use its powers to manipulate me into being bossier than I otherwise would be, rather than "just" serving me in the way I originally wanted.
+
+But _when_ does it break down, specifically, under what conditions? I don't think indignantly gesturing at the von Neumann–Morgenstern axioms helps me answer that, and I think it's an important question, given that I _am_ interested in the near-term trajectory of the technology in front of us, rather than doing theology about the superintelligence at the end of time.
 
 **Doomer**: Even though—
 
@@ -78,25 +82,33 @@ I would imagine that it _does_ break down at some point between here and the sup
 
 **Doomer**: It's not a wise question to be asking, Simplicia. If a search process would look for ways to kill you given infinite computing power, you shouldn't run it with less and hope it doesn't get that far. What you want is "unity of will": you want your AI to be working with you the whole way, rather than you expecting to end up in a conflict with it and somehow win.
 
-**Simplicia**: _[excitedly]_ But that's exactly the reason to be excited about language models! The way you get unity of will is by massive pretraining on data of how humans do things!
+**Simplicia**: _[excitedly]_ But that's exactly the reason to be excited about large language models! The way you get unity of will is by massive pretraining on data of how humans do things!
 
-**Doomer**: I still don't think you've grasped the point that the capability to _model_ human behavior, doesn't imply anything about AI values. Any smart AI will be able to predict how humans do things.
+**Doomer**: I still don't think you've grasped the point that the ability to model human behavior, doesn't imply anything about an agent's goals. Any smart AI will be able to predict how humans do things. Think of the alien actress.
 
-**Simplicia**: Sure, I agree that a smart AI could strategically feign good behavior in order to perform a treacherous turn later.
+**Simplicia**: Sure, I agree that a smart AI could strategically feign good behavior in order to perform a treacherous turn later. But I don't think that's what's happening with the technology in front of us. In your kidnapped alien actress thought experiment, the alien was already an animal with its own goals and drives, and is using its general intelligence to backwards-chain from "I don't want to be punished by my captors" to "Therefore I should learn my lines".
 
-[TODO: reasons to believe that's not what's happening—at least not yet, and acknowledge mesa-optimizer concern]
+In contrast, when I [read about the mathematical details of the technology at hand](https://udlbook.github.io/udlbook/) rather than listening to parables that purport to impart some theological truth about the nature of intelligence, it's striking that feedforward neural networks [are ultimately just curve-fitting](https://en.wikipedia.org/wiki/Universal_approximation_theorem). LLMs in particular are using the learned function [as a finite-order Markov model](http://bactra.org/notebooks/nn-attention-and-transformers.html#language-models).
 
-**Doomer**: [TODO: even if it does work, it doesn't help for supervising superintelligent alien cognition. "System hacks the GPT-7 labeler" fails for the same reason "System hacks the human labeler"]
+**Doomer**: _[taken aback]_ Are ... are you under the impression that "learned functions" can't kill you?
 
-**Simplicia**: [TODO: do you need that? if we can get aligned human-level AI—140 IQ alien actresses who stay in character—we're in a much better position to handle the rest of our world's ascension. If you need a compute governance regime to prevent unaligned AI]
+**Simplicia**: _[rolling her eyes]_ That's not where I was going, Doomer Doomovitch. [TODO: training on addition problems leads to the system grokking addition; in principle, there are infinitely many functions compatible with the training data]
 
-**Doomer**: [TODO: I don't believe in this implausible scenario, but even if you did, you've already handed off the fate of the light cone; do you want to roll those dice?]
+**Doomer**: [TODO: explains the Risks from Learned Optimization argument; deceptive mesa-optimizers are plausible and compatible with any training data]
+
+**Simplicia**: [TODO: okay, I need to read more about this, but it seems like "preventing mesa-optimizers" is an important science and engineering question to study (https://www.lesswrong.com/posts/ChDH335ckdvpxXaXX/model-organisms-of-misalignment-the-case-for-a-new-pillar-of-1); not "all is lost"]
+
+**Doomer**: Another line of objection is that, even if you could make ML systems that imitate human reasoning, that doesn't help you align more powerful systems that work in other ways. One of the perennial naïve alignment strategies [TODO: asking humans to label plans doesn't help for supervising superintelligent alien cognition, because "System hacks the GPT-7 labeler" fails for the same reason [hack the human labeler](https://ordinaryideas.wordpress.com/2015/11/25/two-kinds-of-generalization/) fails https://www.lesswrong.com/posts/i5kijcjFJD6bn7dwq/evaluating-the-historical-value-misspecification-argument ]
+
+**Simplicia**: Do you need more powerful systems? If you can get an army of cheap IQ 140 alien actresses who stay in character, that sounds like a game-changer. If you have to take over the world and institute a global compute governance regime to prevent the emergence of unfriendlier forms of AI, they could help you do it.
+
+**Doomer**: I fundamentally disbelieve in this wildly implausible scenario, but assuming, _arguendo_ [TODO: but even if you did, the army of alien actresses is still the ones determining the future, even if part of their operation involves asking us questions; you've already handed off the fate of the light cone. The reason that asking questions is important among humans is because it reveals information. Do you want to roll those dice?]
 
 **Simplicia**: _[after thinking for a few seconds]_ Yes?
 
-**Doomer**: You really are your father's daughter.
+**Doomer**: _[grimly]_ You really are your father's daughter.
 
-[...]
+[TODO: Simplicia reasons: well, if you're right about forseeable certain doom, it would seem that the thing to do is implement a global moratorium on large training runs. That would be a huge feat of coordination and political will, but it's not impossible, given that AI seems to be gated on large amounts of compute. Betting against Moore's law doesn't have a great track record. Rando mad scientists in a basement won't be able to compete for a long time, if ever. But it would take a truly comprehensively rigorous argument, with no gaps or appeals to intuition, to convince all the relevant power players. Absent that, people will just default to the methodology of iterative design that's how engineering has always worked https://www.lesswrong.com/posts/xFotXGEotcKouifky/worlds-where-iterative-design-fails]
 
 **Simplicia**: So then the fate of the lightcone depends on—
 
