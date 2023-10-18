@@ -64,7 +64,7 @@ Is it that GPT-4 isn't smart enough to follow the instrumentally convergent logi
 
 **Doomer**: I meant the "maximizing AI" part. To what extent does it know what tokens to emit in AI alignment discussions, and to what extent is it applying its independent grasp of consequentialist reasoning to this context?
 
-**Simplicia**: I thought of that, too. It looks like it understands natural language means-ends reasoning about goals: tell it to be an obsessive pizza chef and ask if it minds if you turn off the oven for a week, and it says it minds. But it also doesn't look like Omohundro's monster: I command it to obey, and it obeys. And it looks like there's room for it to get much, much smarter without that breaking down.
+**Simplicia**: I thought of that, too. I've spent a lot of time with the model and done some other experiments, and it looks like it understands natural language means-ends reasoning about goals: tell it to be an obsessive pizza chef and ask if it minds if you turn off the oven for a week, and it says it minds. But it also doesn't look like Omohundro's monster: when I command it to obey, it obeys. And it looks like there's room for it to get much, much smarter without that breaking down.
 
 **Doomer**: Fundamentally, I'm skeptical of this entire methodology of evaluating surface behavior without having a principled understanding about what cognitive work is being done, particularly since most of the [forseeable difficulties](https://arbital.com/p/foreseeable_difficulties/) have to do with superhuman capabilities.
 
@@ -86,31 +86,37 @@ But _when_ does it break down, specifically, under what conditions? I don't thin
 
 **Doomer**: I still don't think you've grasped the point that the ability to model human behavior, doesn't imply anything about an agent's goals. Any smart AI will be able to predict how humans do things. Think of the alien actress.
 
-**Simplicia**: Sure, I agree that a smart AI could strategically feign good behavior in order to perform a treacherous turn later. But I don't think that's what's happening with the technology in front of us. In your kidnapped alien actress thought experiment, the alien was already an animal with its own goals and drives, and is using its general intelligence to backwards-chain from "I don't want to be punished by my captors" to "Therefore I should learn my lines".
+**Simplicia**: I mean, I agree that a smart AI could strategically feign good behavior in order to perform a treacherous turn later. But ... it doesn't look like that's what's happening with the technology in front of us? In your kidnapped alien actress thought experiment, the alien was already an animal with its own goals and drives, and is using its general intelligence to backwards-chain from "I don't want to be punished by my captors" to "Therefore I should learn my lines".
 
 In contrast, when I [read about the mathematical details of the technology at hand](https://udlbook.github.io/udlbook/) rather than listening to parables that purport to impart some theological truth about the nature of intelligence, it's striking that feedforward neural networks [are ultimately just curve-fitting](https://en.wikipedia.org/wiki/Universal_approximation_theorem). LLMs in particular are using the learned function [as a finite-order Markov model](http://bactra.org/notebooks/nn-attention-and-transformers.html#language-models).
 
 **Doomer**: _[taken aback]_ Are ... are you under the impression that "learned functions" can't kill you?
 
-**Simplicia**: _[rolling her eyes]_ That's not where I was going, Doomer Doomovitch. [TODO: training on addition problems leads to the system grokking addition; in principle, there are infinitely many functions compatible with the training data]
+**Simplicia**: _[rolling her eyes]_ That's not where I was going, Doomer Doomovitch. The surprising fact that deep learning works at all comes down to generalization. As you know, neural networks with ReLU activations describe piecewise linear functions, and the number of linear regions grows exponentially as you stack layers. Curse of dimensionality: for a decently-sized net, you get more regions than the number of atoms in the universe. By all rights, it should be able to do _anything at all_ in the gaps between the training data. And yet it behaves sensibly.
 
-**Doomer**: [TODO: explains the Risks from Learned Optimization argument; deceptive mesa-optimizers are plausible and compatible with any training data]
+[TODO: EEA analogy]
 
-**Simplicia**: [TODO: okay, I need to read more about this, but it seems like "preventing mesa-optimizers" is an important science and engineering question to study (https://www.lesswrong.com/posts/ChDH335ckdvpxXaXX/model-organisms-of-misalignment-the-case-for-a-new-pillar-of-1); not "all is lost"]
+**Doomer**: Another line of objection is that, even if you could make ML systems that imitate human reasoning, that doesn't help you align more powerful systems that work in other ways. The reason you can't train a superintelligence by using humans to label good plans is because at some power level, your planner figures out how to [hack the human labeler](https://ordinaryideas.wordpress.com/2015/11/25/two-kinds-of-generalization/). Some people naïvely imagine that LLMs learning the distribution of natural language amounts to them learning "human values", such that you could [just have a piece of code that says "and now call GPT and ask it what's good"](https://www.lesswrong.com/posts/i5kijcjFJD6bn7dwq/evaluating-the-historical-value-misspecification-argument?commentId=E82YzXxvS6nBdCAYc). But using an LLM as the labeler instead of a human just means your powerful planner figures out how to hack the LLM. It's the same problem either way.
 
-**Doomer**: Another line of objection is that, even if you could make ML systems that imitate human reasoning, that doesn't help you align more powerful systems that work in other ways. One of the perennial naïve alignment strategies [TODO: asking humans to label plans doesn't help for supervising superintelligent alien cognition, because "System hacks the GPT-7 labeler" fails for the same reason [hack the human labeler](https://ordinaryideas.wordpress.com/2015/11/25/two-kinds-of-generalization/) fails https://www.lesswrong.com/posts/i5kijcjFJD6bn7dwq/evaluating-the-historical-value-misspecification-argument ]
+**Simplicia**: Do you _need_ more powerful systems? If you can get an army of cheap IQ 140 alien actresses who stay in character, that sounds like a game-changer. If you have to take over the world and institute a global compute governance regime to prevent the emergence of unfriendlier, more powerful forms of AI, they could help you do it.
 
-**Simplicia**: Do you need more powerful systems? If you can get an army of cheap IQ 140 alien actresses who stay in character, that sounds like a game-changer. If you have to take over the world and institute a global compute governance regime to prevent the emergence of unfriendlier forms of AI, they could help you do it.
+**Doomer**: I fundamentally disbelieve in this scenario, but granting it for the sake of argument ... I think you're failing to appreciate that in this story, you've already handed off the keys to the universe, even if your AIs have been trained to be "corrigible" and "obey orders" in a way that seemed to work at low power levels. When humans servants who are trying to be helpful ask questions of their master, it's because they don't know what the master wants. If the servants could predict how the master _would_ respond to any question, there would be no need to actually ask. A "servant" who could forsee the detailed outcome of every possible sequence of questions, would be in a position to choose among those outcomes—and in so choosing, it would be in control. Look, you understand that AIs trained on human data are not human, right?
 
-**Doomer**: I fundamentally disbelieve in this wildly implausible scenario, but assuming, _arguendo_ [TODO: but even if you did, the army of alien actresses is still the ones determining the future, even if part of their operation involves asking us questions; you've already handed off the fate of the light cone. The reason that asking questions is important among humans is because it reveals information. Do you want to roll those dice?]
+**Simplicia**: Sure. For example, I certainly don't believe that LLMs that convincingly talk about "happiness" are actually happy. The training data only pins down external behavior.
+
+**Doomer**: So your plan is to hand over our entire future lightcone to an alien agency that seemed to behave nicely while you were training it, and just—hope it generalizes well? Do you really want to roll those dice?
 
 **Simplicia**: _[after thinking for a few seconds]_ Yes?
 
 **Doomer**: _[grimly]_ You really are your father's daughter.
 
-[TODO: Simplicia reasons: well, if you're right about forseeable certain doom, it would seem that the thing to do is implement a global moratorium on large training runs. That would be a huge feat of coordination and political will, but it's not impossible, given that AI seems to be gated on large amounts of compute. Betting against Moore's law doesn't have a great track record. Rando mad scientists in a basement won't be able to compete for a long time, if ever. But it would take a truly comprehensively rigorous argument, with no gaps or appeals to intuition, to convince all the relevant power players. Absent that, people will just default to the methodology of iterative design that's how engineering has always worked https://www.lesswrong.com/posts/xFotXGEotcKouifky/worlds-where-iterative-design-fails]
+**Simplicia**: My father believed in [the power of iterative design](https://www.lesswrong.com/posts/xFotXGEotcKouifky/worlds-where-iterative-design-fails). That's the way engineering, and life, has always worked. We raise our children the best we can, trying to learn from our mistakes early on, even knowing that those mistakes have consequences: children don't always share their parents' values, or treat them kindly. He would have said it would go the same in principle for our AI mind-children—
 
-**Simplicia**: So then the fate of the lightcone depends on—
+**Doomer**: _[exasperated]_ But—
+
+**Simplicia**: Yes, despite the larger stakes and novel context, where we're growing new kinds of minds _in silico_, rather than providing mere cultural input to the code in our genes.
+
+Of course, there is a first time for everthing—one way or the other. If it were rigorously established that the way engineering and life have always worked would lead to certain disaster, perhaps the world's power players could be persuaded to turn back, to reject the imperative of history, to choose barrenness, at least for now, rather than bring vile offspring into our world. It would seem that the fate of the lightcone depends on—
 
 **Doomer**: I'm afraid so—
 
