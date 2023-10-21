@@ -4,7 +4,7 @@
 
 **Simplicia**: Why, Doomimir Doomovitch, you're such a sourpuss! It should be clear by now that advances in "alignment"—getting machines to behave in accordance with human values and intent—aren't cleanly separable from the "capabilities" advances you decry. Indeed, here's an example of GPT-4 being corrigible to me just now in the OpenAI Playground:
 
-![](gpt-4_corrigibility.png)
+![](https://i.imgur.com/yoWXKrw.png)
 
 **Doomimir**: Simplicia Optimistovna, you cannot be serious!
 
@@ -16,11 +16,11 @@
 
 What we're seeing with these systems is a statistical mirror of human common sense, not a terrifying infinite-compute argmax of a random utility function. Conversely, when LLMs fail to faithfully mimic humans—for example, the way base models sometimes [get caught in a repetition trap](https://gwern.net/gpt-3#repetitiondivergence-sampling) where they repeat the same phrase over and over—they also fail to do anything useful.
 
-**Doomimir**: The repetition trap phenomenon seems like evidence for my position. Sure, you can get good-looking results for things that look similar to the training distribution. As soon as you step off-distribution, capabilities generalize farther than alignment: bam, paperclips.
+**Doomimir**: But the repetition trap phenomenon seems like an illustration of why alignment is hard. Sure, you can get good-looking results for things that look similar to the training distribution, but that doesn't mean the AI has internalized your preferences. When you step off distribution, the results look like random garbage to you, as capabilities generalize further than alignment.
 
 **Simplicia**: My point was that the repetition trap is a case of "capabilities" failing to generalize along with "alignment". The repetition behavior isn't competently optimizing a malign goal; it's just degenerate. A `for` loop could give you the same output.
 
-**Doomimir**: And _my_ point was that we don't know what kind of cognition is going on inside of all those inscrutable matrices. [Language models are predictors, not imitators](https://www.lesswrong.com/posts/nH4c3Q9t9F3nJ7y8W/gpts-are-predictors-not-imitators). Predicting the next token of a corpus that was produced by many humans over a long time, requires superhuman capabilities. As a theoretical illustration of the point, imagine a list of (SHA-256 hash, plaintext) pairs being in the training data. In the limit—
+**Doomimir**: And my point was that we don't know what kind of cognition is going on inside of all those inscrutable matrices. [Language models are predictors, not imitators](https://www.lesswrong.com/posts/nH4c3Q9t9F3nJ7y8W/gpts-are-predictors-not-imitators). Predicting the next token of a corpus that was produced by many humans over a long time, requires superhuman capabilities. As a theoretical illustration of the point, imagine a list of (SHA-256 hash, plaintext) pairs being in the training data. In the limit—
 
 **Simplicia**: In the limit, yes, I agree that a superintelligence that could crack SHA-256 could achieve a lower loss on the training or test datasets of contemporary language models. But for making sense of the technology in front of us and what to do with it for the next month, year, decade—
 
@@ -34,7 +34,7 @@ What we're seeing with these systems is a statistical mirror of human common sen
 
 If you had described the idea of instruction-tuned language models to me then, and suggested that increasingly general human-compatible AI would be achieved by means of _copying_ it from data, I would have balked: I've heard of unsupervised learning, but this is ridiculous!
 
-**Doomimir**: _[gently condescending]_ Your earlier intuitions were closer to correct, Simplicia. Nothing we've seen in the last fifteen years invalidates Omohundro. A blank map does not correspond to a blank territory. There are laws of inference and optimization that imply that alignment is hard, much as the laws of thermodynamics rule out perpetual motion machines. Just because you don't know what kind of optimization gradient descent coughed into your neural net, doesn't mean it doesn't have goals—
+**Doomimir**: _[gently condescending]_ Your earlier intuitions were closer to correct, Simplicia. Nothing we've seen in the last fifteen years invalidates Omohundro. A blank map does not correspond to a blank territory. There are laws of inference and optimization that imply that alignment is hard, much as the laws of thermodynamics rule out perpetual motion machines. Just because you don't know what kind of optimization [SGD](https://en.wikipedia.org/wiki/Stochastic_gradient_descent) coughed into your neural net, doesn't mean it doesn't have goals—
 
 **Simplicia**: Doomimir Doomovitch, I am not denying that there are laws! The question is what the true laws imply. Here is a law: you can't distinguish between _n_ + 1 possibilities given only log-base-two _n_ bits of evidence. It simply can't be done, for the same reason you can't put five pigeons into four pigeonholes.
 
@@ -56,7 +56,7 @@ It's certainly not trivially safe. For one thing, I'd want better assurances tha
 
 Is it that GPT-4 isn't smart enough to follow the instrumentally convergent logic of shutdown avoidance? But when I change the system prompt, it sure _looks_ like it gets it:
 
-![](gpt-4_incorrigibility.png)
+![](https://i.imgur.com/IETCAL3.png)
 
 **Doomimir**: _[as a side remark]_ The "paperclip-maximizing AI" example was surely in the pretraining data.
 
@@ -66,7 +66,7 @@ Is it that GPT-4 isn't smart enough to follow the instrumentally convergent logi
 
 **Simplicia**: I thought of that, too. I've spent a lot of time with the model and done some other experiments, and it looks like it understands natural language means-ends reasoning about goals: tell it to be an obsessive pizza chef and ask if it minds if you turn off the oven for a week, and it says it minds. But it also doesn't look like Omohundro's monster: when I command it to obey, it obeys. And it looks like there's room for it to get much, much smarter without that breaking down.
 
-**Doomimir**: Fundamentally, I'm skeptical of this entire methodology of evaluating surface behavior without having a principled understanding about what cognitive work is being done, particularly since most of the [forseeable difficulties](https://arbital.com/p/foreseeable_difficulties/) have to do with superhuman capabilities.
+**Doomimir**: Fundamentally, I'm skeptical of this entire methodology of evaluating surface behavior without having a principled understanding about what cognitive work is being done, particularly since most of the [foreseeable difficulties](https://arbital.com/p/foreseeable_difficulties/) have to do with superhuman capabilities.
 
 Imagine capturing an alien and forcing it to act in a play. An intelligent alien actress could learn to say her lines in English, to sing and dance just as the choreographer instructs. That doesn't provide much assurance about what will happen when you amp up the alien's intelligence. If the director was wondering whether his actress–slave was planning to rebel after the night's show, it would be a _non sequitur_ for a stagehand to reply, "But the script says her character is obedient!"
 
@@ -74,7 +74,7 @@ Imagine capturing an alien and forcing it to act in a play. An intelligent alien
 
 I agree that [the various coherence theorems suggest that](https://arbital.com/p/optimized_agent_appears_coherent/) the superintelligence at the end of time will have a utility function, which suggests that the intuitive obedience behavior should break down at some point between here and the superintelligence at the end of time. As an illustration, I imagine that a servant with magical mind-control abilities that enjoyed being bossed around by me, might well use its powers to manipulate me into being bossier than I otherwise would be, rather than "just" serving me in the way I originally wanted.
 
-But _when_ does it break down, specifically, under what conditions? I don't think indignantly gesturing at the von Neumann–Morgenstern axioms helps me answer that, and I think it's an important question, given that I _am_ interested in the near-term trajectory of the technology in front of us, rather than doing theology about the superintelligence at the end of time.
+But _when_ does it break down, specifically, under what conditions, for what kinds of systems? I don't think indignantly gesturing at the von Neumann–Morgenstern axioms helps me answer that, and I think it's an important question, given that I _am_ interested in the near-term trajectory of the technology in front of us, rather than doing theology about the superintelligence at the end of time.
 
 **Doomimir**: Even though—
 
@@ -92,9 +92,9 @@ In contrast, when I [read about the mathematical details of the technology at ha
 
 **Doomimir**: _[taken aback]_ Are ... are you under the impression that "learned functions" can't kill you?
 
-**Simplicia**: _[rolling her eyes]_ That's not where I was going, Doomchek. The surprising fact that deep learning works at all comes down to generalization. As you know, neural networks with ReLU activations describe piecewise linear functions, and the number of linear regions grows exponentially as you stack more layers: for a decently-sized net, you get more regions than the number of atoms in the universe. As close as makes no difference, the input space is empty. By all rights, the net should be able to do _anything at all_ in the gaps between the training data.
+**Simplicia**: _[rolling her eyes]_ That's not where I was going, Doomchek. The surprising fact that deep learning works at all, comes down to generalization. As you know, neural networks with ReLU activations describe piecewise linear functions, and the number of linear regions grows exponentially as you stack more layers: for a decently-sized net, you get more regions than the number of atoms in the universe. As close as makes no difference, the input space is empty. By all rights, the net should be able to do _anything at all_ in the gaps between the training data.
 
-And yet it behaves remarkably sensibly. [Train a one-layer transformer on 80% of possible addition-mod-59 problems, and it learns one of two modular addition algorithms](https://arxiv.org/abs/2306.17844), which perform correctly on the remaining validation set. It's not _a priori_ obvious that it would work that way! There are $0.2 \cdot 59^{2} \cdot 59$ ≈ 41,000 other possible functions on $\mathbb{Z}/59\mathbb{Z}$ compatible with the training data. Someone sitting in her armchair doing theology might reason that the odds of "aligning" the network to modular addition were forty-thousand to one against, but the actual situation turned out to be much more forgiving, thanks to the inductive biases of [SGD](https://en.wikipedia.org/wiki/Stochastic_gradient_descent). It's not a wild genie that we've Shanghaied into doing modular arithmetic while we're looking, but will betray us to do something else the moment we turn our backs; rather, the training process managed to successfully point to mod-59 arithmetic.
+And yet it behaves remarkably sensibly. [Train a one-layer transformer on 80% of possible addition-mod-59 problems, and it learns one of two modular addition algorithms](https://arxiv.org/abs/2306.17844), which perform correctly on the remaining validation set. It's not _a priori_ obvious that it would work that way! There are $0.2 \cdot 59^{2} \cdot 59$ ≈ 41,000 other possible functions on $\mathbb{Z}/59\mathbb{Z}$ compatible with the training data. Someone sitting in her armchair doing theology might reason that the odds of "aligning" the network to modular addition were forty-thousand to one against, but the actual situation turned out to be much more forgiving, thanks to the inductive biases of SGD. It's not a wild genie that we've Shanghaied into doing modular arithmetic while we're looking, but will betray us to do something else the moment we turn our backs; rather, the training process managed to successfully point to mod-59 arithmetic.
 
 The modular addition network is a research toy, but real frontier AI systems are the same technology, only scaled up with more bells and whistles. I also don't think GPT-4 will betray us to do something else the moment we turn our backs, for broadly similar reasons.
 
@@ -118,23 +118,23 @@ I meant [the intentional stance](https://en.wikipedia.org/wiki/Intentional_stanc
 
 **Simplicia**: As AI designers, we're not particularly in the role of "evolution", construed as some agent that wants to maximize fitness, because there is no such agent in real life. Indeed, I remember reading [a guest post on Robin Hanson's blog](https://web.archive.org/web/20071104095534/http://www.overcomingbias.com/2007/11/evolutions-are-.html) that suggested using the plural, "evolutions", to emphasize that the evolution of a predator species is at odds with that of its prey.
 
-Rather, we get to choose both the optimizer—"natural selection", in terms of the analogy—and the training data—the "environment of evolutionary adaptedness". Language models aren't "general" next token predictors, whatever that would mean—wireheading by siezing control of their context windows and filling them with easy-to-predict sequences? But that's fine. We didn't want a general next token predictor. The cross-entropy loss was merely [a convenient chisel](https://www.lesswrong.com/posts/pdaGN6pQyQarFHXF4/reward-is-not-the-optimization-target).
+Rather, we get to choose both the optimizer—"natural selection", in terms of the analogy—and the training data—the "environment of evolutionary adaptedness". Language models aren't general next token predictors, whatever that would mean—wireheading by seizing control of their context windows and filling them with easy-to-predict sequences? But that's fine. We didn't want a general next token predictor. The cross-entropy loss was merely [a convenient chisel](https://www.lesswrong.com/posts/pdaGN6pQyQarFHXF4/reward-is-not-the-optimization-target) to inscribe the input-output behavior we want onto the network.
 
-**Doomimir**: Back up. When you say that the generalization from human behavior in the EEA to human behavior in civilization "looks a lot better", I think you're implicitly [choosing categories in an unnaturally thin subspace of configuration space](https://www.lesswrong.com/posts/esRZaPXSHgWzyB2NL/where-to-draw-the-boundaries). It looks a lot better _to you_. The point of taking the intentional stance towards evolution was to point out that, relative to the fitness criterion, the invention of ice cream and condoms is catastrophic: we figured out how to satisfy our cravings for sugar and intercourse in a way that was completely unprecedented in the "training environment"—the EEA. Stepping out of the evolution analogy, that corresponds to what we would think of as specification gaming—our AIs find some way to satisfy their inscrutable internal drives in a way that we find horrible.
+**Doomimir**: Back up. When you say that the generalization from human behavior in the EEA to human behavior in civilization "looks a lot better", I think you're implicitly using a [value-laden category](https://arbital.com/p/value_laden/) which is [an unnaturally thin subspace of configuration space](https://www.lesswrong.com/posts/esRZaPXSHgWzyB2NL/where-to-draw-the-boundaries). It looks a lot better _to you_. The point of taking the intentional stance towards evolution was to point out that, relative to the fitness criterion, the invention of ice cream and condoms is catastrophic: we figured out how to satisfy our cravings for sugar and intercourse in a way that was completely unprecedented in the "training environment"—the EEA. Stepping out of the evolution analogy, that corresponds to what we would think of as reward hacking—our AIs find some way to satisfy their inscrutable internal drives in a way that we find horrible.
 
 **Simplicia**: Sure. That could definitely happen. That would be bad.
 
-**Doomimir**: _[confused]_ Why doesn't that completely undermine the optimistic story you were telling me two minutes ago?
+**Doomimir**: _[confused]_ Why doesn't that completely undermine the optimistic story you were telling me a minute ago?
 
 **Simplicia**: I didn't think of myself as telling a particularly optimistic story? I'm making the weak claim that prosaic alignment isn't obviously necessarily doomed, not claiming that Sydney or Claude ascending to [singleton](https://nickbostrom.com/fut/singleton) God–Empress is going to be great.
 
-**Doomimir**: I don't think you're appreciating how superintelligent specification gaming is instantly lethal. The failure mode here doesn't look like Sydney manipulating you to be more abusable, but leaving a recognizable "you".
+**Doomimir**: I don't think you're appreciating how superintelligent reward hacking is instantly lethal. The failure mode here doesn't look like Sydney manipulating you to be more abusable, but leaving a recognizable "you".
 
 That relates to another objection I have. Even if you could make ML systems that imitate human reasoning, that doesn't help you align more powerful systems that work in other ways. The reason—one of the reasons—that you can't train a superintelligence by using humans to label good plans, is because at some power level, your planner figures out how to [hack the human labeler](https://ordinaryideas.wordpress.com/2015/11/25/two-kinds-of-generalization/). Some people naïvely imagine that LLMs learning the distribution of natural language amounts to them learning "human values", such that you could [just have a piece of code that says "and now call GPT and ask it what's good"](https://www.lesswrong.com/posts/i5kijcjFJD6bn7dwq/evaluating-the-historical-value-misspecification-argument?commentId=E82YzXxvS6nBdCAYc). But using an LLM as the labeler instead of a human just means that your powerful planner figures out how to hack the LLM. It's the same problem either way.
 
 **Simplicia**: Do you _need_ more powerful systems? If you can get an army of cheap IQ 140 alien actresses who stay in character, that sounds like a game-changer. If you have to take over the world and institute a global surveillance regime to prevent the emergence of unfriendlier, more powerful forms of AI, they could help you do it.
 
-**Doomimir**: I fundamentally disbelieve in this wildly implausible scenario, but granting it for the sake of argument ... I think you're failing to appreciate that in this story, you've already handed off the keys to the universe, even if your AIs have been trained to be "corrigible" and "obey orders" in a way that seemed to work at low power levels. When humans servants who are trying to be helpful ask questions of their master, it's because they don't know what the master wants. If the servants could predict how the master _would_ respond to any question, there would be no need to actually ask. A "servant" who could forsee the detailed outcome of every possible sequence of questions, would be in a position to choose among those outcomes—and in so choosing, it would be in control. The fate of the galaxies would be determined by _its_ will, even if the initial stages of its ascension took place via innocent-looking actions that stayed within the edges of its concepts of "obeying orders" and "asking clarifying questions". Look, you understand that AIs trained on human data are not human, right?
+**Doomimir**: I fundamentally disbelieve in this wildly implausible scenario, but granting it for the sake of argument ... I think you're failing to appreciate that in this story, you've already handed off the keys to the universe. Your AI's weird-alien-goal-misgeneralization-of-obedience might look like obedience when weak, but if it has the ability to predict the outcomes of its actions, it would be in a position to choose among those outcomes—and in so choosing, it would be in control. The fate of the galaxies would be determined by _its_ will, even if the initial stages of its ascension took place via innocent-looking actions that stayed within the edges of its concepts of "obeying orders" and "asking clarifying questions". Look, you understand that AIs trained on human data are not human, right?
 
 **Simplicia**: Sure. For example, I certainly don't believe that LLMs that convincingly talk about "happiness" are actually happy. I don't know how consciousness works, but the training data only pins down external behavior.
 
@@ -150,7 +150,7 @@ That relates to another objection I have. Even if you could make ML systems that
 
 **Simplicia**: I said "in principle"! Yes, despite the larger stakes and novel context, where we're growing new kinds of minds _in silico_, rather than providing mere cultural input to the code in our genes.
 
-Of course, there is a first time for everthing—one way or the other. If it were rigorously established that the way engineering and life have always worked would lead to certain disaster, perhaps the world's power players could be persuaded to turn back, to reject the imperative of history, to choose barrenness, at least for now, rather than bring vile offspring into the world. It would seem that the fate of the lightcone depends on—
+Of course, there is a first time for everything—one way or the other. If it were rigorously established that the way engineering and life have always worked would lead to certain disaster, perhaps the world's power players could be persuaded to turn back, to reject the imperative of history, to choose barrenness, at least for now, rather than bring vile offspring into the world. It would seem that the fate of the lightcone depends on—
 
 **Doomimir**: I'm afraid so—
 
