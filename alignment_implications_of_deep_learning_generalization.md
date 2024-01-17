@@ -1,4 +1,4 @@
-## Alignment Implications of Deep Learning Generalization: Another Discussion in One Act
+## And All the Shoggoths Merely Players: Another Debate in One Act
 
 ### Scene 0 (Prologue)
 
@@ -40,8 +40,17 @@ _[Setting: a suburban house, in cross-section: the house's front wall divides th
 
 _[Simplicia smiles and gives the audience a thumbs-up.]_
 
-### Scene 1 (The Discussion)
+### Scene 1 (The Debate)
 
 _[Later, inside the house. Doomimir has washed up and seems to be in a relatively better mood.]_
 
 **Doomimir**: What are you confused about? I mean, that you wanted to talk about.
+
+**Simplicia**:
+
+[TODO—sketch of the argument I'm covering—
+ * Belrose claims that Yudkowsky's theory predicts that larger networks should be less likely to generalize well, because they represent a larger space
+ * My gloss: why doesn't the "predicting bar conversations doesn't make you drunk" analogy also imply "predicting the answers to mod arithmetic problems doesn't mean you implement mod arithmetic", a failed prediction?
+ * Yudkowsky's reply: predicting bar conversations mean you already know what the drunk person knows, but being drunk yourself would get in the way. For mod arithmetic, there's no desideratum there besides knowledge.
+ * My elaboration: and specifically, "get in the way" means there's a gradient 
+]
