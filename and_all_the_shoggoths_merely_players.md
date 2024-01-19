@@ -1,6 +1,6 @@
 ## And All the Shoggoths Merely Players: Another Debate in One Act
 
-### Prologue
+### Scene 0: Prologue
 
 _[Setting: a suburban house, in cross-section: the house's front wall divides the stage in half. On the audience's left, a dishevelled **Doomimir** sits in an easy chair, facing a television. On the audience's right, we see the front porch.]_
 
@@ -22,7 +22,7 @@ _[Setting: a suburban house, in cross-section: the house's front wall divides th
 
 **Doomimir**:  _[shrugging]_ Yes. _[gruffly]_ Again, what do you want?
 
-**Simplicia**: I can't stop thinking about [our last conversation](https://www.lesswrong.com/posts/pYWA7hYJmXnuyby33/alignment-implications-of-llm-successes-a-debate-in-one-act). It was kind of all over the place. I'd like to continue, but focusing more narrowly on a few points I'm still confused about.
+**Simplicia**: I can't stop thinking about [our last conversation](https://www.lesswrong.com/posts/pYWA7hYJmXnuyby33/alignment-implications-of-llm-successes-a-debate-in-one-act). It was kind of all over the place. I'd like to continue, but focusing more narrowly on a couple points I'm still confused about.
 
 **Doomimir**: And why should I bother tutoring an Earth woman in alignment theory? If you didn't get it from the empty string, and you didn't get it from our last discussion, why should I have any hope of you learning this time? And even if you did, [what good would it do?](https://www.lesswrong.com/posts/4Gcz3fGcYmmzhozxr/hashing-out-long-standing-disagreements-seems-low-value-to) You're a rando with no political power or scientific credentials. Are _you_ to stop Magma from destroying the world?
 
@@ -40,7 +40,7 @@ _[Setting: a suburban house, in cross-section: the house's front wall divides th
 
 _[Simplicia beams and gives the audience a thumbs-up.]_
 
--------
+### Scene 1: The Drunk Actress
 
 _[Later, inside the house. Doomimir has washed up and seems to be in a relatively better mood.]_
 
@@ -48,10 +48,27 @@ _[Later, inside the house. Doomimir has washed up and seems to be in a relativel
 
 **Simplicia**: You seemed really intent on that "alien actress" intuition pump against human-imitation-based alignment strategies, which seemed unmotivated.
 
-**Doomimir**: Unmotivated? You know that LLMs that emit plausibly human-written text are not human. Thus, the AI is not the character it's playing. Or, being able to predict the conversation in a bar, doesn't make you drunk. What's there not to get, even for you?
+**Doomimir**: Unmotivated? You know that LLMs that emit plausibly human-written text aren't human. Thus, the AI is not the character it's playing. Similarly, being able to predict the conversation in a bar, doesn't make you drunk. [What's there not to get](https://twitter.com/ESYudkowsky/status/1633219449724760065), even for you?
 
-**Simplicia**: As far as safety properties go, we don't care who the actress is as long as she stays in character. Why doesn't the "predicting barroom conversation doesn't make you drunk" analogy imply "predicting the answers to modular arithmetic problems doesn't mean you implement modular arithmetic"?
+**Simplicia**: Why doesn't the "predicting barroom conversation doesn't make you drunk" analogy falsely imply "predicting the answers to modular arithmetic problems doesn't mean you implement modular arithmetic"?
 
+**Doomimir**: To predict the conversation in a bar, you need to know everything the drunk people know, separately and in addition to everything you know. Being drunk yourself would just get in the way. Mod arithmetic isn't like that; there's nothing besides the knowledge to not implement.
+
+**Simplicia**: But as far as safety properties go, we don't care whether the actress is "really drunk" as long as she stays in character.
+
+**Doomimir**: _[scoffing]_ Have you [tried imagining any internal mechanisms at all](https://twitter.com/ESYudkowsky/status/1743688927238934876) other than a bare inclination to emit the outward behavior you observe?
+
+**Simplicia**: _[unfazed]_ Sure, let's talk about internal mechanisms. The reason I chose modular arithmetic as an example is because it's a task for which we have [good interpretability results](https://arxiv.org/abs/2301.05217). The network learns to map the inputs onto a circle in the embedding space, and then does some trigonometry to extract the [residue](https://en.wikipedia.org/wiki/Modular_arithmetic#Congruence_classes), much as one would count forward on the face of an analog clock.
+
+Alternatively, with a slightly different architecture, it learns a different algorithm: 
+
+[TODO—
+S (cont'd): it looks like SGD learns the "true" mod arithmetic function from training data (under the grokking rather than generalizing condition). The exact implementation it learns depends on details (clock vs. pizza), but crucially, they both end up generalizing. Why can't the "good person" function be learned from training data? You say, "actually being drunk would get in the way", what does that mean?
+D: Having a model of the thing isn't the only way to make good predictions about the thing. 
+S: 
+]
+
+### Scene 2: Uses of the Evolution Analogy
 
 [TODO—sketch of the real-world arguments I'm covering—
  * Belrose claims that Yudkowsky's theory predicts that larger networks should be less likely to generalize well, because they represent a larger space of functions
@@ -66,5 +83,7 @@ _[Later, inside the house. Doomimir has washed up and seems to be in a relativel
  * Yudkowsky: 0th-order vs. 1st-order optimizers should both mess up for generalizable reasons
  * My confusion: uh, gradients seem like a big deal? (Qualitatively, deep-learning from data seems a lot more flexible than selectively breeding animals.) On the other hand, "Loss Landscapes Are All You Need" suggests that the secret of generalization is that flat minima occupy more volume.
  * Yudkowsky: 'My arguments against SGD exactly mirroring quoted outer functions generating particular rewards, to inner psychological pursuit of the quoted reward function generalizing across distributions, include, "If you train a mind to exactly predict text from many individual drunks, it will not thereby become drunk" and "Actually you're still doing greedy local search and it's gonna hit on local correlates again" and "Just like weird shit went wrong with natural selection, we should also expect different weird shit to go wrong with SGD"'
+ * planning is recursive, retargetable search: https://www.lesswrong.com/posts/6mysMAqvo9giHC4iX/what-s-general-purpose-search-and-why-might-we-expect-to-see
 ]
 
+make sure to use "the trick that never works" re biology and AI comparisons!!
