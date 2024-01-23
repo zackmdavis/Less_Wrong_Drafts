@@ -22,7 +22,7 @@ _[Setting: a suburban house, in cross-section: the house's front wall divides th
 
 **Doomimir**:  _[shrugging]_ Yes. _[gruffly]_ Again, what do you want?
 
-**Simplicia**: I can't stop thinking about [our last conversation](https://www.lesswrong.com/posts/pYWA7hYJmXnuyby33/alignment-implications-of-llm-successes-a-debate-in-one-act). It was kind of all over the place. I'd like to continue, but focusing in narrower detail on a couple points I'm still confused about.
+**Simplicia**: I can't stop thinking about [our last conversation](https://www.lesswrong.com/posts/pYWA7hYJmXnuyby33/alignment-implications-of-llm-successes-a-debate-in-one-act). It was kind of all over the place. If you're up for it, I'd like to continue, but focusing in narrower detail on a couple points I'm still confused about.
 
 **Doomimir**: And why should I bother tutoring an Earth woman in alignment theory? If you didn't get it from the empty string, and you didn't get it from our last discussion, why should I have any hope of you learning this time? And even if you did, [what good would it do?](https://www.lesswrong.com/posts/4Gcz3fGcYmmzhozxr/hashing-out-long-standing-disagreements-seems-low-value-to) You're a rando with no political power or scientific credentials. Are _you_ to stop Magma from destroying the world?
 
@@ -46,45 +46,46 @@ _[Later, inside the house. Doomimir has washed up and seems to be in a relativel
 
 **Doomimir**: What are you confused about? I mean, that you wanted to talk about.
 
-**Simplicia**: You seemed really intent on that "alien actress" intuition pump against human-imitation-based alignment strategies, which seemed unmotivated.
+**Simplicia**: You seemed really intent on a particular intuition pump against human-imitation-based alignment strategies, where you compared AI to an alien actress. I didn't find that compelling.
 
-**Doomimir**: Unmotivated? You know that LLMs that emit plausibly human-written text aren't human. Thus, the AI is not the character it's playing. Similarly, being able to predict the conversation in a bar, doesn't make you drunk. [What's there not to get](https://twitter.com/ESYudkowsky/status/1633219449724760065), even for you?
+**Doomimir**: But you know that LLMs that emit plausibly human-written text aren't human. Thus, the AI is not the character it's playing. Similarly, being able to predict the conversation in a bar, doesn't make you drunk. [What's there not to get](https://twitter.com/ESYudkowsky/status/1633219449724760065), even for you?
 
 **Simplicia**: Why doesn't the "predicting barroom conversation doesn't make you drunk" analogy falsely imply "predicting the answers to modular arithmetic problems doesn't mean you implement modular arithmetic"?
 
 **Doomimir**: To predict the conversation in a bar, you need to know everything the drunk people know, separately and in addition to everything you know. Being drunk yourself would just get in the way. Mod arithmetic isn't like that; there's nothing besides the knowledge to not implement.
 
-**Simplicia**: But we only need our AI to compute friendly behavior, not necessarily to have some epiphenominal subjective _quale_ of niceness. As far as safety properties go, we don't care whether the actress is "really drunk" as long as she stays in character. 
+**Simplicia**: But we only need our AI to compute nice behavior, not necessarily to have some internal structure corresponding to the _quale_ of niceness. As far as safety properties go, we don't care whether the actress is "really drunk" as long as she stays in character.
 
-**Doomimir**: _[scoffing]_ Have you [tried imagining any internal mechanisms at all](https://twitter.com/ESYudkowsky/status/1743688927238934876) other than a bare inclination to emit the outward behavior you observe?
+**Doomimir**: _[scoffing]_ Have you [tried imagining any internal mechanisms at all](https://twitter.com/ESYudkowsky/status/1743688927238934876) other than a bare, featureless inclination to emit the outward behavior you observe?
 
 **Simplicia**: _[unfazed]_ Sure, let's talk about internal mechanisms. The reason I chose modular arithmetic as an example is because it's a task for which we have [good interpretability results](https://arxiv.org/abs/2301.05217). Train a shallow transformer on a subset of the addition problems modulo some fixed prime. The network learns to map the inputs onto a circle in the embedding space, and then does some trigonometry to extract the [residue](https://en.wikipedia.org/wiki/Modular_arithmetic#Congruence_classes), much as one would count forward on the face of an analog clock.
 
-Alternatively, with a slightly different architecture that has a harder time with trig, [it can learn a different algorithm](https://arxiv.org/abs/2306.17844): the embeddings are still on a circle, but the answer is computed by looking at the average of the embeddings. On the face of an analog clock, the internal midpoints between distinct numbers that sum to 6 mod 12—that's 2 and 4, or 1 and 5, or 6 and 12, or 10 and 8, or 11 and 7—all lie on the line connecting 3 and 9. In this way, the sum-mod-_p_ of two numbers can be determined by which line the midpoint of the inputs falls on—as long as the inputs aren't on opposite sides of the circle, where all the lines meet. But the network compensates for such antipodal points by also learning another circle in a different subspace of the embedding space where inputs that are antipodal on the first circle are close together on the second, and using that for error correction.
+Alternatively, with a slightly different architecture that has a harder time with trig, [it can learn a different algorithm](https://arxiv.org/abs/2306.17844): the embeddings are still on a circle, but the answer is computed by looking at the average of the embedding vectors of the inputs. On the face of an analog clock, the internal midpoints between distinct numbers that sum to 6 mod 12—that's 2 and 4, or 1 and 5, or 6 and 12, or 10 and 8, or 11 and 7—all lie on the line connecting 3 and 9. In this way, the sum-mod-_p_ of two numbers can be determined by which line the midpoint of the inputs falls on—as long as the inputs aren't on opposite sides of the circle, in which case their midpoint is in the center, where all the lines meet. But the network compensates for such antipodal points by also learning another circle in a different subspace of the embedding space, such that inputs that are antipodal on the first circle are close together on the second, which helps disambiguate the result.
 
 **Doomimir**: Cute results. Excellent work—by Earth standards. What's your point?
 
-**Simplicia**: It's evidence about the feasibility of learning desired behavior from training data. You seem to think that it's hopelessly naïve to imagine that training on "nice" data could result in generalizably nice behavior—that the only reason someone might think that was a viable path was is if they were engaging in [magical reasoning about surface similarities](https://www.lesswrong.com/posts/6ByPxcGDhmx74gPSm/surface-analogies-and-deep-causes). I think it's germane to point out that at least for this toy problem, we have a concrete, non-magical story about how stochastic gradient descent on training data discovers a correct algorithm that also does well on a test set.
+**Simplicia**: It's evidence about the feasibility of learning desired behavior from training data. You seem to think that it's hopelessly naïve to imagine that training on "nice" data could result in generalizably nice behavior—that the only reason someone might think that was a viable path was is if they were engaging in [magical reasoning about surface similarities](https://www.lesswrong.com/posts/6ByPxcGDhmx74gPSm/surface-analogies-and-deep-causes). I think it's germane to point out that at least for this toy problem, we have a pretty concrete, non-magical story about how stochastic gradient descent on a training set discovers an algorithm that reproduces the training data and also generalizes correctly to the test set.
 
-For non-toy problems, we don't have such good interpretability results to give us confidence that our optimizer found a correct algorithm. But empirically, deep learning can hit very precise behavioral targets: the vast hypermajority of programs can't speak fluent English or generate beautiful photorealistic images.
+For non-toy problems, we don't have such good interpretability results to give us confidence that our optimizer found a correct algorithm. But empirically, modern deep learning methods _can_ hit very precise behavioral targets: the vast hypermajority of programs don't speak fluent English or generate beautiful photorealistic images, and yet GPT-4 and Midjourney exist.
 
-[TODO—
- * We _can_ hit precise targets in images and text: finding a network that generates "more like this".
- * Worried about misalignment are worried about mis-generalization.
- * "leaving one thing out" / tiny molecular smileyfaces
- * It wasn't obvious in 2008 that the computational universe would be this kind
- * What if you can do the same thing for increasingly long-horizon planning? If you can learn a "good person" input-output function from data, that might be "enough" alignment (even if the function isn't human and isn't the superintelligence at the end of time)
- * "solve human-comprehensible tasks, composed along human-comprehensible interfaces" https://www.greaterwrong.com/posts/fRSj2W4Fjje8rQWm9/thoughts-on-sharing-information-about-language-model
-]
+If doing _that_ for "text" and "images" was a mere engineering problem, I don't see what fundamental theoretical barrier rules out the possibility of pulling off the same kind of thing for "friendly and moral real-world decisionmaking"—learning a "good person" function from data, much as Midjourney has learned a "good art" function.
 
-**Doomimir**: Your mother named you well.
+It's true that diffusion models don't work like a human artist on the inside, but it's not clear why that matters? It would seem idle to retort, "Predicting what good art would look like, doesn't make you a good artist; having an æsthetic sense yourself would just get in the way", when you can actually use it to do an artist's job. 
 
-**Simplicia**: That may be so, but making fun of my learning disability is _not a counterargument_ and _you know it_. I'm not confident about any of this! But while the world is still here, I think it's more dignified that I try to understand, and I'm _trying to understand_.
+**Doomimir**: _[shaking his head]_ Your mother named you well.
+
+**Simplicia**: _[defiant]_ That may be so, but making fun of my learning disability is _not a counterargument_ and _you know it_. I'm not confident about any of this! But while the world is still here, I think it's more dignified that I try to understand, and I'm _trying to understand_. Maybe everything I just said is wrong, but if that's so self-evident, you should be able to explain _why_ it's wrong. _Why_ does "being nice yourself would get in the way" prevent using a nice-person-predicting machine to do nice things? How would it get in the way? Reply!
+
+**Doomimir**: Very well, Simplicia Optimistovna.
+
+--------
 
 [TODO: Simplica—counterargument to "just get in the way. Mod arithmetic isn't like that; there's nothing besides the knowledge to not implement"; repeating "The actress is not the character" as a slogan doesn't answer. Reply!]
 
 [TODO: Doomimir—having a model of the thing isn't the only way to make good predictions about the thing; intelligence creates domain shifts; the natural generalization may not be the desired one; the correct theory pointing at the human simulator; general, retargetable search should exist]
 [TODO: Simplicia—is this a falsifiable claim that generalization will work differently for "tru intellignece" than it does for language?]
+
+
 
 ### Scene 2: Uses of the Evolution Analogy
 
@@ -107,6 +108,8 @@ For non-toy problems, we don't have such good interpretability results to give u
  * planning is recursive, retargetable search: https://www.lesswrong.com/posts/6mysMAqvo9giHC4iX/what-s-general-purpose-search-and-why-might-we-expect-to-see
  * https://www.greaterwrong.com/posts/aaYZM4kLdHP3pwtfQ/on-the-lethality-of-biased-human-reward-ratings
  * https://www.greaterwrong.com/posts/xzFQp7bmkoKfnae9R/but-exactly-how-complex-and-fragile
+ * https://www.lesswrong.com/posts/HmQGHGCnvmpCNDBjc/current-ais-provide-nearly-no-data-relevant-to-agi-alignment
+ * https://www.lesswrong.com/posts/ax695frGJEzGxFBK4/biology-inspired-agi-timelines-the-trick-that-never-works
 ]
 
 
