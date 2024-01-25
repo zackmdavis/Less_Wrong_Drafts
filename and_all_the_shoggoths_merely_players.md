@@ -52,7 +52,7 @@ _[Later, inside the house. Doomimir has washed up and seems to be in a relativel
 
 **Simplicia**: Why doesn't the "predicting barroom conversation doesn't make you drunk" analogy falsely imply "predicting the answers to modular arithmetic problems doesn't mean you implement modular arithmetic"?
 
-**Doomimir**: To predict the conversation in a bar, you need to know everything the drunk people know, separately and in addition to everything you know. Being drunk yourself would just get in the way. Mod arithmetic isn't like that; there's nothing besides the knowledge to not implement.
+**Doomimir**: To predict the conversation in a bar, you need to know everything the drunk people know, separately and in addition to everything you know. Being drunk yourself [would just get in the way](https://twitter.com/ESYudkowsky/status/1744061053754032634). Similarly, predicting the behavior of nice people isn't the same thing as being nice. Modular arithmetic isn't like that; there's nothing besides the knowledge to not implement.
 
 **Simplicia**: But we only need our AI to compute nice behavior, not necessarily to have some internal structure corresponding to the _quale_ of niceness. As far as safety properties go, we don't care whether the actress is "really drunk" as long as she stays in character.
 
@@ -70,21 +70,32 @@ For non-toy problems, we don't have such good interpretability results to give u
 
 If doing _that_ for "text" and "images" was a mere engineering problem, I don't see what fundamental theoretical barrier rules out the possibility of pulling off the same kind of thing for "friendly and moral real-world decisionmaking"—learning a "good person" function from data, much as Midjourney has learned a "good art" function.
 
-It's true that diffusion models don't work like a human artist on the inside, but it's not clear why that matters? It would seem idle to retort, "Predicting what good art would look like, doesn't make you a good artist; having an æsthetic sense yourself would just get in the way", when you can actually use it to do an artist's job. 
+It's true that diffusion models don't work like a human artist on the inside, but it's not clear why that matters? It would seem idle to retort, "Predicting what good art would look like, doesn't make you a good artist; having an æsthetic sense yourself would just get in the way", when you can actually use it to do a commissioned artist's job.
 
 **Doomimir**: _[shaking his head]_ Your mother named you well.
 
-**Simplicia**: _[defiant]_ That may be so, but making fun of my learning disability is _not a counterargument_ and _you know it_. I'm not confident about any of this! But while the world is still here, I think it's more dignified that I try to understand, and I'm _trying to understand_. Maybe everything I just said is wrong, but if that's so self-evident, you should be able to explain _why_ it's wrong. _Why_ does "being nice yourself would get in the way" prevent using a nice-person-predicting machine to do nice things? How would it get in the way? Reply!
+**Simplicia**: _[defiant]_ That may be so, but making fun of my learning disability is _not a counterargument_ and _you know it_. I'm not confident about any of this! But while the world is still here, I think it's more dignified that I try to understand, and I'm _trying to understand_. Maybe everything I just said is wrong, but if that's so self-evident, it should be correspondingly easy to explain _why_ it's wrong. Why can't we use a good-person-predicting machine to do the cognitive work a good person would have done, even though a good-person-predicting machine isn't implemented as a good person on the inside? Reply!
 
-**Doomimir**: Very well, Simplicia Optimistovna.
+**Doomimir**: What makes intelligence useful—and dangerous—isn't a fixed repetoire of behaviors. It's search, optimization—the systematic discovery of _new_ behaviors to achieve goals despite a changing environment. I [don't think recent capabilities advances bear on the shape of the alignment challenge](https://www.lesswrong.com/posts/HmQGHGCnvmpCNDBjc/current-ais-provide-nearly-no-data-relevant-to-agi-alignment) because being able to learn complex behavior _on the training distribution_ was never what the problem was about.
 
---------
 
-[TODO: Simplica—counterargument to "just get in the way. Mod arithmetic isn't like that; there's nothing besides the knowledge to not implement"; repeating "The actress is not the character" as a slogan doesn't answer. Reply!]
+[optimization amplifies](https://www.lesswrong.com/posts/zEvqFtT4AtTztfYC4/optimization-amplifies)
+https://www.lesswrong.com/posts/NJYmovr9ZZAyyTBwM/what-i-mean-by-alignment-is-in-large-part-about-making
 
-[TODO: Doomimir—having a model of the thing isn't the only way to make good predictions about the thing; intelligence creates domain shifts; the natural generalization may not be the desired one; the correct theory pointing at the human simulator; general, retargetable search should exist]
-[TODO: Simplicia—is this a falsifiable claim that generalization will work differently for "tru intellignece" than it does for language?]
 
+
+[TODO— 
+ * D: The useful work of intelligence isn't about matching a static distribution; it's about optimization, search; doing new things. Modeling text about consequentialist reasoning will incentivize consequentialism algorithms, but 
+ * S: Maybe. This seems like a complicated empirical question, that the generalization properties of existing systems bear evidence on  https://banburismus.substack.com/p/safety-as-a-scientific-pursuit
+ * D: The generalization doesn't necessarily work in our favor
+
+ * D: Getting in the way
+ * S: retargeting the search
+
+ * D: Yes, I agree that that's a crux
+
+
+]
 
 
 ### Scene 2: Uses of the Evolution Analogy
@@ -112,5 +123,25 @@ It's true that diffusion models don't work like a human artist on the inside, bu
  * https://www.lesswrong.com/posts/ax695frGJEzGxFBK4/biology-inspired-agi-timelines-the-trick-that-never-works
 ]
 
+not having a goal slot makes things worse, not better
+
+https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/
+https://www.lesswrong.com/posts/AyNHoTWWAJ5eb99ji/another-outer-alignment-failure-story
+https://www.lesswrong.com/posts/BtffzD5yNB4CzSTJe/genetic-fitness-is-a-measure-of-selection-strength-not-the
+https://www.greaterwrong.com/posts/LDRQ5Zfqwi8GjzPYG/counterarguments-to-the-basic-ai-x-risk-case/comment/3AhQKzYCYfAAeenrF
+https://www.greaterwrong.com/posts/hvz9qjWyv8cLX9JJR/evolution-provides-no-evidence-for-the-sharp-left-turn
+
+https://arxiv.org/abs/1805.08522 "Deep learning generalizes because the parameter-function map is biased towards simple functions"
+
+https://www.greaterwrong.com/posts/PoDAyQMWEXBBBEJ5P/magical-categories
+
+"You wouldn't upload a bird" seems less compelling in the LLM era
 
 make sure to use "the trick that never works" re biology and AI comparisons!!
+
+https://www.greaterwrong.com/posts/BtffzD5yNB4CzSTJe/genetic-fitness-is-a-measure-of-selection-strength-not-the/comment/kGtqbD7hCxuiFv3XL some drives are more abstract
+
+> The reason we want a function B that can map world states to utilities is so that we can optimize on that number.
+https://www.greaterwrong.com/posts/LDRQ5Zfqwi8GjzPYG/counterarguments-to-the-basic-ai-x-risk-case/comment/qBLeyiPzidctBmSB8
+
+https://towardsdatascience.com/deep-neural-networks-are-biased-at-initialisation-towards-simple-functions-a63487edcb99
