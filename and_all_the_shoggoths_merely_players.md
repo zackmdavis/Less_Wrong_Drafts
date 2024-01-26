@@ -48,7 +48,7 @@ _[Later, inside the house. Doomimir has washed up and seems to be in a relativel
 
 **Simplicia**: You seemed really intent on a particular intuition pump against human-imitation-based alignment strategies, where you compared AI to an alien actress. I didn't find that compelling.
 
-**Doomimir**: But you know that LLMs that emit plausibly human-written text aren't human. Thus, the AI is not the character it's playing. Similarly, being able to predict the conversation in a bar, doesn't make you drunk. [What's there not to get](https://twitter.com/ESYudkowsky/status/1633219449724760065), even for you?
+**Doomimir**: But you claim to understand that LLMs that emit plausibly human-written text aren't human. Thus, the AI is not the character it's playing. Similarly, being able to predict the conversation in a bar, doesn't make you drunk. [What's there not to get](https://twitter.com/ESYudkowsky/status/1633219449724760065), even for you?
 
 **Simplicia**: Why doesn't the "predicting barroom conversation doesn't make you drunk" analogy falsely imply "predicting the answers to modular arithmetic problems doesn't mean you implement modular arithmetic"?
 
@@ -66,7 +66,7 @@ Alternatively, with a slightly different architecture that has a harder time wit
 
 **Simplicia**: It's evidence about the feasibility of learning desired behavior from training data. You seem to think that it's hopelessly naïve to imagine that training on "nice" data could result in generalizably nice behavior—that the only reason someone might think that was a viable path was is if they were engaging in [magical reasoning about surface similarities](https://www.lesswrong.com/posts/6ByPxcGDhmx74gPSm/surface-analogies-and-deep-causes). I think it's germane to point out that at least for this toy problem, we have a pretty concrete, non-magical story about how stochastic gradient descent on a training set discovers an algorithm that reproduces the training data and also generalizes correctly to the test set.
 
-For non-toy problems, we don't have such good interpretability results to give us confidence that our optimizer found a correct algorithm. But empirically, modern deep learning methods _can_ hit very precise behavioral targets: the vast hypermajority of programs don't speak fluent English or generate beautiful photorealistic images, and yet GPT-4 and Midjourney exist.
+For non-toy problems, we don't have such good interpretability results to give us confidence that our optimizer found a correct algorithm. But empirically, deep learning _can_ hit very precise behavioral targets: the vast hypermajority of programs don't speak fluent English or generate beautiful photorealistic images, and yet GPT-4 and Midjourney exist.
 
 If doing _that_ for "text" and "images" was a mere engineering problem, I don't see what fundamental theoretical barrier rules out the possibility of pulling off the same kind of thing for "friendly and moral real-world decisionmaking"—learning a "good person" function from data, much as Midjourney has learned a "good art" function.
 
@@ -76,27 +76,56 @@ It's true that diffusion models don't work like a human artist on the inside, bu
 
 **Simplicia**: _[defiant]_ That may be so, but making fun of my learning disability is _not a counterargument_ and _you know it_. I'm not confident about any of this! But while the world is still here, I think it's more dignified that I try to understand, and I'm _trying to understand_. Maybe everything I just said is wrong, but if that's so self-evident, it should be correspondingly easy to explain _why_ it's wrong. Why can't we use a good-person-predicting machine to do the cognitive work a good person would have done, even though a good-person-predicting machine isn't implemented as a good person on the inside? Reply!
 
-**Doomimir**: What makes intelligence useful—and dangerous—isn't a fixed repetoire of behaviors. It's search, optimization—the systematic discovery of _new_ behaviors to achieve goals despite a changing environment. I [don't think recent capabilities advances bear on the shape of the alignment challenge](https://www.lesswrong.com/posts/HmQGHGCnvmpCNDBjc/current-ais-provide-nearly-no-data-relevant-to-agi-alignment) because being able to learn complex behavior _on the training distribution_ was never what the problem was about.
+**Doomimir**: What makes intelligence useful—and dangerous—isn't a fixed repetoire of behaviors. It's search, optimization—the systematic discovery of _new_ behaviors to optimize goals despite a changing environment. I [don't think recent capabilities advances bear on the shape of the alignment challenge](https://www.lesswrong.com/posts/HmQGHGCnvmpCNDBjc/current-ais-provide-nearly-no-data-relevant-to-agi-alignment) because being able to learn complex behavior _on the training distribution_ was never what the problem was about.
 
+Indeed, as long as we continue to be stuck in the paradigm of reasoning about "the training distribution"—growing minds rather than designing them—then we're not learning anything about how to [aim cognition](https://www.lesswrong.com/posts/NJYmovr9ZZAyyTBwM/what-i-mean-by-alignment-is-in-large-part-about-making) at specific optimization targets—certainly not in a way that will [hold up to dumping large amounts of optimization power into the system](https://www.lesswrong.com/posts/zEvqFtT4AtTztfYC4/optimization-amplifies).
 
-[optimization amplifies](https://www.lesswrong.com/posts/zEvqFtT4AtTztfYC4/optimization-amplifies)
-https://www.lesswrong.com/posts/NJYmovr9ZZAyyTBwM/what-i-mean-by-alignment-is-in-large-part-about-making
+_[he eyes the television]_ Does that suffice? Will you leave me to enjoy my short life?
 
+**Simplicia**: Not yet. I understand the theory of utility optimization—
 
+**Doomimir**: No you don't.
 
-[TODO— 
- * D: The useful work of intelligence isn't about matching a static distribution; it's about optimization, search; doing new things. Modeling text about consequentialist reasoning will incentivize consequentialism algorithms, but 
- * S: Maybe. This seems like a complicated empirical question, that the generalization properties of existing systems bear evidence on  https://banburismus.substack.com/p/safety-as-a-scientific-pursuit
- * D: The generalization doesn't necessarily work in our favor
+**Simplicia**: I have some nonzero but undoubtedly incomplete understanding of the theory of utility optimization?
 
- * D: Getting in the way
- * S: retargeting the search
+_[Doomimir nods graciously.]_
 
- * D: Yes, I agree that that's a crux
+**Simplicia**: The theory inspires me to imagine a simple story where AI is a magic box with a "goal slot" where the user inputs a utility function _U_. When you switch the box on, it computes a plan to maximize _U_. As you turn the dial up to make it use more magic, then at some point, everyone dies, because we're made out of atoms that can be arranged into a higher-_U_ configuration.
 
+**Doomimir**: More or less.
 
+**Simplicia**: We agree that contemporary AI techniques are not a magic box with a goal slot. I think we should be looking at contemporary techniques and their likely future extensions, and figuring out how to make them safe and useful, bearing in mind the danger implied by our theories which suggest that the limiting case of arbitrarily powerful AI should look more like the magic box. I think that you think that I'm retarded for having any hope that contemporary techniques and their likely future extensions could be made safe.
+
+**Doomimir**: Again, more or less. The lack of an explicit "goal slot" in your neural network doesn't mean it's not doing any dangerous optimization; it just means you don't know what it is. And your mother would seem to agree that you're—
+
+**Simplicia**: _[interrupting]_ I think we _can_ form educated guesses—
+
+**Doomimir**: _[interrupting]_ Guesses!
+
+**Simplicia**: Probabilistic beliefs—about what kinds of optimization is being done by a system and whether it's a problem, even without a complete mechanistic interpretability story. If you think LLMs or future variations thereof are unsafe because they're analogous to an actress with her own goals playing a drunk character without herself being drunk, shouldn't that make some sort of testable prediction about their generalization behavior?
+
+**Doomimir**: Nonfatally testable? Not necessarily. [TODO: Bernie Madoff analogy]
+
+**Simplicia**: Can we at least distinguish between misgeneralization and instrumental deceptive alignment?
+
+**Doomimir**: _Mis_-generalization? [TODO: the behavior you want https://www.lesswrong.com/posts/PoDAyQMWEXBBBEJ5P/magical-categories]
+
+**Simplicia**: Can I call it _mal_-generalization?
+
+**Doomimir**: Sure.
+
+[TODO— points to cover before scene break—
+ * generalization doesn't work in our favor
+ * "getting in the way"
+ * the text modeling task is going to result in retargetable consequentialism being learned
+ * a fact about the training distribution, the test distribution, and the optimizer
 ]
 
+**Simplicia**: Actually, before you answer that—can I use your bathroom?
+
+**Doomimir**: _[pointing]_ Down the hall.
+
+**Simplicia**: _[to the audience]_ We'll be right back.
 
 ### Scene 2: Uses of the Evolution Analogy
 
@@ -123,6 +152,8 @@ https://www.lesswrong.com/posts/NJYmovr9ZZAyyTBwM/what-i-mean-by-alignment-is-in
  * https://www.lesswrong.com/posts/ax695frGJEzGxFBK4/biology-inspired-agi-timelines-the-trick-that-never-works
 ]
 
+parametrically retargetable agents seek power
+
 not having a goal slot makes things worse, not better
 
 https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/
@@ -143,5 +174,7 @@ https://www.greaterwrong.com/posts/BtffzD5yNB4CzSTJe/genetic-fitness-is-a-measur
 
 > The reason we want a function B that can map world states to utilities is so that we can optimize on that number.
 https://www.greaterwrong.com/posts/LDRQ5Zfqwi8GjzPYG/counterarguments-to-the-basic-ai-x-risk-case/comment/qBLeyiPzidctBmSB8
+
+https://banburismus.substack.com/p/safety-as-a-scientific-pursuit
 
 https://towardsdatascience.com/deep-neural-networks-are-biased-at-initialisation-towards-simple-functions-a63487edcb99
