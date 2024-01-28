@@ -1,4 +1,4 @@
-## And All the Shoggoths Merely Players: Another Debate in One Act
+## And All the Shoggoths Merely Players
 
 ### Scene 0: Prologue
 
@@ -40,7 +40,9 @@ _[Setting: a suburban house, in cross-section: the house's front wall divides th
 
 _[Simplicia beams and gives the audience a thumbs-up.]_
 
-### Scene 1: The Drunk Actress
+_[Curtain.]_
+
+### Scene 1
 
 _[Later, inside the house. Doomimir has washed up and seems to be in a relatively better mood.]_
 
@@ -94,7 +96,7 @@ _[Doomimir nods graciously.]_
 
 **Doomimir**: More or less.
 
-**Simplicia**: We agree that contemporary AI techniques are not a magic box with a goal slot. _I_ think we should be looking at contemporary techniques and their likely future extensions, and figuring out how to make them safe and useful, bearing in mind the danger implied by our theories which suggest that the limiting case of arbitrarily powerful AI should look more like the magic box. I think that _you_ think that I'm retarded for having any hope at all that likely future extensions of contemporary techniques could be made safe.
+**Simplicia**: I assume we agree that contemporary AI techniques are not a magic box with a goal slot. _I_ think we should be looking at contemporary techniques and their likely future extensions, and figuring out how to make them safe and useful, bearing in mind the danger implied by our theories which suggest that the superintelligence at the end of time will look more like the magic box. I think that _you_ think that I'm retarded for having any hope at all that likely future extensions of contemporary techniques could be made safe.
 
 **Doomimir**: Again, more or less. The lack of an explicit "goal slot" in your neural network doesn't mean it's not doing any dangerous optimization; it just means you don't know what it is. And your mother would seem to agree that you're—
 
@@ -106,7 +108,7 @@ _[Doomimir nods graciously.]_
 
 **Doomimir**: Nonfatally testable? Not necessarily. [If you lend a con man $5, and he gives it back](https://twitter.com/ESYudkowsky/status/1747306873261604922), that doesn't mean that you can trust him with larger amounts of money, if he only gave back the $5 because he hoped you would trust him with more.
 
-**Simplicia**: Okay, I agree that deceptive alignment is potentially a real problem, but can we at least distinguish between misgeneralization and deceptive alignment?
+**Simplicia**: Okay, I agree that deceptive alignment is potentially a real problem at some point, but can we at least distinguish between misgeneralization and deceptive alignment?
 
 **Doomimir**: [_Mis_-generalization?](https://www.lesswrong.com/posts/dkjwSLfvKwpaQSuWo/misgeneralization-as-a-misnomer) The goals _you_ wanted [aren't a property of the training data itself](https://www.lesswrong.com/posts/PoDAyQMWEXBBBEJ5P/magical-categories). The danger comes from _correct_ generalization implying something you don't want.
 
@@ -114,83 +116,37 @@ _[Doomimir nods graciously.]_
 
 **Doomimir**: Sure.
 
-**Simplicia**: So there are obviously risks from malgeneralization, where the network that SGD sculpted to fit your training distribution, turns out to not behave the way you wanted against a different distribution. For example, [a reinforcement learning agent trained to collect a coin at the right edge of a video game level](https://arxiv.org/abs/2105.14111), might end up continuing to navigate to the right edge of levels where the coin is in a different location.
+**Simplicia**: So there are obviously risks from malgeneralization, where the network that SGD sculpted to fit your training distribution, turns out to not behave the way you wanted against a different distribution. For example, a reinforcement learning [policy](https://www.lesswrong.com/posts/rmfjo4Wmtgq8qa2B7/think-carefully-before-calling-rl-policies-agents) trained [to collect a coin at the right edge of a video game level](https://arxiv.org/abs/2105.14111), might end up continuing to navigate to the right edge of levels where the coin is in a different location. That's a worrying clue that if we're not careful with our training setup, we might train the wrong thing. As our civilization delegates more and more cognitive labor to machines, eventually humans will lose the ability to course-correct. We're starting to see the early signs of this: as I mentioned the other day, [Anthropic Claude's preachy, condescending personality](https://nostalgebraist.tumblr.com/post/728556535745232896/claude-is-insufferable) already gives me the creeps. I'm pretty nervous about extrapolating that into a future where all productive roles in Society are filled by Claude's children, concurrently with a transition to [explosive economic growth rates](https://www.openphilanthropy.org/research/could-advanced-ai-drive-explosive-economic-growth/).
+
+But the malgeneralization examples I named aren't really surprising, when you look at how the systems were trained. "Going to the coin" and "going to the right" did amount to the same thing in training—and randomizing the coin position in just a couple percent of training episodes suffices to instill the correct behavior. Anthropic is using [a reinforcement learning from AI feedback method they call Constitutional AI](https://arxiv.org/abs/2212.08073): instead of having humans provide the labels for RLHF, they write up a list of principles, and have another language model do labeling and critiques. It makes sense that a language model agent trained on principles [chosen by a committee at a California public benefit corporation, based on the Universal Declaration of Human Rights and Apple's Terms of Service](https://www.anthropic.com/news/claudes-constitution), would act like _that_.
+
+In contrast, when you talk about 
 
 
-[TODO— points to cover before scene break—
- * generalization doesn't work in our favor
- * "getting in the way"
- * the text modeling task is going to result in retargetable consequentialism being learned
- * a fact about the training distribution, the test distribution, and the optimizer
-
-https://www.lesswrong.com/posts/zthDPAjh9w6Ytbeks/deceptive-alignment#4_2__Conditions_for_deceptive_alignment
-https://nintil.com/situational-awareness-agi/
-https://optimists.ai/2023/02/21/deceptive-alignment-is-1-likely-by-default/
-https://arbital.greaterwrong.com/p/dont_solve_whole_problem
-https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/
-"cherry on the cake"
-
-ArXiv paper on fit to noisy data still generalizes?
-
+[TODO—
+S: In contrast, when you talk about actresses, or giving a con-man $5, it seems like you're not talking about talking about deceptive alignment, which seems a lot more contingent and uncertain. I'd like to factor that out. Suppose we manage to avoid deceptive alignment—how would your story change?
+D: What would that even mean? Communication requires common interests
+S: This isn't 2008, Doomishko! It means the stuff right here in front of us! It really does look like like language models can do reasoning about goals without the intrumental convergence doom kicking in! Constitutional AI works at all. You ridicule people who dismiss GPT-4 as a stochastic parrot. Why isn't this equally ridiculous? "Anthropic, slightly more competent and not based in California" / Yann LeCun's cherry / the it is the dataset / point to the audience / One of the leading researchers / Reply! Reply!
+D: I think you're overestimating how easy it is, as a human, to be misled by appearances of something that's actually doing something very different under the surface. In a high-dimensional domain, like the language model stuff we're talking about, there's room for lots of stuff like "going to the right" to be happening. "getting in the way"/ situational awareness / playing the training game
+S: But you do agree that generalization works for modular arithmetic, and images.
+D: That's a fact about "a fact about the training distribution, the test distribution, and the optimizer"
+S: You just don't think it can work for "goals". This seems like a complex question. Do you have any evidence?
 ]
 
-**Simplicia**: Actually, before you answer that—can I use your bathroom?
+**Simplicia**: This seems like a complicated question to me. Do you have any empirical evidence?
 
-**Doomimir**: _[pointing]_ Down the hall.
+**Doomimir**: Yes. You see—
 
-**Simplicia**: _[to the audience]_ We'll be right back.
+_[The doorbell rings.]_
 
-### Scene 2: Uses of the Evolution Analogy
+**Doomimir**: That's probably the mailman. I'm expecting a package today that I need to sign for. I'll be right back.
 
+**Simplicia**: So you might say, we'll continue _[turning to the audience]_ after the next post?
 
-**Doomimir**: It's our only datapoint!
+**Doomimir**: _[walking to the door]_ I suppose, but it's bizarre to phrase it that way given that the interruption literally won't take two minutes.
 
-[TODO—sketch of the real-world arguments I'm covering—
- * Belrose claims that Yudkowsky's theory predicts that larger networks should be less likely to generalize well, because they represent a larger space of functions
- * My gloss: why doesn't the "predicting bar conversations doesn't make you drunk" analogy also imply "predicting the answers to mod arithmetic problems doesn't mean you implement mod arithmetic", a failed prediction?
- * Yudkowsky's reply: predicting bar conversations mean you already know what the drunk person knows, but being drunk yourself would get in the way. For mod arithmetic, there's no desideratum there besides knowledge.
- * My elaboration: and specifically, "get in the way" means there's a gradient pointing towards making the emulation subservient to the "real goal"
- * Yudkowsky: the first algorithms found by a greedy optimizer that cover the training but not the test distribution, are facts about the distributions and the optimizer; the vast space of functions is only relevant in the part where, given that you missed the test distribution, there's lots of things to want
- * Yudkowsky: I predict that the shortest program that does mod arithmetic up to a googol will generalize, whereas we saw that the evolution of humans didn't. The difference is about domain divergence and optimizer.
- * My question: but how do we know that the AI domain divergence will be more like the evolutions and less like mod arithmetic? Is it just about complexity (there's only one "obvious" completion of the mod-arithmetic problems)? But natural language is really complex, and LLMs seem to be generalizing pretty great
- * Yudkowsky: the point of bringing up evolution is that it debunks the naive belief that an outer optimizer imbues the same utility function on an inner optimizer.
- * My note: I think Turner's "reward is not the optimization target" is correct here. We don't even want language models to "minimize cross-entropy" in general—whatever that would even mean! The correct behavior comes from the training data, not the loss function. (RL might complicate this?)
- * Yudkowsky: 0th-order vs. 1st-order optimizers should both mess up for generalizable reasons
- * My confusion: uh, gradients seem like a big deal? (Qualitatively, deep-learning from data seems a lot more flexible than selectively breeding animals.) On the other hand, "Loss Landscapes Are All You Need" suggests that the secret of generalization is that flat minima occupy more volume.
- * Yudkowsky: 'My arguments against SGD exactly mirroring quoted outer functions generating particular rewards, to inner psychological pursuit of the quoted reward function generalizing across distributions, include, "If you train a mind to exactly predict text from many individual drunks, it will not thereby become drunk" and "Actually you're still doing greedy local search and it's gonna hit on local correlates again" and "Just like weird shit went wrong with natural selection, we should also expect different weird shit to go wrong with SGD"'
- * planning is recursive, retargetable search: https://www.lesswrong.com/posts/6mysMAqvo9giHC4iX/what-s-general-purpose-search-and-why-might-we-expect-to-see
- * https://www.greaterwrong.com/posts/aaYZM4kLdHP3pwtfQ/on-the-lethality-of-biased-human-reward-ratings
- * https://www.greaterwrong.com/posts/xzFQp7bmkoKfnae9R/but-exactly-how-complex-and-fragile
- * https://www.lesswrong.com/posts/HmQGHGCnvmpCNDBjc/current-ais-provide-nearly-no-data-relevant-to-agi-alignment
- * https://www.lesswrong.com/posts/ax695frGJEzGxFBK4/biology-inspired-agi-timelines-the-trick-that-never-works
-]
+_[Simplicia gives him a look.]_
 
-parametrically retargetable agents seek power
+**Doomimir**: _[to the audience]_ Subjectively.
 
-not having a goal slot makes things worse, not better
-
-
-https://www.lesswrong.com/posts/AyNHoTWWAJ5eb99ji/another-outer-alignment-failure-story
-https://www.lesswrong.com/posts/BtffzD5yNB4CzSTJe/genetic-fitness-is-a-measure-of-selection-strength-not-the
-https://www.greaterwrong.com/posts/LDRQ5Zfqwi8GjzPYG/counterarguments-to-the-basic-ai-x-risk-case/comment/3AhQKzYCYfAAeenrF
-https://www.greaterwrong.com/posts/hvz9qjWyv8cLX9JJR/evolution-provides-no-evidence-for-the-sharp-left-turn
-
-https://arxiv.org/abs/1805.08522 "Deep learning generalizes because the parameter-function map is biased towards simple functions"
-
-https://www.greaterwrong.com/posts/PoDAyQMWEXBBBEJ5P/magical-categories
-
-"You wouldn't upload a bird" seems less compelling in the LLM era
-
-make sure to use "the trick that never works" re biology and AI comparisons!!
-
-https://www.greaterwrong.com/posts/BtffzD5yNB4CzSTJe/genetic-fitness-is-a-measure-of-selection-strength-not-the/comment/kGtqbD7hCxuiFv3XL some drives are more abstract
-
-> The reason we want a function B that can map world states to utilities is so that we can optimize on that number.
-https://www.greaterwrong.com/posts/LDRQ5Zfqwi8GjzPYG/counterarguments-to-the-basic-ai-x-risk-case/comment/qBLeyiPzidctBmSB8
-
-https://banburismus.substack.com/p/safety-as-a-scientific-pursuit
-
-https://towardsdatascience.com/deep-neural-networks-are-biased-at-initialisation-towards-simple-functions-a63487edcb99
-
-https://www.lesswrong.com/posts/qoHwKgLFfPcEuwaba/conditioning-predictive-models-making-inner-alignment-as#The_RLHF_conditioning_hypothesis
-
+_[Curtain.]_
