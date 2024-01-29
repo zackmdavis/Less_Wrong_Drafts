@@ -71,3 +71,6 @@ https://www.lesswrong.com/posts/qoHwKgLFfPcEuwaba/conditioning-predictive-models
 
 https://twitter.com/jd_pressman/status/1711465924031897910
 > Basically he thinks that there is some program(s) in the model which generate the human values imitation, and that even if these programs continue *running* OOD they don't actually mean what they appear to mean outside the training distribution.
+
+https://www.lesswrong.com/posts/fRSj2W4Fjje8rQWm9/thoughts-on-sharing-information-about-language-model
+> LM agents based on chain of thought and decomposition seem like the most plausible approach to bootstrapping subhuman systems into trusted superhuman systems.
