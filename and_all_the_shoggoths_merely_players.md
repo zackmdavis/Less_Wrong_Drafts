@@ -1,56 +1,24 @@
 ## And All the Shoggoths Merely Players
 
-### Scene 0: Prologue
+_[Setting: a suburban house. The interior of the house takes up most of the stage; on the audience's right, we see the a wall in cross-section, and a front porch. **Simplicia** enters stage left and rings the doorbell.]_
 
-_[Setting: a suburban house, in cross-section: the house's front wall divides the stage in half. On the audience's left, a disheveled **Doomimir** sits in an easy chair, facing a television. On the audience's right, we see the front porch.]_
-
-**Doomimir**: It wasn't supposed to end like this. Not like this. I was made for a better world ...
-
-[_**Simplicia** enters stage left. She rings the doorbell._]
-
-**Doomimir**: Who is it?
-
-**Simplicia**: Simplicia Optimistovna Dobraya.
-
-**Doomimir**: _[muttering as he goes to the door]_ Good-hearted daughter of a fool ... _[opening the door]_ Well? What do you want?
-
-**Simplicia**: _[disturbed by his appearance]_ Doomimir Doomovitch, have you been drinking?
-
-**Doomimir**: _[insulted]_ What do you take me for?
-
-**Simplicia**: _[even more disturbed]_ Doomimir Doomovitch, have you been watching television?
-
-**Doomimir**:  _[shrugging]_ Yes. _[gruffly]_ Again, what do you want?
+**Doomimir**: _[opening the door]_ Well? What do you want?
 
 **Simplicia**: I can't stop thinking about [our last conversation](https://www.lesswrong.com/posts/pYWA7hYJmXnuyby33/alignment-implications-of-llm-successes-a-debate-in-one-act). It was kind of all over the place. If you're willing, I'd like to continue, but focusing in narrower detail on a couple points I'm still confused about.
 
-**Doomimir**: And why should I bother tutoring an Earth woman in alignment theory? If you didn't get it from the empty string, and you didn't get it from our last discussion, why should I have any hope of you learning this time? And even if you did, [what good would it do?](https://www.lesswrong.com/posts/4Gcz3fGcYmmzhozxr/hashing-out-long-standing-disagreements-seems-low-value-to) You're a rando with no political power or scientific credentials. Are _you_ to stop Magma from destroying the world?
-
-**Simplicia**: My mother named me Simplicia, over my father's objections, on account of my unexpectedly low polygenic scores. I am aware of my ... _[she hesitates and coughs, as if choking on the phrase]_ learning disability.
-
-**Doomimir**: Then why are you here?
+**Doomimir**: And why should I bother tutoring an Earthling in alignment theory? If you didn't get it from the empty string, and you didn't get it from our last discussion, why should I have any hope of you learning this time? And even if you did, [what good would it do?](https://www.lesswrong.com/posts/4Gcz3fGcYmmzhozxr/hashing-out-long-standing-disagreements-seems-low-value-to)
 
 **Simplicia**: _[serenely]_ If the world is ending either way, I think it's more dignified that I understand exactly why. _[A beat.]_ Sorry, that doesn't explain what's in it for you. That's why I had to ask.
 
-**Doomimir**: What _is_ it in for me?
+**Doomimir**: _[grimly]_ As you say. If this world is ending either way.
 
-**Simplicia**: _[going through her purse]_ Two thousand rubles?
-
-**Doomimir**: As you say. If this world is ending either way. _[He takes the money and shuts the door.]_
-
-_[Simplicia beams and gives the audience a thumbs-up.]_
-
-_[Curtain.]_
-
-### Scene 1
-
-_[Later, inside the house. Doomimir has washed up and seems to be in a relatively better mood.]_
+_[He motions for her to come in, and they sit down.]_
 
 **Doomimir**: What are you confused about? I mean, that you wanted to talk about.
 
 **Simplicia**: You seemed really intent on a particular intuition pump against human-imitation-based alignment strategies, where you compared LLMs to an alien actress. I didn't find that compelling.
 
-**Doomimir**: But you claim to understand that LLMs that emit plausibly human-written text aren't human. Thus, the AI is not the character it's playing. Similarly, being able to predict the conversation in a bar, doesn't make you drunk. [What's there not to get](https://twitter.com/ESYudkowsky/status/1633219449724760065), even for you?
+**Doomimir**: But you claim to understand that LLMs that emit plausibly human-written text aren't human. Thus, the AI is not the character it's playing. Similarly, being able to predict the conversation in a bar, doesn't make you drunk. What's there not to get, even for you?
 
 **Simplicia**: Why doesn't the "predicting barroom conversation doesn't make you drunk" analogy falsely imply "predicting the answers to modular arithmetic problems doesn't mean you implement modular arithmetic"?
 
@@ -62,27 +30,33 @@ _[Later, inside the house. Doomimir has washed up and seems to be in a relativel
 
 **Simplicia**: _[unfazed]_ Sure, let's talk about internal mechanisms. The reason I chose modular arithmetic as an example is because it's a task for which we have [good interpretability results](https://arxiv.org/abs/2301.05217). Train a shallow transformer on a subset of the addition problems modulo some fixed prime. The network learns to map the inputs onto a circle in the embedding space, and then does some trigonometry to extract the [residue](https://en.wikipedia.org/wiki/Modular_arithmetic#Congruence_classes), much as one would count forward on the face of an analog clock.
 
-Alternatively, with a slightly different architecture that has a harder time with trig, [it can learn a different algorithm](https://arxiv.org/abs/2306.17844): the embeddings are still on a circle, but the answer is computed by looking at the average of the embedding vectors of the inputs. On the face of an analog clock, the internal midpoints between distinct numbers that sum to 6 mod 12—that's 2 and 4, or 1 and 5, or 6 and 12, or 10 and 8, or 11 and 7—all lie on the line connecting 3 and 9. In this way, the sum-mod-_p_ of two numbers can be determined by which line the midpoint of the inputs falls on—as long as the inputs aren't on opposite sides of the circle, in which case their midpoint is in the center, where all the lines meet. But the network compensates for such antipodal points by also learning another circle in a different subspace of the embedding space, such that inputs that are antipodal on the first circle are close together on the second, which helps disambiguate the result.
+Alternatively, with a slightly different architecture that has a harder time with trig, [it can learn a different algorithm](https://arxiv.org/abs/2306.17844): the embeddings are still on a circle, but the answer is computed by looking at the average of the embedding vectors of the inputs. On the face of an analog clock, the internal midpoints between distinct numbers that sum to 6 mod 12—that's 2 and 4, or 1 and 5, or 6 and 12, or 10 and 8, or 11 and 7—all lie on the line connecting 3 and 9. Thus, the sum-mod-_p_ of two numbers can be determined by which line the midpoint of the inputs falls on—as long as the inputs aren't on opposite sides of the circle, in which case their midpoint is in the center, where all the lines meet. But the network compensates for such antipodal points by also learning another circle in a different subspace of the embedding space, such that inputs that are antipodal on the first circle are close together on the second, which helps disambiguate the result.
 
-**Doomimir**: Cute results. Excellent work—by Earth standards. What's your point?
+**Doomimir**: Cute results. Excellent work—by Earth standards. And entirely unsurprising. Sure, if you train your neural net on an exact mathematical problem with a consistent solution, it will converge on a solution to that problem. What's your point?
 
-**Simplicia**: It's evidence about the feasibility of learning desired behavior from training data. You seem to think that it's hopelessly naïve to imagine that training on "nice" data could result in generalizably nice behavior—that the only reason someone might think that was a viable path was is if they were engaging in [magical reasoning about surface similarities](https://www.lesswrong.com/posts/6ByPxcGDhmx74gPSm/surface-analogies-and-deep-causes). I think it's germane to point out that at least for this toy problem, we have a pretty concrete, non-magical story about how gradient descent on a training set discovers an algorithm that reproduces the training data and also generalizes correctly to the test set.
+**Simplicia**: It's evidence about the feasibility of learning desired behavior from training data. You seem to think that it's hopelessly naïve to imagine that training on "nice" data could result in generalizably nice behavior—that the only reason someone might think that was a viable path was is if they were engaging in [magical reasoning about surface similarities](https://www.lesswrong.com/posts/6ByPxcGDhmx74gPSm/surface-analogies-and-deep-causes). I think it's germane to point out that at least for this toy problem, we have a pretty concrete, non-magical story about how optimizing on a training set discovers an algorithm that reproduces the training data and also generalizes correctly to the test set.
 
-For non-toy problems, we don't have such good interpretability results to give us confidence that our optimizer found a correct algorithm. But empirically, deep learning _can_ hit very precise behavioral targets: the vast hypermajority of programs don't speak fluent English or generate beautiful photorealistic images, and yet GPT-4 and Midjourney exist.
+For non-toy problems, we know empirically that deep learning _can_ hit very precise behavioral targets: the vast hypermajority of programs don't speak fluent English or generate beautiful photorealistic images, and yet GPT-4 and Midjourney exist.
 
-If doing _that_ for "text" and "images" was a mere engineering problem, I don't see what fundamental theoretical barrier rules out the possibility of pulling off the same kind of thing for "friendly and moral real-world decisionmaking"—learning a "good person" function from data, much as Midjourney has learned a "good art" function.
+If doing _that_ for "text" and "images" was a mere engineering problem, I don't see what fundamental theoretical barrier rules out the possibility of pulling off the same kind of thing for "friendly and moral real-world decisionmaking"—learning a "good person" or "obedient servant" function from data, much as Midjourney has learned a "good art" function.
 
 It's true that diffusion models don't work like a human artist on the inside, but it's not clear why that matters? It would seem idle to retort, "Predicting what good art would look like, doesn't make you a good artist; having an æsthetic sense yourself would just get in the way", when you can actually use it to do a commissioned artist's job.
 
-**Doomimir**: _[shaking his head]_ Your mother named you well.
+**Doomimir**: Again, the actress is not the character. Messier tasks aren't going to have a clean, unique solution like modular arithmetic. If gradient descent happens to stumble its way into something that appears to work, the function it learns is going to have all sorts of weird squiggles, which kill you when optimized over by a powerful AGI.
 
-**Simplicia**: _[defiant]_ That may be so, but making fun of my learning disability is _not a counterargument_ and _you know it_. I'm not confident about any of this! But while the world is still here, I think it's more dignified that I try to understand, and I'm _trying to understand_. Maybe everything I just said is wrong, but if that's so self-evident, it should be correspondingly easy to explain _why_ it's wrong. Why can't we use a good-person-predicting machine to do the cognitive work a good person would have done, even though a good-person-predicting machine isn't implemented as a good person on the inside? Reply!
+**Simplicia**: That's an empirical question. There's some striking evidence that seemingly "messy" tasks admit much more convergent solutions than one might expect. On the surface, the [word2vec](https://code.google.com/archive/p/word2vec/) and [FastText](https://github.com/facebookresearch/fastText) word embeddings look completely different—as befitting being produced by two different codebases trained on different datasets. But [when you convert their latent spaces to a relative representation](https://arxiv.org/abs/2209.15430)—arbitrarily choosing some shared vocabulary words as anchors, and defining all other word vectors by their cosine similarities to the anchors—they look extremely similar.
+
+![](relative_representations.png)
+
+[TODO: it seems like "English" objectively learnable from data; DL as function approximation]
+
+[...]
 
 **Doomimir**: What makes intelligence useful—and dangerous—isn't a fixed repertoire of behaviors. It's search, optimization—the systematic discovery of _new_ behaviors to achieve goals despite a changing environment. I [don't think recent capabilities advances bear on the shape of the alignment challenge](https://www.lesswrong.com/posts/HmQGHGCnvmpCNDBjc/current-ais-provide-nearly-no-data-relevant-to-agi-alignment) because being able to learn complex behavior _on the training distribution_ was never what the problem was about.
 
 Indeed, as long as we continue to be stuck in the paradigm of reasoning about "the training distribution"—growing minds rather than designing them—then we're not learning anything about how to [aim cognition at specific targets](https://www.lesswrong.com/posts/NJYmovr9ZZAyyTBwM/what-i-mean-by-alignment-is-in-large-part-about-making)—certainly not in a way that will [hold up to dumping large amounts of optimization power into the system](https://www.lesswrong.com/posts/zEvqFtT4AtTztfYC4/optimization-amplifies).
 
-_[he eyes the television]_ Does that suffice? Will you leave me to enjoy my short life?
+[...]
 
 **Simplicia**: Not yet. I understand the theory of utility optimization—
 
@@ -98,9 +72,9 @@ _[Doomimir nods graciously.]_
 
 **Simplicia**: I assume we agree that contemporary deep learning techniques are not a magic box with a goal slot. _I_ think we should be looking at contemporary techniques and their likely future extensions, and figuring out how to make them safe and useful, bearing in mind the danger implied by our theories which suggest that the superintelligence at the end of time will look more like the magic box. I think that _you_ think that I'm retarded for having any hope at all that likely future extensions of contemporary techniques could be made safe.
 
-**Doomimir**: Again, more or less. The lack of an explicit "goal slot" in your neural network doesn't mean it's not doing any dangerous optimization; it just means you don't know what it is. And your mother would seem to agree that you're—
+**Doomimir**: Again, more or less. The lack of an explicit "goal slot" in your neural network doesn't mean it's not doing any dangerous optimization; it just means you don't know what it is.
 
-**Simplicia**: _[interrupting]_ I think we _can_ form educated guesses—
+**Simplicia**: I think we _can_ form educated guesses—
 
 **Doomimir**: _[interrupting]_ Guesses!
 
