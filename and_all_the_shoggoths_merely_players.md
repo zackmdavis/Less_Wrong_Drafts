@@ -1,6 +1,6 @@
 ## And All the Shoggoths Merely Players
 
-_[Setting: a suburban house. The interior of the house takes up most of the stage; on the audience's right, we see the a wall in cross-section, and a front porch. **Simplicia** enters stage left and rings the doorbell.]_
+_[Setting: a suburban house. The interior of the house takes up most of the stage; on the audience's right, we see a wall in cross-section, and a front porch. **Simplicia** enters stage left and rings the doorbell.]_
 
 **Doomimir**: _[opening the door]_ Well? What do you want?
 
@@ -26,15 +26,15 @@ _[He motions for her to come in, and they sit down.]_
 
 **Simplicia**: But we only need our AI to compute nice behavior, not necessarily to have some internal structure corresponding to the _quale_ of niceness. As far as safety properties go, we don't care whether the actress is "really drunk" as long as she stays in character.
 
-**Doomimir**: _[scoffing]_ Have you [tried imagining any internal mechanisms at all](https://twitter.com/ESYudkowsky/status/1743688927238934876) other than a bare, featureless inclination to emit the outward behavior you observe?
+**Doomimir**: _[scoffing]_ Have you tried imagining any internal mechanisms at all other than a bare, featureless inclination to emit the outward behavior you observe?
 
 **Simplicia**: _[unfazed]_ Sure, let's talk about internal mechanisms. The reason I chose modular arithmetic as an example is because it's a task for which we have [good interpretability results](https://arxiv.org/abs/2301.05217). Train a shallow transformer on a subset of the addition problems modulo some fixed prime. The network learns to map the inputs onto a circle in the embedding space, and then does some trigonometry to extract the [residue](https://en.wikipedia.org/wiki/Modular_arithmetic#Congruence_classes), much as one would count forward on the face of an analog clock.
 
 Alternatively, with a slightly different architecture that has a harder time with trig, [it can learn a different algorithm](https://arxiv.org/abs/2306.17844): the embeddings are still on a circle, but the answer is computed by looking at the average of the embedding vectors of the inputs. On the face of an analog clock, the internal midpoints between distinct numbers that sum to 6 mod 12—that's 2 and 4, or 1 and 5, or 6 and 12, or 10 and 8, or 11 and 7—all lie on the line connecting 3 and 9. Thus, the sum-mod-_p_ of two numbers can be determined by which line the midpoint of the inputs falls on—as long as the inputs aren't on opposite sides of the circle, in which case their midpoint is in the center, where all the lines meet. But the network compensates for such antipodal points by also learning another circle in a different subspace of the embedding space, such that inputs that are antipodal on the first circle are close together on the second, which helps disambiguate the result.
 
-**Doomimir**: Cute results. Excellent work—by Earth standards. And entirely unsurprising. Sure, if you train your neural net on an exact mathematical problem with a consistent solution, it will converge on a solution to that problem. What's your point?
+**Doomimir**: Cute results. Excellent work—by Earth standards. And entirely unsurprising. Sure, if you train your neural net on a well-posed mathematical problem with a consistent solution, it will converge on a solution to that problem. What's your point?
 
-**Simplicia**: It's evidence about the feasibility of learning desired behavior from training data. You seem to think that it's hopelessly naïve to imagine that training on "nice" data could result in generalizably nice behavior—that the only reason someone might think that was a viable path was is if they were engaging in [magical reasoning about surface similarities](https://www.lesswrong.com/posts/6ByPxcGDhmx74gPSm/surface-analogies-and-deep-causes). I think it's germane to point out that at least for this toy problem, we have a pretty concrete, non-magical story about how optimizing on a training set discovers an algorithm that reproduces the training data and also generalizes correctly to the test set.
+**Simplicia**: It's evidence about the feasibility of learning desired behavior from training data. You seem to think that it's hopelessly naïve to imagine that training on "nice" data could result in generalizably nice behavior—that the only reason someone might think that was a viable path was is if they were engaging in [magical reasoning about surface similarities](https://www.lesswrong.com/posts/6ByPxcGDhmx74gPSm/surface-analogies-and-deep-causes). I think it's germane to point out that at least for this toy problem, we have a pretty concrete, non-magical story about how optimizing against a training set discovers an algorithm that reproduces the training data and also generalizes correctly to the test set.
 
 For non-toy problems, we know empirically that deep learning _can_ hit very precise behavioral targets: the vast hypermajority of programs don't speak fluent English or generate beautiful photorealistic images, and yet GPT-4 and Midjourney exist.
 
@@ -42,37 +42,26 @@ If doing _that_ for "text" and "images" was a mere engineering problem, I don't 
 
 It's true that diffusion models don't work like a human artist on the inside, but it's not clear why that matters? It would seem idle to retort, "Predicting what good art would look like, doesn't make you a good artist; having an æsthetic sense yourself would just get in the way", when you can actually use it to do a commissioned artist's job.
 
-**Doomimir**: Again, the actress is not the character. Messier tasks aren't going to have a clean, unique solution like modular arithmetic. If gradient descent happens to stumble its way into something that appears to work, the function it learns is going to have all sorts of weird squiggles, which kill you when optimized over by a powerful AGI.
+**Doomimir**: Messier tasks aren't going to have a unique solution like modular arithmetic. If genetic algorithms, gradient descent, or anything like that happens to hill-climb its way into something that appears to work, the function it learns is going to have all sorts of weird squiggles around inputs that we would call [adversarial examples](https://arxiv.org/abs/1412.6572), that look like typical members of the training distribution from the AI's perspective, but not ours—which kill you when optimized over by a powerful AGI.
 
-**Simplicia**: That's an empirical question. There's some striking evidence that seemingly "messy" tasks admit much more convergent solutions than one might expect. On the surface, the [word2vec](https://code.google.com/archive/p/word2vec/) and [FastText](https://github.com/facebookresearch/fastText) word embeddings look completely different—as befitting being produced by two different codebases trained on different datasets. But [when you convert their latent spaces to a relative representation](https://arxiv.org/abs/2209.15430)—arbitrarily choosing some shared vocabulary words as anchors, and defining all other word vectors by their cosine similarities to the anchors—they look extremely similar.
+**Simplicia**: It sounds like you're making an empirical claim that solutions found by black-box optimization are necessarily contingent and brittle, but there's some striking evidence that seemingly "messy" tasks admit much more convergent solutions than one might expect. For example, on the surface, the [word2vec](https://code.google.com/archive/p/word2vec/) and [FastText](https://github.com/facebookresearch/fastText) word embeddings look completely different—as befitting being produced by two different codebases trained on different datasets. But [when you convert their latent spaces to a relative representation](https://arxiv.org/abs/2209.15430)—choosing some shared vocabulary words as anchors, and defining all other word vectors by their cosine similarities to the anchors—they look extremely similar.
 
 ![](relative_representations.png)
 
-[TODO: it seems like "English" objectively learnable from data; DL as function approximation]
+It would seem that "English word embeddings" are a well-posed mathematical problem with a consistent solution. The statistical structure of the language as it is spoken is enough to pin down the essential structure of the embedding, even if the exact coordinate representations used are an arbitrary artifact of the network architecture, training samples, and random initialization.
 
-[...]
+You mention adversarial examples 
+
+[TODO: Adversarial Examples are not bugs https://arxiv.org/abs/1905.02175
+https://distill.pub/2019/advex-bugs-discussion/
+non-transferrable "bug" ad. ex.s also exist https://distill.pub/2019/advex-bugs-discussion/response-5/
+]
+
+[TODO: bridge ...]
 
 **Doomimir**: What makes intelligence useful—and dangerous—isn't a fixed repertoire of behaviors. It's search, optimization—the systematic discovery of _new_ behaviors to achieve goals despite a changing environment. I [don't think recent capabilities advances bear on the shape of the alignment challenge](https://www.lesswrong.com/posts/HmQGHGCnvmpCNDBjc/current-ais-provide-nearly-no-data-relevant-to-agi-alignment) because being able to learn complex behavior _on the training distribution_ was never what the problem was about.
 
-Indeed, as long as we continue to be stuck in the paradigm of reasoning about "the training distribution"—growing minds rather than designing them—then we're not learning anything about how to [aim cognition at specific targets](https://www.lesswrong.com/posts/NJYmovr9ZZAyyTBwM/what-i-mean-by-alignment-is-in-large-part-about-making)—certainly not in a way that will [hold up to dumping large amounts of optimization power into the system](https://www.lesswrong.com/posts/zEvqFtT4AtTztfYC4/optimization-amplifies).
-
-[...]
-
-**Simplicia**: Not yet. I understand the theory of utility optimization—
-
-**Doomimir**: No you don't.
-
-**Simplicia**: I have some nonzero but undoubtedly incomplete understanding of the theory of utility optimization?
-
-_[Doomimir nods graciously.]_
-
-**Simplicia**: The theory inspires me to imagine a simple story where AI is a magic box with a "goal slot" where the user inputs a utility function _U_. When you switch the box on, it computes a plan to maximize _U_. As you turn the dial up to make it use more magic, then at some point, everyone dies, because we're made out of atoms that can be arranged into a higher-_U_ configuration.
-
-**Doomimir**: More or less.
-
-**Simplicia**: I assume we agree that contemporary deep learning techniques are not a magic box with a goal slot. _I_ think we should be looking at contemporary techniques and their likely future extensions, and figuring out how to make them safe and useful, bearing in mind the danger implied by our theories which suggest that the superintelligence at the end of time will look more like the magic box. I think that _you_ think that I'm retarded for having any hope at all that likely future extensions of contemporary techniques could be made safe.
-
-**Doomimir**: Again, more or less. The lack of an explicit "goal slot" in your neural network doesn't mean it's not doing any dangerous optimization; it just means you don't know what it is.
+Indeed, as long as we continue to be stuck in the paradigm of reasoning about "the training distribution"—growing minds rather than designing them—then we're not learning anything about how to [aim cognition at specific targets](https://www.lesswrong.com/posts/NJYmovr9ZZAyyTBwM/what-i-mean-by-alignment-is-in-large-part-about-making)—certainly not in a way that will [hold up to dumping large amounts of optimization power into the system](https://www.lesswrong.com/posts/zEvqFtT4AtTztfYC4/optimization-amplifies). The lack of an explicit "goal slot" in your neural network doesn't mean it's not doing any dangerous optimization; it just means you don't know what it is.
 
 **Simplicia**: I think we _can_ form educated guesses—
 
@@ -80,7 +69,7 @@ _[Doomimir nods graciously.]_
 
 **Simplicia**: —probabilistic beliefs—about what kinds of optimization is being done by a system and whether it's a problem, even without a complete mechanistic interpretability story. If you think LLMs or future variations thereof are unsafe because they're analogous to an actress with her own goals playing a drunk character without herself being drunk, shouldn't that make some sort of testable prediction about their generalization behavior?
 
-**Doomimir**: Nonfatally testable? Not necessarily. [If you lend a con man $5, and he gives it back](https://twitter.com/ESYudkowsky/status/1747306873261604922), that doesn't mean that you can trust him with larger amounts of money, if he only gave back the $5 because he hoped you would trust him with more.
+**Doomimir**: Nonfatally testable? Not necessarily. If you lend a con man $5, and he gives it back, that doesn't mean that you can trust him with larger amounts of money, if he only gave back the $5 because he hoped you would trust him with more.
 
 **Simplicia**: Okay, I agree that deceptive alignment is potentially a real problem at some point, but can we at least distinguish between misgeneralization and deceptive alignment?
 
@@ -98,17 +87,26 @@ But when you make analogies about an actress playing a drunk character not being
 
 You might be talking about deceptive alignment, [a hypothesized phenomenon where a situationally aware AI strategically feigns aligned behavior in order to preserve its later influence](https://www.lesswrong.com/posts/zthDPAjh9w6Ytbeks/deceptive-alignment#4_2__Conditions_for_deceptive_alignment). Researchers [have](https://www.lesswrong.com/posts/RTkatYxJWvXR4Qbyd/deceptive-alignment-is-less-than-1-likely-by-default) [debated](https://www.lesswrong.com/posts/A9NxPTwbw6r6Awuwt/how-likely-is-deceptive-alignment) how likely that is, but I'm not sure what to make of those arguments. I'd like to factor that consideration out. Suppose, _arguendo_, that we could figure out how to avoid deceptive alignment. How would your risk story change?
 
-**Doomimir**: What would that even mean? What we would think of as "deception" isn't a weird edge case you can trivially avoid; it's convergent for [any agent that isn't specifically coordinating with you](https://www.lesswrong.com/posts/ybG3WWLdxeTTL3Gpd/communication-requires-common-interests-or-differential) to [interpret certain states of reality as communication signals with a shared meaning](https://www.lesswrong.com/posts/4hLcbXaqudM9wSeor/philosophy-in-the-darkest-timeline-basics-of-the-evolution). When you set out poisoned ant baits, you likely don't think of yourself as trying to deceive the ants, but you are.
+**Doomimir**: What would that even mean? What we would think of as "deception" isn't a weird edge case you can trivially avoid; it's convergent for [any agent that isn't specifically coordinating with you](https://www.lesswrong.com/posts/ybG3WWLdxeTTL3Gpd/communication-requires-common-interests-or-differential) to [interpret certain states of reality as communication signals with a shared meaning](https://www.lesswrong.com/posts/4hLcbXaqudM9wSeor/philosophy-in-the-darkest-timeline-basics-of-the-evolution).
+
+When you set out poisoned ant baits, you likely don't think of yourself as trying to deceive the ants, but you are. Similarly, a smart AI won't think of itself as trying to deceive us. It's trying to achieve its goals. If its plans happen to involve emitting sound waves or character sequences that _we interpret_ as  about the world, that's our problem.
+
+
+
 
 **Simplicia**: "What would that even"—this isn't 2008, Doomishko! I'm talking about the technology right here in front of us! When GPT-4 writes original code for me, I don't think it's strategically deciding that obeying me instrumentally serves its final goals! From everything I've read about how it was made and seen about how it behaves, it looks awfully like it's just generalizing from its training distribution in an intuitively reasonable way, as surely as the modular arithmetic network computes that 89 + 42 ≅ 18 mod 113. You ridicule people who deride LLMs as stochastic parrots, ignoring the obvious ["sparks of AGI"](https://arxiv.org/abs/2303.12712) right in front of their face. Why is it not equally absurd to deny [the evidence in front of your face that alignment may be somewhat easier than it looked 15 years ago](https://www.lesswrong.com/posts/i5kijcjFJD6bn7dwq/evaluating-the-historical-value-misspecification-argument)? By all means, expound on the nonobvious game theory of deception; by all means, point out that the superintelligence at the end of time will be an expected utility maximizer. But all the same, RLHF/[DPO](https://arxiv.org/abs/2305.18290) as [the cherry on top of a cake of unsupervised learning](https://medium.com/syncedreview/yann-lecun-cake-analogy-2-0-a361da560dae) is verifiably working miracles for us today—in response to commands, not because it has a will of its own aligned with ours. Why is that merely "capabilities" and not at all "alignment"? I'm trying to understand, Doomimir Doomovitch, but you're not making this easy!
 
-**Doomimir**: _[starting to anger]_ Simplicia Optimistovna, [if I didn't know about your disability, I'd say](https://www.lesswrong.com/posts/y4bkJTtG3s5d6v36k/stupidity-and-dishonesty-explain-each-other-away) I [_don't_ think you're trying to understand](https://www.lesswrong.com/posts/e4GBj6jxRZcsHFSvP/assume-bad-faith). I never claimed that GPT-4 in particular is what you would call deceptively aligned. Endpoints are easier to predict than intermediate trajectories!
+**Doomimir**: _[starting to anger]_ Simplicia Optimistovna, if you weren't from Earth, [I'd say](https://www.lesswrong.com/posts/y4bkJTtG3s5d6v36k/stupidity-and-dishonesty-explain-each-other-away) I [_don't_ think you're trying to understand](https://www.lesswrong.com/posts/e4GBj6jxRZcsHFSvP/assume-bad-faith). I never claimed that GPT-4 in particular is what you would call deceptively aligned. Endpoints are easier to predict than intermediate trajectories!
 
-**Simplicia**: If you're only talking about the superintelligence at the end of time and not making any claims about existing systems, then what was the whole "alien actress", "predicting bar conversations doesn't make you drunk" analogy about? If it was just a ham-fisted way to explain to people even more retarded than I am that LLMs that do relatively well on a Turing test aren't humans, then I agree, trivially. But it seemed like you thought you were making a much stronger point, ruling out an entire class of alignment strategies based on imitation.
+[TODO: only that greater capability will lead to deception]
+
+**Simplicia**: If you're only talking about the superintelligence at the end of time and not making any claims about existing systems, then what was the whole "alien actress", "predicting bar conversations doesn't make you drunk" analogy about? If it was just a ham-fisted way to explain to normies that LLMs that do relatively well on a Turing test aren't humans, then I agree, trivially. But it seemed like you thought you were making a much stronger point, ruling out an entire class of alignment strategies based on imitation.
 
 **Doomimir**: _[cooler]_ Basically, I think you're failing to appreciate how things that have been optimized to look good to you can [predictably behave differently in domains where they haven't been optimized to look good to you](https://www.lesswrong.com/posts/xFotXGEotcKouifky/worlds-where-iterative-design-fails)—particularly, when they're doing any serious optimization of their own. You mention the video game agent that navigates to the right instead of collecting a coin. You claim that it's not surprising given the training set-up, and can be fixed by appropriately diversifying the training data. But could you have called that in advance, rather than in retrospect? Everywhere your hill-climbing training process gets snagged on a local correlate rather than internalizing what you really wanted, is a place where your AIs preferences don't match yours.
 
 I think if you understood what was really going on inside of LLMs, you'd see thousands and thousands of analogues of the "going right rather than getting the coin" problem. The point of the actress analogy is that the outward appearance doesn't tell you what goals the system is steering towards, which is where the promise and peril of AGI lies—and the fact that deep learning systems are a godawful mess, not all of which is steering towards goals, makes the situation worse, not better. The analogy doesn't depend on _current_ LLMs having the intelligence or situational awareness to be scheming against us, and it doesn't preclude LLMs being mundanely useful in the manner of an interactive textbook—much as an actress could be employed to give plausible-sounding answers to questions posed to her character, without _being_ that character.
+
+[TODO: don't say "scheming against us"; use language that indicates the convergence]
 
 **Simplicia**: Those mismatches still need to show up in behavior under some conditions, though. I complained about Claude's personality, but that honestly seems fixable with scaling by an AI company not based in California. If human imitation is so superficial and not robust, why does constitutional AI work _at all_? You claim that "actually" being nice would get in the way of predicting nice behavior. How? Why would it get in the way?
 
@@ -116,7 +114,14 @@ I think if you understood what was really going on inside of LLMs, you'd see tho
 
 Of course gradient descent isn't going to hit on a perfect consequentialist that calculates the optimal plan for manipulating humans into hitting the thumbs-up button. But in order to do powerful cognitive work, it is going to hit on flexible [retargetable general-purpose search algorithms](https://www.lesswrong.com/posts/6mysMAqvo9giHC4iX/what-s-general-purpose-search-and-why-might-we-expect-to-see), which, by virtue of their retargetability, need to have something more like a "goal slot". It's hard to say in advance what local correlates of reward those optimizers will end up getting pointed at, but it would be an astronomically unlikely coincidence for it to end up being nice.
 
-**Simplicia**: Okay, that theory sounds plausible to me, given what I know. But it seems like it depends on empirical facts about how deep learning works, rather than something you could be confident in _a priori_. The reason I keep going back to the modular arithmetic example is because it's a scaled-down case where we know that training data successfully pinned down the intended input–output function. As I mentioned the other day, this wasn't obvious in advance of seeing the experimental result! Somehow, the neural network prior favors the intended solution, rather than it taking an astronomically unlikely coincidence.
+**Simplicia**: I can't say for sure that you're wrong, but it seems like it depends on empirical facts about how deep learning works, rather than something you could be confident in _a priori_. The reason I keep going back to the modular arithmetic example is because it's a scaled-down case where we know that training data successfully pinned down the intended input–output function. As I mentioned the other day, this wasn't obvious in advance of seeing the experimental result! Somehow, the neural network prior favors the intended solution, rather than it taking an astronomically unlikely coincidence.
+
+[TODO:
+work in something about the paper about fitting to random labels—"Understanding Deep Learning Requires Rethinking Generalization", "Robust to Massive Label Noise"
+D needs to be clearer about the gradient pointing towards "not allowed to interfere"
+S should quip about the usage of "model"
+DL as function approximation
+]
 
 **Doomimir**: Sure. [That's a fact about the training distribution, the test distribution, and the optimizer.](https://twitter.com/ESYudkowsky/status/1744066823962947905) It's definitely, definitely not going to work for "goodness".
 
