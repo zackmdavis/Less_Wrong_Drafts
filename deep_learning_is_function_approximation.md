@@ -23,7 +23,7 @@ I don't know where this person was getting their information, but this made zero
 
 But multi-layer parametrized graphical function approximators with more parameters are still, actually, function approximators.
 
-[TODO: transition sentence]
+[TODO: transition sentence, universal approximation theorem]
 
 What did _you_ think it was doing?
 
@@ -38,6 +38,7 @@ To be clear, you can do a lot with function approximation!
      * famously, approximating next-token prediction enables machines that can speak 
 
  * Maybe some people read about AI systems doing impressive things (true) and that they're "trained" rather than programmed (true), but then assume it's mysterious animal training a Mind (where who knows what could happen), rather than approximating a mapping between probability distributions, that fills a particular functional role in a system
+ * Simon Prince does not think of himself as building agents
    * You heard about DeepMind doing Atari
    * That was based on Q-learning, which involves a function Q(s, a) "the quality of taking action a in state s". For a simple MDP, you just store these values in a table and update them.
    * That won't work for Atari, because the table format doesn't work for a video game
@@ -49,7 +50,6 @@ To be clear, you can do a lot with function approximation!
 ### Risks From Learned Approximation
 
 [TODO—
- * Simon Prince doesn't think of himself as building agents!
  * If I'm skeptical of the "DL is like scary evolving brains"/"your fn-approximator must secretly have a consequentialist homonuculus inside of it" pitch that my internet friends use, does that mean I disagree that risk is low?
  * There's a quip among practioners that says, "If you're surprised by your neural net's behavior, that means you didn't examine your training data closely enough."
  * Inner alignment is empirically just not that bad of a problem??

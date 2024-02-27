@@ -43,7 +43,7 @@
 
 ## Egan's history of TESCREAL criticism
 
- * I don't want to seem too defensive, because I do hate you motherfuckers; I think I've been very clear about that in my memoir
+ * I don't want to seem too defensive, because I do hate you motherfuckers; I think I've been very clear about that in my memoir; and "Fake Deeply" also engages in some mockery
  * There totally are culty elements: if his impression was formed from https://www.scientificamerican.com/article/ai-safety-research-only-enables-the-dangers-of-runaway-superintelligence/ , I can see why he'd think that
 
  * But Egan's contempt doesn't hit the mark of exactly _why_ the scene deserves contempt, doesn't hit the good parts
@@ -57,6 +57,8 @@
 
  * I think I've flip-flopped on the satire of postmodernism in Terenesia: at first I was cold (while I was still a SJW), then I got it, now I'm not sure Egan is a fair critic
  * Cosma Shalizi is even worse: http://bactra.org/notebooks/nn-attention-and-transformers.html#cultists
+
+ * compare to Chiang on blurry JPEGs?
 
 https://twitter.com/gregeganSF/status/1727940487255138404
 > Oh, I think they've noticed, but some of them still like the, err, "early, funny ones" that predate the cult and hence devote no time to mocking it.
@@ -82,3 +84,6 @@ https://twitter.com/zackmdavis/status/1365715251283464196
 
 > a bright teenager like Anna could have found some entertainment value analyzing the possibilities rigorously and puncturing the forums' credulous consensus.
 I don't think this is true
+
+https://twitter.com/teortaxesTex/status/1752469634173800710
+> it's like treating two countries at war like a single political party because they're both populated by heliocentrists
