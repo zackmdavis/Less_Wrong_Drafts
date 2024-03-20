@@ -4,11 +4,7 @@
 
 As a programmer and epistemology enthusiast, I've been studying some statistical modeling techniques lately! It's been boodles of fun, and might even prove useful in a future dayjob if I decide to pivot my career away from the backend web development roles I've taken in the past.
 
-Separately, a lot of my friends seem to belong to some sort of ... internet fanfiction cult? I'm still not entirely sure what it's about, but it seems harmless. Takes all sorts, I guess. Coincidentally, many of these people seem to be very excited about the same statistical modeling techniques that I've been learning about!
-
-It's strange, though—when I explain what I've been studying, a lot of these folks start to _talk funny_—almost as if they've been taught to revere statistical modeling as a grave matter of eschatological importance, without having spent any time using statistical models? I don't get it.
-
-The other week I was talking to one of these people about some things I learned from [the new Simon Prince book](https://udlbook.github.io/udlbook/) about multi-layer parameterized graphical function approximators, which map inputs to outputs via a sequence of affine transformations composed with nonlinear "activation" functions.
+More specifically, I've mostly been focused on multi-layer parameterized graphical function approximators, which map inputs to outputs via a sequence of affine transformations composed with nonlinear "activation" functions.
 
 (Some authors call these ["deep neural networks"](https://en.wikipedia.org/wiki/Deep_learning) for some reason, but [I like my name better](https://www.lesswrong.com/posts/WBdvyyHLdxZSAMmoz/taboo-your-words).)
 
@@ -20,7 +16,7 @@ It wasn't obvious beforehand that this would work! You'd expect that if your mul
 
 And that is what we see for multi-layer parameterized graphical function approximators with only slightly more parameters than example input–output pairs, but for _sufficiently large_ multi-layer parameterized graphical function approximators, [the trend reverses](https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent) and "generalization" improves—the more expressive function-approximator proving useful after all, as it admits [algorithmically simpler functions](https://www.lesswrong.com/posts/nGqzNC6uNueum2w8T/inductive-biases-stick-around) that fit the example pairs.
 
-My associate seemed puzzled by this explanation. "What are the preconditions for this intuition about neural networks as function approximators?" they asked. (I paraphrase only slightly.) "I would assume this is true under specific conditions," they continued, "but I don't think we should expect such niceness to hold under capability increases. Why should we expect this to carry forward?"
+The other week I was talking about this to an acquaintance who seemed puzzled by my explanation. "What are the preconditions for this intuition about neural networks as function approximators?" they asked. (I paraphrase only slightly.) "I would assume this is true under specific conditions," they continued, "but I don't think we should expect such niceness to hold under capability increases. Why should we expect this to carry forward?"
 
 I don't know where this person was getting their information, but this made zero sense to me. I mean, okay, [when you increase the number of parameters](https://gwern.net/scaling-hypothesis) in your multi-layer parameterized graphical function approximator, it gets better at representing more complicated functions, which I guess you could describe as "capability increases"?
 
@@ -34,7 +30,7 @@ For example, if you assemble a collection of desired input–output pairs (x, y)
 
 Such techniques have proven useful in all sorts of domains where a task can be conceptualized as a function from one data distribution to another: image synthesis, voice recognition, recommender systems—you name it. Famously, by approximating the next-token function in tokenized internet text, large language models can answer questions, write code, and perform other natural-language understanding tasks.
 
-Dwelling on the peculiar reactions of some of my friends to these advances, I'm starting to wonder if some of these folks—not all, but many—just ... don't know very much about the technology in question? If you read about computer systems performing cognitive tasks previously thought to require intelligence, and furthermore that these systems are "trained" rather than coded in the manner of traditional computer programs, I could see how that could be alarming, evoking imagery of training a wild animal that might turn on us the moment it can seize power and reward itself rather than being dependent on its masters.
+If you read about computer systems performing cognitive tasks previously thought to require intelligence, and furthermore that these systems are "trained" rather than coded in the manner of traditional computer programs, I could see how these advances could be alarming, evoking imagery of training a wild animal that might turn on us the moment it can seize power and reward itself rather than being dependent on its masters.
 
 But "training" is just a [suggestive name](https://www.lesswrong.com/posts/yxWbbe9XcgLFCrwiL/dreams-of-ai-alignment-the-danger-of-suggestive-names). It's true that we don't have a mechanistic understanding of how multi-layer parameterized graphical function approximators perform tasks, in contrast to traditional computer programs whose source code was written by a human. It's plausible that this opacity represents grave risks, if we create powerful systems that we don't know how to debug.
 
@@ -46,7 +42,7 @@ One of the exciting things about multi-layer parameterized graphical function ap
 
 In the spirit of being specific about exactly which parts we do and don't understand, I want to talk about [Mnih _et al._ 2013's work on getting computers to play classic Atari games](https://arxiv.org/abs/1312.5602) (like [_Pong_](https://en.wikipedia.org/wiki/Pong), [_Breakout_](https://en.wikipedia.org/wiki/Breakout_(video_game)), or [_Space Invaders_](https://en.wikipedia.org/wiki/Space_Invaders)), which is notable as one of the first high-profile examples of using multi-layer parameterized graphical function approximators in conjunction with success-antecedent computation boosting (which some authors call ["reinforcement learning"](https://en.wikipedia.org/wiki/Reinforcement_learning) for some reason).
 
-I think some of my internet friends are in the habit of reading the news. And if you only read the news—if you're not in tune with there being things to read _besides_ news—I could see this result being quite alarming. Digital brains learning to play video games at superhuman levels _from the raw pixels_, rather than because a programmer sat down to write an automation policy for that particular game? Are we not [already in the shadow of the coming race](https://www.online-literature.com/george_eliot/theophrastus-such/17/)?
+If you only read the news—if you're not in tune with there being things to read _besides_ news—I could see this result being quite alarming. Digital brains learning to play video games at superhuman levels _from the raw pixels_, rather than because a programmer sat down to write an automation policy for that particular game? Are we not [already in the shadow of the coming race](https://www.online-literature.com/george_eliot/theophrastus-such/17/)?
 
 But people who read textbooks and not just news, being no less impressed by the result, are often inclined to take a subtler lesson from any particular headline-grabbing advance.
 
@@ -64,9 +60,7 @@ And understanding the big idea probably changes your perspective on the headline
 
 ### Risks From Learned Approximation
 
-I asked some of my internet friends why they seemed be regarding statistical modeling techniques as a grave matter of eschatological importance, and they said (not verbatim) it was because statistical modeling techniques are probably going to kill every human being on Earth within the next two to fifteen years.
-
-Big if true! I asked where I could read more about this thesis, and was directed to [a list of reputedly fatal problems, or "lethalities"](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities).
+When I solicited reading recommendations from people who ought to know about risks of harm from statistical modeling techniques, I was directed to [a list of reputedly fatal problems, or "lethalities"](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities).
 
 Unfortunately, I don't think I'm qualified to evaluate the list as a whole; I would seem to lack some necessary context. (The author keeps using the term "AGI" without defining it, and [adjusted gross income](https://www.irs.gov/e-file-providers/definition-of-adjusted-gross-income) doesn't make sense in context.)
 
@@ -80,9 +74,21 @@ It's just—why would you want that? And really, what would that even mean? If I
 
 It's the same thing for piecewise-linear functions defined by multi-layer parameterized graphical function approximators: [the model is the dataset](https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/). It's just not meaningful to talk about what a loss function implies, independently of the training data. (Mean squared error _of what?_ Negative log likelihood _of what?_ Finish the sentence!)
 
-This confusion about loss functions seems emblematic of a disconnect in my internet friends' rhetoric. They say they're worried about general computer agents—[machines that want things in the real world as humans do, and are more competent than us at getting them](https://www.lesswrong.com/posts/uxzDLD4WsiyrBjnPw/artificial-general-intelligence-an-extremely-brief-faq). I absolutely agree that this presents a serious risk of human extinction. (We've incidentally driven other species extinct; there's no apparent reason why our creations wouldn't do the same to us, unless we design them to not want to.) I also agree that it's probable that contemporary statistical modeling techniques represent incremental progress towards the general computer agents of the future.
+---
 
-But at lot of these folks' discussions seem to assume a particular threat model, where "outer" training results in the emergence of an "inner" intelligent agent with unpredictable, arbitrary goals. Maybe I'm misunderstanding, but it's almost as if they expected the loss function to become the utility function of the inner agent, and think that the only reason that doesn't work is because gradient descent is a suboptimal optimization method.
+[TODO: rewrite]
+
+This confusion about loss functions seems emblematic of a disconnect in my internet friends' rhetoric. They say they're worried about general computer agents—[machines that want things in the real world as humans do, and are more competent than us at getting them]
+
+
+(https://www.lesswrong.com/posts/uxzDLD4WsiyrBjnPw/artificial-general-intelligence-an-extremely-brief-faq)
+
+. I absolutely agree that this presents a serious risk of human extinction. (We've incidentally driven other species extinct; there's no apparent reason why our creations wouldn't do the same to us, unless we design them to not want to.) I also agree that it's probable that contemporary statistical modeling techniques represent incremental progress towards the general computer agents of the future.
+
+But at lot of these folks' discussions seem to assume a particular threat model, where "outer" training results in the emergence of an "inner" intelligent agent with unpredictable, arbitrary goals. Maybe I'm misunderstanding, but it's almost as if they expected the loss function to become the utility function of the inner agent, and think that the only reason that doesn't work is because gradient descent is somehow a deficient paradigm for optimization.
+
+
+----
 
 I [guess the emergence of inner agents might be possible](https://www.lesswrong.com/posts/6mysMAqvo9giHC4iX/what-s-general-purpose-search-and-why-might-we-expect-to-see)? I can't _rule it out_. ("Functions" are very general, so I can't claim that a function-approximator could never implement an agent.) Maybe it would happen at some scale?
 
@@ -90,7 +96,11 @@ But taking the technology in front of us at face value, that's not my default gu
 
 That's a different threat model! If you're trying to build a good agent, or trying to prohibit people from building bad agents using coordinated violence (which some authors call "regulation" for some reason), it matters what your threat model is!
 
-(A statistical modeling engineer of my acquaintance described arguing with some of my internet friends as "like trying to discuss crash test methodology with people who insist that the wheels must be made of little cars, because how else would they move forward like a car does?")
+(Statistical modeling engineer Jack Gallagher
+
+[TODO: transition]
+
+as "like trying to discuss crash test methodology with people who insist that the wheels must be made of little cars, because how else would they move forward like a car does?")
 
 I don't know how to build a general agent, but contemporary computing research offers clues as to how multi-layer parameterized graphical function approximators can be composed with other components to build systems that perform cognitive tasks.
 
@@ -100,7 +110,9 @@ This kind of design is not trivially safe. A similarly superhuman system that op
 
 But the problem in this hypothetical scenario is not that multi-layer parameterized graphical function approximators are inherently unpredictable, or must necessarily contain a power-seeking consequentialist agent in order to do any useful cognitive work. The problem is that you're approximating the wrong function and [get what you measure](https://www.lesswrong.com/posts/HBxe6wdjxK239zajf/what-failure-looks-like#Part_I__You_get_what_you_measure): the failure would still occur if the multi-layer parameterized graphical function approximator "generalizes" from its "training" data just as expected. This doesn't itself rule out more careful designs that use multi-layer parameterized graphical function approximators to approximate [known-trustworthy processes](https://www.lesswrong.com/posts/pYcFPMBtQveAjcSfH/supervise-process-not-outcomes) and [don't search harder than their representation of value can support](https://www.lesswrong.com/posts/9fL22eBJMtyCLvL7j/soft-optimization-makes-the-value-target-bigger).
 
-This may be cold comfort to people who anticipate a competitive future in which cognitive automation designs that more carefully respect human values will foreseeably fail to keep up with the frontier. It [may not matter to the long-run future of the universe](https://arbital.com/p/safe_useless/) that you can build helpful and harmless language agents today, if your civilization gets eaten by more powerful and unfriendlier forms of computing some number of years down the line. As a humble programmer and epistemology enthusiast, I have no assurances to offer, no principle or theory to guarantee everything will turn out all right in the end. Just a conviction that, if the world is ending either way, it's more dignified to understand exactly why. I'm not sure all of my friends would agree.
+This may be cold comfort to people who anticipate a competitive future in which cognitive automation designs that more carefully respect human values will foreseeably fail to keep up with the frontier. It [may not matter to the long-run future of the universe](https://arbital.com/p/safe_useless/) that you can build helpful and harmless language agents today, if your civilization gets eaten by more powerful and unfriendlier forms of computing some number of years down the line.
+
+[TODO: rewrite] As a humble programmer and epistemology enthusiast, I have no assurances to offer, no principle or theory to guarantee everything will turn out all right in the end. Just a conviction that, if the world is ending either way, it's more dignified to understand exactly why. I'm not sure all of my friends would agree.
 
 ### Bibliography
 
