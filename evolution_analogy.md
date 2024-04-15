@@ -1,5 +1,3 @@
-The level of x-risk discourse is so low that I continue to see alpha in just writing both sides myself. I almost think we're more likely to survive if people just try to be smart rather than to reduce risk
-
 
 ### Scene 2: Uses of the Evolution Analogy
 

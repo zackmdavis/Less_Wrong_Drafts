@@ -2,7 +2,7 @@
 
 On 16 March 2024, I sat down to chat with _New York Times_ technology reporter Cade Metz! In part of our conversation, transcribed below, we discussed his February 2021 article ["Silicon Valley's Safe Space"](https://archive.ph/zW6oX), covering Scott Alexander's _Slate Star Codex_ blog and the surrounding community.
 
-The transcript has been significantly edited for clarity. (It turns out that real-time conversation transcribed completely verbatim is full of filler words, false starts, crosstalk, "uh huh"s, "yeah"s, pauses while one party picks up their coffee order, _&c._ that do not seem particularly substanative.)
+The transcript has been significantly edited for clarity. (It turns out that real-time conversation transcribed completely verbatim is full of filler words, false starts, crosstalk, "uh huh"s, "yeah"s, pauses while one party picks up their coffee order, _&c._ that do not seem particularly substantive.)
 
 -------
 
