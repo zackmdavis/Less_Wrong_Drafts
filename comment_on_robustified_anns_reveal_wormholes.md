@@ -2,12 +2,29 @@
 
 ### Background: Adversarial Examples
 
- * Image recognition models are famously plagued by adversarial examples: add a little bit of noise to an image, and it completely changes the class, even though the image looks the same to humans
- * This is a problem, if it means that our image classifiers aren't really doing what they appear to be. They haven't really learned recognize cats; they've learned to recognize a weird squiggly set in imagespace that includes a lot of obvious non-cats and excludes a lot of obvious cats
- * On the other hand, can't simply be explained by overfitting, because they transfer between models ("Explaining and Harnessing") and you can train on adversarial examples to get performance on original dataset ("They Are Features")
+The apparent successes of the deep learning revolution conceal a dark underbelly. It may seem that we now know how to get computers to (say) [check whether a photo is of a bird](https://xkcd.com/1425/), but this façade of seemingly good performance is belied by the existence of _adversarial examples_—specially prepared data that looks ordinary to humans, but gets classified radically differently by machine learning models.
+
+Early investigations into this phenomenon revealed that the differentiable nature of neural networks, which make them possible to be trained at all, are also responsible for their downfall at the hands of an adversary. Recall that deep learning models are fit using stochastic gradient descent to [approximate the function between](https://www.lesswrong.com/posts/DhjcdzTyqHte2v6bu/deep-learning-is-function-approximation) expected inputs and outputs. Given an input, an expected output, and a loss function (which measures "how bad" it is for an actual output to differ from the expected output), we can calculate the gradient of the loss on the input—the derivative with respect to every parameter in our neural network—which tells us which direction to adjust the parameters in order to make the loss go down, to make the approximation better.
+
+(This post and much of the literature about adversarial examples focuses on the case of image classification, in which case the input would be an image, the output would be a class label describing the content of the image, and the loss function would be the negative logarithm of the probability that the model assigned to the correct label. But the story for other tasks and modalities is going to be much the same.)
+
+But the [gradient](https://en.wikipedia.org/wiki/Gradient) is a double-edged sword: the same properties that make it easy to calculate how to optimally adjust the _model_ to make it better at classifying an image, also make it easy to calculate how to optimally adjust an _image_ to make to make the model classify it incorrectly. If we take the gradient of the loss with respect to the pixels of the image (rather than the parameters of the model), that tells us which direction to adjust the pixels to make the loss go down—_or up_. (The direction of steepest increase is just the opposite of the direction of steepest decrease.) In this way, we can perturb the pixels of an image just so—making this one the tiniest bit darker, that one the tiniest bit lighter—in a way that humans don't even notice, but which completely breaks an image classifier sensitive to that exact direction in [the conjunction of many pixel-dimensions)(https://www.lesswrong.com/posts/cu7YY7WdgJBs3DpmJ/the-univariate-fallacy-1), making it report utmost confidence in nonsense classifications.
+
+Some might ask: why does it matter if our image classifier fails on examples that have been mathematically constructed to fool it? (If we could take gradients of the human brain, it would no doubt be easy to find inputs that would fool _you_, too.) If it works great for the images one would naturally encounter, isn't that good enough?
+
+One might mundanely reply that gracefully handling untrusted inputs is a decideratum for many real-world applications.
+
+But a more forward-thinking reply 
+
+It's a problem if we think we've trained our machines to recognize birds, but they've learned to recognize an alien squiggly set in imagespace that includes a lot of obvious non-birds and excludes a lot of obvious birds.
+
+[TODO—
+ * can't simply be explained by overfitting, because they transfer between models (cite "Explaining and Harnessing")
+ * you can train on adversarial examples to get performance on original dataset (cite "They Are Features")
+]
 
 
-### Robustified ANNs Reveal Wormholes Between Human Category Precepts?!
+### Robustified Neural Networks Reveal Wormholes Between Human Category Precepts?!
 
  * The prevailing assumption had been that, unlike NNs, human perception is stable within a low-pixel-budget perturbation around most natural images—adding a small amount of noise isn't going to change how you see things
  * How are "small" perturbations operationalized? For 224×224×3 images, the maximal distance is 388. (You can think of an image as a list of 3 * 224^2 values, the square root of which is 388.) Typical difference between imagenet images is 130.
