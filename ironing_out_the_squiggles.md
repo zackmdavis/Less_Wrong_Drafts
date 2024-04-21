@@ -16,25 +16,51 @@ One might mundanely reply that gracefully handling untrusted inputs is a decider
 
 One obvious first guess as to what's going on is that the models are overfitting. Gradient descent isn't exactly a sophisticated algorithm. There's an intuition that the _first_ solution that you happen to find by climbing down the loss landscape is likely to have idiosyncratic quirks on any inputs it wasn't trained for. (And that an AI designer from a more competent civilization would use a principled understanding of vision to come up with something much better than what we get by shoveling compute into SGD.) Similarly, a hastily cobbled-together conventional computer program that passed a test suite is going to have bugs in areas not covered by the tests.
 
-But that explanation in tension with other evidence, like the observation that adversarial examples often generalize between models. (An adversarial example optimized against one model is often misclassified by others, too, and even assigned the same class.) It seems less likely that different hastily cobbled-together programs would have the _same_ bug.
+But that explanation in tension with other evidence, like the observation that adversarial examples [often generalize between models](https://arxiv.org/abs/1704.03453). (An adversarial example optimized against one model is often misclassified by others, too, and even assigned the same class.) It seems unlikely that different hastily cobbled-together programs would have the _same_ bug.
 
 In ["Adversarial Examples Are Not Bugs, They Are Features"](https://arxiv.org/abs/1905.02175), Andrew Ilyas _et al._ propose an alternative explanation, that adversarial examples arise from predictively useful features that happen to not be robust to pixel-level perturbations. As far as the in-distribution predictive accuracy of the model is concerned, a high-frequency pattern that humans don't notice is fair game for distinguishing between image classes; there's no rule that the features that happen to be salient to humans need to take priority. Ilyas _et al._ provide some striking evidence for this thesis in the form of a model trained exclusively on adversarial examples yielding good performance on the original, unmodified test set (!!).[^adversarial-to-natural-transfer] On this view, adversarial examples arise from gradient descent being "too smart", not "too dumb". The program is fine; if the test suite didn't imply the behavior we wanted, that's our problem.
 
 [^adversarial-to-natural-transfer]: That is, for example, training on a dataset of birds-perturbed-to-be-classified-as-bicycles and bicycles-pertrubed-to-be-classified-as-birds results in good performance on natural images of bicycles and birds.
 
-On the other hand, there's also some evidence that gradient descent being "dumb" may also play a role in adversarial examples, in conjunction with the [counterintuitive properties of high-dimensional spaces](https://en.wikipedia.org/wiki/Curse_of_dimensionality). In ["Adversarial Spheres"](https://arxiv.org/abs/1801.02774), Justin Gilmer _et al._ investigated a simple synthetic dataset of two classes representing points on the surface of two concentric _n_-dimensional spheres of radiuses 1 and (an arbitrarily chosen) 1.3. For a simple network that yields an ellipsoidal decision boundary, training on a million datapoints produced a network with very high accuracy (no errors in 10 million samples), but for which most of the axes of the ellipsoidal decision boundary were wrong, lying inside the inner sphere or outside the outer sphere—implying the existence of on-distribution adversarial examples (points on one sphere classified by the network as belonging to the other). In high-dimensional space, pinning down the exact countours of the decision boundary is much harder for SGD to accomplish than merely being right virtually all of the time—even though a human wouldn't take a million datapoints to notice the hypothesis, "Hey, these all have a norm of exactly either 1 or 1.3."
+On the other hand, there's also some evidence that gradient descent being "dumb" may also play a role in adversarial examples, in conjunction with the [counterintuitive properties of high-dimensional spaces](https://en.wikipedia.org/wiki/Curse_of_dimensionality). In ["Adversarial Spheres"](https://arxiv.org/abs/1801.02774), Justin Gilmer _et al._ investigated a simple synthetic dataset of two classes representing points on the surface of two concentric _n_-dimensional spheres of radiuses 1 and (an arbitrarily chosen) 1.3. For an architecture yielding an ellipsoidal decision boundary, training on a million datapoints produced a network with very high accuracy (no errors in 10 million samples), but for which most of the axes of the decision ellipsoid were wrong, lying inside the inner sphere or outside the outer sphere—implying the existence of on-distribution adversarial examples (points on one sphere classified by the network as belonging to the other). In high-dimensional space, pinning down the exact countours of the decision boundary is bigger ask of SGD than merely being right virtually all of the time—even though a human wouldn't take a million datapoints to notice the hypothesis, "Hey, these all have a norm of exactly either 1 or 1.3."
 
 ### Adversarial Training: A Solution?
 
-Our story so far: we used gradient-based optimization to find a neural network that seemed to get low loss on an image classification task—that is, until an adversary used gradient-based optimization to find images on which our neural network gets _high_ loss instead. Is that the end of the story? Is [deep learning hitting a wall](https://nautil.us/deep-learning-is-hitting-a-wall-238440/)?
+Our story so far: we used gradient-based optimization to find a neural network that seemed to get low loss on an image classification task—that is, until an adversary used gradient-based optimization to find images on which our network gets _high_ loss instead. Is that the end of the story? Has [deep learning hit a wall](https://nautil.us/deep-learning-is-hitting-a-wall-238440/), or is there some way to continue within the current paradigm?
 
-Mathematically, instead of just trying to find network parameters $\theta$ that
+In ["Towards Deep Learning Models Resistant to Adversarial Attacks"](https://arxiv.org/abs/1706.06083) by Aleksander Madry _et al._, our authors provide a formalization of the problem of adversarially robust classifiers. Instead of just trying to find network parameters $\theta$ that minimize loss $L$ on an input $x$ of intended class $y$, as in the original image classification task, the designers of a robust classifier are trying to minimize loss on inputs with a perturbation $\delta$ crafted by an adversary trying to maximize loss (subject to some maximum perturbation size $\varepsilon$):
 
-$\min_\theta - \log(y \mid x)$
+$$\min_\theta \max_{||\delta|| < \varepsilon} L(\theta, x + \delta, y)$$
 
-min_θ −log(y|x)
-max_δ −log(y|x) δ
+In this formulation, the attacker's problem of creating adversarial examples, and the defender's problem of training a model robust to them, are intimately related. If we change the image-classification problem statement to correctly classifying not just natural images, but an $\varepsilon$-ball around them, then you've defeated all adversarial examples up to that $\varepsilon$. This requires a larger model than the classification problem for natural images: evidently, the decision boundary needed to separate the $\varepsilon$-balls in high-dimensional space is significantly more complicated than that needed to separate natural inputs.
 
+To solve the inner maximization problem, Madry _et al._ use the method of projected gradient descent (PGD) for constrained optimization: do SGD on the unconstrained problem, but after every step, project the result onto the constraint (in this case, the set of perturbations of size less than $\varepsilon$). This is slightly more sophisticated than just generating any old adversarial examples and throwing them into your training set; the iteration of PGD makes a difference.
+
+When the dust settles on all the tinkering needed to make it work, something magical happens. Searching for adversarial examples under the $\ell_2$ norm for a classifier for the [MNIST dataset of handwritten digits](https://en.wikipedia.org/wiki/MNIST_database), PGD doesn't find adversarial attacks until you crank $\varepsilon$ up to 4—at which point, at which point the perturbations don't look like random noise anymore—
+
+[TODO: Figure 12 from Mandry et al.]
+
+[TODO: in order to break classification, PGD spent its pixel budget on the places where a human would change to make one digit look like another; human-like perception is possible]
+
+(I don't want to overstate this result and leave the impression that adversarial examples are "solved." There are a lot of caveats about these models [still being vulnerable](https://arxiv.org/abs/1805.09190) to attacks that use [second-order derivatives](https://paperswithcode.com/paper/second-order-adversarial-attack-and-1) or [eschew gradients entirely](https://arxiv.org/abs/1712.04248), and Madry _et al._ are clear about the specific technical limitations. But for the purposes of this post, I want to highlight the striking visual demonstration that adversarial training works at all.)
+
+[TODO—
+ * then summarize the "Wormholes" paper
+ * make sure to fit in l_2 vs. l_infty explanation here or earlier
+]
+
+### Implications for Alignment?
+
+[TODO—
+ * Explain the reward robustness problem as articulated in Christiano et al.
+ * Quote 2018 discussion Yudkowsky on squiggles, and Christiano on it looking solvable
+ * At the time, it was hard to tell who was right, but now we have relevant evidence that bears on our thinking about the future (Madry et al. first version was Jun 2017, "Wormholes" was August 2023)
+ * Empiricism of the form "it hasn't killed us yet, therefore we're fine" is dumb, but a more measured empiricism that stays in touch with the literature is desirable
+]
+
+--------
+
+NOTES—
 
 ["Robustified ANNs Reveal Wormholes Between Human Category Percepts"](https://arxiv.org/abs/2308.06887) by Guy Gaziv, Michael J. Lee, and James J. DiCarlo.[^wormhole-paper-title]
 
@@ -106,6 +132,16 @@ https://openai.com/research/attacking-machine-learning-with-adversarial-examples
  * For MNIST, PGD couldn't find adv. ex. even for large values of ε—which makes sense in light of the wormholes result!! (There are low-norm perturbations that make a dog look like a fish, but none that make a 5 look like a 1 or zero; the MNIST digit data manifold is more constrained)
     * Caveat: the authors think this is an overestimate of the robustness
  * The FGSM linearizes the loss around the example; PGD is more sophisticated
+
+
+
+
+
+["Towards the first adversarially robust neural network model on MNIST"](https://arxiv.org/abs/1805.09190)
+
+["Second-Order Adversarial Attack and Certifiable Robustness"](https://paperswithcode.com/paper/second-order-adversarial-attack-and-1) by Bai Li, Changyou Chen, Wenlin Wang, and Lawrence Carin
+
+["Decision-Based Adversarial Attacks"](https://arxiv.org/abs/1712.04248) by Wieland Brendel, Jonas Rauber, Matthias Bethge doesn't use gradients, but just uses the final decision to map out the boundary between classes; it's a lot more expensive in the number of calls to the model you need to make, but surprisingly effective
 
 #### "Adversarial Examples Are Not Bugs, They Are Features" (https://arxiv.org/abs/1905.02175)
 
