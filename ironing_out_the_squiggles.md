@@ -8,7 +8,7 @@ This discovery was made possible by the fact that the differentiable nature of n
 
 [^image-classification]: This post and much of the literature about adversarial examples focuses on image classification, in which case the input would be the pixels of an image, the output would be a class label describing the content of the image, and the loss function would be the negative logarithm of the probability that the model assigned to the correct label. But the story for other tasks and modalities is going to be much the same.
 
-But gradients are a double-edged sword: the same properties that make it easy to calculate how to adjust a _model_ to make it better at classifying an image, also make it easy to calculate how to adjust an _image_ to make to make the model classify it incorrectly. If we take the gradient of the loss with respect to the pixels of the image (rather than the parameters of the model), that tells us which direction to adjust the pixels to make the loss go down—_or up_. (The direction of steepest increase is just the opposite of the direction of steepest decrease.) A tiny step in that direction in imagespace perturbs the pixels of an image just so—making this one the tiniest bit darker, that one the tiniest bit lighter—in a way that humans don't even notice, but which completely breaks an image classifier sensitive to that direction in [the conjunction of many pixel-dimensions)(https://www.lesswrong.com/posts/cu7YY7WdgJBs3DpmJ/the-univariate-fallacy-1), making it report utmost confidence in nonsense classifications.
+But gradients are a double-edged sword: the same properties that make it easy to calculate how to adjust a _model_ to make it better at classifying an image, also make it easy to calculate how to adjust an _image_ to make to make the model classify it incorrectly. If we take the gradient of the loss with respect to the pixels of the image (rather than the parameters of the model), that tells us which direction to adjust the pixels to make the loss go down—_or up_. (The direction of steepest increase is just the opposite of the direction of steepest decrease.) A tiny step in that direction in imagespace perturbs the pixels of an image just so—making this one the tiniest bit darker, that one the tiniest bit lighter—in a way that humans don't even notice, but which completely breaks an image classifier sensitive to that direction in [the conjunction of many pixel-dimensions](https://www.lesswrong.com/posts/cu7YY7WdgJBs3DpmJ/the-univariate-fallacy-1), making it report utmost confidence in nonsense classifications.
 
 Some might ask: why does it matter if our image classifier fails on examples that have been mathematically constructed to fool it? If it works for the images one would naturally encounter, isn't that good enough?
 
@@ -26,33 +26,44 @@ On the other hand, there's also some evidence that gradient descent being "dumb"
 
 ### Adversarial Training: A Solution?
 
-Our story so far: we used gradient-based optimization to find a neural network that seemed to get low loss on an image classification task—that is, until an adversary used gradient-based optimization to find images on which our network gets _high_ loss instead. Is that the end of the story? Has [deep learning hit a wall](https://nautil.us/deep-learning-is-hitting-a-wall-238440/), or is there some way to continue within the current paradigm?
+Our story so far: we used gradient-based optimization to find a neural network that seemed to get low loss on an image classification task—that is, until an adversary used gradient-based optimization to find images on which our network gets _high_ loss instead. Is that the end of the story? Are neural networks are just the wrong idea for computer vision after all, or is there some way to continue within the current paradigm?
 
 In ["Towards Deep Learning Models Resistant to Adversarial Attacks"](https://arxiv.org/abs/1706.06083) by Aleksander Madry _et al._, our authors provide a formalization of the problem of adversarially robust classifiers. Instead of just trying to find network parameters $\theta$ that minimize loss $L$ on an input $x$ of intended class $y$, as in the original image classification task, the designers of a robust classifier are trying to minimize loss on inputs with a perturbation $\delta$ crafted by an adversary trying to maximize loss (subject to some maximum perturbation size $\varepsilon$):
 
 $$\min_\theta \max_{||\delta|| < \varepsilon} L(\theta, x + \delta, y)$$
 
-In this formulation, the attacker's problem of creating adversarial examples, and the defender's problem of training a model robust to them, are intimately related. If we change the image-classification problem statement to correctly classifying not just natural images, but an $\varepsilon$-ball around them, then you've defeated all adversarial examples up to that $\varepsilon$. This requires a larger model than the classification problem for natural images: evidently, the decision boundary needed to separate the $\varepsilon$-balls in high-dimensional space is significantly more complicated than that needed to separate natural inputs.
+In this formulation, the attacker's problem of creating adversarial examples, and the defender's problem of training a model robust to them, are intimately related. If we change the image-classification problem statement to correctly classifying not just natural images, but an $\varepsilon$-ball around them, then you've defeated all adversarial examples up to that $\varepsilon$. This turns out to generally require larger models than the classification problem for natural images: evidently, the decision boundary needed to separate the $\varepsilon$-balls in high-dimensional space is significantly more complicated than that needed to separate natural inputs.
 
 To solve the inner maximization problem, Madry _et al._ use the method of projected gradient descent (PGD) for constrained optimization: do SGD on the unconstrained problem, but after every step, project the result onto the constraint (in this case, the set of perturbations of size less than $\varepsilon$). This is slightly more sophisticated than just generating any old adversarial examples and throwing them into your training set; the iteration of PGD makes a difference.
 
-When the dust settles on all the tinkering needed to make it work, something magical happens. Searching for adversarial examples under the $\ell_2$ norm for a classifier for the [MNIST dataset of handwritten digits](https://en.wikipedia.org/wiki/MNIST_database), PGD doesn't find adversarial attacks until you crank $\varepsilon$ up to 4—at which point, at which point the perturbations don't look like random noise anymore—
+When the dust settles on all the tinkering needed to make it work, something magical happens. Searching for adversarial examples under the $\ell_2$ norm for a classifier for the [MNIST dataset of handwritten digits](https://en.wikipedia.org/wiki/MNIST_database), PGD doesn't find adversarial attacks until you crank $\varepsilon$ up to 4—at which point, the perturbations don't look like random noise anymore, as seen in Madry _et al._'s Figure 12—
 
-[TODO: Figure 12 from Mandry et al.]
+![](squiggles-mnist.png)
 
-[TODO: in order to break classification, PGD spent its pixel budget on the places where a human would change to make one digit look like another; human-like perception is possible]
+Tasked with changing an image's class given a limited budget of pixels to change, PGD finds the kinds of changes a human would think of—deleting part of the loop of a _9_ to make a _7_ or a _4_, deleting the middle-left of an _8_ to make a _3_. Contrary to fears that adversarial examples reveal an inextricable alienness to seemingly well-performing classifiers, it would seem that the adversarially-trained model is seeing the same digits we are.
 
-(I don't want to overstate this result and leave the impression that adversarial examples are "solved." There are a lot of caveats about these models [still being vulnerable](https://arxiv.org/abs/1805.09190) to attacks that use [second-order derivatives](https://paperswithcode.com/paper/second-order-adversarial-attack-and-1) or [eschew gradients entirely](https://arxiv.org/abs/1712.04248), and Madry _et al._ are clear about the specific technical limitations. But for the purposes of this post, I want to highlight the striking visual demonstration that adversarial training works at all.)
+(I don't want to overstate the significance of this result and leave the impression that adversarial examples are necessarily "solved", But for the purposes of this post, I want to highlight the striking visual demonstration of what it looks like when adversarial training _works_.)[^solution-caveats]
 
-[TODO—
- * then summarize the "Wormholes" paper
- * make sure to fit in l_2 vs. l_infty explanation here or earlier
-]
+[^solution-caveats]: Madry _et al._ are clear that there are a lot of caveats about models trained with their methods [still being vulnerable](https://arxiv.org/abs/1805.09190) to attacks that use [second-order derivatives](https://paperswithcode.com/paper/second-order-adversarial-attack-and-1) or [eschew gradients entirely](https://arxiv.org/abs/1712.04248)—and you can see that there are still non-human-meaningful pixely artifacts in the second row of Figure 12.
+
+An even more striking illustration of would-be adversarial examples that also work on humans is provided in ["Robustified ANNs Reveal Wormholes Between Human Category Percepts"](https://arxiv.org/abs/2308.06887) by Guy Gaziv, Michael J. Lee, and James J. DiCarlo.[^wormhole-paper-title]
+
+[^wormhole-paper-title]: A version of this paper has [also appeared](https://openreview.net/forum?id=5GmTI4LNqX) under the less interesting title, "Strong and Precise Modulation of Human Percepts via Robustified ANNs". Do some reviewers have a prejudice against creative paper titles? While researching this post, I was disturbed to find that the newest version of the Gilmer _et al._ "Adversarial Spheres" paper had been re-titled "The Relationship Between High-Dimensional Geometry and Adversarial Examples".
+
+The prevailing assumption in the literature on adversarial examples had been that human perception of image classes is stable under small perturbations—say, of $\ell_2$-norm less than 30. The reason adversarial examples are surprising and disturbing is because they seem to reveal neural nets as fundamentally brittle in a way that humans aren't. We can't imagine our visual perception being so drastically effected by changing so few pixels.
+
+But what if ... we just hadn't found the right changes yet? 
+
+[TODO: in traditional adversarial examples, it wasn't just any old perturbation; it was very specific—as specific to the models as _this_ is to us]
+
+[TODO: finish summarizing wormholes result]
+
+![](squiggles-wormholes.png)
 
 ### Implications for Alignment?
 
 [TODO—
- * Explain the reward robustness problem as articulated in Christiano et al.
+ * Explain the reward robustness problem as articulated in https://ai-alignment.com/an-unaligned-benchmark-b49ad992940b#f95b
  * Quote 2018 discussion Yudkowsky on squiggles, and Christiano on it looking solvable
  * At the time, it was hard to tell who was right, but now we have relevant evidence that bears on our thinking about the future (Madry et al. first version was Jun 2017, "Wormholes" was August 2023)
  * Empiricism of the form "it hasn't killed us yet, therefore we're fine" is dumb, but a more measured empiricism that stays in touch with the literature is desirable
@@ -62,9 +73,12 @@ When the dust settles on all the tinkering needed to make it work, something mag
 
 NOTES—
 
-["Robustified ANNs Reveal Wormholes Between Human Category Percepts"](https://arxiv.org/abs/2308.06887) by Guy Gaziv, Michael J. Lee, and James J. DiCarlo.[^wormhole-paper-title]
+ * I may need to think more carefully about how to clarify the l2 vs. l_infty thing earlier, but maybe it's makes sense to bang out a first draft first, and then tidy up such points of clarification
+ * "limited budget of pixels to change" might need a footnote
+ * Or rather, the discussion of the MNIST and wormhole results need to be better interleaved with each other, rather than "discuss one paper, then discuss the other paper", even if I took bullet notes on one paper then the other
 
-[^wormhole-paper-title]: A version of this paper has [also appeared](https://openreview.net/forum?id=5GmTI4LNqX) under the less interesting title, "Strong and Precise Modulation of Human Percepts via Robustified ANNs". Do some reviewers have a prejudice against creative paper titles? While researching this post, I was disturbed to find that the newest version of the Gilmer _et al._ "Adversarial Spheres" paper had been re-titled "The Relationship Between High-Dimensional Geometry and Adversarial Examples".
+
+
 
  * The prevailing assumption had been that, unlike NNs, human perception is stable within a low-pixel-budget perturbation around most natural images—adding a small amount of noise isn't going to change how you see things
  * How are "small" perturbations operationalized? For 224×224×3 images, the maximal distance is 388. (You can think of an image as a list of 3 * 224^2 values, the square root of which is 388.) Typical difference between imagenet images is 130.
@@ -135,8 +149,6 @@ https://openai.com/research/attacking-machine-learning-with-adversarial-examples
 
 
 
-
-
 ["Towards the first adversarially robust neural network model on MNIST"](https://arxiv.org/abs/1805.09190)
 
 ["Second-Order Adversarial Attack and Certifiable Robustness"](https://paperswithcode.com/paper/second-order-adversarial-attack-and-1) by Bai Li, Changyou Chen, Wenlin Wang, and Lawrence Carin
@@ -150,7 +162,7 @@ https://openai.com/research/attacking-machine-learning-with-adversarial-examples
 # implications for alignment notes—
 
 https://www.lesswrong.com/posts/Djs38EWYZG8o7JMWY/paul-s-research-agenda-faq?commentId=79jM2ecef73zupPR4
-> Eliezer expects weird squiggles from gradient descent - it's not that gradient descent can never produce par-human cognition, even natural selection will do that if you dump in enough computing power. But you will get the kind of weird squiggles in the learned function that adversarial examples expose in current nets - special inputs that weren't in the training distribution, but look like typical members of the training distribution from the perspective of the training distribution itself, will break what we think is the intended labeling from outside the system.
+> Eliezer expects weird squiggles from gradient descent—it's not that gradient descent can never produce par-human cognition, even natural selection will do that if you dump in enough computing power. But you will get the kind of weird squiggles in the learned function that adversarial examples expose in current nets—special inputs that weren't in the training distribution, but look like typical members of the training distribution from the perspective of the training distribution itself, will break what we think is the intended labeling from outside the system.
 > [...]
 > You cannot iron out the squiggles just by using more computing power in bounded in-universe amounts.
 
