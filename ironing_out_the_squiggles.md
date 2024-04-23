@@ -20,7 +20,7 @@ But that explanation in tension with other evidence, like the observation that a
 
 In ["Adversarial Examples Are Not Bugs, They Are Features"](https://arxiv.org/abs/1905.02175), Andrew Ilyas _et al._ propose an alternative explanation, that adversarial examples arise from predictively useful features that happen to not be robust to pixel-level perturbations. As far as the in-distribution predictive accuracy of the model is concerned, a high-frequency pattern that humans don't notice is fair game for distinguishing between image classes; there's no rule that the features that happen to be salient to humans need to take priority. Ilyas _et al._ provide some striking evidence for this thesis in the form of a model trained exclusively on adversarial examples yielding good performance on the original, unmodified test set (!!).[^adversarial-to-natural-transfer] On this view, adversarial examples arise from gradient descent being "too smart", not "too dumb". The program is fine; if the test suite didn't imply the behavior we wanted, that's our problem.
 
-[^adversarial-to-natural-transfer]: That is, for example, training on a dataset of birds-perturbed-to-be-classified-as-bicycles and bicycles-pertrubed-to-be-classified-as-birds results in good performance on natural images of bicycles and birds.
+[^adversarial-to-natural-transfer]: That is, as an illustrative example, training on a dataset of birds-perturbed-to-be-classified-as-bicycles and bicycles-pertrubed-to-be-classified-as-birds results in good performance on natural images of bicycles and birds.
 
 On the other hand, there's also some evidence that gradient descent being "dumb" may also play a role in adversarial examples, in conjunction with the [counterintuitive properties of high-dimensional spaces](https://en.wikipedia.org/wiki/Curse_of_dimensionality). In ["Adversarial Spheres"](https://arxiv.org/abs/1801.02774), Justin Gilmer _et al._ investigated a simple synthetic dataset of two classes representing points on the surface of two concentric _n_-dimensional spheres of radiuses 1 and (an arbitrarily chosen) 1.3. For an architecture yielding an ellipsoidal decision boundary, training on a million datapoints produced a network with very high accuracy (no errors in 10 million samples), but for which most of the axes of the decision ellipsoid were wrong, lying inside the inner sphere or outside the outer sphere—implying the existence of on-distribution adversarial examples (points on one sphere classified by the network as belonging to the other). In high-dimensional space, pinning down the exact countours of the decision boundary is bigger ask of SGD than merely being right virtually all of the time—even though a human wouldn't take a million datapoints to notice the hypothesis, "Hey, these all have a norm of exactly either 1 or 1.3."
 
@@ -62,8 +62,25 @@ But what if ... we just hadn't found the right changes yet?
 
 ### Implications for Alignment?
 
+In [a 2018 comment]() on a summary of Paul Christiano's research agenda, Eliezer Yudkowsky characterized 
+
+ * Explain the reward robustness problem as articulated in https://ai-alignment.com/an-unaligned-benchmark-b49ad992940b#f95b  https://ai-alignment.com/aligned-search-366f983742e9
+
+two critical points
+
+https://www.lesswrong.com/posts/Djs38EWYZG8o7JMWY/paul-s-research-agenda-faq?commentId=79jM2ecef73zupPR4
+> Eliezer expects weird squiggles from gradient descent—it's not that gradient descent can never produce par-human cognition, even natural selection will do that if you dump in enough computing power. But you will get the kind of weird squiggles in the learned function that adversarial examples expose in current nets—special inputs that weren't in the training distribution, but look like typical members of the training distribution from the perspective of the training distribution itself, will break what we think is the intended labeling from outside the system. Eliezer does not think Ian Goodfellow will have created a competitive form of supervised learning by gradient descent which lacks "squiggles" findable by powerful intelligence by the time anyone is trying to create ML-based AGI, though Eliezer is certainly cheering Goodfellow on about this and would recommend allocating Goodfellow $1 billion if Goodfellow said he could productively use it. You cannot iron out the squiggles just by using more computing power in bounded in-universe amounts.
+
+
+https://www.lesswrong.com/posts/Djs38EWYZG8o7JMWY/paul-s-research-agenda-faq?commentId=nbg277ZmT7GeN5zi5
+> For adversarial examples in particular, I think that the most reasonable guess right now is that it takes more model capacity (and hence data) to classify all perturbations of natural images correctly rather than merely classifying most correctly—i.e., the smallest neural net that classifies them all right is bigger than the smallest neural net that gets most of them right—but that if you had enough capacity+data then adversarial training would probably be robust to adversarial perturbations. Do you want to make the opposite prediction?
+
+
+
+
+
 [TODO—
- * Explain the reward robustness problem as articulated in https://ai-alignment.com/an-unaligned-benchmark-b49ad992940b#f95b
+
  * Quote 2018 discussion Yudkowsky on squiggles, and Christiano on it looking solvable
  * At the time, it was hard to tell who was right, but now we have relevant evidence that bears on our thinking about the future (Madry et al. first version was Jun 2017, "Wormholes" was August 2023)
  * Empiricism of the form "it hasn't killed us yet, therefore we're fine" is dumb, but a more measured empiricism that stays in touch with the literature is desirable
@@ -146,8 +163,6 @@ https://openai.com/research/attacking-machine-learning-with-adversarial-examples
  * For MNIST, PGD couldn't find adv. ex. even for large values of ε—which makes sense in light of the wormholes result!! (There are low-norm perturbations that make a dog look like a fish, but none that make a 5 look like a 1 or zero; the MNIST digit data manifold is more constrained)
     * Caveat: the authors think this is an overestimate of the robustness
  * The FGSM linearizes the loss around the example; PGD is more sophisticated
-
-
 
 ["Towards the first adversarially robust neural network model on MNIST"](https://arxiv.org/abs/1805.09190)
 

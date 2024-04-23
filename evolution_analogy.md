@@ -4,11 +4,6 @@
 **Doomimir**: It's our only datapoint!
 
 [TODO—sketch of the real-world arguments I'm covering—
- * Belrose claims that Yudkowsky's theory predicts that larger networks should be less likely to generalize well, because they represent a larger space of functions
- * My gloss: why doesn't the "predicting bar conversations doesn't make you drunk" analogy also imply "predicting the answers to mod arithmetic problems doesn't mean you implement mod arithmetic", a failed prediction?
- * Yudkowsky's reply: predicting bar conversations mean you already know what the drunk person knows, but being drunk yourself would get in the way. For mod arithmetic, there's no desideratum there besides knowledge.
- * My elaboration: and specifically, "get in the way" means there's a gradient pointing towards making the emulation subservient to the "real goal"
- * Yudkowsky: the first algorithms found by a greedy optimizer that cover the training but not the test distribution, are facts about the distributions and the optimizer; the vast space of functions is only relevant in the part where, given that you missed the test distribution, there's lots of things to want
  * Yudkowsky: I predict that the shortest program that does mod arithmetic up to a googol will generalize, whereas we saw that the evolution of humans didn't. The difference is about domain divergence and optimizer.
  * My question: but how do we know that the AI domain divergence will be more like the evolutions and less like mod arithmetic? Is it just about complexity (there's only one "obvious" completion of the mod-arithmetic problems)? But natural language is really complex, and LLMs seem to be generalizing pretty great
  * Yudkowsky: the point of bringing up evolution is that it debunks the naive belief that an outer optimizer imbues the same utility function on an inner optimizer.
@@ -26,20 +21,6 @@ https://www.lesswrong.com/posts/a392MCzsGXAZP5KaS/deceptive-ai-deceptively-align
 
 https://www.lesswrong.com/posts/AWoZBzxdm4DoGgiSj/ability-to-solve-long-horizon-tasks-correlates-with-wanting
 
-[TODO— points to cover before scene break—
-
-https://www.lesswrong.com/posts/zthDPAjh9w6Ytbeks/deceptive-alignment#4_2__Conditions_for_deceptive_alignment
-https://nintil.com/situational-awareness-agi/
-https://optimists.ai/2023/02/21/deceptive-alignment-is-1-likely-by-default/
-https://arbital.greaterwrong.com/p/dont_solve_whole_problem
-https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/
-"cherry on the cake"
-
-ArXiv paper on fit to noisy data still generalizes?
-
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4708466 Prompting Diverse Ideas
-
-]
 
 parametrically retargetable agents seek power
 
@@ -100,10 +81,6 @@ That's
 
 **Doomimir**: As a matter of fact, yes. You see—
 
-
-----------
-
-
 ----------
 
 Of course gradient descent isn't going to hit on a perfect consequentialist that calculates the optimal plan for manipulating humans into hitting the thumbs-up button. But in order to do powerful cognitive work, it is going to hit on flexible
@@ -122,14 +99,13 @@ DL as function approximation
 
 --------
 
-I think part of the reason the post ends without addressing this is that, unfortunately, I don't think I properly understand this one yet, even after reading [your dialogue with Eli Tyre](https://www.lesswrong.com/posts/aaYZM4kLdHP3pwtfQ/on-the-lethality-of-biased-human-reward-ratings).
+Notes on "Evolution Provides No Evidence for the Sharp Left Turn" (https://www.greaterwrong.com/posts/hvz9qjWyv8cLX9JJR/evolution-provides-no-evidence-for-the-sharp-left-turn)—
 
-The next paragraph of the post links Christiano's 2015 ["Two Kinds of Generalization"](https://ordinaryideas.wordpress.com/2015/11/25/two-kinds-of-generalization/), which I found insightful and seems relevant. By way of illustration, Christiano describes two types of possible systems for labeling videos: (1) a human classifier (which predicts what label a human would assign), and (2) a generative model (which directly builds a mapping between descriptions and videos roughly the way our brains do it). Notably, the human classifier behaves undesirably on inputs that bribe, threaten, or otherwise hack the human: for example, a video of the text "I'll give you $100 if you classify this as an apple" might get classified as an apple. (And an arbitrarily powerful search for maximally apple-classified inputs would turn those up.)
-
-Christiano goes on to describe a number of differences between these two purported kinds of generalization: (1) is reasoning _about_ the human, whereas (2) is reasoning _with_ a model not unlike the one inside the human's brain; searching for simple Turing machines would tend to produce (1), whereas searching for small circuits would tend to produce (2); and so on.
-
-It would be bad to end up with a system that behaves like (1) without realizing it. That definitely seems like it would kill you. But (Simplicia asks) how likely that is seems like a complicated empirical question about how ML generalization works and how you built your particular AI, that isn't definitively answered by "in the limit" philosophy about "perfectly learn[ing] and perfectly maximiz[ing] the referent of rewards assigned by human operators"? That is, I agree that if you argmax over possible programs for the one that results in the most reward-button presses, you get something that only wants to sieze the reward button. The path-dependent details between "pretraining + [HFDT](https://www.lesswrong.com/posts/pRkFkzwKZ2zfa3R6H/without-specific-countermeasures-the-easiest-path-to) + regularization + early stopping + _&c._" and "argmax over possible programs" [seem like they make a big difference](https://www.lesswrong.com/posts/pdaGN6pQyQarFHXF4/reward-is-not-the-optimization-target). The technology in front of us _really does_ seem like it's "reasoning with" rather than "reasoning about". (while also seeming to be on the path towards "real AGI" rather than a mere curiosity).
-
-When I try to imagine what Doomimir would say to that, all I can come up with is a metaphor about perpetual-motion-machine inventors whose designs are so complicated that it's hard to work out where the error is, even though the laws of thermodynamics clearly imply that there must be an error. That sounds plausible to me as a handwavy metaphor; I could totally believe that the ultimate laws of optimization (not known to me personally) work that way.
-
-The thing is, we _do_ need more than a handwavy metaphor! "Yes, your gold-printing machine _seems_ to be working great, but my intuition says it's definitely going to kill everyone. No, I haven't been able to convince relevant experts who aren't part of my robot cult, but that's because they're from Earth and therefore racially inferior to me. No, I'm not willing to make any concrete bets or predictions about what happens before then" is a non-starter even if it turns out to be true.
+ * For non-human animal species, the only way to transmit information from one generation to the next is through genes; the billions of learning steps in an individual animal brain get thrown away
+ * For humans, we transmit learned data through culture; the next generation doesn't have to invent everything from scratch
+ * Within-lifetime learning is much faster than evolution
+ * We don't train AIs by having an outer loop over inner learners, and then delete the inner learners after every stop of the outer loop
+ * This was a one-time overhang
+ * Takeoff could still be fast because of AIs contributing to research (recursive self-improvement)
+ * AI could just learn faster than us
+ * (separate post to also read: "Evolution is a bad analogy for AGI: inner alignment")

@@ -60,6 +60,8 @@
 
  * compare to Chiang on blurry JPEGs?
 
+https://firstmonday.org/ojs/index.php/fm/article/view/13636/11599 
+
 https://twitter.com/gregeganSF/status/1727940487255138404
 > Oh, I think they've noticed, but some of them still like the, err, "early, funny ones" that predate the cult and hence devote no time to mocking it.
 
