@@ -109,3 +109,50 @@ Notes on "Evolution Provides No Evidence for the Sharp Left Turn" (https://www.g
  * Takeoff could still be fast because of AIs contributing to research (recursive self-improvement)
  * AI could just learn faster than us
  * (separate post to also read: "Evolution is a bad analogy for AGI: inner alignment")
+ * capabilities jumps due to recursive AI research won't break alignment; if you learn a lot about how to do RLHF; that's not necessarily going to break retrieval mechanisms or better optimizers, rather than RLHF suddenly being useless
+    * I'm not sure I buy this; if, e.g., the key assumption for RLHF is that the model isn't much smarter than the evaluators
+
+------
+
+Notes on "Evolution is a bad analogy for AGI: inner alignment" (https://www.greaterwrong.com/posts/FyChg3kYG54tEN3u6/evolution-is-a-bad-analogy-for-agi-inner-alignment)—
+
+ * Evolution didn't optimize over "values"; it optimized over learning process + reward circuits
+ * claim: "learning process + reward function + training environment → the AI’s learned values" is a better analogy than "evolution → values"
+    * my comment: it doesn't seem like these analogies should be in zero-sum competition with each other; if we're sufficiently specific about each
+ * Evolution specifies genes and genes specify cognition; the extra step is much more indirect compared to how SGD directly optimizes the brain
+ * genome is few parameters (highly compressed)
+ * We have more evidence/data about humans
+    * This consideration seems weak to me?
+ * evolution couldn't have succeeded at aligning humans to fitness (where would the ancestral humans get that concept? In contrast to things that were already in their environment)
+ * There are many sources of evidence about how inner goals relate to outer optimization criteria; evolution need not have more weight than "human within-lifetime learning"
+    * The within-lifetime-learning analogy is much more optimistic; someone who was nice to dogs a lot while growing up probably doesn't want a dog-free future
+    * (The obvious counterargument is, maybe they selfishly want a robot dog to fulfill their needs, which is different from what would be good for the dogs themselves)
+    
+------
+
+Notes on "My Objections to 'We're All Gonna Die'"—
+(just what leapt out at me)
+
+ * He cites the "Relative representations enable zero-shot latent space communication" paper!!
+ * the "tries to predict the inner goals of a GPT-like model" seems right?
+
+------
+
+Notes on Byrnes "Against Evolution as an Analogy" (https://www.greaterwrong.com/posts/pz7Mxyr7Ac43tWMaC/against-evolution-as-an-analogy-for-how-humans-will-create)—
+
+ * deep RL and evolution are both "two-layer" algorithms
+ * three ingredients for the evolution analogy: "outer + inner", "outer as lead designer", and "inner as AGI"
+ * Byrnes doesn't think all three will hold
+ * "outer as lead designer" doesn't apply if the outer loop is hyperparameter search &c.
+    * but "outer as lead designer" mostly does hold for modern DL, right? We mostly don't know how LLMs know about language
+ * "inner as AGI" doesn't hold if the outer algorithm is an essential part of the AGI's operation
+ * better analogy: genome ⟺ Git repo with PyTorch, within-lifetime learning ⟺ training, human behavior ⟺ policy behavior
+ * Byrnes expects AGI to have some black-boxy components (like learned world-model content), but doesn't expect learning-algorithm _and_ learned content _and_ reward function to all be tangled together in the same black box
+ * Human engineers have sometimes been inspired by nature, which is not the same thing as running genetic algorithms
+ * convnets, PPO, temporal difference learning, &c. were all invented by humans, not automated search
+ * in a comment, Byrnes says he's impressed by the world-modeling in GPT-3's weights, but doesn't expect the trained model to learn in the AGI-hard sense, which would require somehow translating info from activations to weights
+ * automated design is great for things that are computationally cheap but very complicated (so image classification is a great fit), whereas learning algorithms themselves are conceptually simple but eat up lots of compute at scale
+ * (I'm skipping section 2)
+ * the same NN architecture trained to do different tasks, will be executing "the same" low level operations (with different bit values), but the low-level steps of e.g. FFT vs. quicksort will be very different
+ * ... which is relevant becuase of efficiency; maybe a superintelligent compiler could compile the differnet neural nets into programs with different performance characteristics, but the nets having the same perf characteristics in reality is
+ * If you search over a space of algorithms with SGD &c., you might get what you're looking for, but not in a compute-efficient way
