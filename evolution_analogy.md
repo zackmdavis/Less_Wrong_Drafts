@@ -1,3 +1,19 @@
+_[Scene: a suburban house, a minute after the conclusion of ["And All the Shoggoths Merely Players"](https://www.lesswrong.com/posts/8yCXeafJo67tYe5L4/and-all-the-shoggoths-merely-players). **Doomimir** returns with his package, which he places by the door, and turns his attention to **Simplicia**, who has been waiting for him.]_
+
+**Simplicia**: [TODO: recap the end of previous post]
+
+**Doomimir**: [TODO: briefly explain the standard evolutionary argument]
+
+[**Simplicia** turns to the audience and makes a face.]
+
+**Doomimir**: What?
+
+**Simplicia**: When you said you had empirical evidence, 
+
+**Doomimir**:
+
+
+
 
 ### Scene 2: Uses of the Evolution Analogy
 
@@ -18,6 +34,12 @@
  * https://www.lesswrong.com/posts/ax695frGJEzGxFBK4/biology-inspired-agi-timelines-the-trick-that-never-works
 ]
 https://www.lesswrong.com/posts/a392MCzsGXAZP5KaS/deceptive-ai-deceptively-aligned-ai
+
+https://twitter.com/ESYudkowsky/status/1744066823962947905
+> The space of possible programs that appear to do mod arithmetic correctly on domains up to a googol is also vast, and there are some which do it correctly up to a googol but then break above that.  But if you select the shortest program that does mod arithmetic correctly up to a googol, I bet you will find one that does it correctly for all numbers.  That's a fact about the training distribution, the test distribution, and the optimizer "go through all programs in order until you find the shortest one which solves that problem", which yields that result there.
+>
+> Conversely, for the case of the optimizer "do greedy local search on mutations and recombinations", and the domains "optimize inclusive genetic fitness in the ancestral environment" and "optimize inclusive genetic fitness using science powers in a market economy", we know of historical fact that the first algorithm found by the optimizer of natural selection, which generalizes mere epistemics (not preference) well enough to break the ancestral distribution and catapult the organism into the modern distribution, is not a pure desire to make more DNA copies which simply adapts that preference to the new distribution.
+
 
 https://www.lesswrong.com/posts/AWoZBzxdm4DoGgiSj/ability-to-solve-long-horizon-tasks-correlates-with-wanting
 
@@ -156,3 +178,12 @@ Notes on Byrnes "Against Evolution as an Analogy" (https://www.greaterwrong.com/
  * the same NN architecture trained to do different tasks, will be executing "the same" low level operations (with different bit values), but the low-level steps of e.g. FFT vs. quicksort will be very different
  * ... which is relevant becuase of efficiency; maybe a superintelligent compiler could compile the differnet neural nets into programs with different performance characteristics, but the nets having the same perf characteristics in reality is
  * If you search over a space of algorithms with SGD &c., you might get what you're looking for, but not in a compute-efficient way
+
+-----
+
+Notes on "Dealing with Sparse Rewards in Reinforcement Learning" Joshua Hare master's thesis—
+
+ * citation chase: "Investigating Human Priors for Playing Video Games": when you ablate the obvious context cues (fire dangerous, ladders climbable), humans get much worse at video games, but RL agents perform the same
+ * you can try to deal with sparse rewards with curiosity—try to explore novel states
+ * 
+
