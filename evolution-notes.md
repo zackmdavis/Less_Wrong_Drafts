@@ -227,3 +227,10 @@ Rob's comment— knowing how a CPU executes individual instructions doesn't help
 https://www.lesswrong.com/posts/wCtegGaWxttfKZsfx/we-don-t-understand-what-happened-with-culture-enough
 
 
+[TODO—cruxes to hit—
+
+ * Rapid capability gain/"secret sauce of general intelligence"—Simplicia kind of buys Pope's culture-as-overhang argument; Doomimir thinks humans have a key threshold of general intelligence
+ * (Yudkowsky recently made another point point that there could be other, future one-time gains analogous to but besides the invention of language)
+]
+
+It's funny how we the MIRI position seems to simultaneously think evolution is "too weak" but also "too strong"? 
