@@ -233,4 +233,38 @@ https://www.lesswrong.com/posts/wCtegGaWxttfKZsfx/we-don-t-understand-what-happe
  * (Yudkowsky recently made another point point that there could be other, future one-time gains analogous to but besides the invention of language)
 ]
 
-It's funny how we the MIRI position seems to simultaneously think evolution is "too weak" but also "too strong"? 
+It's funny how we the MIRI position seems to simultaneously think evolution is "too weak" but also "too strong"?
+
+
+**Simplicia**: Sure we do. It predicts the next token in its training distribution.
+
+**Doomimir**: That's like saying humans just optimize inclusive genetic fitness.
+
+**Simplicia**: Humans execute adaptations that optimize inclusive genetic fitness _in the environment of evolutionary adaptedness_.
+
+-------
+
+notes from "Introductory Lectures on Convex Optimization"—
+ * an iterative local black box scheme for solving optimization problems—have a candidate point, call an "oracle" that gives you information for how to update your point
+ * the oracle could be zero-order (just telling you the function value), first-order (gradient), second-order (Hessian)
+ * analytical complexity is the number of calls to the oracle needed
+ * arithmetic complexity counts the number of math operations used, including the operation of the oracle itself
+ * for Lipschitz constant L and accuracy ε, the analytical complexity of zero-order grid sampling is (floor(L/(2ε) + 2)^ n, which is exponential in the dimensionality n
+
+"complexity of gradient descent (a first-order method) to find an ε-suboptimal solution is O(L/ε), where L is the Lipschitz constant (Nesterov, 2004). This complexity is independent of the dimensionality of the problem. [...] On the other hand, for zeroth-order methods, the complexity of finding an ε-suboptimal solution for a convex and Lipschitz continuous function is O((L/ε)^n)"
+
+The paper Sam sent me is— "Optimal rates for zero-order convex optimization: the power of two function evaluations"; it claims that the dependence on the dimensionality is \sqrt{d}
+
+----
+In that sense, first-order gradient methods seem like a better optimizer than zeroth-order evolution, which is also supported by theoretical results: gradient information lets you converge to a local minimum in polynomial time independently of the dimensionality of the problem, but zeroth order algorithms depend on the dimensionality.
+
+[TODO: but even if you think SGD is like evolution, selective breeding also looks like it works? "Select for X, get X" works great on factory farms. If we bred dogs to be smarter than humans and also to love us, it seems likely that they would keep loving us, maybe not in exactly the way that we prefer to be loved, but we don't murder our dogs. Counterargument: Sequences-era examples of selecting for individual egg production or selective breeding. Counter-counter: it seems like this more like a "sparse reward" concern, which is different from condemning DL methods]
+
+**Doomimir**: 
+Livestock and LLMs aren'
+
+[TODO—
+ * SGD and evolution are still hill-climby algorithms; that's different from being able to intelligently change multiple things at once
+ * dogs and livestock aren't generally intelligent, which is what broke alignment in humans
+
+]
