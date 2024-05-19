@@ -1,4 +1,4 @@
-**Doomimir**: It's our only datapoint!
+**Doomimir**: It's our only datapoint!—
 
 [TODO—sketch of the real-world arguments I'm covering—
  * Yudkowsky: I predict that the shortest program that does mod arithmetic up to a googol will generalize, whereas we saw that the evolution of humans didn't. The difference is about domain divergence and optimizer.
@@ -268,3 +268,5 @@ Livestock and LLMs aren'
  * dogs and livestock aren't generally intelligent, which is what broke alignment in humans
 
 ]
+
+Ethan Perez's work about LLMs being better at writing reward functions https://arxiv.org/abs/2310.12921
