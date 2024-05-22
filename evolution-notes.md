@@ -269,4 +269,47 @@ Livestock and LLMs aren'
 
 ]
 
+ * general intelligence is has special alignment-breaking properties; doing what you want on-distribution is trivial and unimpressive; the problem is that self-improvement changes the distribution, and the outcomes are very brittle
+
+ * information theory: if you need 100 bits
+     * counterargument: perfect English is also a lot of bits, yet LLMs exist
+
+ * sparse rewards, training data, and the EEA
+
 Ethan Perez's work about LLMs being better at writing reward functions https://arxiv.org/abs/2310.12921
+
+https://ificl.github.io/images-that-sound/
+
+--- (get a Tweet reference link to "starting from scratch with gradient descent would be stupid")
+
+https://x.com/ESYudkowsky/status/1775548168530448895
+
+> There is a lot to learn from the observation of how everything played out with natural selection, and throwing it all away and starting from scratch with gradient descent would be stupid.  No, it doesn't transfer directly.  It does transfer indirectly.
+
+> From my perspective, the point of raising the example of natural selection is that it debunks the naive belief that if in general an outer optimizer trains on reward function, it gets an inner optimizer that pursues that reward function OOD.  Saying "But SGD is first-order and natural selection is zeroth-order!" doesn't refute the refutation of "For all n, nth-order outer optimizers, training on a reward, get inner optimizers pursuing that reward" which is the state of mind that naive arguers seem to want to appeal to.
+>
+> You could, perhaps, make a case for just 1st-order optimizers and not 0th-order or 2nd-order optimization algorithms producing inner minds that exactly pursue the quoted reward function that outer optimizers use to generate rewards.  I think this is also dumb after you've shaken loose of the naive mirroring expectation and studied in detail what went on with 0th-order natural selection, since a lot of those phenomena sure look to me like they ought to generalize.  Even though, yes, SGD is not exactly NS and therefore some straw argument that they were "exactly the same" is thereby refuted by pointing out any differences whatsoever.
+>
+> My arguments against SGD exactly mirroring quoted outer functions generating particular rewards, to inner psychological pursuit of the quoted reward function generalizing across distributions, include, "If you train a mind to exactly predict text from many individual drunks, it will not thereby become drunk" and "Actually you're still doing greedy local search and it's gonna hit on local correlates again" and "Just like weird shit went wrong with natural selection, we should also expect different weird shit to go wrong with SGD".
+>
+> Your own misrepresentation of the argument from large possibility spaces in mind design, in particular, is one where the flaw in your misrepresentation of what the theory implies, manifests the same way for 0th-order and 1st-order optimizers (NS and SGD); which is why you tried to use the analogy about genomes in the first place; and the refutation (showing what the theory actually predicts) is analogous for both cases.
+>
+> If you respond to all this by claiming that argument by analogy to natural selection has been "debunked", and therefore there's no need to talk about SGD maybe having any problems, I'm not sure what to do beyond saying to people, "She's misrepresenting both the original argument and its debunking" and letting them judge.
+>
+> Using the example of an individual human learning across their lifetime would be weird and pointless since a human brain is not a blank slate starting from scratch, it's a particular architecture extensively tested to work a particular way in the natural environment.  Everything a human brain does in the modern world needs to be understood as the malfunction of a complicated hunter-gatherer, not the correct function of a simple pleasure maximizer.
+>
+> If humans were blank slates pursuing pleasure, we'd use more heroin especially at the end of their lifespans.  We don't purely relentlessly pursue strategies that maximize the sum of physical pleasure over time, because that's not what a malfunctioning hunter-gatherer does.  Our cares are bound to objects in the external world, just, not bound to "make copies of your DNA" specifically.  That's true because natural selection optimized our ancestors to pursue particular things in the outer world, and tried and tested different brain systems until it found ones that happened to shake out that way.  It is meaningless to imagine a human brain as an artifact that popped into existence as a blank slate within a single lifetime.  We just aren't; we've got a bunch of complicated specific architecture whose testing and debugging happened before then.
+
+https://x.com/ESYudkowsky/status/1666986593838837760
+> +1 to what Xu asks here; "obey a constraint" is a programmer goal, not a system design.  "Have a committee flag constraint violations they know about, resulting in a lower reward to a system trained by SGD/DRL to maximize reward" is a system design.
+
+https://x.com/ESYudkowsky/status/1660564623547047936
+> No, ASI via SGD is like having to enter a Wish via 100,000 training examples, and then SGD fits some weird incredibly complicated function to that along local optima which are not global optima, so when the AI gets smarter It runs off and does some utterly other thing.  You're screwed irrespective of which Wish you try to make or who enters it, in a way that wouldn't make good fiction because the relation between Wish and outcome is not solvable by the reader and doesn't tell interesting ironic moral lessons about whichever Wish got made.  This is also true if you generate an objective function via SGD and optimize it via a planning mechanism.
+
+https://x.com/ESYudkowsky/status/1775274359906791803
+> Sounds like a level confusion to me?  The outer optimizer isn't trying to train in long-term goals.  That doesn't mean the thing it trains can't possibly have any long-term goals.  Natural selection didn't train anything into humans that wasn't, like, grandparent-grandchild level.  Some of us ended up caring about galaxies anyways.  Slapping a label on something that says "We, way out here, want it to be a function approximator" or "We're optimizing this to approximate a function" doesn't mean that there's nothing inside the black box but the target function plus some random noise.
+
+instruction-tuning generalizing across languages
+
+https://www.lesswrong.com/posts/YSFJosoHYFyXjoYWa/why-neural-networks-generalise-and-why-they-are-kind-of
+
