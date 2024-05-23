@@ -311,5 +311,15 @@ https://x.com/ESYudkowsky/status/1775274359906791803
 
 instruction-tuning generalizing across languages
 
+https://www.lesswrong.com/posts/FDJnZt8Ks2djouQTZ/how-do-we-become-confident-in-the-safety-of-a-machine
+
 https://www.lesswrong.com/posts/YSFJosoHYFyXjoYWa/why-neural-networks-generalise-and-why-they-are-kind-of
 
+https://www.lesswrong.com/posts/gHefoxiznGfsbiAu9/inner-and-outer-alignment-decompose-one-hard-problem-into
+
+https://www.lesswrong.com/posts/BtffzD5yNB4CzSTJe/genetic-fitness-is-a-measure-of-selection-strength-not-the
+
+https://www.lesswrong.com/posts/7NvKrqoQgJkZJmcuD/instruction-following-agi-is-easier-and-more-likely-than
+
+Is SGD a Bayesian sampler https://arxiv.org/abs/2006.15191
+Deep Learning Generalizes Because the Parameter-Function map https://arxiv.org/abs/1805.08522
