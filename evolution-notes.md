@@ -323,3 +323,20 @@ https://www.lesswrong.com/posts/7NvKrqoQgJkZJmcuD/instruction-following-agi-is-e
 
 Is SGD a Bayesian sampler https://arxiv.org/abs/2006.15191
 Deep Learning Generalizes Because the Parameter-Function map https://arxiv.org/abs/1805.08522
+
+https://x.com/ESYudkowsky/status/1793697046198923757
+> Even if they gave back $5 as a kid when they were arguably not smart enough to think about incentives stemming from events 20 years later, the adult financial custodian is sufficiently different from the kid that you can't reliably assume they're faced with the same incentives as the kid giving back $5, or even that they've still got mostly the same goals.
+
+"Is SGD a Bayesian sampler" notes—
+> Instead it predicts which structures are likely to be reached first by an evolutionary process. For RNA secondary structures, for example, it predicts that a stochastic evolutionary process will reach structures with a probability that to first order is proportional to the likelihood that uniform random sampling of genotypes produces the structure. Indeed, this phenomenon – where the probability upon random sampling predicts the outcomes of a complex search process – can be observed in naturally occurring RNA
+The cite goes to Steffen Schaper and Ard A Louis. The arrival of the frequent: how bias in genotype-phenotype maps can steer populations to local optima. PloS one, 9(2):e86635, 2014.
+
+TODO: elaborate that "fitness" isn't just one thing; there are lots of different subgoals that go into whatever happens to work in that EEA
+
+
+Imitation Learning Is Probably Existentially Safe https://www.openphilanthropy.org/wp-content/uploads/Imitation_Learning_Safe_ready.pdf
+
+
+
+https://x.com/ESYudkowsky/status/1793754829631934959
+> Your chance of randomly printing out Shakespeare's lost folios is vastly greater if you first run the existing texts through, say, a letterwise Markov generator that looks at triplet probabilities.  A chance can be "vastly greater" and still "too tiny to hope for"!

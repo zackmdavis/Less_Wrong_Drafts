@@ -58,7 +58,7 @@ Before the intermission, I asked how your pessimism about aligning AGI using tra
 
 But that's a specific claim about what happens with the training distribution "mod arithmetic with inputs less than a googol", the test distribution "mod arithmetic with inputs over a googol", and the optimizer "go through all programs in order until you find one that fits the training distribution." It's not a generic claim that the inner optimizers found by outer optimizers will want what some humans who assembled the training set [optimistically imagined they would want](https://www.lesswrong.com/posts/RcZeZt8cPk48xxiQ8/anthropomorphic-optimism).
 
-In the case of human evolution, we know as a historical fact that the first program found by the optimizer "greedy local search of mutations and recombinations" for the training distribution "optimize inclusive genetic fitness in the environment of evolutionary adaptedness" did not generalize to optimizing inclusive genetic fitness in the test distribution of the modern world. Likewise, your claim that selective breeding "basically works" is problematized by all the times when it doesn't work—like when [selecting for small subpopulation sizes in insects results in infant cannabalism](https://www.lesswrong.com/posts/QsMJQSFj7WfoTMNgW/the-tragedy-of-group-selectionism), or [selecting chickens that lay the most eggs in a coop gets you more aggressive chickens who make their neighbors less productive](https://www.lesswrong.com/posts/KE8wPzGiX5QPotyS8/conjuring-an-evolution-to-serve-you).
+In the case of human evolution, we know as a historical fact that the first program found by the optimizer "greedy local search of mutations and recombinations" for the training task "optimize inclusive genetic fitness in the environment of evolutionary adaptedness" did not generalize to optimizing inclusive genetic fitness in the test distribution of the modern world. Likewise, your claim that selective breeding "basically works" is problematized by all the times when it doesn't work—like when [selecting for small subpopulation sizes in insects results in of cannabalism of larvæ rather than restricted breeding](https://www.lesswrong.com/posts/QsMJQSFj7WfoTMNgW/the-tragedy-of-group-selectionism), or when [selecting chickens that lay the most eggs in a coop gets you more aggressive chickens who make their neighbors less productive](https://www.lesswrong.com/posts/KE8wPzGiX5QPotyS8/conjuring-an-evolution-to-serve-you).
 
 **Simplicia**: _[nodding]_ Uh-huh. With you so far.
 
@@ -68,27 +68,21 @@ In the case of human evolution, we know as a historical fact that the first prog
 
 **Doomimir**: _[frustrated]_ If you're _not_ implicitly assuming the naïve mirroring expectation—whether you realize it or not—then I don't understand why you think "We train for X and get X" is an allowable step in an alignment proposal.
 
-**Simplicia**: It depends on the value of X—and the value of "train". As you say, there are facts of the matter as to which outer optimizers and training distributions produce which inner optimizers, and how those inner optimizers generalize to different test environments. As you say, the facts aren't swayed by wishful thinking. Someone who reasoned, "I rewarded my reinforcement learning system for being good, therefore it will learn to be good," is likely to be disappointed if it turns out that the system generalizes to value reward-button pushes themselves—what you would call an outer alignment failure—or any number of possible training correlates of reward—what you would call an inner alignment failure.
+**Simplicia**: It depends on the value of X—and the value of "train". As you say, there are facts of the matter as to which outer optimizers and training distributions produce which inner optimizers, and how those inner optimizers generalize to different test environments. As you say, the facts aren't swayed by wishful thinking: someone who reasoned, "I pressed the reward button when my AI did things I thought were good, therefore it will learn to be good," will be disappointed if it turns out that the system generalizes to value reward-button pushes themselves—what you would call an outer alignment failure—or any number of possible training correlates of reward—what you would call an inner alignment failure.
 
 **Doomimir**: _[patronizingly]_ With you so far. And why doesn't this instantly sink "We train for X and get X" as an allowable step in an alignment proposal?
 
-**Simplicia**: Because I think it's possible to make predictions about how inner optimizers will behave and [to choose training setups accordingly](https://www.lesswrong.com/posts/FDJnZt8Ks2djouQTZ/how-do-we-become-confident-in-the-safety-of-a-machine). I don't have a complete theory of exactly how this works, but I think [the complete theory is going to be more nuanced than](https://www.lesswrong.com/posts/gHefoxiznGfsbiAu9/inner-and-outer-alignment-decompose-one-hard-problem-into), "Either training converts the outer loss function into an inner utility function, in which case it kills you, or there's no way to tell what it will do, in which case it kills you," and that we can glimpse the outlines of the more nuanced theory by more carefully examining the details of the examples we've discussed.
+**Simplicia**: Because I think it's possible to [make predictions about how inner optimizers will behave and to choose training setups accordingly](https://www.lesswrong.com/posts/FDJnZt8Ks2djouQTZ/how-do-we-become-confident-in-the-safety-of-a-machine). I don't have a complete theory of exactly how this works, but I think [the complete theory is going to be more nuanced than](https://www.lesswrong.com/posts/gHefoxiznGfsbiAu9/inner-and-outer-alignment-decompose-one-hard-problem-into), "Either training converts the outer loss function into an inner utility function, in which case it kills you, or there's no way to tell what it will do, in which case it also kills you," and that we can glimpse the outlines of the more nuanced theory by more carefully examining the details of the examples we've discussed.
 
-[TODO: human evolution
-  * We agree that humans learned "a thousand shards of desire" rather than fitness-maximization.
-  * But it's weird to anthropomorphize Evolution as having "failed" at its "goal" of fitness maximization
-  * Someone looking at EEA humans and asking the question, "How will this generalize?" probably would have gotten it right (they'll keep wanting food and friendship, not allele frequencies)
-  * fitness is a very sparse reward
-  * https://www.lesswrong.com/posts/BtffzD5yNB4CzSTJe/genetic-fitness-is-a-measure-of-selection-strength-not-the
-  * https://www.lesswrong.com/posts/gTNB9CQd5hnbkMxAG/protein-reinforcement-and-dna-consequentialism
-]
+While natural selection can be described at a high level as optimizing for fitness, ["fitness" is an extremely abstract construct](https://www.lesswrong.com/posts/BtffzD5yNB4CzSTJe/genetic-fitness-is-a-measure-of-selection-strength-not-the) that's too causally "sparse" to be tracked directly by [the kinds of cognitive machinery that are easy to build one mutation at a time](https://www.lesswrong.com/posts/gTNB9CQd5hnbkMxAG/protein-reinforcement-and-dna-consequentialism). As a result, evolved creatures are a [hodge-podge](https://www.lesswrong.com/posts/cSXZpvqpa9vbGGLtG/thou-art-godshatter) of [adaptations](https://www.lesswrong.com/posts/XPErvb8m9FapXCjhA/adaptation-executers-not-fitness-maximizers) that fulfill functions that reliably correlated with fitness in past environments.
 
-[TODO: artificial selection failures
- * in the story of mean hens and cannabal insects, we selected for an outcome
-   (population size, egg production), and it turned out that the
-   easiest-to-evolve change to an existing creature to hit that outcome wasn't
-   the one we wanted
-]
+In the case of artificial selection, [...]
+
+The simplest change to an insect that draws on existing variation to respond to selection pressure for smaller subpopulations might be to promote cannabalism. The simplest change to a chicken to lay more eggs than neighboring chickens might be to become a bully.
+
+**Doomimir**: Um, this doesn't sound like an argument for "We train for X and get X."
+
+**Simplicia**: 
 
 [TODO: deep learning
   * deep learning is also outer/inner, but we have so much more specificity over how we supply training data; if you could specify the EEA as easily as you could training data, evolution would look a lot better, too
@@ -96,3 +90,6 @@ In the case of human evolution, we know as a historical fact that the first prog
   * (but also emphasize that using a NN to approximate the V function is meaningfully different than the NN being analogous to a whole animal)
   * LLMs find the simplest function (with respect to the NN prior) that reproduces the training data
 ]
+
+[TODO: would a mind looking at humans in the EEA been able to predict how they would misgeneralize?
+Someone looking at EEA humans and asking the question, "How will this generalize?" probably would have gotten it right (they'll keep wanting food and friendship, not allele frequencies) ]
