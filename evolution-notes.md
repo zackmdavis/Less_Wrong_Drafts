@@ -333,10 +333,17 @@ The cite goes to Steffen Schaper and Ard A Louis. The arrival of the frequent: h
 
 TODO: elaborate that "fitness" isn't just one thing; there are lots of different subgoals that go into whatever happens to work in that EEA
 
-
 Imitation Learning Is Probably Existentially Safe https://www.openphilanthropy.org/wp-content/uploads/Imitation_Learning_Safe_ready.pdf
-
-
 
 https://x.com/ESYudkowsky/status/1793754829631934959
 > Your chance of randomly printing out Shakespeare's lost folios is vastly greater if you first run the existing texts through, say, a letterwise Markov generator that looks at triplet probabilities.  A chance can be "vastly greater" and still "too tiny to hope for"!
+
+As a result, evolved creatures are a [hodge-podge](https://www.lesswrong.com/posts/cSXZpvqpa9vbGGLtG/thou-art-godshatter) of [adaptations](https://www.lesswrong.com/posts/XPErvb8m9FapXCjhA/adaptation-executers-not-fitness-maximizers) that fulfill functions that reliably correlated with fitness in past environments.
+
+In the case of artificial selection, the breeder usually has a more concrete selection criterion in mind.
+
+("Up the Long Ladder" would be a good title for )
+
+[TODO: link "One-Place and Two-Place Words" for "fitness"?]
+
+While natural selection can be described as optimizing for fitness, "fitness" is an extremely abstract construct that's too causally sparse to be tracked directly by [the kinds of cognitive machinery that are easy to build one mutation at a time](https://www.lesswrong.com/posts/gTNB9CQd5hnbkMxAG/protein-reinforcement-and-dna-consequentialism). As a result, evolved creatures are a [hodge-podge](https://www.lesswrong.com/posts/cSXZpvqpa9vbGGLtG/thou-art-godshatter) of [adaptations](https://www.lesswrong.com/posts/XPErvb8m9FapXCjhA/adaptation-executers-not-fitness-maximizers) that fulfill functions that reliably correlated with fitness in past environments.
