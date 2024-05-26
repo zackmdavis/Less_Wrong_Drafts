@@ -58,7 +58,7 @@ Before the intermission, I asked how your pessimism about aligning AGI using tra
 
 But that's a specific claim about what happens with the training distribution "mod arithmetic with inputs less than a googol", the test distribution "mod arithmetic with inputs over a googol", and the optimizer "go through all programs in order until you find one that fits the training distribution." It's not a generic claim that the inner optimizers found by outer optimizers will want what some humans who assembled the training set [optimistically imagined they would want](https://www.lesswrong.com/posts/RcZeZt8cPk48xxiQ8/anthropomorphic-optimism).
 
-In the case of human evolution, we know as a historical fact that the first program found by the optimizer "greedy local search of mutations and recombinations" for the training task "optimize inclusive genetic fitness in the environment of evolutionary adaptedness" did not generalize to optimizing inclusive genetic fitness in the test distribution of the modern world. Likewise, your claim that selective breeding "basically works" is problematized by all the times when it doesn't work—like when [selecting for small subpopulation sizes in insects results in of cannabalism of larvæ rather than restricted breeding](https://www.lesswrong.com/posts/QsMJQSFj7WfoTMNgW/the-tragedy-of-group-selectionism), or when [selecting chickens that lay the most eggs in a coop gets you more aggressive chickens who make their neighbors less productive](https://www.lesswrong.com/posts/KE8wPzGiX5QPotyS8/conjuring-an-evolution-to-serve-you).
+In the case of human evolution—again, our only example of outer optimization producing general intelligence—we know as a historical fact that the first program found by the optimizer "greedy local search of mutations and recombinations" for the training task "optimize inclusive genetic fitness in the environment of evolutionary adaptedness" did not generalize to optimizing inclusive genetic fitness in the test distribution of the modern world. Likewise, your claim that selective breeding "basically works" is problematized by all the times when it doesn't work—like when [selecting for small subpopulation sizes in insects results in of cannabalism of larvæ rather than restricted breeding](https://www.lesswrong.com/posts/QsMJQSFj7WfoTMNgW/the-tragedy-of-group-selectionism), or when [selecting chickens that lay the most eggs in a coop gets you more aggressive chickens who make their neighbors less productive](https://www.lesswrong.com/posts/KE8wPzGiX5QPotyS8/conjuring-an-evolution-to-serve-you).
 
 **Simplicia**: _[nodding]_ Uh-huh. With you so far.
 
@@ -76,7 +76,7 @@ In the case of human evolution, we know as a historical fact that the first prog
 
 In the case of evolution, you can view fitness as being [_defined_ as "that which got selected for"](https://www.lesswrong.com/posts/BtffzD5yNB4CzSTJe/genetic-fitness-is-a-measure-of-selection-strength-not-the). On this view, selective breeding isn't different from natural selection: it's just that the breeder gets to choose the environment of evolutionary adaptedness. The sense in which a farmer breeds cows for milk production is distinct from the sense in which evolution selects organisms for fitness. If we apply the same standards to Nature as we do to the famer, of looking at the mechanisms that lead to an organism being selected, rather than taking "being selected" itself as a utility function that "should" be optimized arbitrarily hard, then humans _weren't_ optimized for inclusive genetic fitness: they were optimized to mate, hunt, gather, acquire allies, avoid disease, _&c._ Construed that way, the relationship between the outer training task and the inner policy's motivations looks a lot more like "We train for X and get X" than you're giving it credit for.
 
-That said, it is true that the solutions found by evolution can be surprising to a breeder who hasn't thought carefully about what selection pressures they're applying. In your examples, the simplest change to an insect that draws on existing variation to respond to selection pressure for smaller subpopulations might be to promote cannabalism; the simplest change to a chicken to lay more eggs than neighboring chickens might be to become a bully.
+That said, it is true that the solutions found by evolution can be surprising to a breeder who hasn't thought carefully about what selection pressures they're applying. As in your examples, the simplest change to an insect that draws on existing variation to respond to selection pressure for smaller subpopulations might be to promote cannabalism; the simplest change to a chicken to lay more eggs than neighboring chickens might be to become a bully.
 
 **Doomimir**: Is this a troll where you concede all of my points and then put on a performance of pretending to somehow disagree? That's what I've been trying to teach you: the solutions found by outer optimization _can be surprising_—
 
@@ -84,22 +84,32 @@ That said, it is true that the solutions found by evolution can be surprising to
 
 _[**Doomimir** guffaws]_
 
-**Simplicia**: —just doesn't seem like an intractable engineering problem, and the case for deep learning looks a lot more favorable than for evolution. The seemingly tenuous connection between the concept of inclusive fitness and humanity's ["thousand shards of desire"](https://www.lesswrong.com/posts/cSXZpvqpa9vbGGLtG/thou-art-godshatter) can be seen as a manifestation of sparse rewards: if the outer optimizer only measures allele frequencies and is otherwise silent on the matter of which alleles are good, then the simplest solution—with respect to natural selection's simplicity prior—is going to depend on a lot of random-looking contingencies of the EEA, which would be surprising if you expected to get a pure DNA-copy maximizer.
+**Simplicia**: —just doesn't seem like an intractable engineering problem, and the case for deep learning looks a lot more favorable than for evolution. The seemingly tenuous connection between the concept of inclusive fitness and humanity's ["thousand shards of desire"](https://www.lesswrong.com/posts/cSXZpvqpa9vbGGLtG/thou-art-godshatter) can be seen as a manifestation of sparse rewards: if the outer optimizer only measures allele frequencies and is otherwise silent on the matter of which alleles are good, then the simplest solution—with respect to natural selection's implied simplicity prior—is going to depend on a lot of random-looking contingencies of the EEA, which would be surprising if you expected to get a pure DNA-copy maximizer.
 
-In contrast, when we build AI systems, we can make the outer optimizer supply as much supervision as we like, and dense supervision tightly constrains the solutions that are found.
+In contrast, when we build AI systems, we can make the outer optimizer supply as much supervision as we like, and dense supervision tightly constrains the solutions that are found. It's believed that reason neural nets generalize at all is because [the parameter–function map is biased towards simple functions](https://arxiv.org/abs/1805.08522). There's even some striking evidence that, to a first approximation, training is equivalent to [doing a Bayesian update on the observation that a net with randomly initialized weights happens to fit the training data](https://arxiv.org/abs/2006.15191). We're not limited to searching for a program that happens to succeed at some simple goal and accepting whatever weird drives happened to be the easiest way to accomplish that; we're searching for a program that approximates the billions of expected input–output pairs we trained it on.
 
-Early theoretical discussions of AI alignment would sometimes talk about what goes wrong if you try to align AI with a "reward button." Those discussions were philosophically valuable. Indeed, if you had a hypercomputer and your AI design method was to run a brute-force search for the simplest program that resulted in the most reward-button pushes, that would predictably not end well. While a weak agent selected on that basis might behave how you wanted, a stronger agent would find creative ways to trick or brainwash you into pushing the button, or just sieze the button itself. If we had a hypercomputer in real-life and were literally brute-forcing AI that way, I would be terrified.
+In the case of large language models, it seems like a reasonable guess that the simplest function that predicts the next token of webtext, really is just a next token predictor. Not a next-token predicting consequentialist which will wirehead with easily-predicted tokens, but a predictor of the webtext training distribution. The distribution-specificity that you consider an inner alignment failure in the case of human evolution is a feature, not a bug. We trained for X and got X.
 
-[TODO—
- * Simplcia says—
- * Fifteen years later, our methods do have a brute-force aspect to them, but the details are different, and the details matter
- * We do RLHF, but real-world RLHF _isn't_ an unconstrained hypercomputer search for whatever makes humans hit thumbs-up; it's reinforcing the state–action trajectories that got reward in the past; most of the bits of search are coming from pretraining
- * DL is finding the simplest function that fits the training data, with respect to the NN prior, which is probably somewhere between the simplicity prior and the speed prior. But that means supplying detailed inputs and outputs. The simplest program that talks like a friendly assistant might just be a friendly assistant!
- * You could still run into reward-button like failures if you're not careful (we don't know how to audit AlphaZero's games for anything more detailed than "it won"), but it seems solvable
- * (but also emphasize that using a NN to approximate the V function is meaningfully different than the NN being analogous to a whole animal)
- * Doomimir is digusted—
- * You're so close to getting it, but the details that you think matter are selected for deceiving you! You don't know what raw reality looks like outside of your concept-space
- * Someone looking at humans in the EEA would think they were working well for fitness, but it generalized differnetly
- * I'm limited to using analogies because we don't have access to the concepts that would explain what's going wrong in the NN case
- * Simplicia thinks that someone looking at EEA humans and asking the question, "How will this generalize?" probably would have gotten it right (they'll keep wanting food and friendship, not allele frequencies)
-]
+**Doomimir**: And then immediately subjected it to _reinforcement learning_.
+
+**Simplicia**: As it happens, I _also_ don't think RLHF is as damning as you do. Early theoretical discussions of AI alignment would sometimes talk about what would go wrong if you tried to align AI with a "reward button." Those discussions were philosophically valuable. Indeed, if you had a hypercomputer and your AI design method was to run a brute-force search for the simplest program that resulted in the most reward-button pushes, that would predictably not end well. While a weak agent selected on that basis might behave how you wanted, a stronger agent would find creative ways to trick or brainwash you into pushing the button, or just sieze the button itself. If we had a hypercomputer in real life and were literally brute-forcing AI that way, I would be terrified.
+
+But again, this isn't a philosophy problem anymore. Fifteen years later, our state-of-the-art methods do have a brute-force aspect to them, but the details are different, and the details matter. RLHF _isn't_ an unconstrained hypercomputer search for whatever makes humans hit the thumbs-up button. It's reinforcing the state–action trajectories that got reward in the past. Most of the bits of search are coming from pretraining. It ... seems to be working pretty well?
+
+**Doomimir**: _Of course_ it seems to be working pretty well! It's been optimized for seeming-good-to-you!
+
+Simplicia, I was willing to give this a shot, but I do despair of leading you over this _pons asinorum_. You're so close to getting it: you can describe
+
+[TODO: you can describe what's going wrong in simple cases, but then the get misled by complexities that cater to your conceptual blind spots. Humans in the EEA would have looked like they were optimizing fitness. Finanical advisors.]
+
+**Simplicia**: [TODO: ugh, more analogies]
+
+**Doomimir**: [TODO: what am I supposed to do?]
+
+**Simplicia**: [TODO: would they have? It seems like it should have been possible to predict how humans would generalize. Discuss "Ironing Out the Squiggles"; that superficially good classification performance can be deceiving, but it's possible to robustify/check]
+
+**Doomimir**: [TODO: Shakespeare's folio's metaphor https://x.com/ESYudkowsky/status/1793754829631934959 ]
+
+**Simplicia**: [TODO: this seems like it depends on how fragile value is; altruism might not be hard to hit]
+
+[TODO: wrap-up; until next time]
