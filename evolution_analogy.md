@@ -1,3 +1,5 @@
+# 
+
 _[Scene: a suburban house, a minute after the conclusion of ["And All the Shoggoths Merely Players"](https://www.lesswrong.com/posts/8yCXeafJo67tYe5L4/and-all-the-shoggoths-merely-players). **Doomimir** returns with his package, which he places by the door, and turns his attention to **Simplicia**, who has been waiting for him.]_
 
 **Simplicia**: Right. To recap for _[coughs]_ no one in particular, when we left off _[pointedly, to the audience]_ one minute ago, Doomimir Doomovitch, you were expressing confidence that approaches to aligning artificial general intelligence within the current paradigm were almost certain to fail. You don't think that the apparent tractability of getting contemporary generative AI techniques to do what humans want bears on that question. But you did say you have empirical evidence for your view, which I'm excited to hear about!
@@ -54,7 +56,7 @@ But even selective breeding basically works. We successfully domesticate loyal d
 
 Before the intermission, I asked how your pessimism about aligning AGI using training data was consistent with deep learning basically working. My pet example was the result where mechanistic interpretability researchers were able to confirm that training on modular arithmetic problems resulted in the network in fact learning a modular addition algorithm. You said something about that being a fact of the training distribution, the test distribution, and the optimizer, which wouldn't work for friendly AI. Can you explain that?
 
-**Doomimir**: _[sighing]_ [If I must.](https://twitter.com/ESYudkowsky/status/1744066823962947905) There's a vast space of possible programs that do correct arithmetic mod _p_ for inputs up to a googol. If you select the shortest such program, my guess is that it would work for inputs over a googol as well. That's a sense in which I'll affirm that training data can "shape behavior", as you put it.
+**Doomimir**: _[sighing]_ [If I must.](https://x.com/ESYudkowsky/status/1744066823962947905) There's a vast space of possible programs that do correct arithmetic mod _p_ for inputs up to a googol. If you select the shortest such program, my guess is that it would work for inputs over a googol as well. That's a sense in which I'll affirm that training data can "shape behavior", as you put it.
 
 But that's a specific claim about what happens with the training distribution "mod arithmetic with inputs less than a googol", the test distribution "mod arithmetic with inputs over a googol", and the optimizer "go through all programs in order until you find one that fits the training distribution." It's not a generic claim that the inner optimizers found by outer optimizers will want what some humans who assembled the training set [optimistically imagined they would want](https://www.lesswrong.com/posts/RcZeZt8cPk48xxiQ8/anthropomorphic-optimism).
 
@@ -62,7 +64,7 @@ In the case of human evolution—again, our only example of outer optimization p
 
 **Simplicia**: _[nodding]_ Uh-huh. With you so far.
 
-**Doomimir**: I don't believe you. If you were really with me so far, you'd have noticed that I just [disproved the naïve mirroring expectation](https://twitter.com/ESYudkowsky/status/1744100219367931906) that outer optimizers training on a reward result in inner optimizers pursuing that reward.
+**Doomimir**: I don't believe you. If you were really with me so far, you'd have noticed that I just [disproved the naïve mirroring expectation](https://x.com/ESYudkowsky/status/1744100219367931906) that outer optimizers training on a reward result in inner optimizers pursuing that reward.
 
 **Simplicia**: Yeah, that sounds like a really dumb idea. If you ever meet someone who believes that, I hope you manage to talk them out of it.
 
@@ -94,19 +96,19 @@ In the case of large language models, it seems like a reasonable guess that the 
 
 **Simplicia**: As it happens, I _also_ don't think RLHF is as damning as you do. Early theoretical discussions of AI alignment would sometimes talk about what would go wrong if you tried to align AI with a "reward button." Those discussions were philosophically valuable. Indeed, if you had a hypercomputer and your AI design method was to run a brute-force search for the simplest program that resulted in the most reward-button pushes, that would predictably not end well. While a weak agent selected on that basis might behave how you wanted, a stronger agent would find creative ways to trick or brainwash you into pushing the button, or just sieze the button itself. If we had a hypercomputer in real life and were literally brute-forcing AI that way, I would be terrified.
 
-But again, this isn't a philosophy problem anymore. Fifteen years later, our state-of-the-art methods do have a brute-force aspect to them, but the details are different, and the details matter. RLHF _isn't_ an unconstrained hypercomputer search for whatever makes humans hit the thumbs-up button. It's reinforcing the state–action trajectories that got reward in the past. Most of the bits of search are coming from pretraining. It ... seems to be working pretty well?
+But again, this isn't a philosophy problem anymore. Fifteen years later, our state-of-the-art methods do have a brute-force aspect to them, but the details are different, and the details matter. RLHF _isn't_ an unconstrained hypercomputer search for whatever makes humans hit the thumbs-up button. It's reinforcing the state–action trajectories that got reward in the past. Most of the bits of search are coming from pretraining. It seems to be working pretty well?
 
 **Doomimir**: _Of course_ it seems to be working pretty well! It's been optimized for seeming-good-to-you!
 
-Simplicia, I was willing to give this a shot, but I do despair of leading you over this _pons asinorum_. You're so close to getting it: you can describe
+Simplicia, I was willing to give this a shot, but I truly despair of leading you over this _pons asinorum_. You can articulate what goes wrong with the simplest toy illustrations, but keep _refusing to see_ how the real-world systems you laud suffer from the same fundamental failure modes in a systematically less visible way.
 
-[TODO: you can describe what's going wrong in simple cases, but then the get misled by complexities that cater to your conceptual blind spots. Humans in the EEA would have looked like they were optimizing fitness. Finanical advisors.]
+I'm saying that we need a theory that can provide stronger guarantees—any guarantees at all. You claim to have once held this viewpoint, but that alleged empirical advances have made you reconsider—which makes me think you never really understood it at all. From evolution's perspective, humans in the EEA would have looked like they were doing a good job of optimizing inclusive fitness.
 
-**Simplicia**: [TODO: ugh, more analogies]
+**Simplicia**: Would it, though? Or rather, what does "from evolution's perspective" mean? I think aliens looking at humans in the environment of evolutionary adaptedness and asking how they would behave when they attained technology would have been able to predict that civilized humans would care about sex and sugar and fun rather than allele frequencies. That's a factual question that doesn't seem too hard to get right.
 
-**Doomimir**: [TODO: what am I supposed to do?]
+**Doomimir**: _Sane_ aliens would. Unlike you, they'd also be able to predict that RLHF'd language models would care about <untranslatable-1>, <untranslatable-2>, and <untranslatable-3>, rather than being helpful, harmless, and honest.
 
-**Simplicia**: [TODO: would they have? It seems like it should have been possible to predict how humans would generalize. Discuss "Ironing Out the Squiggles"; that superficially good classification performance can be deceiving, but it's possible to robustify/check]
+**Simplicia**: [TODO: discuss "Ironing Out the Squiggles"; that superficially good classification performance can be deceiving, but it's possible to robustify/check]
 
 **Doomimir**: [TODO: Shakespeare's folio's metaphor https://x.com/ESYudkowsky/status/1793754829631934959 ]
 

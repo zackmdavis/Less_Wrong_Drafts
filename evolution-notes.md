@@ -347,3 +347,24 @@ In the case of artificial selection, the breeder usually has a more concrete sel
 [TODO: link "One-Place and Two-Place Words" for "fitness"?]
 
 While natural selection can be described as optimizing for fitness, "fitness" is an extremely abstract construct that's too causally sparse to be tracked directly by [the kinds of cognitive machinery that are easy to build one mutation at a time](https://www.lesswrong.com/posts/gTNB9CQd5hnbkMxAG/protein-reinforcement-and-dna-consequentialism). As a result, evolved creatures are a [hodge-podge](https://www.lesswrong.com/posts/cSXZpvqpa9vbGGLtG/thou-art-godshatter) of [adaptations](https://www.lesswrong.com/posts/XPErvb8m9FapXCjhA/adaptation-executers-not-fitness-maximizers) that fulfill functions that reliably correlated with fitness in past environments.
+
+TODO: explaint the RLHF KL constraint
+
+
+https://x.com/ESYudkowsky/status/1709410777785127331
+> Eg:  The point of telling the reader to consider the outcome space is to get them to see that even after compressing the description of the outcome space, you're still not going to hit livable outcomes without some sort of precision targeting.  That is, telling the reader to consider the outcome space is trying to take them from "Well either we live or we don't, 50-50, right?" or worse yet "Why would anything so weird and improbable happen as an AI making the weird specific choice to create a future without humans?" and onto "Oh, you're going to need some bits for that, and if anything goes wrong with the bits everyone dies."
+>
+> Once you get somebody to understand why any significant number of bits is needed - enough that the chance of hitting the target by chance is effectively zero - you can then have an entirely separate conversation about the separate difficulties of locating inner parameters that generalize to survivable futures.
+>
+> In particular, the difficulty of locating parameters that make the generalization we want--to superintelligent actions that don't kill everyone--while training a system on outer examples that can't directly include superintelligent outputs that lead to everyone dying and then the operators pressing thumbs-down.
+>
+> The number of information-theoretic bits needed in principle to locate the internal preferences you want, is obviously tiny compared to the size of any modern dataset or even a short story; you will never find me saying otherwise at any point.  But the fact that this space is smaller does not mean that it is anything like small.  Anything you need 100 bits to locate is a target you will not hit by chance, period.
+>
+> Are we trying to hit it by sheer chance?  No, I say, to hastily head off another misinterpretation that might seem too obvious to need speaking, but is just the sort of thing that Quinton loves to pretend other people are saying.  The issue with a tiny target like that is not that you can't possibly get 100 bits into a system, the issue is that if you are talking about a trillionth trillionth trillionth... trillionth's part of the space, and something goes wrong, that makes it more likely that you'll end up missing than if you were just aiming for half the space.
+>
+> The entire prediction of alignment difficulty is that the optimization algorithms we use, seem unlikely to internally hit on parameters we'd like to see, to a sufficient degree of precision, as a solution to the dimensionally impoverished examples we can give them.  (Dimensionally impoverished, because the dataset doesn't actually contain superintelligent choices and assign thumbs-down on the ones that kill everyone.)
+>
+> So Quinton is refuting an argument that never existed; and that no sensible person would make; and that has an neighboring sensible argument which he has managed not to read, not to hear, and also not to see for himself.
+
+
+[A child who gave back $5 won't necessarily grow up to be a reliable financial advisor.](https://x.com/ESYudkowsky/status/1793697046198923757)
