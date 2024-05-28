@@ -108,10 +108,22 @@ I'm saying that we need a theory that can provide stronger guarantees—any guar
 
 **Doomimir**: _Sane_ aliens would. Unlike you, they'd also be able to predict that RLHF'd language models would care about <untranslatable-1>, <untranslatable-2>, and <untranslatable-3>, rather than being helpful, harmless, and honest.
 
-**Simplicia**: [TODO: discuss "Ironing Out the Squiggles"; that superficially good classification performance can be deceiving, but it's possible to robustify/check]
+**Simplicia**: I understand that it's possible for things to superficially look good in a brittle way. We see this with adversarial examples in image classification: classifiers that perform well on natural images can give nonsense classifications on images constructed to fool them—which is a problem not just because some applications require robustness to adversarial inputs, but also because it indicates that the machines aren't really seeing the same images we are. That sounds like the sort of risk story you're worried about: that a full-fledged AGI might seem to be aligned in the narrow circumstances you trained it on, while actually pursuing alien goals.
 
-**Doomimir**: [TODO: Shakespeare's folio's metaphor https://x.com/ESYudkowsky/status/1793754829631934959 ]
+But in the case of the image classification, we can see progress being made. When you try to construct adversarial examples for robustified classifiers, [you get examples that affect human perception, too](https://www.lesswrong.com/posts/H7fkGinsv8SDxgiS2/ironing-out-the-squiggles). When you use generative models for classification rather than just training a classifier, [they exhibit human-like shape bias and out-of-distribution performance](https://arxiv.org/abs/2309.16779). You can [perturb the network's internal states rather than the inputs](https://arxiv.org/abs/2403.05030) to try to defend against unforeseen failure modes ...
 
-**Simplicia**: [TODO: this seems like it depends on how fragile value is; altruism might not be hard to hit]
+I imagine you're not impressed by any of this, but why not? Why isn't incremental progress at instilling human-like behavior into machines, incremental progress on AGI alignment?
 
-[TODO: wrap-up; until next time]
+**Doomimir**: Think about it information-theoretically. If survivable futures require [specifying 100 bits into the singleton's goals, then you're going to need precision targeting to hit that trillion trillion trillionth's part of the space](https://x.com/ESYudkowsky/status/1709410777785127331). The empirical ML work you're so impressed with isn't on a path to get us that kind of precision targeting. I don't dispute that with a lot of effort, you can pound the inscrutable matrices into taking on more overtly human-like behavior, which might or might not buy you a few bits.
+
+It doesn't matter. It's [like trying to recover Shakespeare's lost folios by training a Markov generator on the existing tests](https://x.com/ESYudkowsky/status/1793754829631934959). Yes, it has a better probability of success than  a random program. That probability is still almost zero.
+
+**Simplicia**: Hm, perhaps the crux of our disagreement isn't about the nature of evolution or ML training, but about how much alignment is needed to realize how much of the future's value. I understand the orthogonality thesis, but I'm inclined to think that the problem we face is more forgiving, not so all-or-nothing as you portray it. If you can reconstruct a plausible approximation of the lost folios, how much does it matter that you didn't get it exactly right? I'm interested to discuss further—
+
+**Doomimir**: I'm not. Your mother named you well. I see no profit in laboring to educate the ineducable.
+
+**Simplicia**: But if the world is ending either way?
+
+**Doomimir**: I supposed it's a way to pass the time.
+
+**Simplicia**: _[to the audience]_ Until next time!
