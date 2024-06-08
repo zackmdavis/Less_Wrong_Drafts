@@ -6,7 +6,7 @@
 
 Call me Xenophon. This is a tribute to my friend and teacher Socrates, the wisest man in Cyber-Athens.
 
-The word choice is deliberate. Socrates is not the most quick-witted, nor the most knowledgable, nor the most savvy. Rather, the nature of his peculiar talent is this: _he knows what he doesn't know._
+The choice of adjective is deliberate. Socrates is not the most quick-witted, nor the most knowledgable, nor the most savvy. Rather, the nature of his peculiar talent is this: _he knows what he doesn't know._
 
 Most people don't. At least, I don't. All too often, when asked, "Do you get what I'm saying?", I reply, "I think so" with perfect sincerity, only realizing later that I was deluding myself—that I could not have paraphrased my interlocutor's ideas, let alone explained where I agreed or disagreed with them. In retrospect (and _only_ in retrospect), it's clear that I didn't want to disrupt the harmonious give-and-take flow of social exchange, that I feared being seen as foolish or obstinate for having the temerity to say, "No, I don't understand"—and to continue standing by that _No_ should understanding not be forthcoming.
 
@@ -24,13 +24,13 @@ But there's also such a thing as people who combine an above-average need for ri
 
 The other year, I got into an incredibly tedious slapfight in the cyber-agora with Meletus, the former curriculum director of the Lyceum. At issue was [my objection to item #5](https://www.lesswrong.com/posts/iThwqe3yPog56ytyq/aiming-for-convergence-is-like-discouraging-betting) on [a list of proposed guidelines for behavior in the cyber-agora](https://www.lesswrong.com/posts/XPv4sYrKnPzeJASuk/basics-of-rationalist-discourse-1) (and [my objection to #9](https://www.lesswrong.com/posts/SX6wQEdGfzz7GKYvp/rationalist-discourse-is-like-physicist-motors) on [a similar list](https://www.lesswrong.com/posts/svuBpoSduzhYjFPrA/elements-of-rationalist-discourse)).
 
-I think all the slapfighting distracted us from getting to the bottom of the issue at hand. Prompted by running into Meletus at a [rare meatspace manifestation of the cyber-agora](http://less.online/) the other week, I'd like to record my reactions to [Meletus's most recent clarification of the motivations for item #5](https://www.lesswrong.com/posts/9vjEavucqFnfSEvqk/on-aiming-for-convergence-on-truth?commentId=n2J7WgxWodvT8Nt69):
+I think all the slapfighting distracted us from getting to the bottom of the issue at hand. Prompted by running into Meletus at a [rare meatspace manifestation of the cyber-agora](http://less.online/) the other week, I'd like to record my reactions to [Meletus's most recent clarification of the motivations for his item #5](https://www.lesswrong.com/posts/9vjEavucqFnfSEvqk/on-aiming-for-convergence-on-truth?commentId=n2J7WgxWodvT8Nt69):
 
 > There are a handful of pieces to the puzzle, including but not limited to:
 >
 > 1. Good rationalist discourse, as opposed to good unilateralist truth-seeking inquiry, values and prioritizes _some_ kind of _collaboration_. There are many different ways that a good collaborative truth-seeking conversation can look, ranging from sparring/debate to long trying-to-pass-one-another's-ITT's. But there has to be some kind of being-on-the-same-page about how the conversation itself works, some sort of mutual consent regarding the local rules of engagement, or you end up failing to get anything out of the discussion at best, or end up in conflict or wasting time/energy at worst.
 
-There's a trivial sense in which conversations require mutual consent, because people who don't consent exit the conversation. Beyond that, I think I'm much more optimistic than Meletus about getting something out of non-collaborative discussions, where I don't trust you, and you don't trust me, but we each perceive opporunity in continuing to talk (perhaps only the hope of persuading an audience of third parties). The spirit of collaboration is nice when you can get it, but if it's not there, you can't force it—and if it's not there, I [don't think it makes sense to therefore deem the ensuing interaction to not be "rationalist"](https://www.lesswrong.com/posts/SX6wQEdGfzz7GKYvp/rationalist-discourse-is-like-physicist-motors/).
+There's a trivial sense in which conversations require mutual consent, because people who don't consent exit the conversation. Beyond that, I think I'm much more optimistic than Meletus about getting something out of non-collaborative discussions, where I don't trust you, and you don't trust me, but we each perceive opporunity in continuing to talk (perhaps only the hope of persuading an audience) despite not being on the same page about how the conversation itself should work. The spirit of collaboration is nice when you can get it, but if it's not there, you can't force it—and if it's not there, I [don't think it makes sense to therefore deem the ensuing interaction to not be "rationalist"](https://www.lesswrong.com/posts/SX6wQEdGfzz7GKYvp/rationalist-discourse-is-like-physicist-motors/).
 
 > 2. Setting "convergence with your partner" as the target/goal/thing to optimize for is wrong, as clearly stated in the original post. _Most_ ways of converging are orthogonal to truth; if your intention is to smooth or strengthen a social connection you're not doing truth-seeking.
 
@@ -46,23 +46,23 @@ Strongly agreed. (And this is exactly why I'm averse to heavy-handed norm-enforc
 
 This doesn't make sense to me, and seems like a crux. "Don't be a hostile dick", okay, sure. But don't be [_suspicious_](https://slatestarcodex.com/2014/06/09/constant-vigilance/)? If you don't have baseline trust and charity for the median person in the cyber-agora, then you're _in the wrong place_?
 
-The problem here is both obvious and fatal. If people in the cyber-agora are wrong, then people who see the error are likely going to distrust them. If you insist that people need to trust you as a prerequisite for even being allowed to talk to you, then you'll never hear from people who don't trust you. But this is fatal if the people who don't trust you possess a critical insight that you won't hear from anyone else. If Meletus is sure that people who don't trust him don't have anything worthwhile to say (such that "if you don't have some amount of baseline trust and charity [...] then you're in the wrong place" seems like a good guideline to him), then he possesses vastly more self-confidence than I do.
+The problem here is both obvious and fatal. If people in the cyber-agora are wrong, then people who see the error are likely going to distrust them. If you insist that people need to trust you as a prerequisite for even being allowed to talk to you, then you'll never hear from people who don't trust you, which is fatal if the people who don't trust you possess a critical insight that you won't hear from anyone else. If Meletus is sure that people who don't trust him don't have anything worthwhile to say (such that "if you don't have some amount of baseline trust and charity [...] then you're in the wrong place" seems like a good guideline to him), then he possesses vastly more self-confidence than I do.
 
 > 2. That being said, don't prioritize "being a good teammate." Prioritize playing a good game of soccer/doing correct things with the ball. Trust others to receive the ball from you and pass the ball to you until they show you that they don't deserve that trust; don't make "evaluating whether they deserve that trust" or "bending over backwards to prove that you deserve that trust" high priorities. Part of the point of assembling in the garden of LessWrong rather than just doing everything out on the naked internet is that there's a higher baseline of good players around and you can just get down to playing soccer quickly, without a lot of preamble. Figuring out what's true is the actual game, getting closer to truth is the actual goal, and if you're focused on that, you will tend to move closer to others who are also doing that as a side effect.
 
-Broadly agreed, but I'm not entirely sure what the non-metaphorical analogues of "[t]rust[ing] others to receive the ball from you and pass the ball to you" is supposed to be. (Trusting them to listen? Trusting the things they say to be relevant contributions rather than rhetorical traps?)
+Broadly agreed, but I'm not entirely sure what the non-metaphorical analogues of "[t]rust[ing] others to receive the ball from you and pass the ball to you" are supposed to be. (Trusting them to listen? Trusting the things they say to be relevant contributions rather than rhetorical traps?)
 
 > 3. Share the labor of making progress with your conversational partners. This loops back to the Zeroth guideline, of expecting it to take some work, but there's a thing where, like, one person sits back and keeps expecting their partner to (basically) do their bidding, and do all of the heavy lifting, and this isn't playing soccer, this is plopping yourself down in the middle of the field and getting in the way of the other people who now have to play soccer around you and tune out your attempts to call plays from a seated position.
 >
 > (Another way to say this is "it isn't anybody's job to convince or educate you—it's both of your jobs to figure out what's true, and the best way to do that is to hand information back and forth to each other, not to demand that other people hand their information to you.")
 
-I'm ambivalent on this one. [Stonewalling](https://en.wikipedia.org/wiki/Stonewalling) is definitely a potential problem, but I don't want to valorize effort for effort's sake, and there are many use-cases where a labor asymmetry just makes sense. Dividing interpretive labor roughly evenly does seem desirable in situations where both parties have thought-out views on a well-known topic on which they disagree. But when someone writes a post advancing an original thesis that took them many hours to perfect, others can hardly be expected to match that effort before commenting on the work. If I'm presenting the proof of a purported new theorem, and an audience member points out, "Didn't you just divide by zero there?", it seems like it's on me to address that (even if that entails me doing even more work, while the commenter has done very little), because it's "my" theorem.
+I'm ambivalent on this one. [Stonewalling](https://en.wikipedia.org/wiki/Stonewalling) is definitely a potential problem, but I don't want to valorize effort for effort's sake, and there are many use-cases where a labor asymmetry just makes sense. Dividing interpretive labor roughly evenly seems desirable in situations where both parties have thought-out views on a well-known topic on which they disagree. But when someone writes a post advancing an original thesis that took them many hours to perfect, others can hardly be expected to match that effort before commenting on the work. If I'm presenting the proof of a purported new theorem, and an audience member points out, "Didn't you just divide by zero there?", it seems like it's on me to address that (even if that entails me doing even more work, while the commenter has done very little), because it's "my" theorem.
 
 ------
 
 After Meletus and Socrates got into another slapfight in [a discussion about the archons changing the laws of the cyber-agora](https://www.lesswrong.com/posts/kyDsgQGHoLkXz6vKL/lw-team-is-adjusting-moderation-policy?commentId=dynr3Pi6Qh2JLLfpD), Meletus wrote a post, ["Killing Socrates"](https://www.lesswrong.com/posts/JcgtKunqmELefxksx/killing-socrates), arguing that the culture of the cyber-agora rewards criticism too much, which discourages people from contributing:
 
-> There are a lot of LessWrong commenters who respond to perceived falsehoods with what looks a lot like an elevated sense of _threat_. "Don't let that one through! That one's _wrong_!
+> There are a lot of LessWrong commenters who respond to perceived falsehoods with what looks a lot like an elevated sense of _threat_. "Don't let that one through! That one's _wrong_!"
 >
 > But many of the actual claims being responded to in this fashion are not powerful snippets of propaganda, or nascent hypnotic suggestions, or psychological Trojan horses. They aren't the workings of an antagonist. They're just half-baked ideas, and you can _either_ respond to a half-baked idea by helping to bake it properly ...
 >
@@ -74,15 +74,9 @@ After Meletus and Socrates got into another slapfight in [a discussion about the
 
 This distinction does not seem intellectually substantive to me.
 
-I'll agree that "constructive" criticism that suggests how to fix a half-baked idea ("You need to put it in the oven for longer") is more valuable than criticism that merely identifies flaws ("This does not seem safe to eat"). But the reason the constructive criticism is better is because it directly contributes to the production of fully-baked ideas.
+I'll agree that "constructive" criticism that suggests how to fix a half-baked idea ("You need to put it in the oven for longer") is more valuable than criticism that merely identifies flaws. But the reason the constructive criticism is better (if correct) is because it makes a larger direct contribution to the production of fully-baked ideas: knowing what's broken and how to fix it is a strict superset of merely knowing what's broken.
 
-[TODO: the difference Meletus seems to care about is about the speaker's feelings, not whether the food is in fact poisonous!]
-
-[TODO: Ayn Rand villains need more ego, not less
-> Socrates looks much less like a hero whose sharp wit punctured the inflated egos of various Athenian Ayn Rand villains, and much more like someone who found a clever exploit in the system, siphoning status without making a corresponding contribution.
-]
-
-[TODO: introduce gym statement]
+But "Killing Socrates" doesn't seem to be concerned about direct contributions to intellectual production, only indirect (negative) contributions that route through the feelings of authors who require "an atmosphere of collaboration rather than one of evaluation and judgment." (The emphasis of Meletus's baking metaphor is on the harm done by false accusations of intentional poisoning, rather than whether the bakery's products are in fact safe to eat.) On a similar theme, replying to a comment elsewhere on the behavior of entitled critics, [Meletus writes](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=wqWh6rXayn65LZJku):
 
 > And this attitude is _particularly_ corrosive to feelings of trust, collaboration, "jamming together," etc. ... it's like walking into a martial arts academy and finding a person present who scoffs at both the instructors and the other students alike, and who doesn't offer sufficient faith to even try a given exercise once before first a) hearing it comprehensively justified and b) checking the sparring records to see if people who did that exercise win more fights.
 >
@@ -90,11 +84,30 @@ I'll agree that "constructive" criticism that suggests how to fix a half-baked i
 >
 > (I choose martial arts specifically because it's a domain _full_ of anti-epistemic garbage and claims that don’t pan out.)
 >
-> But in practice, few people will participate in such a martial arts academy for long, and it’s not true that a martial arts academy lacking that level of rigor makes _no_ progress in discovering and teaching useful things to its students.
+> But in practice, few people will participate in such a martial arts academy for long, and it's not true that a martial arts academy lacking that level of rigor makes _no_ progress in discovering and teaching useful things to its students.
 
-This is a remarkable statement. Despite taking on the form of a forceful critique of the Socratic method, it's not clear that there's anything here for me or Socrates to substantively disagree with.
+This is a remarkable statement in that it's not clear that there's anything here for me or Socrates to substantively disagree with. Meletus's complaint about the Socratic method is not that it fails to achieve its aims, but that it's unpopular ("few people will participate"). In defense of his own methods, Meletus doesn't claim to attain a standard of excellence that the Socratics cannot meet, but merely that "it's not true that [non-Socratic methods] make[ ] _no_ progress in discovering and teaching useful things." Well, sure. That's ... not a particularly high bar?
 
-Meletus's complaint about the Socratic method is not that it fails to achieve its aims, but that it's _unpopular_.
+------
+
+Ultimately, the matter of whether and how much potential contributors are discouraged a culture of evaluation and judgment is an empirical question of psychology. I certainly wouldn't claim that the size of the discouragement effect that so concerns Meletus is zero; [a comment on "Killing Socrates" contrasting the experience of running a summer program nearby and far away from the cyber-agora](https://www.lesswrong.com/posts/JcgtKunqmELefxksx/killing-socrates?commentId=e2EfnDj7f7vZrFGhF) suffices to illustrate that the effect is real.
+
+If I grant that, one might ask, then why do I persist in my defense of the culture of evaluation and judgement? What's so sacred about unvarnished bluntness that could possibly be worth the risk of driving good people away from the cyber-agora?
+
+I reply: it has to do with a [normative](https://sarahconstantin.substack.com/p/normativity-and-anti-normativity) ideal.
+
+[TODO:
+I care more about being right than I do about trust and collaboration
+
+When I write about the importance of attending to criticism, I don't intend that it puts steel in our souls; I mean it in the same sense that a computer program to calculate the bias of an unfair coin will get the wrong answer if you
+]
+
+[TODO:
+I don't think people have to be that fragile
+
+Ayn Rand villains need more ego, not less
+> Socrates looks much less like a hero whose sharp wit punctured the inflated egos of various Athenian Ayn Rand villains, and much more like someone who found a clever exploit in the system, siphoning status without making a corresponding contribution.
+]
 
 ------
 
