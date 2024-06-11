@@ -4,6 +4,8 @@
 >
 > —Voltairine de Cleyre, ["Sex Slavery"](https://praxeology.net/VC-SS.htm)
 
+### The Wisdom of Socrates
+
 Call me Xenophon. This is a tribute to my friend and teacher Socrates, the wisest man in Cyber-Athens.
 
 The choice of adjective is deliberate. Socrates is not the most quick-witted, nor the most knowledgable, nor the most savvy. Rather, the nature of his peculiar talent is this: _he knows what he doesn't know._
@@ -20,7 +22,7 @@ That's not a hard-and-fast rule that every critical or questioning comment deman
 
 But there's also such a thing as people who combine an above-average need for rigor with a below-average need for social harmony, to the result that they can't be bluffed—who are incredibly valuable to have around to help check that you aren't fooling yourself. Mostly, I figure that if I can't explain it to Socrates, I probably don't understand it.
 
-------
+### Where We Left Off, Re: "Aim for Convergence on Truth, and Behave as if Your Interlocutors Are Also Aiming for Convergence on Truth"
 
 The other year, I got into an incredibly tedious slapfight in the cyber-agora with Meletus, the former curriculum director of the Lyceum. At issue was [my objection to item #5](https://www.lesswrong.com/posts/iThwqe3yPog56ytyq/aiming-for-convergence-is-like-discouraging-betting) on [a list of proposed guidelines for behavior in the cyber-agora](https://www.lesswrong.com/posts/XPv4sYrKnPzeJASuk/basics-of-rationalist-discourse-1) (and [my objection to #9](https://www.lesswrong.com/posts/SX6wQEdGfzz7GKYvp/rationalist-discourse-is-like-physicist-motors) on [a similar list](https://www.lesswrong.com/posts/svuBpoSduzhYjFPrA/elements-of-rationalist-discourse)).
 
@@ -56,11 +58,11 @@ Broadly agreed, but I'm not entirely sure what the non-metaphorical analogues of
 >
 > (Another way to say this is "it isn't anybody's job to convince or educate you—it's both of your jobs to figure out what's true, and the best way to do that is to hand information back and forth to each other, not to demand that other people hand their information to you.")
 
-I'm ambivalent on this one. [Stonewalling](https://en.wikipedia.org/wiki/Stonewalling) is definitely a potential problem, but I don't want to valorize effort for effort's sake, and there are many use-cases where a labor asymmetry just makes sense. Dividing interpretive labor roughly evenly seems desirable in situations where both parties have thought-out views on a well-known topic on which they disagree. But when someone writes a post advancing an original thesis that took them many hours to perfect, others can hardly be expected to match that effort before commenting on the work. If I'm presenting the proof of a purported new theorem, and an audience member points out, "Didn't you just divide by zero there?", it seems like it's on me to address that (even if that entails me doing even more work, while the commenter has done very little), because it's "my" theorem.
+I'm ambivalent on this one. [Stonewalling](https://en.wikipedia.org/wiki/Stonewalling) is definitely a potential problem, but I don't want to valorize effort for effort's sake, and there are many use-cases where a labor asymmetry just makes sense. Dividing interpretive labor roughly evenly seems desirable in situations where both parties have thought-out views on a well-known topic on which they disagree. But when someone writes a post advancing an original thesis that took them many hours to perfect, others can hardly be expected to match that effort before commenting on the work. If I'm presenting a proof of a purported new theorem, and an audience member points out, "Didn't you just divide by zero there?", it seems like it's on me to address that, because it's "my" theorem (even if addressing it entails me doing even more work, while the commenter has done very little).
 
-------
+### Athenian Food Safety Contretemps
 
-After Meletus and Socrates got into another slapfight in [a discussion about the archons changing the laws of the cyber-agora](https://www.lesswrong.com/posts/kyDsgQGHoLkXz6vKL/lw-team-is-adjusting-moderation-policy?commentId=dynr3Pi6Qh2JLLfpD), Meletus wrote a post, ["Killing Socrates"](https://www.lesswrong.com/posts/JcgtKunqmELefxksx/killing-socrates), arguing that the culture of the cyber-agora rewards criticism too much, which discourages people from contributing:
+After Meletus and Socrates got into another slapfight in [a discussion about the archons changing the laws of the cyber-agora](https://www.lesswrong.com/posts/kyDsgQGHoLkXz6vKL/lw-team-is-adjusting-moderation-policy?commentId=dynr3Pi6Qh2JLLfpD), Meletus wrote a post, ["Killing Socrates"](https://www.lesswrong.com/posts/JcgtKunqmELefxksx/killing-socrates), arguing that the culture of the cyber-agora rewards criticism too much, which discourages valuable potential contributors:
 
 > There are a lot of LessWrong commenters who respond to perceived falsehoods with what looks a lot like an elevated sense of _threat_. "Don't let that one through! That one's _wrong_!"
 >
@@ -72,11 +74,13 @@ After Meletus and Socrates got into another slapfight in [a discussion about the
 >
 > It's the difference between, say, writing [a 3300-word piece about how one section of someone else's building is WRONG](https://www.greaterwrong.com/posts/iThwqe3yPog56ytyq/aiming-for-convergence-is-like-discouraging-betting), and spending 3300 words suggesting a replacement that might solve the perceived problem better, without containing Flaw X or causing Negative Side Effect Y.
 
-This distinction does not seem intellectually substantive to me.
+This distinction does not seem intellectually substantive to me. The claim that a building section contains Flaw X and causes Negative Side Effect Y amounts to a claim that the section is wrong (specifically, because it contains a flaw and causes a negative side effect). Is there a difference between describing an object as "wet" and ["covered or impregnated with liquid"](https://en.wiktionary.org/wiki/wet#Adjective)? Maybe, but it's not clear why anyone would care unless they had some obscure form of mental illness that makes them averse to calling wet things wet.
 
 I'll agree that "constructive" criticism that suggests how to fix a half-baked idea ("You need to put it in the oven for longer") is more valuable than criticism that merely identifies flaws. But the reason the constructive criticism is better (if correct) is because it makes a larger direct contribution to the production of fully-baked ideas: knowing what's broken and how to fix it is a strict superset of merely knowing what's broken.
 
-But "Killing Socrates" doesn't seem to be concerned about direct contributions to intellectual production, only indirect (negative) contributions that route through the feelings of authors who require "an atmosphere of collaboration rather than one of evaluation and judgment." (The emphasis of Meletus's baking metaphor is on the harm done by false accusations of intentional poisoning, rather than whether the bakery's products are in fact safe to eat.) On a similar theme, replying to a comment elsewhere on the behavior of entitled critics, [Meletus writes](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=wqWh6rXayn65LZJku):
+But "Killing Socrates" doesn't seem to be concerned about direct contributions to intellectual production, only indirect (negative) contributions that route through the feelings of authors who require "an atmosphere of collaboration rather than one of evaluation and judgment." The baking metaphor focuses on the harm done by false accusations of intentional poisoning, rather than whether the bakery's products are in fact safe to eat.
+
+On a similar theme, replying to a comment elsewhere on the behavior of alleged cranks who criticize by asking questions, [Meletus writes](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=wqWh6rXayn65LZJku):
 
 > And this attitude is _particularly_ corrosive to feelings of trust, collaboration, "jamming together," etc. ... it's like walking into a martial arts academy and finding a person present who scoffs at both the instructors and the other students alike, and who doesn't offer sufficient faith to even try a given exercise once before first a) hearing it comprehensively justified and b) checking the sparring records to see if people who did that exercise win more fights.
 >
@@ -86,30 +90,50 @@ But "Killing Socrates" doesn't seem to be concerned about direct contributions t
 >
 > But in practice, few people will participate in such a martial arts academy for long, and it's not true that a martial arts academy lacking that level of rigor makes _no_ progress in discovering and teaching useful things to its students.
 
-This is a remarkable statement in that it's not clear that there's anything here for me or Socrates to substantively disagree with. Meletus's complaint about the Socratic method is not that it fails to achieve its aims, but that it's unpopular ("few people will participate"). In defense of his own methods, Meletus doesn't claim to attain a standard of excellence that the Socratics cannot meet, but merely that "it's not true that [non-Socratic methods] make[ ] _no_ progress in discovering and teaching useful things." Well, sure. That's ... not a particularly high bar?
+This comment is striking in that, although it appears to take the form of a sharp critique of the Socratic method, on a close reading, there isn't obviously anything here for Socrates or me to disagree with: in accordance with Aumann's agreement theorem and Meletus's guideline #5, our beliefs seem to be converging.
 
-------
+To wit: Meletus's complaint about the Socratic method is not that it fails to achieve its aims, but that it's unpopular ("few people will participate"). Well, sure. Socrates's students aren't trying to be popular; we're trying to converge on the best martial arts practices.
 
-Ultimately, the matter of whether and how much potential contributors are discouraged a culture of evaluation and judgment is an empirical question of psychology. I certainly wouldn't claim that the size of the discouragement effect that so concerns Meletus is zero; [a comment on "Killing Socrates" contrasting the experience of running a summer program nearby and far away from the cyber-agora](https://www.lesswrong.com/posts/JcgtKunqmELefxksx/killing-socrates?commentId=e2EfnDj7f7vZrFGhF) suffices to illustrate that the effect is real.
+In defense of his own methods, Meletus doesn't claim to attain a standard of excellence that the Socratics cannot meet, but merely that "it's not true that [non-Socratic methods] make[ ] _no_ progress in discovering and teaching useful things." Well, sure. Who said otherwise? That's not a particularly high bar!
 
-If I grant that, one might ask, then why do I persist in my defense of the culture of evaluation and judgement? What's so sacred about unvarnished bluntness that could possibly be worth the risk of driving good people away from the cyber-agora?
+### Appeals to Consequences and the Citadel of Truth
 
-I reply: it has to do with a [normative](https://sarahconstantin.substack.com/p/normativity-and-anti-normativity) ideal.
+But the previous section is a dodge. So far, I haven't addressed the core concern raised in "Killing Socrates", that a culture of evaluation and judgment rather than collaboration drives away potential contributors. This is ultimately an empirical question, and [a comment on "Killing Socrates" contrasting the experience of running a summer program nearby and far away from the cyber-agora](https://www.lesswrong.com/posts/JcgtKunqmELefxksx/killing-socrates?commentId=e2EfnDj7f7vZrFGhF) suffices to illustrate that the effect is real. I can opine that the difference between collaborative and non-collaborative feedback is "not intellectually substantive" as I would construe that, but I'm not going to play dumb and pretend that I don't know what Meletus is talking about. It's not that I [can't see the difference](https://www.lesswrong.com/posts/7Pq9KwZhG6vejmYpo/the-metaphor-you-want-is-color-blindness-not-blind-spot); it's that I'm ideologically committed to ignoring it.
 
-[TODO:
-I care more about being right than I do about trust and collaboration
+I owe Meletus and his supporters an explanation as to why. Why am I digging in my heels on this? If I agree that it's possible for contributors to be driven away by non-collaborative feedback,
 
-When I write about the importance of attending to criticism, I don't intend that it puts steel in our souls; I mean it in the same sense that a computer program to calculate the bias of an unfair coin will get the wrong answer if you
+[TODO—
+ * Isn't it a bad thing that potential creators are alienated? Why would I dig my heels in on this?
+ * There's a principle here: that the only thing that matters is truth; feelings and consequences don't matter
+ * https://homosabiens.substack.com/p/were-not-so-similar-you-and-i
+ * When I write about the importance of attending to criticism, I don't intend that it puts steel in our souls; I mean it in the same sense that a computer program to calculate the bias of an unfair coin will get the wrong answer if you
+ * Meletus feels strongly that there should be a walled garden; the Socratic version of the walled garden is the Citadel
+ * Meletus complains about evaporative cooling; from our perspective, there's been evaporative cooling of people who care more about truth than being collaborative
+ * "Killing Socrates" complains about builders offering critques to _each other_. But logically, it doesn't matter where a critique comes from
+ * Socrates has in fact complained about people not thanking people who bring baked goods!! https://www.greaterwrong.com/posts/YcdArE79SDxwWAuyF/the-treacherous-path-to-rationality/comment/dwwPieaByzAKkvhsS
+ * Socrates stands up for my right to speak: https://www.lesswrong.com/posts/WwTPSkNwC89g3Afnd/comment-section-from-05-19-2019?commentId=EsSdLMrFcCpSvr3pG / https://www.lesswrong.com/posts/xqAnKW46FqzPLnGmH/causal-reality-vs-social-reality?commentId=qao4Cy4GxD5bsDHDS
 ]
 
-[TODO:
-I don't think people have to be that fragile
+### A Brief Interlude About Ayn Rand
 
-Ayn Rand villains need more ego, not less
-> Socrates looks much less like a hero whose sharp wit punctured the inflated egos of various Athenian Ayn Rand villains, and much more like someone who found a clever exploit in the system, siphoning status without making a corresponding contribution.
+There's a throwaway line in "Killing Socrates" where Meletus (unendorsedly) brings up a comparison between himself and an Ayn Rand villain:
+
+> From this perspective, Socrates looks much less like a hero whose sharp wit punctured the inflated egos of various Athenian Ayn Rand villains, and much more like someone who found a clever exploit in the system, siphoning status without making a corresponding contribution.
+
+I found this fascinating because [the same comparison had occurred to me independently](https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl).
+
+Only "inflated" isn't the right word. The distinguishing character flaw of Ayn Rand villains is their _fragile_ egos. When you live second-hand through the perceptions of others, 
+
+[TODO:
+ * I found it super striking that "Killing Socrates" mentions—
+ * because I independently made the same comparison to Ayn Rand: https://www.greaterwrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl
+ * "inflated egos" isn't the write description: it's _fragile_ egos; souls that need to be seen and affirmed by others
+ * https://www.greaterwrong.com/posts/yepKvM5rsvbpix75G/you-don-t-exist-duncan
+ * You can't imagine Howard Roark complaining about "siphoning status without making a corresponding contribution"
+ * If you had the choice, wouldn't you prefer not to be fragile?
 ]
 
-------
+### Strawmanning _vs_. Motte-and-Bailey Failure Modes
 
 [TODO: Strawmanning vs. Motte-and-Bailey
  * Meletus is very worried about strawmanning and complains that I'm good at spreading my misinterpretations onto others
