@@ -78,7 +78,7 @@ This distinction does not seem intellectually substantive to me. The claim that 
 
 I'll agree that "constructive" criticism that suggests how to fix a half-baked idea ("You need to put it in the oven for longer") is more valuable than criticism that merely identifies flaws. But the reason the constructive criticism is better (if correct) is because it makes a larger direct contribution to the production of fully-baked ideas: knowing what's broken and how to fix it is a strict superset of merely knowing what's broken.
 
-But "Killing Socrates" doesn't seem to be concerned about direct contributions to intellectual production, only indirect (negative) contributions that route through the feelings of authors who require "an atmosphere of collaboration rather than one of evaluation and judgment." The baking metaphor focuses on the harm done by false accusations of intentional poisoning, rather than whether the bakery's products are in fact safe to eat.
+But "Killing Socrates" doesn't seem to be concerned with direct contributions to intellectual production, only indirect (negative) contributions that route through the feelings of authors who require "an atmosphere of collaboration rather than one of evaluation and judgment." The baking metaphor focuses on the harm done by false accusations of intentional poisoning, rather than whether the bakery's products are in fact safe to eat.
 
 On a similar theme, replying to a comment elsewhere on the behavior of alleged cranks who criticize by asking questions, [Meletus writes](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=wqWh6rXayn65LZJku):
 
@@ -90,7 +90,7 @@ On a similar theme, replying to a comment elsewhere on the behavior of alleged c
 >
 > But in practice, few people will participate in such a martial arts academy for long, and it's not true that a martial arts academy lacking that level of rigor makes _no_ progress in discovering and teaching useful things to its students.
 
-This comment is striking in that, although it appears to take the form of a sharp critique of the Socratic method, on a close reading, there isn't obviously anything here for Socrates or me to disagree with: in accordance with Aumann's agreement theorem and Meletus's guideline #5, our beliefs seem to be converging.
+This comment is striking in that, although it appears to take the form of a sharp critique of the Socratic method, on a close reading, there isn't obviously anything here for Socrates or me to disagree with: in accordance with [the agreement theorem](https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem) and Meletus's guideline #5, our beliefs seem to be converging.
 
 To wit: Meletus's complaint about the Socratic method is not that it fails to achieve its aims, but that it's unpopular ("few people will participate"). Well, sure. Socrates's students aren't trying to be popular; we're trying to converge on the best martial arts practices.
 
@@ -98,13 +98,27 @@ In defense of his own methods, Meletus doesn't claim to attain a standard of exc
 
 ### Appeals to Consequences and the Citadel of Truth
 
-But the previous section is a dodge. So far, I haven't addressed the core concern raised in "Killing Socrates", that a culture of evaluation and judgment rather than collaboration drives away potential contributors. This is ultimately an empirical question, and [a comment on "Killing Socrates" contrasting the experience of running a summer program nearby and far away from the cyber-agora](https://www.lesswrong.com/posts/JcgtKunqmELefxksx/killing-socrates?commentId=e2EfnDj7f7vZrFGhF) suffices to illustrate that the effect is real. I can opine that the difference between collaborative and non-collaborative feedback is "not intellectually substantive" as I would construe that, but I'm not going to play dumb and pretend that I don't know what Meletus is talking about. It's not that I [can't see the difference](https://www.lesswrong.com/posts/7Pq9KwZhG6vejmYpo/the-metaphor-you-want-is-color-blindness-not-blind-spot); it's that I'm ideologically committed to ignoring it.
+But the previous section is a dodge. So far, I haven't addressed the core concern raised in "Killing Socrates", that a culture of evaluation and judgment rather than collaboration drives away potential contributors. This is ultimately an empirical question about the psychology of potential contributors, and [a comment on "Killing Socrates" contrasting the experience of running a summer program nearby and far away from the cyber-agora](https://www.lesswrong.com/posts/JcgtKunqmELefxksx/killing-socrates?commentId=e2EfnDj7f7vZrFGhF) suffices to illustrate that the effect is real. I can opine that the difference between collaborative and non-collaborative feedback is "not intellectually substantive" as I would construe that, but I'm not going to play dumb and pretend that I don't know what Meletus is talking about. It's not that I [can't see the difference](https://www.lesswrong.com/posts/7Pq9KwZhG6vejmYpo/the-metaphor-you-want-is-color-blindness-not-blind-spot); it's that I'm ideologically committed to ignoring it.
 
-I owe Meletus and his supporters an explanation as to why. Why am I digging in my heels on this? If I agree that it's possible for contributors to be driven away by non-collaborative feedback,
+I owe Meletus and his supporters an explanation as to why. Why am I digging in my heels on this? If I agree that it's possible for contributors to be driven away by non-collaborative feedback, why am I not only not disposed to alter my behavior, but to all appearances not even interested in assessing the empirical extent of the problem, to suss out whether the cyber-agora could profit by being _x_% more collaborative and thereby retaining the marginal _y_% of contributors who are alienated by non-collaborativeness. Is this not irrational? What principle could possibly outweigh the dictum that decisions are to be made according to the expected consequences?
+
+I claim that there is such a principle, which is this: [appeals to consequences](https://www.lesswrong.com/posts/P3FQNvnW8Cz42QBuA/dialogue-on-appeals-to-consequences) are [normatively](https://sarahconstantin.substack.com/p/normativity-and-anti-normativity) invalid. If A implies B, and A is true, it follows that B is true. If the cyber-agora's collective information processing is to reach true conclusions, its deliberations need to systematically mirror this kind of reasoning. "Socrates's claim that it follows that B is true is un-collaborative and drives away potential contributors" may be valid consequentialist reasoning about how to promote feelings of trust, collaboration, and "jamming together", but it's not valid reasoning about the original subject matter of _whether B is in fact true_.
+
+Meletus feels strongly that the cyber-agora should be a [well-kept garden](https://www.lesswrong.com/posts/tscc3e5eujrsEeFN4/well-kept-gardens-die-by-pacifism), that Socrates's freedom to speak has changed the place for the worse, compared to a past in which it was a place of "builders offering critique to each other":
+
+> The end result of Socrates Unchecked is not, in fact, a bastion of pure reason and untainted truth. That’s a [fabricated option](https://www.greaterwrong.com/posts/gNodQGNoPDjztasbh/lies-damn-lies-and-fabricated-options), like believing that a ban on price gouging during a disaster will result in the normal amount of gasoline being available at the normal prices.
+>
+> What happens instead, in practice, is [evaporative cooling](https://www.greaterwrong.com/posts/ZQG9cwKbct2LtmL3p/evaporative-cooling-of-group-beliefs), as the most sensitive or least-bought-in of [the authors/builders who made your subculture worth participating in in the first place] give up and go elsewhere, marginally increasing the ratio of critics to makers, which makes things marginally less rewarding, which sends the next bunch of builders packing, which worsens the problem further.
+
+As it happens, students of the Socratic tradition [also sometimes worry about evaporative cooling effects](https://www.lesswrong.com/posts/xqAnKW46FqzPLnGmH/causal-reality-vs-social-reality?commentId=qao4Cy4GxD5bsDHDS). Those who haven't been following the conflict carefully might assume that the situation is symmetrical, that the followers of Socrates and Meletus simply have different preferred cultural norms: that the Meleteans prefer a collaborative vibe, whereas the Socratics prefer a more competitive one, but the choice is ultimately arbitrary.
+
+But I think [we're not so similar](https://homosabiens.substack.com/p/were-not-so-similar-you-and-i), us Socratics and the Meleteans.
+
+From the Socratic perspective, Meletean moderation policy selects against people who _care more about getting to the truth_ than about maintaining feelings of feelings of trust, collaboration, "jamming together."
+
 
 [TODO—
- * Isn't it a bad thing that potential creators are alienated? Why would I dig my heels in on this?
- * There's a principle here: that the only thing that matters is truth; feelings and consequences don't matter
+ * the difference is that I have a theory about why my methods lead to truth that _isn't_ mediated by people's feelings
  * https://homosabiens.substack.com/p/were-not-so-similar-you-and-i
  * When I write about the importance of attending to criticism, I don't intend that it puts steel in our souls; I mean it in the same sense that a computer program to calculate the bias of an unfair coin will get the wrong answer if you
  * Meletus feels strongly that there should be a walled garden; the Socratic version of the walled garden is the Citadel
@@ -112,9 +126,19 @@ I owe Meletus and his supporters an explanation as to why. Why am I digging in m
  * "Killing Socrates" complains about builders offering critques to _each other_. But logically, it doesn't matter where a critique comes from
  * Socrates has in fact complained about people not thanking people who bring baked goods!! https://www.greaterwrong.com/posts/YcdArE79SDxwWAuyF/the-treacherous-path-to-rationality/comment/dwwPieaByzAKkvhsS
  * Socrates stands up for my right to speak: https://www.lesswrong.com/posts/WwTPSkNwC89g3Afnd/comment-section-from-05-19-2019?commentId=EsSdLMrFcCpSvr3pG / https://www.lesswrong.com/posts/xqAnKW46FqzPLnGmH/causal-reality-vs-social-reality?commentId=qao4Cy4GxD5bsDHDS
+ * the fabricated option is imagining that you can give in to terrorists 
 ]
 
-### A Brief Interlude About Ayn Rand
+
+### Strawmanning _vs_. Stonewall-and-Bailey Failure Modes
+
+[TODO: Strawmanning vs. Motte-and-Bailey
+ * Meletus is very worried about strawmanning and complains that I'm good at spreading my misinterpretations onto others
+ * I'm very worried about motte-and-baileying: you publish words, and then selectively reinterpret them depending on who you're talking to
+]
+
+
+### You're Stronger Than That
 
 There's a throwaway line in "Killing Socrates" where Meletus (unendorsedly) brings up a comparison between himself and an Ayn Rand villain:
 
@@ -125,17 +149,9 @@ I found this fascinating because [the same comparison had occurred to me indepen
 Only "inflated" isn't the right word. The distinguishing character flaw of Ayn Rand villains is their _fragile_ egos. When you live second-hand through the perceptions of others, 
 
 [TODO:
- * I found it super striking that "Killing Socrates" mentions—
- * because I independently made the same comparison to Ayn Rand: https://www.greaterwrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl
- * "inflated egos" isn't the write description: it's _fragile_ egos; souls that need to be seen and affirmed by others
+ * souls that need to be seen and affirmed by others
  * https://www.greaterwrong.com/posts/yepKvM5rsvbpix75G/you-don-t-exist-duncan
  * You can't imagine Howard Roark complaining about "siphoning status without making a corresponding contribution"
  * If you had the choice, wouldn't you prefer not to be fragile?
 ]
 
-### Strawmanning _vs_. Motte-and-Bailey Failure Modes
-
-[TODO: Strawmanning vs. Motte-and-Bailey
- * Meletus is very worried about strawmanning and complains that I'm good at spreading my misinterpretations onto others
- * I'm very worried about motte-and-baileying: you publish words, and then selectively reinterpret them depending on who you're talking to
-]
