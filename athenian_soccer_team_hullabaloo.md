@@ -92,53 +92,48 @@ On a similar theme, replying to a comment elsewhere on the behavior of alleged c
 
 This comment is striking in that, although it appears to take the form of a sharp critique of the Socratic method, on a close reading, there isn't obviously anything here for Socrates or me to disagree with: in accordance with [the agreement theorem](https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem) and Meletus's guideline #5, our beliefs seem to be converging.
 
-To wit: Meletus's complaint about the Socratic method is not that it fails to achieve its aims, but that it's unpopular ("few people will participate"). Well, sure. Socrates's students aren't trying to be popular; we're trying to converge on the best martial arts practices.
+Meletus's complaint about the Socratic method is not that it fails to achieve its aims, but that it's unpopular ("few people will participate"). Well, sure. Socrates's students aren't trying to be popular; we're trying to converge on the best martial arts practices.
 
 In defense of his own methods, Meletus doesn't claim to attain a standard of excellence that the Socratics cannot meet, but merely that "it's not true that [non-Socratic methods] make[ ] _no_ progress in discovering and teaching useful things." Well, sure. Who said otherwise? That's not a particularly high bar!
 
 ### Appeals to Consequences and the Citadel of Truth
 
-But the previous section is a dodge. So far, I haven't addressed the core concern raised in "Killing Socrates", that a culture of evaluation and judgment rather than collaboration drives away potential contributors. This is ultimately an empirical question about the psychology of potential contributors, and [a comment on "Killing Socrates" contrasting the experience of running a summer program nearby and far away from the cyber-agora](https://www.lesswrong.com/posts/JcgtKunqmELefxksx/killing-socrates?commentId=e2EfnDj7f7vZrFGhF) suffices to illustrate that the effect is real. I can opine that the difference between collaborative and non-collaborative feedback is "not intellectually substantive" as I would construe that, but I'm not going to play dumb and pretend that I don't know what Meletus is talking about. It's not that I [can't see the difference](https://www.lesswrong.com/posts/7Pq9KwZhG6vejmYpo/the-metaphor-you-want-is-color-blindness-not-blind-spot); it's that I'm ideologically committed to ignoring it.
+But the previous section is a dodge. So far, I haven't addressed the core concern raised in "Killing Socrates", that a culture of evaluation and judgment rather than collaboration drives away contributors. This is ultimately an empirical question about the psychology of potential contributors, and [a comment on "Killing Socrates" contrasting the experience of running a summer program nearby and far away from the cyber-agora](https://www.lesswrong.com/posts/JcgtKunqmELefxksx/killing-socrates?commentId=e2EfnDj7f7vZrFGhF) suffices to illustrate that the effect is real. I can opine that the difference between collaborative and non-collaborative feedback is "not intellectually substantive" as I would construe that, but I'm not going to play dumb and pretend that I don't know what Meletus is talking about. It's not that I [can't see the difference](https://www.lesswrong.com/posts/7Pq9KwZhG6vejmYpo/the-metaphor-you-want-is-color-blindness-not-blind-spot); it's that I'm ideologically committed to ignoring it.
 
-I owe Meletus and his supporters an explanation as to why. Why am I digging in my heels on this? If I agree that it's possible for contributors to be driven away by non-collaborative feedback, why am I not only not disposed to alter my behavior, but to all appearances not even interested in assessing the empirical extent of the problem, to suss out whether the cyber-agora could profit by being _x_% more collaborative and thereby retaining the marginal _y_% of contributors who are alienated by non-collaborativeness. Is this not irrational? What principle could possibly outweigh the dictum that decisions are to be made according to the expected consequences?
+I owe Meletus and his supporters an explanation as to why. Why am I digging in my heels on this? If I agree that it's possible for contributors to be driven away by non-collaborative feedback, why am I not only not disposed to alter my behavior, but to all appearances not even interested in assessing the empirical extent of the issue? (Think of it as an optimization problem: if the customs of the cyber-agora haven't already been carefully tuned to maximize quality-weighted contributions, it's plausible that there's some nonzero _x_ and _y_ for which being _x_% more collaborative would retain the marginal _y_% of contributors who are alienated by non-collaborativeness.) Is this not irrational? What principle could possibly outweigh the dictum that decisions are to be made according to the expected consequences?
 
-I claim that there is such a principle, which is this: [appeals to consequences](https://www.lesswrong.com/posts/P3FQNvnW8Cz42QBuA/dialogue-on-appeals-to-consequences) are [normatively](https://sarahconstantin.substack.com/p/normativity-and-anti-normativity) invalid. If A implies B, and A is true, it follows that B is true. If the cyber-agora's collective information processing is to reach true conclusions, its deliberations need to systematically mirror this kind of reasoning. "Socrates's claim that it follows that B is true is un-collaborative and drives away potential contributors" may be valid consequentialist reasoning about how to promote feelings of trust, collaboration, and "jamming together", but it's not valid reasoning about the original subject matter of _whether B is in fact true_.
+I claim that there is such a principle, which is this: [appeals to consequences](https://www.lesswrong.com/posts/P3FQNvnW8Cz42QBuA/dialogue-on-appeals-to-consequences) are [normatively](https://sarahconstantin.substack.com/p/normativity-and-anti-normativity) invalid. If A implies B, and B is false, then [it follows that](https://en.wikipedia.org/wiki/Modus_tollens) A is false. If the cyber-agora's collective information processing is to reach true conclusions, its deliberations need to systematically mirror this kind of [locally valid](https://www.lesswrong.com/posts/WQFioaudEH8R7fyhm/local-validity-as-a-key-to-sanity-and-civilization) reasoning. "Socrates's un-collaborative insistence that B is false drives away potential contributors and should therefore be censored" may be valid consequentialist reasoning about how to promote feelings of trust, collaboration, and "jamming together", but it's not valid reasoning _about the original subject matter_ of whether A and B are true.
 
-Meletus feels strongly that the cyber-agora should be a [well-kept garden](https://www.lesswrong.com/posts/tscc3e5eujrsEeFN4/well-kept-gardens-die-by-pacifism), that Socrates's freedom to speak has changed the place for the worse, compared to a past in which it was a place of "builders offering critique to each other":
+Meletus feels strongly that the cyber-agora should be a [well-kept garden](https://www.lesswrong.com/posts/tscc3e5eujrsEeFN4/well-kept-gardens-die-by-pacifism), that letting Socrates speak has changed the place for the worse:
 
-> The end result of Socrates Unchecked is not, in fact, a bastion of pure reason and untainted truth. That’s a [fabricated option](https://www.greaterwrong.com/posts/gNodQGNoPDjztasbh/lies-damn-lies-and-fabricated-options), like believing that a ban on price gouging during a disaster will result in the normal amount of gasoline being available at the normal prices.
+> The end result of Socrates Unchecked is not, in fact, a bastion of pure reason and untainted truth. That's a [fabricated option](https://www.greaterwrong.com/posts/gNodQGNoPDjztasbh/lies-damn-lies-and-fabricated-options), like believing that a ban on price gouging during a disaster will result in the normal amount of gasoline being available at the normal prices.
 >
 > What happens instead, in practice, is [evaporative cooling](https://www.greaterwrong.com/posts/ZQG9cwKbct2LtmL3p/evaporative-cooling-of-group-beliefs), as the most sensitive or least-bought-in of [the authors/builders who made your subculture worth participating in in the first place] give up and go elsewhere, marginally increasing the ratio of critics to makers, which makes things marginally less rewarding, which sends the next bunch of builders packing, which worsens the problem further.
 
-As it happens, students of the Socratic tradition [also sometimes worry about evaporative cooling effects](https://www.lesswrong.com/posts/xqAnKW46FqzPLnGmH/causal-reality-vs-social-reality?commentId=qao4Cy4GxD5bsDHDS). Those who haven't been following the conflict carefully might assume that the situation is symmetrical, that the followers of Socrates and Meletus simply have different preferred cultural norms: that the Meleteans prefer a collaborative vibe, whereas the Socratics prefer a more competitive one, but the choice is ultimately arbitrary.
+As it happens, students of the Socratic tradition [also sometimes worry about evaporative cooling effects](https://www.lesswrong.com/posts/xqAnKW46FqzPLnGmH/causal-reality-vs-social-reality?commentId=qao4Cy4GxD5bsDHDS). Those who haven't been following the conflict carefully might assume that the situation is symmetrical, that the Socratics and Meleteans simply have different preferred cultural norms: that the Meleteans prefer a collaborative vibe, whereas the Socratics prefer a more adversarial one, but the choice is ultimately arbitrary.
 
 But I think [we're not so similar](https://homosabiens.substack.com/p/were-not-so-similar-you-and-i), us Socratics and the Meleteans.
 
-From the Socratic perspective, Meletean moderation policy selects against people who _care more about getting to the truth_ than about maintaining feelings of feelings of trust, collaboration, "jamming together."
+From the Socratic perspective, Meletean moderation policy selects against people who care more about getting to the truth than about maintaining feelings of feelings of trust and collaboration. When I write about the importance of attending to criticism, it's not because I have a perverse æsthetic sense that prizes suspicion and mistrust for their own sake, to put steel into our souls. Rather, I mean it in the same sense that [a computer program for calculating the bias of an unfair coin will get the wrong answer](https://www.lesswrong.com/posts/fmA2GJwZzYtkrAKYJ/algorithms-of-deception) if you don't show it all of the Tails outcomes. The consequence that ignoring counterevidence makes you get the wrong answer is a fact about reality, not a subcultural quirk or a contingency of human psychology.
 
+"Killing Socrates" laments that the cyber-agora used to be a place where "builders offer[ed] critique to each other", that Socrates is "siphoning status without making a corresponding contribution." I could see this making sense if the cyber-agora is a kind of LARP: if the current rules of the game give outsized rewards to a degenerate strategy that makes the game less fun for everyone, then by all means, we should change the rules.
 
-[TODO—
- * the difference is that I have a theory about why my methods lead to truth that _isn't_ mediated by people's feelings
- * https://homosabiens.substack.com/p/were-not-so-similar-you-and-i
- * When I write about the importance of attending to criticism, I don't intend that it puts steel in our souls; I mean it in the same sense that a computer program to calculate the bias of an unfair coin will get the wrong answer if you
- * Meletus feels strongly that there should be a walled garden; the Socratic version of the walled garden is the Citadel
- * Meletus complains about evaporative cooling; from our perspective, there's been evaporative cooling of people who care more about truth than being collaborative
- * "Killing Socrates" complains about builders offering critques to _each other_. But logically, it doesn't matter where a critique comes from
- * Socrates has in fact complained about people not thanking people who bring baked goods!! https://www.greaterwrong.com/posts/YcdArE79SDxwWAuyF/the-treacherous-path-to-rationality/comment/dwwPieaByzAKkvhsS
- * Socrates stands up for my right to speak: https://www.lesswrong.com/posts/WwTPSkNwC89g3Afnd/comment-section-from-05-19-2019?commentId=EsSdLMrFcCpSvr3pG / https://www.lesswrong.com/posts/xqAnKW46FqzPLnGmH/causal-reality-vs-social-reality?commentId=qao4Cy4GxD5bsDHDS
- * the fabricated option is imagining that you can give in to terrorists 
-]
+But if the purpose of the cyber-agora is to implement a truth-tracking discourse, then we can't change the rules to make the game more fun, because [the rules aren't up to us](https://www.lesswrong.com/posts/eY45uCCX7DdwJ4Jha/no-one-can-exempt-you-from-rationality-s-laws). The truth-tracking function of criticism is to correct errors. If a criticism is correct, it's [irrelevant whether](https://www.lesswrong.com/posts/5yFRd3cjLpm3Nd6Di/argument-screens-off-authority) the person making it is themselves a "builder". If the Meleteans don't want to hear criticism from non-builders because that ruins their game, then their game must be prioritizing something else over truth.
 
+Most games are. The Socratic analogue of the well-kept garden is [the Citadel of Truth](https://www.lesswrong.com/posts/P3FQNvnW8Cz42QBuA/dialogue-on-appeals-to-consequences?commentId=rdcxfgrqGuxyu2DGJ): one goddamned place in the entire goddamned world dedicated _solely_ to the pursuit of truth. The Socratics seek to preserve the cyber-agora as an instance of the Citadel. Ultimately, Meletus is just correct to notice that some people are going to find the Citadel unwelcoming, and that, as a consequence, the Citadel is going to miss out on the contributions of people who sustain psychic damage from its customs. To be clear, they'd be welcome to stay—but the moderators aren't going to protect anyone from non-builder criticism. It's a [fabricated option](https://www.lesswrong.com/posts/gNodQGNoPDjztasbh/lies-damn-lies-and-fabricated-options) to imagine that they could.
 
 ### Strawmanning _vs_. Stonewall-and-Bailey Failure Modes
 
+At this point, the Meleteans are probably not impressed with this post. Meletus's focus on colaborativeness is related to a deep concern about the ubiquitous discourse failure mode of strawmanning, where people argue against their own hostile misinterpretations of their interlocutor rather than the interlocutor's real views.
+
+
+Meletus is concerned that [I, Xenophon, am particularly skilled at tricking audiences to think that an author said something that they didn't](https://www.lesswrong.com/posts/SX6wQEdGfzz7GKYvp/rationalist-discourse-is-like-physicist-motors?commentId=KfaQnBtqpZym3jkSw).
+ 
 [TODO: Strawmanning vs. Motte-and-Bailey
- * Meletus is very worried about strawmanning and complains that I'm good at spreading my misinterpretations onto others
  * I'm very worried about motte-and-baileying: you publish words, and then selectively reinterpret them depending on who you're talking to
 ]
 
-
-### You're Stronger Than That
+### There Is More In You
 
 There's a throwaway line in "Killing Socrates" where Meletus (unendorsedly) brings up a comparison between himself and an Ayn Rand villain:
 
@@ -146,7 +141,9 @@ There's a throwaway line in "Killing Socrates" where Meletus (unendorsedly) brin
 
 I found this fascinating because [the same comparison had occurred to me independently](https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl).
 
-Only "inflated" isn't the right word. The distinguishing character flaw of Ayn Rand villains is their _fragile_ egos. When you live second-hand through the perceptions of others, 
+Only "inflated" isn't the right word. The distinguishing character flaw of Ayn Rand villains is their _fragile_ egos.
+
+When you live second-hand through the perceptions of others, 
 
 [TODO:
  * souls that need to be seen and affirmed by others
@@ -154,4 +151,3 @@ Only "inflated" isn't the right word. The distinguishing character flaw of Ayn R
  * You can't imagine Howard Roark complaining about "siphoning status without making a corresponding contribution"
  * If you had the choice, wouldn't you prefer not to be fragile?
 ]
-
