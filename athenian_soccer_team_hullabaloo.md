@@ -118,20 +118,29 @@ From the Socratic perspective, Meletean moderation policy selects against people
 
 "Killing Socrates" laments that the cyber-agora used to be a place where "builders offer[ed] critique to each other", that Socrates is "siphoning status without making a corresponding contribution." I could see this making sense if the cyber-agora is a kind of LARP: if the current rules of the game give outsized rewards to a degenerate strategy that makes the game less fun for everyone, then by all means, we should change the rules.
 
-But if the purpose of the cyber-agora is to implement a truth-tracking discourse, then we can't change the rules to make the game more fun, because [the rules aren't up to us](https://www.lesswrong.com/posts/eY45uCCX7DdwJ4Jha/no-one-can-exempt-you-from-rationality-s-laws). The truth-tracking function of criticism is to correct errors. If a criticism is correct, it's [irrelevant whether](https://www.lesswrong.com/posts/5yFRd3cjLpm3Nd6Di/argument-screens-off-authority) the person making it is themselves a "builder". If the Meleteans don't want to hear criticism from non-builders because that ruins their game, then their game must be prioritizing something else over truth.
+But if the purpose of the cyber-agora is to implement a truth-tracking discourse, then we can't change the rules to make the game more fun, because [the rules aren't up to us](https://www.lesswrong.com/posts/eY45uCCX7DdwJ4Jha/no-one-can-exempt-you-from-rationality-s-laws). The epistemic function of criticism is to correct errors. If a criticism is correct, it's [irrelevant whether](https://www.lesswrong.com/posts/5yFRd3cjLpm3Nd6Di/argument-screens-off-authority) the person making it is themselves a "builder". If the Meleteans don't want to hear criticism from non-builders because that ruins their game, then their game must be prioritizing something else over truth.
 
-Most games are. The Socratic analogue of the well-kept garden is [the Citadel of Truth](https://www.lesswrong.com/posts/P3FQNvnW8Cz42QBuA/dialogue-on-appeals-to-consequences?commentId=rdcxfgrqGuxyu2DGJ): one goddamned place in the entire goddamned world dedicated _solely_ to the pursuit of truth. The Socratics seek to preserve the cyber-agora as an instance of the Citadel. Ultimately, Meletus is just correct to notice that some people are going to find the Citadel unwelcoming, and that, as a consequence, the Citadel is going to miss out on the contributions of people who sustain psychic damage from its customs. To be clear, they'd be welcome to stay—but the moderators aren't going to protect anyone from non-builder criticism. It's a [fabricated option](https://www.lesswrong.com/posts/gNodQGNoPDjztasbh/lies-damn-lies-and-fabricated-options) to imagine that they could.
+Most games are. The Socratic analogue of the well-kept garden is [the Citadel of Truth](https://www.lesswrong.com/posts/P3FQNvnW8Cz42QBuA/dialogue-on-appeals-to-consequences?commentId=rdcxfgrqGuxyu2DGJ): one goddamned place in the entire goddamned world dedicated _solely_ to the pursuit of truth. The Socratics seek to preserve the cyber-agora as an instance of the Citadel. Ultimately, Meletus is correct to notice that some people are going to find the Citadel unwelcoming, and that, as a consequence, the Citadel is going to miss out on the contributions of people who sustain psychic damage from its customs. To be clear, they're welcome to stay—but the moderators aren't going to protect anyone from non-builder criticism. It's a [fabricated option](https://www.lesswrong.com/posts/gNodQGNoPDjztasbh/lies-damn-lies-and-fabricated-options) to imagine that they could.
 
-### Strawmanning _vs_. Stonewall-and-Bailey Failure Modes
+### Strawmanning _vs_. Motte-and-Bailey Failure Modes
 
-At this point, the Meleteans are probably not impressed with this post. Meletus's focus on colaborativeness is related to a deep concern about the ubiquitous discourse failure mode of strawmanning, where people argue against their own hostile misinterpretations of their interlocutor rather than the interlocutor's real views.
+At this point, the Meleteans are probably not impressed with this post. Meletus's focus on colaborativeness stems from a deep concern about the ubiquitous discourse failure mode of strawmanning, where people argue against their own hostile misinterpretations rather than their interlocutor's real views. (Meletus accuses [me, Xenophon, of being particularly skilled at tricking audiences into thinking that an author said something that they didn't](https://www.lesswrong.com/posts/SX6wQEdGfzz7GKYvp/rationalist-discourse-is-like-physicist-motors?commentId=KfaQnBtqpZym3jkSw).) A robust technique for preventing strawmanning is [the Ideological Turing Test](https://www.econlib.org/archives/2011/06/the_ideological.html), in which one attmepts to present one's interlocutor's point of view in one's own words.
+
+In this post, I've made claims about the Meleteans' policies that the Meleteans themselves would probably not endorse.
 
 
-Meletus is concerned that [I, Xenophon, am particularly skilled at tricking audiences to think that an author said something that they didn't](https://www.lesswrong.com/posts/SX6wQEdGfzz7GKYvp/rationalist-discourse-is-like-physicist-motors?commentId=KfaQnBtqpZym3jkSw).
- 
-[TODO: Strawmanning vs. Motte-and-Bailey
- * I'm very worried about motte-and-baileying: you publish words, and then selectively reinterpret them depending on who you're talking to
+[TODO—
+ * explain the ITT
+ * quote Meletus on criticisms being invalid if you can't pass the ITT
+ * I'm claiming things about the Meletean's position that they wouldn't endorse. Does that mean we can throw the whole post about the window?
+ * I argue No. I agree that strawmanning is a real problem, but the problem with requiring critics to pass an ITT isthat it permits a stonewalling strategy: if someone disagrees with you
+ * I understand that the Meleteans don't think of themselves as prioritizing something else over truth; they think that their methods lead to truth
+ * But I'm not making claims about their self-image; I'm reading the actual text they actually published, and claiming that it amounts ot prioritizing something else over truth
+ * https://www.lesswrong.com/posts/5zjucvhSFvp92eYbE/reply-to-duncan-sabien-on-strawmanning
+ * https://www.lesswrong.com/posts/PxN5iwS2CTCYi4oAP/against-devil-s-advocacy
+ * https://www.lesswrong.com/posts/jo5Fhkb7escrYE9cC/on-the-contrary-steelmanning-is-normal-itt-passing-is-niche
 ]
+
 
 ### There Is More In You
 
@@ -148,6 +157,7 @@ When you live second-hand through the perceptions of others,
 [TODO:
  * souls that need to be seen and affirmed by others
  * https://www.greaterwrong.com/posts/yepKvM5rsvbpix75G/you-don-t-exist-duncan
- * You can't imagine Howard Roark complaining about "siphoning status without making a corresponding contribution"
+ * I'm a social animal, too, but complaining about "siphoning status without making a corresponding contribution" is a sign that you need to chill
  * If you had the choice, wouldn't you prefer not to be fragile?
+
 ]
