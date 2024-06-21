@@ -130,12 +130,9 @@ I argue: No, because while I agree that strawmanning is a ubiquitous failure mod
 
 Meletus didn't say "The Socratic method is bad because it's unpopular" _in those words_, which would sound bad, but complaining that "few people will participate in such a martial arts academy for long" amounts to the same thing. (_Unpopular_, adjective, ["Not liked or popular; disliked or ignored by the public."](https://en.wiktionary.org/wiki/unpopular)) Meletus didn't say "I value feelings of trust and collaboration at the expense of truth" _in those words_, which would sound bad. But if you write essays about how criticism undermines feelings of trust and collaboration, I can't help but notice the revealed preference ordering, even if the author doesn't seem to be aware of it.
 
-Perhaps some readers are still uncomfortable with my characterizing an author's policies in a way that the author themselves wouldn't endorse—that I'm doubling down on the strawmanning ways that Meletus condemns me for, despite paying lip service to the ITT being a useful idea.
-
-But that's just the thing. While I don't affirm that description of my behavior, 
+Perhaps some readers are still uncomfortable with my characterizing an author's policies in a way that the author themselves wouldn't endorse—that I'm doubling down on the strawmanning ways that Meletus condemns me for, despite paying lip service to the ITT being a useful idea. But that's just the thing: _that_ description is characterizing _my_ policies in a way that I don't agree with—and yet I consider it _my_ responsibility to explain what the difference is, rather than insisting that my critics need to be pre-emptively charitable to me. (The difference is that [I think it's not strawmanning if you can explain to third parties how your interpretation is grounded in the text itself](https://www.lesswrong.com/posts/5zjucvhSFvp92eYbE/reply-to-duncan-sabien-on-strawmanning); the author is free to clarify that some interpretation wasn't intended, but critics can't be obligated to have somehow figured that out in advance if it wasn't already clear in the text.)
 
 
-Besides strawmanning, another ubiquitous form of discourse failure is [the motte-and-bailey doctrine](https://slatestarcodex.com/2014/11/03/all-in-all-another-brick-in-the-motte/), where people pivot between different meanings of words in order to advance an agenda that they'd rather not be made explicit. 
 
 
 [TODO—
@@ -145,7 +142,7 @@ Besides strawmanning, another ubiquitous form of discourse failure is [the motte
  * I argue No. I agree that strawmanning is a real problem, but the problem with requiring critics to pass an ITT isthat it permits a stonewalling strategy: if someone disagrees with you
  * I understand that the Meleteans don't think of themselves as prioritizing something else over truth; they think that their methods lead to truth
  * But I'm not making claims about their self-image; I'm reading the actual text they actually published, and claiming that it amounts ot prioritizing something else over truth
- * https://www.lesswrong.com/posts/5zjucvhSFvp92eYbE/reply-to-duncan-sabien-on-strawmanning
+ * 
  * https://www.lesswrong.com/posts/PxN5iwS2CTCYi4oAP/against-devil-s-advocacy
  * https://www.lesswrong.com/posts/jo5Fhkb7escrYE9cC/on-the-contrary-steelmanning-is-normal-itt-passing-is-niche
 ]
@@ -157,7 +154,7 @@ There's a throwaway line in "Killing Socrates" where Meletus (unendorsedly) brin
 
 > From this perspective, Socrates looks much less like a hero whose sharp wit punctured the inflated egos of various Athenian Ayn Rand villains, and much more like someone who found a clever exploit in the system, siphoning status without making a corresponding contribution.
 
-I found this fascinating because [the same comparison had occurred to me independently](https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl). I'm reminded of this passage:
+I found this fascinating because [the same comparison had occurred to me independently](https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl). I'm reminded of this passage from _Atlas Shrugged_:
 
 > It was his sudden, angry "so you don't trust me?" snapped in answer to her first, innocent questions that made her realize she did not—when the doubt had not yet formed in her mind and she had fully expected that the answers would resassure her. She had learned, in the slums of her childhood, that honest people were never touchy about the matter of being trusted.
 
