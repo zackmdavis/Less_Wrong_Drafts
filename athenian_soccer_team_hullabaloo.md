@@ -120,7 +120,7 @@ Most games are. The Socratic analogue of the well-kept garden is [the Citadel of
 
 The Socratics seek to preserve the cyber-agora as an instance of the Citadel. Ultimately, Meletus is correct to notice that the Citadel is going to miss out on the contributions of people who sustain psychic damage from its customs. To be clear, they're welcome to stay—but the moderators aren't going to protect anyone from non-builder criticism. It's a [fabricated option](https://www.lesswrong.com/posts/gNodQGNoPDjztasbh/lies-damn-lies-and-fabricated-options) to imagine that they could.
 
-### Strawmanning _vs_. Motte-and-Bailey Failure Modes (working title)
+### Strawmanning _vs_. Motte-and-Bailey Failure Modes
 
 At this point, the Meleteans are probably not impressed with this post. Meletus's focus on colaborativeness stems from a deep concern about the ubiquitous discourse failure mode of strawmanning, where people argue against their own hostile misinterpretations rather than their interlocutor's real views. (Meletus accuses [me, Xenophon, of being particularly skilled at tricking audiences into thinking that an author said something that they didn't](https://www.lesswrong.com/posts/SX6wQEdGfzz7GKYvp/rationalist-discourse-is-like-physicist-motors?commentId=KfaQnBtqpZym3jkSw).)
 
@@ -130,21 +130,27 @@ I argue: No, because while I agree that strawmanning is a ubiquitous failure mod
 
 Meletus didn't say "The Socratic method is bad because it's unpopular" _in those words_, which would sound bad, but complaining that "few people will participate in such a martial arts academy for long" amounts to the same thing. (_Unpopular_, adjective, ["Not liked or popular; disliked or ignored by the public."](https://en.wiktionary.org/wiki/unpopular)) Meletus didn't say "I value feelings of trust and collaboration at the expense of truth" _in those words_, which would sound bad. But if you write essays about how criticism undermines feelings of trust and collaboration, I can't help but notice the revealed preference ordering, even if the author doesn't seem to be aware of it.
 
-Perhaps some readers are still uncomfortable with my characterizing an author's policies in a way that the author themselves wouldn't endorse—that I'm doubling down on the strawmanning ways that Meletus condemns me for, despite paying lip service to the ITT being a useful idea. But that's just the thing: _that_ description is characterizing _my_ policies in a way that I don't agree with—and yet I consider it _my_ responsibility to explain what the difference is, rather than insisting that my critics need to be pre-emptively charitable to me. (The difference is that [I think it's not strawmanning if you can explain to third parties how your interpretation is grounded in the text itself](https://www.lesswrong.com/posts/5zjucvhSFvp92eYbE/reply-to-duncan-sabien-on-strawmanning); the author is free to clarify that some interpretation wasn't intended, but critics can't be obligated to have somehow figured that out in advance if it wasn't already clear in the text.)
+Perhaps some readers will still be unsatisfied at my interpreting Meletus's words in a way that Meletus probably wouldn't approve of—that I'm doubling down on the strawmanning ways that Meletus condemns me for, despite paying lip service to the ITT being a useful idea.
+
+But that's just the thing: _that_ description is characterizing _my_ policies in a way that _I_ don't agree with. (I don't think of myself as doubling down on strawmanning.) Besides strawmanning, another ubiquitous form of discourse failure is [the motte-and-bailey doctrine](https://slatestarcodex.com/2014/11/03/all-in-all-another-brick-in-the-motte/), where people opportunistically pivot between different "intended" interpretations of their words.
+
+Unfortunately, the existence of the motte-and-bailey failure mode makes it untenable for criticisms to only be considered admissible if the criticized author agrees with the critic's interpretation of the author's views: it's too easy to stand in the bailey 
+
+stand in the motte and say, "That's a strawman" to all critics.
 
 
+and yet I consider it _my_ responsibility to explain what the difference is, rather than insisting that my critics need to be pre-emptively charitable to me.
+
+
+(The difference is that [I think it's not strawmanning if you can explain to third parties how your interpretation is grounded in the text itself](https://www.lesswrong.com/posts/5zjucvhSFvp92eYbE/reply-to-duncan-sabien-on-strawmanning); the author is free to clarify that some interpretation wasn't intended, but critics can't be obligated to have somehow figured that out in advance if it wasn't already clear in the text.)
 
 
 [TODO—
- * explain the ITT
- * quote Meletus on criticisms being invalid if you can't pass the ITT
- * I'm claiming things about the Meletean's position that they wouldn't endorse. Does that mean we can throw the whole post about the window?
  * I argue No. I agree that strawmanning is a real problem, but the problem with requiring critics to pass an ITT isthat it permits a stonewalling strategy: if someone disagrees with you
- * I understand that the Meleteans don't think of themselves as prioritizing something else over truth; they think that their methods lead to truth
- * But I'm not making claims about their self-image; I'm reading the actual text they actually published, and claiming that it amounts ot prioritizing something else over truth
- * 
  * https://www.lesswrong.com/posts/PxN5iwS2CTCYi4oAP/against-devil-s-advocacy
  * https://www.lesswrong.com/posts/jo5Fhkb7escrYE9cC/on-the-contrary-steelmanning-is-normal-itt-passing-is-niche
+
+ * work in December 2020 disaster earlier in the soccer analogy?
 ]
 
 
@@ -157,14 +163,19 @@ There's a throwaway line in "Killing Socrates" where Meletus (unendorsedly) brin
 I found this fascinating because [the same comparison had occurred to me independently](https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl). I'm reminded of this passage from _Atlas Shrugged_:
 
 > It was his sudden, angry "so you don't trust me?" snapped in answer to her first, innocent questions that made her realize she did not—when the doubt had not yet formed in her mind and she had fully expected that the answers would resassure her. She had learned, in the slums of her childhood, that honest people were never touchy about the matter of being trusted.
-
 Only "inflated" isn't the right word. The distinguishing character flaw of Ayn Rand villains is their _fragile_ egos.
 
 When you live second-hand through the perceptions of others, 
+
 
 [TODO:
  * souls that need to be seen and affirmed by others
  * https://www.greaterwrong.com/posts/yepKvM5rsvbpix75G/you-don-t-exist-duncan
  * I'm a social animal, too, but complaining about "siphoning status without making a corresponding contribution" is a sign that you need to chill
  * If you had the choice, wouldn't you prefer not to be fragile?
+
+https://www.lesswrong.com/posts/sCWe5RRvSHQMccd2Q/i-would-have-shit-in-that-alley-too?commentId=tyZiGNA29rBiqfRPw
+
+> Over the mid-to-long term, the only people left in the community would be a small minority of users with really thick skins who care about the truth above all else, along with a sizeable majority of people who enjoy intentionally insulting and lambasting others under the guise of "I'm only calling it as I see it."
+
 ]
