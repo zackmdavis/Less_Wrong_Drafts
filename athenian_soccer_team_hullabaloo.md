@@ -50,6 +50,10 @@ This doesn't make sense to me, and seems like a crux. "Don't be a hostile dick",
 
 The problem here is both obvious and fatal. If people in the cyber-agora are wrong, then people who see the error are likely going to distrust them. If you insist that people need to trust you as a prerequisite for even being allowed to talk to you, then you'll never hear from people who don't trust you, which is fatal if the people who don't trust you possess a critical insight that you won't hear from your friends who trust you. If Meletus is sure that people who don't trust him don't have anything worthwhile to say (such that "if you don't have some amount of baseline trust and charity [...] then you're in the wrong place" seems like a good guideline to him), then he possesses vastly more self-confidence than I do.
 
+The mention of coordination is noteworthy in that it potentially reveals a key difference between Meletean and Socratic views on the requirements for truth-tracking discourse. There are definitely some areas of life where trust and coordination are paramount, when people are under time pressure to make correlated decisions, like soldiers on a battlefield, or doctors and nurses in an operating room, or, indeed, players in a soccer game. In these circumscribed situations, it's sometimes more important to ensure that everyone is on the same page than to pay the costs of litigating whether it's the right page. (I can think of at least one situation in my life where suspicion and mistrust tore apart a group effort that might otherwise have succeeded.)
+
+But the cyber-agora just doesn't seem like one of those circumscribed situations. A soldier who disobeys orders because he thinks he has a better idea is likely to get himself and his comrades killed, even if his idea is better (because military ideas can't be implemented unilaterally). In contrast, on the cyber-agora, unilateral disagreement is fine. (Even if some particular line of discussion requires coordination, the uncoordinated dissent can just happen in a separate comment thread. We're not going to run out of _paper_.)
+
 > 2. That being said, don't prioritize "being a good teammate." Prioritize playing a good game of soccer/doing correct things with the ball. Trust others to receive the ball from you and pass the ball to you until they show you that they don't deserve that trust; don't make "evaluating whether they deserve that trust" or "bending over backwards to prove that you deserve that trust" high priorities. Part of the point of assembling in the garden of LessWrong rather than just doing everything out on the naked internet is that there's a higher baseline of good players around and you can just get down to playing soccer quickly, without a lot of preamble. Figuring out what's true is the actual game, getting closer to truth is the actual goal, and if you're focused on that, you will tend to move closer to others who are also doing that as a side effect.
 
 Broadly agreed, but I'm not entirely sure what the non-metaphorical analogues of "[t]rust[ing] others to receive the ball from you and pass the ball to you" are supposed to be. (Trusting them to listen? Trusting the things they say to be relevant contributions rather than rhetorical traps?)
@@ -118,7 +122,7 @@ But if the purpose of the cyber-agora is to implement a truth-tracking discourse
 
 Most games are. The Socratic analogue of the well-kept garden is [the Citadel of Truth](https://www.lesswrong.com/posts/P3FQNvnW8Cz42QBuA/dialogue-on-appeals-to-consequences?commentId=rdcxfgrqGuxyu2DGJ): one goddamned place in the entire goddamned world dedicated _solely_ to the pursuit of truth, committed to ignoring other concerns, like whether publicizing the truth outside the Citadel might cause harm or whether participants feel respected.
 
-The Socratics seek to preserve the cyber-agora as an instance of the Citadel. Ultimately, Meletus is correct to notice that the Citadel is going to miss out on the contributions of people who sustain psychic damage from its customs. To be clear, they're welcome to stay—but the moderators aren't going to protect anyone from non-builder criticism. It's a [fabricated option](https://www.lesswrong.com/posts/gNodQGNoPDjztasbh/lies-damn-lies-and-fabricated-options) to imagine that they could.
+The Socratics seek to preserve the cyber-agora as an instantiation of the Citadel. (If not here, then where?) Ultimately, Meletus is correct to notice that the Citadel is going to miss out on the contributions of people who sustain psychic damage from its customs. To be clear, they're welcome to stay—but the moderators aren't going to protect anyone from non-builder criticism. It's a [fabricated option](https://www.lesswrong.com/posts/gNodQGNoPDjztasbh/lies-damn-lies-and-fabricated-options) to imagine that they could.
 
 ### Strawmanning _vs_. Motte-and-Bailey Failure Modes
 
@@ -128,19 +132,19 @@ A technique for preventing strawmanning is [the Ideological Turing Test](https:/
 
 I argue: No, because while I agree that strawmanning is a ubiquitous failure mode and that the ITT is often a useful technique for combatting it, the passages in question weren't part of an ITT attempt. (The ITT is testing your ability to simulate and therefore understand the interlocutor's view; you don't have to _believe_ it.) My claim isn't that the Meleteans _think of themselves_ as prioritizing popularity and collaborative feelings over truth. Obviously, the Meleteans think that prioritizing collaborativeness will lead to truth. I'm claiming that they're wrong about what their own methods imply. And the way I think I know enough about their methods in order to make that judgement (despite the fact that I'm not a mind-reader and can't know what's truly in their heart) is by ... reading the actual text that they actually published, and making logical inferences from the literal meaning of the text?
 
-Meletus didn't say "The Socratic method is bad because it's unpopular" _in those words_, which would sound bad, but complaining that "few people will participate in such a martial arts academy for long" amounts to the same thing. (_Unpopular_, adjective, ["Not liked or popular; disliked or ignored by the public."](https://en.wiktionary.org/wiki/unpopular)) Meletus didn't say "I value feelings of trust and collaboration at the expense of truth" _in those words_, which would sound bad. But if you write essays about how criticism undermines feelings of trust and collaboration, I can't help but notice the revealed preference ordering, even if the author doesn't seem to be aware of it.
+Meletus didn't say "The Socratic method is bad because it's unpopular" _in those words_, which would sound bad, but complaining that "few people will participate in such a martial arts academy for long" amounts to the same thing. (_Unpopular_, adjective, ["Not liked or popular; disliked or ignored by the public."](https://en.wiktionary.org/wiki/unpopular)) Meletus didn't say "I value feelings of trust and collaboration at the expense of truth" _in those words_, which would sound bad. But if you write essays about how criticism destroys communities that depend on trust and collaboration, I can't help but notice the revealed preference ordering, even if the author doesn't seem to be aware of it.
 
 Perhaps some readers will still be unsatisfied at my interpreting Meletus's words in a way that Meletus probably wouldn't approve of—that I'm doubling down on the strawmanning ways that Meletus condemns me for, despite paying lip service to the ITT being a useful idea.
 
 But that's just the thing: _that_ description is characterizing _my_ policies in a way that _I_ don't agree with. (I don't think of myself as doubling down on strawmanning.) Besides strawmanning, another ubiquitous form of discourse failure is [the motte-and-bailey doctrine](https://slatestarcodex.com/2014/11/03/all-in-all-another-brick-in-the-motte/), where people opportunistically pivot between different "intended" interpretations of their words.
 
-Unfortunately, the existence of the motte-and-bailey failure mode makes it untenable for criticisms to only be considered admissible if the criticized author agrees with the critic's interpretation of the author's views: it's too easy to stand in the bailey 
+Unfortunately, the existence of the motte-and-bailey failure mode makes it untenable for criticisms to only be considered admissible if the criticized author agrees with the critic's interpretation of the author's views:
 
+
+
+it's too easy to stand in the bailey 
 stand in the motte and say, "That's a strawman" to all critics.
-
-
 and yet I consider it _my_ responsibility to explain what the difference is, rather than insisting that my critics need to be pre-emptively charitable to me.
-
 
 (The difference is that [I think it's not strawmanning if you can explain to third parties how your interpretation is grounded in the text itself](https://www.lesswrong.com/posts/5zjucvhSFvp92eYbE/reply-to-duncan-sabien-on-strawmanning); the author is free to clarify that some interpretation wasn't intended, but critics can't be obligated to have somehow figured that out in advance if it wasn't already clear in the text.)
 
@@ -149,8 +153,6 @@ and yet I consider it _my_ responsibility to explain what the difference is, rat
  * I argue No. I agree that strawmanning is a real problem, but the problem with requiring critics to pass an ITT isthat it permits a stonewalling strategy: if someone disagrees with you
  * https://www.lesswrong.com/posts/PxN5iwS2CTCYi4oAP/against-devil-s-advocacy
  * https://www.lesswrong.com/posts/jo5Fhkb7escrYE9cC/on-the-contrary-steelmanning-is-normal-itt-passing-is-niche
-
- * work in December 2020 disaster earlier in the soccer analogy?
 ]
 
 
@@ -163,6 +165,7 @@ There's a throwaway line in "Killing Socrates" where Meletus (unendorsedly) brin
 I found this fascinating because [the same comparison had occurred to me independently](https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl). I'm reminded of this passage from _Atlas Shrugged_:
 
 > It was his sudden, angry "so you don't trust me?" snapped in answer to her first, innocent questions that made her realize she did not—when the doubt had not yet formed in her mind and she had fully expected that the answers would resassure her. She had learned, in the slums of her childhood, that honest people were never touchy about the matter of being trusted.
+
 Only "inflated" isn't the right word. The distinguishing character flaw of Ayn Rand villains is their _fragile_ egos.
 
 When you live second-hand through the perceptions of others, 
