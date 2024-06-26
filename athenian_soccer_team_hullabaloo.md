@@ -138,23 +138,9 @@ Perhaps some readers will still be unsatisfied at my interpreting Meletus's word
 
 But that's just the thing: _that_ description is characterizing _my_ policies in a way that _I_ don't agree with. (I don't think of myself as doubling down on strawmanning.) Besides strawmanning, another ubiquitous form of discourse failure is [the motte-and-bailey doctrine](https://slatestarcodex.com/2014/11/03/all-in-all-another-brick-in-the-motte/), where people opportunistically pivot between different "intended" interpretations of their words.
 
-Unfortunately, the existence of the motte-and-bailey failure mode makes it untenable for criticisms to only be considered admissible if the criticized author agrees with the critic's interpretation of the author's views:
+Unfortunately, the existence of the motte-and-bailey failure mode makes it untenable for criticisms to only be considered admissible if the criticized author agrees with the critic's interpretation of the author's views. Otherwise, it's too easy to talk a good game in the bailey about equitable distribution of cookies, while saying "That's a strawman" to dismiss everyone who points out that your equitable distribution plan amounts to giving all the cookies to your friends.
 
-
-
-it's too easy to stand in the bailey 
-stand in the motte and say, "That's a strawman" to all critics.
-and yet I consider it _my_ responsibility to explain what the difference is, rather than insisting that my critics need to be pre-emptively charitable to me.
-
-(The difference is that [I think it's not strawmanning if you can explain to third parties how your interpretation is grounded in the text itself](https://www.lesswrong.com/posts/5zjucvhSFvp92eYbE/reply-to-duncan-sabien-on-strawmanning); the author is free to clarify that some interpretation wasn't intended, but critics can't be obligated to have somehow figured that out in advance if it wasn't already clear in the text.)
-
-
-[TODO—
- * I argue No. I agree that strawmanning is a real problem, but the problem with requiring critics to pass an ITT isthat it permits a stonewalling strategy: if someone disagrees with you
- * https://www.lesswrong.com/posts/PxN5iwS2CTCYi4oAP/against-devil-s-advocacy
- * https://www.lesswrong.com/posts/jo5Fhkb7escrYE9cC/on-the-contrary-steelmanning-is-normal-itt-passing-is-niche
-]
-
+Thus, [I think it's not strawmanning if you can explain to third parties how your interpretation is grounded in the text itself](https://www.lesswrong.com/posts/5zjucvhSFvp92eYbE/reply-to-duncan-sabien-on-strawmanning); the author is free to clarify that some interpretation wasn't intended, but critics can't be obligated to have somehow figured that out in advance if it wasn't already clear in the text.
 
 ### There Is More In You
 
@@ -162,23 +148,28 @@ There's a throwaway line in "Killing Socrates" where Meletus (unendorsedly) brin
 
 > From this perspective, Socrates looks much less like a hero whose sharp wit punctured the inflated egos of various Athenian Ayn Rand villains, and much more like someone who found a clever exploit in the system, siphoning status without making a corresponding contribution.
 
-I found this fascinating because [the same comparison had occurred to me independently](https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl). I'm reminded of this passage from _Atlas Shrugged_:
+I found this fascinating because [the same comparison had occurred to me independently](https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl). Meletus's claim that "if you don't have some amount of baseline trust and charity for the median LWer then you're in the wrong place" particularly reminds of this passage from _Atlas Shrugged_, when Cherryl is beginning to have second thoughts about her marriage to James Taggart:
 
 > It was his sudden, angry "so you don't trust me?" snapped in answer to her first, innocent questions that made her realize she did not—when the doubt had not yet formed in her mind and she had fully expected that the answers would resassure her. She had learned, in the slums of her childhood, that honest people were never touchy about the matter of being trusted.
 
-Only "inflated" isn't the right word. The distinguishing character flaw of Ayn Rand villains is their _fragile_ egos.
+Only it's not right to speak of "inflated" egos. The distinguishing character flaw of Ayn Rand antagonists like James Taggart or Peter Keating is their _fragile_ egos. When you live second-hand through the perceptions of others, [not being seen by others the way you see yourself must seem like a profound injury](https://www.lesswrong.com/posts/yepKvM5rsvbpix75G/you-don-t-exist-duncan). In the face of that pain, it must be tempting to lash out at those others who stubbornly refuse to grant the validation your soul craves.
 
-When you live second-hand through the perceptions of others, 
-
+I think there's another way.
 
 [TODO:
- * souls that need to be seen and affirmed by others
- * https://www.greaterwrong.com/posts/yepKvM5rsvbpix75G/you-don-t-exist-duncan
- * I'm a social animal, too, but complaining about "siphoning status without making a corresponding contribution" is a sign that you need to chill
- * If you had the choice, wouldn't you prefer not to be fragile?
+
+ * in the face of the pain, it's tempting to try to control others; to force them to validate you
+ * But maybe ... 
+ * some will read this as a status game, but that's not what I'm trying to do
 
 https://www.lesswrong.com/posts/sCWe5RRvSHQMccd2Q/i-would-have-shit-in-that-alley-too?commentId=tyZiGNA29rBiqfRPw
 
 > Over the mid-to-long term, the only people left in the community would be a small minority of users with really thick skins who care about the truth above all else, along with a sizeable majority of people who enjoy intentionally insulting and lambasting others under the guise of "I'm only calling it as I see it."
 
+earlier—
+ * Socrates has in fact complained about people not thanking people who bring baked goods!! https://www.greaterwrong.com/posts/YcdArE79SDxwWAuyF/the-treacherous-path-to-rationality/comment/dwwPieaByzAKkvhsS
+ * Socrates stands up for my right to speak: https://www.lesswrong.com/posts/WwTPSkNwC89g3Afnd/comment-section-from-05-19-2019?commentId=EsSdLMrFcCpSvr3pG
+
 ]
+
+I won't take it personally.
