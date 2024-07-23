@@ -1,20 +1,24 @@
-## On the Public Anti-Epistemology of dath ilan
+# On the Public Anti-Epistemology of dath ilan
 
 > All should be laid open to you without reserve, for there is not a truth existing which I fear, or would wish unknown to the whole world.
 >
 > —Thomas Jefferson, earthling
 
+### Introduction
+
 Eliezer Yudkowsky's fiction about the world of dath ilan (capitalization _sic_) aims to portray a smarter, saner, better-coordinated alternate version of Earth. Dath ilan had originally been introduced in a [2014 April Fool's Day post](https://yudkowsky.tumblr.com/post/81447230971/my-april-fools-day-confession), in which Yudkowsky "confessed" that the explanation for his seemingly implausible genius is that he's "actually" an ordinary person from dath ilan, where the ideas he presented to this world as his own were common knowledge. (This likely inspired the trope of a [_medianworld_](https://www.glowfic.com/replies/1619639#reply-1619639), a setting where the average person is like the author along important dimensions.)[^medianworlds]
 
-[^medianworlds]: You might think that the thought experiment of imagining what someone's medianworld is like would only be interesting for people who are "weird" in our own world, thinking that our world is a medianworld for people who are normal in our world. But [in high-dimensional spaces, _most_ of the probability-mass is concentrated in a "shell" some distance around the mode](/2021/May/sexual-dimorphism-in-the-sequences-in-relation-to-my-gender-problems/#typical-point), because even though the per-unit-hypervolume probability _density_ is greatest at the mode, there's vastly more hypervolume in the hyperspace around it. The upshot is that typical people are atypical along _some_ dimensions, so normies can play the medianworld game, too. (Or they could, if the normies of our world were into worldbuilding.)
+[^medianworlds]: You might think that the thought experiment of imagining what someone's medianworld is like would only be interesting for people who are "weird" in our own world, thinking that our world is a medianworld for people who are normal in our world. But [in high-dimensional spaces, _most_ of the probability-mass is concentrated in a "shell" some distance around the mode](/2021/May/sexual-dimorphism-in-the-sequences-in-relation-to-my-gender-problems/#typical-point), because even though the per-unit-hypervolume probability density is greatest at the mode, there's vastly more (hyper)volume in the space around it. The upshot is that typical people are atypical along _some_ dimensions, so normies can play the medianworld game, too. (Or they could, if the normies of our world were into worldbuilding.)
 
-Dath ilan's cognitive superiority to the real world is a recurring theme in modern Yudkowsky's work. In the fictional canon, it's a focus of the story ["But Hurting People is Wrong"](https://www.glowfic.com/posts/4508), but even when not discussing fiction, Yudkowsky often makes sneering comments about "Earth" or "Earth people", apparently meant to disparage all actually existing humans for not living up to his fiction.
+Dath ilan's reputed cognitive superiority to the real world is a recurring theme in modern Yudkowsky's work. In the fictional canon, it's a focus of the story ["But Hurting People is Wrong"](https://www.glowfic.com/posts/4508), but even when not discussing fiction, Yudkowsky often makes sneering comments about "Earth" or "Earth people", apparently meant to disparage all actually existing humans for not living up to his fiction.
+
+[TODO: footnote for sneers]
 
 One is led to believe that people who were deeply inspired by Yudkowsky's [Sequences](https://www.readthesequences.com/) (a series of influential posts about rationality published on the _Overcoming Bias_ blog largely between 2007 and 2009) should regard dath ilan as a rationalist utopia. After all, on the terms of the 2014 April Fools' Day joke, that's where the knowledge came from.
 
-And yet, for such a supposed rationalist utopia, it's remarkable the extent to which dath ilan's Society is portrayed as being organized around conspiracies to lie or otherwise cover up the truth—not just when forced to by dire matters of planetary security (as when keeping nuclear or AGI secrets), but seemingly for any somewhat plausible excuse whatsoever, including protecting the feelings of people who would be happier if kept ignorant. Evidently, there are _many_ truths existing which dath ilan fears and would wish unknown to the whole world.
+And yet, for such a supposed rationalist utopia, it's remarkable the extent to which dath ilan's Society is portrayed as being organized around conspiracies to lie or otherwise cover up the truth—not just when forced to by dire matters of planetary security (as when keeping nuclear or AGI secrets), but seemingly for any somewhat plausible excuse whatsoever, including protecting the feelings of people who would be happier if kept ignorant (!!). Evidently, there are _many_ truths existing which dath ilani fear and would wish unknown to the whole world.
 
-The contrast to the [sense of life](http://aynrandlexicon.com/lexicon/sense_of_life.html) portrayed in the Sequences is striking. The Sequences emphasized that you—yes, you, the reader—had an interest in having an accurate world-model. On the subject of confronting unpleasant hypotheses, the Sequences [gave this advice](https://www.readthesequences.com/Avoiding-Your-Beliefs-Real-Weak-Points) (bolding mine):
+The stark contrast to the [sense of life](http://aynrandlexicon.com/lexicon/sense_of_life.html) portrayed in the Sequences is striking. The Sequences emphasized that you—yes, you, the reader—have an interest in maintaining an accurate world-model. On the subject of confronting unpleasant hypotheses, the Sequences [gave this advice](https://www.readthesequences.com/Avoiding-Your-Beliefs-Real-Weak-Points) (bolding mine):
 
 > When you're doubting one of your most cherished beliefs, close your eyes, empty your mind, grit your teeth, and **deliberately think about whatever hurts the most**. Don't rehearse standard objections whose standard counters would make you feel better. Ask yourself what _smart_ people who disagree would say to your first reply, and your second reply. Whenever you catch yourself flinching away from an objection you fleetingly thought of, drag it out into the forefront of your mind. **Punch yourself in the solar plexus. Stick a knife in your heart, and wiggle to widen the hole.** In the face of the pain, rehearse only this:
 >
@@ -24,19 +28,43 @@ The contrast to the [sense of life](http://aynrandlexicon.com/lexicon/sense_of_l
 >> And because it's true, it is what is there to be interacted with. Anything untrue isn't there to be lived.  
 >> People can stand what is true, for they are already enduring it.  
 
-Meanwhile, the dath ilan mythos depicts rationality itself as hazardous knowledge that people need to be protected from. Dath ilani Civilization is steered by a secretive order of [Keepers of Highly Unpleasant Things it is Sometimes Necessary to Know](https://www.glowfic.com/replies/1612937#reply-1612937). ["The universe is not so dark a place that everyone needs to become a Keeper to ensure the species's survival,"](https://glowfic.com/replies/1861879#reply-1861879) we're told. "Just dark enough that some people ought to." Ordinary dath ilani do receive rationality training, but it's implied to be deliberately crippled, featuring ["signposts around the first steps [towards becoming a Keeper], placed to warn dath ilani off starting down that path unless they mean it."](https://www.glowfic.com/replies/1799590#reply-1799590) The maxim that "That which can be destroyed by the truth should be" is described as being ["remembered as much for how it's false, as for how it's true, because among the things that truths can destroy is people."](https://www.glowfic.com/replies/1687922#reply-1687922)
+Contrary to this, the dath ilan mythos depicts rationality itself as hazardous knowledge that people need to be protected from. Dath ilani Civilization is steered by a secretive order of [Keepers of Highly Unpleasant Things it is Sometimes Necessary to Know](https://www.glowfic.com/replies/1612937#reply-1612937). ["The universe is not so dark a place that everyone needs to become a Keeper to ensure the species's survival,"](https://glowfic.com/replies/1861879#reply-1861879) we're told. "Just dark enough that some people ought to." Ordinary dath ilani do receive rationality training, but it's implied to be deliberately crippled, featuring ["signposts around the first steps [towards becoming a Keeper], placed to warn dath ilani off starting down that path unless they mean it."](https://www.glowfic.com/replies/1799590#reply-1799590) The maxim that "That which can be destroyed by the truth should be" is described as being ["remembered as much for how it's false, as for how it's true, because among the things that truths can destroy is people."](https://www.glowfic.com/replies/1687922#reply-1687922)
 
-Clearly, this is not a culture that cares about ordinary people being well-informed. Apparently, they believe that owning up to it _does_ make it worse, that the untrue _is_ there to be lived (for non-Keepers).
+Clearly, this is not a culture that cares about ordinary people being well-informed. Apparently, they believe that not being open about it _does_ make it go away, that the untrue _is_ there to be lived (for non-Keepers).
 
-We might say that the algorithm that designed dath ilan's Civilization can be seen as systematically preferring deception. When I speak of an algorithm preferring deception, [what I mean is](https://www.lesswrong.com/posts/fmA2GJwZzYtkrAKYJ/algorithms-of-deception) that given a social problem, candidate solutions that involve deceiving the populace seem to be higher in dath ilani Civilization's implicit search ordering than solutions that involve informing the populace. If a solution adequately achieves its purpose by means of deception or secrecy, Civilization isn't going to reject it on that basis and keep searching for a solution that involves telling the truth.
+Given the massive scale of coverups and conspiracies described in the text (which extend to the extreme of censoring all of history before a point in the recent past), it's tempting to infer that Civilization _prefers_ to keep its citizens in the dark, in the [functionalist](https://www.lesswrong.com/posts/sXHQ9R5tahiaXEZhR/algorithmic-intent-a-hansonian-generalized-anti-zombie) [sense](http://benjaminrosshoffman.com/bad-faith-behavior-not-feeling/) that candidate policies that involve concealing information are earlier in Civilization's implied search ordering than policies that involve telling the truth.
 
-Crucially, these are [functionalist](https://www.lesswrong.com/posts/sXHQ9R5tahiaXEZhR/algorithmic-intent-a-hansonian-generalized-anti-zombie) [criteria](http://benjaminrosshoffman.com/bad-faith-behavior-not-feeling/) of "preference" and "deception". It's about how Civilization is structured in a way that systematically encourages divergences between popular belief and reality. I'm _not_ positing that Civilization's Keepers and Legislators and Chief Executive are laughing maniacally and telling each other out loud, "I personally love it when non-Keepers have false beliefs; we need to do as much of that as possible—as a [terminal value](https://www.readthesequences.com/Terminal-Values-And-Instrumental-Values)!"
+Some caution is warranted here, however: it doesn't seem right to imagine that Civilization's Keepers and Legislators and Chief Executive are laughing maniacally and telling each other out loud, "I personally love it when non-Keepers have false beliefs; we need to do as much of that as possible—as a [terminal value](https://www.readthesequences.com/Terminal-Values-And-Instrumental-Values)!" If it's not psychologically plausible to suppose that the dath ilani hate people knowing things, then why does their entire way of life revolve around maintaining conspiracies of ignorance?
 
-Rather, I'm positing that they don't care about non-Keepers having false beliefs. (They might care about [not technically lying](https://www.lesswrong.com/posts/PrXR66hQcaJXsgWsa/not-technically-lying), but that [turns out to be a weak constraint](https://www.lesswrong.com/posts/MN4NRkMw7ggt9587K/firming-up-not-lying-around-its-edge-cases-is-less-broadly).)
+I posit it has to do with deception being instrumentally convergent. Rational agents have a convergent interest in maintaining accurate beliefs, because only a map that reflects the territory can be used to compute effective plans that act on that territory in the service of that agent's goals—but there's no convergent reason for rational agents to want _other_ agents with different goals to have accurate beliefs.
+
+
+[^]: _Humans_ often benefit .
+
+, but that's because 
+
+In the limit of arbitrary capabilities, we expect all games to become constant sum.
+
+
+Generic consequentialists are liars.
+
+There are more false maps than true maps.
+
+
+If a policy adequately achieves its purpose by means of deception or secrecy, Civilization isn't going to reject it on that basis and keep searching for a solution that involves telling the truth.
+
+
+Rather, I'm simply positing that they don't care about non-Keepers having false beliefs. (They might care about [not technically lying](https://www.lesswrong.com/posts/PrXR66hQcaJXsgWsa/not-technically-lying), but that [turns out to be a weak constraint](https://www.lesswrong.com/posts/MN4NRkMw7ggt9587K/firming-up-not-lying-around-its-edge-cases-is-less-broadly).)
 
 If you're in the business of coming up with clever plans to solve problems, and you don't care about people having false beliefs, you mostly end up with clever plans that work by means of giving people false beliefs that trick them into doing what you want them to do (perhaps without technically lying).
 
-Why wouldn't you? There are more false maps than true maps. If you don't specifically care about [affirmatively telling the truth](http://benjaminrosshoffman.com/honesty-and-perjury/#Intent_to_inform), you mostly end up supplying false maps in order to control people's behavior by means of controling their information, because if you told them the truth, they wouldn't behave the way you want them to.
+
+
+If you don't care about [affirmatively telling the whole truth](http://benjaminrosshoffman.com/honesty-and-perjury/#Intent_to_inform), you mostly end up supplying false maps in order to control people's behavior by means of controling their information, because if you told them the whole truth, they wouldn't behave the way you want them to.
+
+
+
+
 
 ### Interlude: Methodology for Worldbuilding Criticism; Or, I Can't Argue With Authorial Fiat
 
@@ -130,7 +158,7 @@ Later in the story, we see the thoughts of a Keeper, Rittaen, who talks to Merri
 
 Notwithstanding that Rittaen can be Watsonianly assumed to have detailed neuroscience skills that the author Doylistically doesn't know how to write, the assertion that _knowing too much about psychology_ is dangerous says something about dath ilan. The explanation of Merrin's psychology that we do see isn't dangerous. (I read it, and I haven't become a psychopath.) I think a culture that shared the values of _Overcoming Bias_ readers in 2008 would consider that knowledge something _Merrin herself should be clued into_. Not dath ilan, though. "It's not [Rittaen's] place to meddle just because he knows Merrin better than Merrin does," we're told. But apparently it _is_ the place of everyone else who can see Merrin's shyness to form the Ordinary Merrin Conspiracy, to keep her from knowing herself?
 
-That's not an accusation of hypocrisy. The dath ilani are being consistent. In a Society that prizes freedom-from-infohazards over freedom-of-speech, it makes sense that telling people things would be meddling, but colluding to not tell them, isn't.
+That's not an accusation of hypocrisy. The dath ilani are being consistent. In a Society that prizes freedom from infohazards over freedom of speech, it makes sense that telling people things would be meddling, but colluding to not tell them, isn't.
 
 ### Keltham and the Sadism/Masochism Coverup
 
@@ -167,45 +195,8 @@ Or consider how our Society handles pedophilia. This is a sexuality that we do n
 
 ]
 
-### Kitchen Knives
 
-[TODO—
-
-     * Word of God says, "there's also a deliberate semiconspiracy whereby movies make standard kitchen knives look much deadlier and easier to wield than they actually are, so that people who suddenly go nuts won't improvise much more dangerous weapons than that"
-     * "too nuts to see past cached thoughts" presupposes a specific model of mental illness that I think is importantly backwards; while I was psychotic, my problem was the _opposite_ of not being able to "see past cached thoughts": on the contrary, I was having _lots_ of new ideas that I had never thought of before (<http://zackmdavis.net/blog/2017/02/cognitive-bayesian-therapy-i/>), and would never have thought of in my normal state—it's just that, after I got some sleep, I decided that all of my new ideas were clearly false, _which is why_ we call the psychotic state "crazy", and the normal state "sane".
-         * You can't leak to the general public without leaking to crazy people. Where do you think they come from?
-     * the mechanism by which the plan positively contributes to the goal, is deception: the plan works _because_ if people who want to commit violence have _less accurate beliefs_ about how to effectively commit violence, they will be less effective at their goal of committing violence.
-     * If you were just trying to reduce murders, is this hte plan you would pick? Obviously not. (Think about how you would solve the problem "on Earth"!) Making it easier to commit people is a much more direct mechanism. The algorithm that promoted the movie-misportrayal to your attention is one that favors deception.
-         * "It's targeted at crazy people" excuse suggests that it's OK to lie to people you've labeled as crazy. But Yudkowsky infamously says this about all Earthlings. What should we infer about whether we should trust him?
-     * "i presume ilani who notice the trope also then deduce the obvious consequence of the trope"
-         * If anything, "there's a deliberate conspiracy to mislead people about the difficulty of murder by stabbing" is the kind of thought that someone is _more likely_ to have as a paranoid delusion than otherwise! It's as if dath ilan is an exotic environment where mind-states that are tuned to hypothesize conspiracies everywhere are _adaptive_, in contrast to how on Earth, people who see conspiracies everywhere are wrong.
-         * this is correlated insanity that loves clever deceptions, not actually being smart and doing a neutral policy search
-     * A much larger cost is the frustration of ornery, nitpicky nerds who _want realistic fiction_, and don't want their favorite artform perverted to _manipulate extremely rare criminal-insanity cases_. Earth has Andy Weir fans and Greg Egan fans! When Andy Weir or Greg Egan sit down to write a novel or a screenplay, they are trying to paint a picture of _a world that makes sense_. They are not trying to manipulate rare social outcomes. Is that that kind of respect-for-reality just _not a thing_ in dath ilani art? Are they so uniformly, monomanically obsessed with trolling their perceived inferiors, that the voice of, "Knives Don't Actually Work That Way; Knives Don't Actually Work That Way _Even When Saying That Out Loud Increases Murders_; Knives Don't Actually Work That Way _Even When a Prediction Market Says That Saying That Out Loud Increases Murders_", has no power in the movie industry whatsoever?
-]
-
-### Replies to Objections
-
-This essay has had some negative things to say about dath ilani culture.
+### Doublethink and Paying Someone to Keep Secrets From You Are Relevantly Similar From an Embedded Agency Perspective
 
 
-
-#### Infohazardville
-
-
-
-
-#### 
-
-
-[TODO—
-  * Counterargument: dath ilan lets you immigrate to infohazardville. Reply: sure, I agree that a Society that marginalizes truth-tellers is better than one than executes them. It's still fundamentally fair game for me to point out that it's not consilient with the values of _Overcoming Bias_ readers in 2008.
-  * Counterargument: as a reductio, am I opposed to movie and homework exercise spoilers, too? Reply: No, I recognize spoiler protection as a legitimate class of infohazard. (And AGI/nuclear as an social exfohazard, and threats as a legitimate infohazard.) And the concealing eugenics predictions, self-fulfilling prophecy
-  * Counterargument: the text says that regular dath ilani do believe "that which can be destroyed" eventually, just not immediately. Reply: this would be more believable with a timetable; I can understand "I don't want to deal with this yet", but there's no indication that Merrin or Keltham are supposed to figure it out.
-  * Counterargument: but the gaslighting is supposed to inculcate distrust of authority. Reply: clearly it doesn't work, given how much everyone trusts the government that is lying to them all the time?
-  * Numendil's point: dath ilani should look spoiled to us, for the same reason we look spoiled to Golarionites
-]
-
-### Conclusion
-
-> That's the point where it starts to look like somebody is trying to hide something, or fool future generations, and not just respond to a strange threat in a way where they're happy to let you take all the precautions required to make sure nobody's fooling anybody.
-https://www.glowfic.com/replies/1813073#reply-1813073
+### Spoiler Protection and Coverups Serve Different Functions and Can Be Distinguished

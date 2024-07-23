@@ -235,3 +235,74 @@ That is, the difference between "spoiler protections" (sometimes useful) and "co
 
 https://discord.com/channels/936151692041400361/954750671280807968/1210280210730061854
 > I wouldn't say [the history Screen is] just a plot device and I can see the real dath ilan doing it; Earth definitely shouldn't bother considering it, though.
+
+
+https://x.com/ESYudkowsky/status/1786189840998117403
+> Dath ilani physics textbooks for kids are written from a place of not just demanding or expecting that kids will believe what a textbook says; they try to anticipate the most common skeptical questions about ideas like gravity.
+
+https://x.com/ESYudkowsky/status/1787154210024546687
+> Being eliezera, they have a huge number of potential BDSM!sadists and very few masochists.  They'd like people like Keltham to have the option of not learning about nice things they can extremely-probably never have.  You could potentially expose yourself to all the infohazards like that, and end up very sad and possibly choosing early cryonic suspension.  Though to learn information hazardous to others and then go on residing in standard cities and having a default Network credential, you'd also want a prediction market to predict to that city and to Network hosts that you would not tell unconsenting others about the potentially learner-saddening information you'd learned.
+
+https://x.com/ESYudkowsky/status/1787158254285697511
+> Dath ilan did not have the thing with the Harry Potter book 6 spoiler Internet meme of "[deleted] dies".  If you told them that this spoiler had run rampant on Earth, they'd make some understated but correct guesses about what other collective-action issues Earth couldn't solve.
+
+https://x.com/ESYudkowsky/status/1787158565754741166
+> Does it actually take a lot of work to prevent trolls from ruining Harry Potter Book 6 for everyone?  Do you actually have to design your whole Network architecture and even your cities that way?  Yes!  But dath ilani will not accept a collective inability to have nice things.
+
+
+### Replies to Objections
+
+This essay has had some negative things to say about dath ilani culture.
+
+
+
+#### Infohazardville
+
+
+
+
+#### 
+
+
+[TODO—
+  * Counterargument: dath ilan lets you immigrate to infohazardville. Reply: sure, I agree that a Society that marginalizes truth-tellers is better than one than executes them. It's still fundamentally fair game for me to point out that it's not consilient with the values of _Overcoming Bias_ readers in 2008.
+  * Counterargument: as a reductio, am I opposed to movie and homework exercise spoilers, too? Reply: No, I recognize spoiler protection as a legitimate class of infohazard. (And AGI/nuclear as an social exfohazard, and threats as a legitimate infohazard.) And the concealing eugenics predictions, self-fulfilling prophecy
+  * Counterargument: the text says that regular dath ilani do believe "that which can be destroyed" eventually, just not immediately. Reply: this would be more believable with a timetable; I can understand "I don't want to deal with this yet", but there's no indication that Merrin or Keltham are supposed to figure it out.
+  * Counterargument: but the gaslighting is supposed to inculcate distrust of authority. Reply: clearly it doesn't work, given how much everyone trusts the government that is lying to them all the time?
+  * Numendil's point: dath ilani should look spoiled to us, for the same reason we look spoiled to Golarionites
+]
+
+### Conclusion
+
+> That's the point where it starts to look like somebody is trying to hide something, or fool future generations, and not just respond to a strange threat in a way where they're happy to let you take all the precautions required to make sure nobody's fooling anybody.
+https://www.glowfic.com/replies/1813073#reply-1813073
+
+
+https://www.glowfic.com/replies/1799590#reply-1799590
+> 'That which can be destroyed by the truth should be', goes the proverb, and ordinary dath ilani and Keepers alike both hold to it in the limit.  If you look at it from the standpoint of the Future, if you somehow get some wrong thought into your head, do you want to still be thinking it a thousand years later?  Do you always want to be that small, or that warped, that you could go on holding a false belief forever?
+>
+> For the ordinary dath ilani, though, they say, 'That which can be destroyed by the truth should be eventually.'
+>
+> And the Keepers say, 'That which can be destroyed by the truth should be immediately.'
+>
+> - though, to be clear, that doesn't mean they run around telling other people truths that will wreck parts of their personalities.  It means that they themselves will destroy whatever of themselves they can, with whatever truths they've come to hold.
+
+### Kitchen Knives
+
+[TODO—
+
+     * Word of God says, "there's also a deliberate semiconspiracy whereby movies make standard kitchen knives look much deadlier and easier to wield than they actually are, so that people who suddenly go nuts won't improvise much more dangerous weapons than that"
+     * "too nuts to see past cached thoughts" presupposes a specific model of mental illness that I think is importantly backwards; while I was psychotic, my problem was the _opposite_ of not being able to "see past cached thoughts": on the contrary, I was having _lots_ of new ideas that I had never thought of before (<http://zackmdavis.net/blog/2017/02/cognitive-bayesian-therapy-i/>), and would never have thought of in my normal state—it's just that, after I got some sleep, I decided that all of my new ideas were clearly false, _which is why_ we call the psychotic state "crazy", and the normal state "sane".
+         * You can't leak to the general public without leaking to crazy people. Where do you think they come from?
+     * the mechanism by which the plan positively contributes to the goal, is deception: the plan works _because_ if people who want to commit violence have _less accurate beliefs_ about how to effectively commit violence, they will be less effective at their goal of committing violence.
+     * If you were just trying to reduce murders, is this hte plan you would pick? Obviously not. (Think about how you would solve the problem "on Earth"!) Making it easier to commit people is a much more direct mechanism. The algorithm that promoted the movie-misportrayal to your attention is one that favors deception.
+         * "It's targeted at crazy people" excuse suggests that it's OK to lie to people you've labeled as crazy. But Yudkowsky infamously says this about all Earthlings. What should we infer about whether we should trust him?
+     * "i presume ilani who notice the trope also then deduce the obvious consequence of the trope"
+         * If anything, "there's a deliberate conspiracy to mislead people about the difficulty of murder by stabbing" is the kind of thought that someone is _more likely_ to have as a paranoid delusion than otherwise! It's as if dath ilan is an exotic environment where mind-states that are tuned to hypothesize conspiracies everywhere are _adaptive_, in contrast to how on Earth, people who see conspiracies everywhere are wrong.
+         * this is correlated insanity that loves clever deceptions, not actually being smart and doing a neutral policy search
+     * A much larger cost is the frustration of ornery, nitpicky nerds who _want realistic fiction_, and don't want their favorite artform perverted to _manipulate extremely rare criminal-insanity cases_. Earth has Andy Weir fans and Greg Egan fans! When Andy Weir or Greg Egan sit down to write a novel or a screenplay, they are trying to paint a picture of _a world that makes sense_. They are not trying to manipulate rare social outcomes. Is that that kind of respect-for-reality just _not a thing_ in dath ilani art? Are they so uniformly, monomanically obsessed with trolling their perceived inferiors, that the voice of, "Knives Don't Actually Work That Way; Knives Don't Actually Work That Way _Even When Saying That Out Loud Increases Murders_; Knives Don't Actually Work That Way _Even When a Prediction Market Says That Saying That Out Loud Increases Murders_", has no power in the movie industry whatsoever?
+]
+
+
+
+> When the words Boundary-Edge are glued together into a special term, what they've come to mean - by processes of mere convention rather than explicit decision, a form of linguistic drift that happens even in dath ilan - is 'Cartesian Environment', the Environment as falsely distinguished from the Agent by a boundary, an edge, which does not ultimately exist within the territory.
