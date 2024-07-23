@@ -4,7 +4,7 @@
 >
 > —Thomas Jefferson, earthling
 
-### Introduction
+## I. Introduction and Thesis
 
 Eliezer Yudkowsky's fiction about the world of dath ilan (capitalization _sic_) aims to portray a smarter, saner, better-coordinated alternate version of Earth. Dath ilan had originally been introduced in a [2014 April Fool's Day post](https://yudkowsky.tumblr.com/post/81447230971/my-april-fools-day-confession), in which Yudkowsky "confessed" that the explanation for his seemingly implausible genius is that he's "actually" an ordinary person from dath ilan, where the ideas he presented to this world as his own were common knowledge. (This likely inspired the trope of a [_medianworld_](https://www.glowfic.com/replies/1619639#reply-1619639), a setting where the average person is like the author along important dimensions.)[^medianworlds]
 
@@ -32,39 +32,21 @@ Contrary to this, the dath ilan mythos depicts rationality itself as hazardous k
 
 Clearly, this is not a culture that cares about ordinary people being well-informed. Apparently, they believe that not being open about it _does_ make it go away, that the untrue _is_ there to be lived (for non-Keepers).
 
-Given the massive scale of coverups and conspiracies described in the text (which extend to the extreme of censoring all of history before a point in the recent past), it's tempting to infer that Civilization _prefers_ to keep its citizens in the dark, in the [functionalist](https://www.lesswrong.com/posts/sXHQ9R5tahiaXEZhR/algorithmic-intent-a-hansonian-generalized-anti-zombie) [sense](http://benjaminrosshoffman.com/bad-faith-behavior-not-feeling/) that candidate policies that involve concealing information are earlier in Civilization's implied search ordering than policies that involve telling the truth.
+Given the massive scale of the censorship, coverups, and conspiracies described in the text (which extend to the extreme of censoring all of history before a point in the recent past), it's tempting to infer that Civilization _prefers_ to keep its citizens in the dark, in the [functionalist](https://www.lesswrong.com/posts/sXHQ9R5tahiaXEZhR/algorithmic-intent-a-hansonian-generalized-anti-zombie) [sense](http://benjaminrosshoffman.com/bad-faith-behavior-not-feeling/) that candidate policies that involve concealing information are earlier in Civilization's implied search ordering than policies that involve telling the truth.
 
-Some caution is warranted here, however: it doesn't seem right to imagine that Civilization's Keepers and Legislators and Chief Executive are laughing maniacally and telling each other out loud, "I personally love it when non-Keepers have false beliefs; we need to do as much of that as possible—as a [terminal value](https://www.readthesequences.com/Terminal-Values-And-Instrumental-Values)!" If it's not psychologically plausible to suppose that the dath ilani hate people knowing things, then why does their entire way of life revolve around maintaining conspiracies of ignorance?
+Some caution is warranted here, however: it doesn't seem correct to imagine that Civilization's Keepers and Legislators and Chief Executive are laughing maniacally and telling each other out loud, "I personally love it when non-Keepers have false beliefs; we need to do as much of that as possible—as a [terminal value](https://www.readthesequences.com/Terminal-Values-And-Instrumental-Values)!" If it's not psychologically plausible to suppose that the dath ilani hate people knowing things, then why does their entire way of life revolve around maintaining conspiracies of ignorance?
 
-I posit it has to do with deception being instrumentally convergent. Rational agents have a convergent interest in maintaining accurate beliefs, because only a map that reflects the territory can be used to compute effective plans that act on that territory in the service of that agent's goals—but there's no convergent reason for rational agents to want _other_ agents with different goals to have accurate beliefs.
+I posit it has to do with deception being instrumentally convergent. Rational agents have a convergent interest in maintaining accurate beliefs, because only a map that reflects the territory can be used to compute effective plans that act on that territory in the service of the agent's goals—but there's no convergent reason for rational agents to want _other_ agents with different goals to have accurate beliefs.[^other-agents]
 
+[^other-agents]: _Humans_ often benefit from helping other out (epistemically or otherwise), even in a strictly selfish sense that discounts altruism and trade—but that's because human goals share many commonalities (_e.g._, infectious diseases are bad for everyone). In the limit of arbitrary capabilities, we expect the Pareto improvements to be exhausted and for all games to become constant sum.
 
-[^]: _Humans_ often benefit .
+Moreover, there are more false maps than true maps. An agent trying to alter other agents' beliefs in the service of its goals will tend to promote falsehoods, not because it terminally values other agents being deceived, but because there's no particular reason for the beliefs that make the other agents behave in a way that best suits the first agent's goals, to be true. Generic consequentialists are liars.
 
-, but that's because 
+This generic pressure towards false representations seems to go a long way towards explaining how dath ilan can be such a egregiously anti-epistemic dystopia of universal deception, without needing to postulate [unrealistically malign motives](https://www.readthesequences.com/Are-Your-Enemies-Innately-Evil).
 
-In the limit of arbitrary capabilities, we expect all games to become constant sum.
+It's not necessarily that the dath ilani actively want their citizens to live in a fake world, as a terminal value. They just don't particularly care about non-Keepers having false beliefs. (They might care about [not technically lying](https://www.lesswrong.com/posts/PrXR66hQcaJXsgWsa/not-technically-lying), but that [turns out to be a weak constraint](https://www.lesswrong.com/posts/MN4NRkMw7ggt9587K/firming-up-not-lying-around-its-edge-cases-is-less-broadly).) If a policy adequately achieves its purpose by means of deception or secrecy, Civilization isn't going to reject it on that basis and keep searching for a solution that involves telling the truth.
 
-
-Generic consequentialists are liars.
-
-There are more false maps than true maps.
-
-
-If a policy adequately achieves its purpose by means of deception or secrecy, Civilization isn't going to reject it on that basis and keep searching for a solution that involves telling the truth.
-
-
-Rather, I'm simply positing that they don't care about non-Keepers having false beliefs. (They might care about [not technically lying](https://www.lesswrong.com/posts/PrXR66hQcaJXsgWsa/not-technically-lying), but that [turns out to be a weak constraint](https://www.lesswrong.com/posts/MN4NRkMw7ggt9587K/firming-up-not-lying-around-its-edge-cases-is-less-broadly).)
-
-If you're in the business of coming up with clever plans to solve problems, and you don't care about people having false beliefs, you mostly end up with clever plans that work by means of giving people false beliefs that trick them into doing what you want them to do (perhaps without technically lying).
-
-
-
-If you don't care about [affirmatively telling the whole truth](http://benjaminrosshoffman.com/honesty-and-perjury/#Intent_to_inform), you mostly end up supplying false maps in order to control people's behavior by means of controling their information, because if you told them the whole truth, they wouldn't behave the way you want them to.
-
-
-
-
+If you're in the business of coming up with clever plans to solve problems, and you don't care about [affirmatively telling the whole truth](http://benjaminrosshoffman.com/honesty-and-perjury/#Intent_to_inform), you mostly end up supplying false maps in order to control people's behavior by means of controling their information, because if you told them the whole truth, they wouldn't behave the way you want them to.
 
 ### Interlude: Methodology for Worldbuilding Criticism; Or, I Can't Argue With Authorial Fiat
 
@@ -83,6 +65,8 @@ Authors, of course, have much more wiggle room than mathematicians to try to sal
 Yudkowsky's 2009 story ["The Sword of Good"](https://www.yudkowsky.net/other/fiction/the-sword-of-good) is an incisive commentary on how unwary readers' moral compasses can be hijacked by authorial editorializing. If the story depicts our heroes wantonly slaughtering orcs, readers tend not to worry about the ethics of warfare: if the [designated hero](https://tvtropes.org/pmwiki/pmwiki.php/Main/DesignatedHero) is doing it, it presumably isn't a problem. But living creatures that are depicted as speaking language, having organized armies with complex tools, _&c._ are presumably sapient for the same reasons humans are. It's fair game for "The Sword of Good" to point that out—at least, short of the narrator _explicitly_ declaring, "Despite appearances, the orcs are unconscious [philosophical zombies](https://www.lesswrong.com/posts/fdEWWr8St59bXLbQr/zombies-zombies); killing them has no moral significance." (But a story that did declare that would be highly unusual, and basically conceding the critic's point about stories that didn't!)
 
 All I'm doing in this essay is holding the dath ilan mythos to the same standard that "The Sword of Good" holds classic fantasy tropes to. Maybe it's good to run a global conspiracy to keep people ignorant in order to protect their emotional well-being, and maybe those orcs deserved to die. But given a text that _does_ literally describe massive coverups or killing of human-like creatures, it's fundamentally fair game for literary critics to point that out, and prompt readers to think carefully about whether they should accept "it's fine because the good guys are doing it" or "it's fine because it's dath ilan, which is not Earth" as an implicit excuse.
+
+## II. The Censorship, Coverups, and Conspiracies of dath ilan
 
 ### The History Screen
 
@@ -195,8 +179,10 @@ Or consider how our Society handles pedophilia. This is a sexuality that we do n
 
 ]
 
+## Further Replies to Objections
 
-### Doublethink and Paying Someone to Keep Secrets From You Are Relevantly Similar From an Embedded Agency Perspective
+### Marginalizing Truthseekers Is Relevantly Similar to Persecuting Them
 
+### Paying Someone to Keep Secrets From You Is Relevantly Similar to Doublethink From an Embedded Agency Perspective
 
-### Spoiler Protection and Coverups Serve Different Functions and Can Be Distinguished
+### Spoiler Protection Is Not Relevantly Similar to Coverups

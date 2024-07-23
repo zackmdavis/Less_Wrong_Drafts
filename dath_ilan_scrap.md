@@ -108,7 +108,7 @@ being told eugenics prospects early as self-fulfilling prophecies, as a legitima
 sex and classical mechanics spoilers (spoilers are not the same thing as conspiracies/secrets; Keltham and Carissa arne't supposed to find out): https://glowfic.com/replies/1718168#reply-1718168
 
 https://glowfic.com/replies/1788890#reply-1788890
-> He likes confusing people.  Supposedly it's to train strong minds that don't weakly rely on being told how reality works.  I think it may be what dath ilan does with all its repressed sadism.
+> He likes confusing people.  Supposedly it's to train strong minds that don't weakly rely on being told how reality works. I think it may be what dath ilan does with all its repressed sadism.
 
 https://glowfic.com/replies/1801463#reply-1801463
 > "I really think all y'all don't give dath ilan enough credit on some dimensions, if not others.  They didn't tell me about my sexual sadism because there would have been no good way for me to satisfy it, Pilar, not because they wanted to deny me my utilityfunction.  Or did you have something else in mind?"
@@ -302,7 +302,6 @@ https://www.glowfic.com/replies/1799590#reply-1799590
          * this is correlated insanity that loves clever deceptions, not actually being smart and doing a neutral policy search
      * A much larger cost is the frustration of ornery, nitpicky nerds who _want realistic fiction_, and don't want their favorite artform perverted to _manipulate extremely rare criminal-insanity cases_. Earth has Andy Weir fans and Greg Egan fans! When Andy Weir or Greg Egan sit down to write a novel or a screenplay, they are trying to paint a picture of _a world that makes sense_. They are not trying to manipulate rare social outcomes. Is that that kind of respect-for-reality just _not a thing_ in dath ilani art? Are they so uniformly, monomanically obsessed with trolling their perceived inferiors, that the voice of, "Knives Don't Actually Work That Way; Knives Don't Actually Work That Way _Even When Saying That Out Loud Increases Murders_; Knives Don't Actually Work That Way _Even When a Prediction Market Says That Saying That Out Loud Increases Murders_", has no power in the movie industry whatsoever?
 ]
-
 
 
 > When the words Boundary-Edge are glued together into a special term, what they've come to mean - by processes of mere convention rather than explicit decision, a form of linguistic drift that happens even in dath ilan - is 'Cartesian Environment', the Environment as falsely distinguished from the Agent by a boundary, an edge, which does not ultimately exist within the territory.
