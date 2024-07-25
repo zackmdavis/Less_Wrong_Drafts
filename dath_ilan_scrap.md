@@ -234,7 +234,12 @@ That is, the difference between "spoiler protections" (sometimes useful) and "co
 -----
 
 https://discord.com/channels/936151692041400361/954750671280807968/1210280210730061854
-> I wouldn't say [the history Screen is] just a plot device and I can see the real dath ilan doing it; Earth definitely shouldn't bother considering it, though.
+> I wouldn't say it's _just_ a plot device and I can see the real dath ilan doing it; Earth definitely shouldn't bother considering it, though.
+
+> I wouldn't say [the history Screen is] _just_ a plot device and I can see the real dath ilan doing it; Earth definitely shouldn't bother considering it, though.
+
+02/22/2024 9:41 AM #dath-ilan
+
 
 
 https://x.com/ESYudkowsky/status/1786189840998117403
@@ -305,3 +310,20 @@ https://www.glowfic.com/replies/1799590#reply-1799590
 
 
 > When the words Boundary-Edge are glued together into a special term, what they've come to mean - by processes of mere convention rather than explicit decision, a form of linguistic drift that happens even in dath ilan - is 'Cartesian Environment', the Environment as falsely distinguished from the Agent by a boundary, an edge, which does not ultimately exist within the territory.
+
+
+https://x.com/ESYudkowsky/status/1815949176808825204
+> There should be at least some political figures who are completely made up but who journalists and newscasters all talk about very seriously, so that it's possible to tell who tried to do any of their own research.
+
+----
+
+Claude says, re citing Discord messages—
+
+MLA (9th edition):
+Username. "Message content." Discord, Channel name, Server name, Day Month Year, Time.
+For example:
+JohnDoe. "The data suggests a correlation between X and Y." Discord, #research-discussion, Science Server, 15 Jul. 2023, 2:30 p.m.
+Chicago (17th edition):
+Username. "Message content." Discord message to [Channel name]. Day Month Year, Time.
+For example:
+JohnDoe. "The data suggests a correlation between X and Y." Discord message to #research-discussion. July 15, 2023, 2:30 p.m.
