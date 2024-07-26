@@ -94,7 +94,7 @@ For one, dath ilan's eugenics program is to optimize for intelligence even more 
 
 > And so long as they were doing all that anyways, they might as well also carry out the less important but still useful operation of putting all of Civilization's past behind the most complete possible causal screen. That part wasn't as important, but still legitimately helpful; and doing it would help to overshadow the other changes, and lead to less attention going to the more dangerous places.
 
-"So long as they were doing all that anyways, they might as well"! That's it? Unlike the eugenics, surveillance, and hardware restrictions measures, which all have an obvious existential safety rationale, the only concrete benefit named of enforcing ignorance of history is ... more ignorance, to prevent people from noticing that the existential safety measures even exist. To create a world in which nothing exists except an endless present in which Civilization is always right.
+"So long as they were doing all that anyways, they might as well"! That's it? Unlike the eugenics, surveillance, and hardware restrictions measures, which all have an obvious existential safety rationale, the only concrete benefit named of enforcing ignorance of history is ... more ignorance, to prevent people from noticing that the existential safety measures even exist, to create a world in which nothing exists except an endless present in which Civilization is always right.
 
 Keeping _the project's_ existence secret makes sense, if the surveillance measures are deemed insufficient to prevent rogue AGI projects. But classifying _all of human history_ along with it should require some enormously compelling reason, and one just isn't suppplied.
 
@@ -104,7 +104,13 @@ But the word choices make it seem like that's not what's going on. "So long as t
 
 It would be remiss not to consider a [Doylist rather than Watsonian](https://tvtropes.org/pmwiki/pmwiki.php/Main/WatsonianVersusDoylist) interpretation of the history screen. Rumored Word of God states that one reason for the history screen is that it makes a better story for dath ilani isekai protagonists to be ignorant of historical ways of life; it's more interesting to watch Keltham encounter a medieval monarchy if he doesn't know what a queen is.
 
-But insofar as the history screen is justified on Doylist storytelling grounds, it undermines attempts to use the dath ilan mythos as a utopian contrast to the real world, as epitomized by the in- and out-of-story sneers at "Earth" (_i.e._, real) people. You can't have it both ways: if major features of the setting don't really make sense and are just there to tell a cool story, then you can't use the setting as 
+I would add that the history screen is an imaginative illustration of the capabilities of a world with higher coordination capacity. Separately from the question of whether censoring all of history is an insane and evil thing to do, the in-story fact that dath ilan's Legislators _can_ censor all of history when they want to, because they want to, shows that dath ilan is a powerful and unified collective, which can easily prevent uncoordinated dissenters from 
+
+[TODO: tie off graf]
+
+O'Brien from Orwell's _1984_ would be jealous.
+
+But insofar as the history screen is justified on Doylist storytelling grounds, it undermines attempts to use the dath ilan mythos as a utopian contrast to the real world, as epitomized by the in- and out-of-story sneers at "Earth" (_i.e._, real) people. You can't have it both ways: if major features of the setting don't really make sense and are just there to tell a cool story, then
 
 [TODO: tie off section]
 

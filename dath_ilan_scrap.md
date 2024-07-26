@@ -234,9 +234,13 @@ That is, the difference between "spoiler protections" (sometimes useful) and "co
 -----
 
 https://discord.com/channels/936151692041400361/954750671280807968/1210280210730061854
-> I wouldn't say it's _just_ a plot device and I can see the real dath ilan doing it; Earth definitely shouldn't bother considering it, though.
+> 
 
 > I wouldn't say [the history Screen is] _just_ a plot device and I can see the real dath ilan doing it; Earth definitely shouldn't bother considering it, though.
+
+Eliezer Yudkowsky. "I wouldn't say it's _just_ a plot device and I can see the real dath ilan doing it; Earth definitely shouldn't bother considering it, though." Discord message to Eliezerfic, #dath-ilan channel, 22 February 2024.
+
+
 
 02/22/2024 9:41 AM #dath-ilan
 
