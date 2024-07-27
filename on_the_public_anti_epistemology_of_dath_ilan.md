@@ -74,9 +74,11 @@ All I'm doing in this essay is holding the dath ilan mythos to the same standard
 
 One of the distinctive features of dath ilani Civilization is that they've deleted their history. No one except a few cleared specialists ["in their own causally isolated bunker"](https://glowfic.com/replies/1688794#reply-1688794) is allowed to learn history before a point in a relatively recent past. (["[D]ecades ago, not millennia ago"](https://glowfic.com/replies/1789110#reply-1789110) as of Keltham's time.)
 
-This is an incredibly drastic measure, a civilizational lobotomy. It's notable that the most famous literary depiction of a Society that deleted its history is George Orwell's _Nineteen-Eighty-Four_, in which a totalitarian state maintains a social reality in which "[n]othing exists except an endless present in which the Party is always right."
+This is an incredibly drastic measure, a civilizational lobotomy. It's notable that the most famous literary depiction of a Society that deleted its history is George Orwell's _Nineteen-Eighty-Four_, in which the totalitarian state of Oceania maintains a social reality in which "[n]othing exists except an endless present in which the Party is always right."
 
-That is, to Orwell, deleting history is self-evidently something the _bad_ guys do. If it's also done in a Society that Yudkowsky means to present as a rationalist utopia, discerning readers should expect some unexpectedly incredibly compelling justification to be given for what would otherwise be an indefensible destruction of collective memory.
+That is, to Orwell, deleting history is self-evidently something the _bad_ guys do.[^orwell-deleting-history] If it's also done in a Society that Yudkowsky means to present as a rationalist utopia, discerning readers should expect some unexpectedly incredibly compelling justification to be given for what would otherwise be an indefensible destruction of collective memory.
+
+[^orwell-deleting-history]: To be fair to dath ilan, Oceania also _falsifies_ history, in addition to just deleting it, which is worse than just deleting it.
 
 The full costs of the destruction may not be obvious to many readers: if the immediate needs of living in the present don't directly require thinking about the past, what's the harm of not knowing?
 
@@ -84,7 +86,7 @@ The problem is that [facts are causally entangled with each other](https://www.r
 
 In at least one case, the text depicts dath ilan as suffering practical consequences from its ignorance: a discussion of the eliezera's low happiness levels is cut short with ["How'd it happen? Nobody knows, at this point, they screened their history."](https://glowfic.com/replies/1812613#reply-1812613) (Generally, knowing how something happened is useful for figuring out how to remediate it.) Realistically, we can only surmise that there are many other cases where knowing history would be useful that the narrator hasn't gotten around to telling us.
 
-Given the costs, what could justify the history screen, in an advanced Society that otherwise seems to value knowledge? A fantasy author could easily an invent an answer: maybe there was a psychic plague that spread through memories, such that the infected must be not just physically quarantined, but forgotten. Medianworld authors have a tougher time insofar as we construe their genre as hard science fiction. Psychic plagues aren't real. What could _realistically_ justify the history screen? If it's bad when Orwell's Oceania does it, what could possibly, possibly make it good when Yudkowsky's dath ilan does it?
+Given the costs, what could justify the history screen, in an advanced Society that otherwise seems to value knowledge? A fantasy author could easily an invent an answer: maybe there was a psychic plague that spread through memories, such that the infected must be not just physically quarantined, but forgotten. Medianworld authors have a tougher time insofar as we construe their genre as hard science fiction. Psychic plagues aren't real. What could _realistically_ justify the history screen? If it's bad when Orwell's Oceania does it, what could possibly make it good when Yudkowsky's dath ilan does it?
 
 The text seems basically uninterested in answering the question. In "But Hurting People Is Wrong", we [learn of the birth of modern dath ilan](https://www.glowfic.com/replies/1612932#reply-1612932), when the Keepers noticed the AGI alignment problem and propose strict policy measures aimed at surviving the challenge.
 
@@ -94,7 +96,7 @@ For one, dath ilan's eugenics program is to optimize for intelligence even more 
 
 > And so long as they were doing all that anyways, they might as well also carry out the less important but still useful operation of putting all of Civilization's past behind the most complete possible causal screen. That part wasn't as important, but still legitimately helpful; and doing it would help to overshadow the other changes, and lead to less attention going to the more dangerous places.
 
-"So long as they were doing all that anyways, they might as well"! That's it? Unlike the eugenics, surveillance, and hardware restrictions measures, which all have an obvious existential safety rationale, the only concrete benefit named of enforcing ignorance of history is ... more ignorance, to prevent people from noticing that the existential safety measures even exist, to create a world in which nothing exists except an endless present in which Civilization is always right.
+"So long as they were doing all that anyways, they might as well"! That's it? Unlike the eugenics, surveillance, and hardware restrictions measures, which all have an obvious existential safety rationale, the only concrete benefit named of enforcing ignorance of history is ... more ignorance, to prevent people from noticing that the existential safety measures even exist. (To create a world in which nothing exists except an endless present in which Civilization is always right?)
 
 Keeping _the project's_ existence secret makes sense, if the surveillance measures are deemed insufficient to prevent rogue AGI projects. But classifying _all of human history_ along with it should require some enormously compelling reason, and one just isn't suppplied.
 
@@ -102,25 +104,21 @@ Is it that the Singularity is so important, the stakes so massive, that [no cost
 
 But the word choices make it seem like that's not what's going on. "So long as they were doing all that anyways, they might as well" is not the language of a tough-minded utilitarian who understands the gravity of the crimes they're about to commit, but is determined to proceed [for the good of the many](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheNeedsOfTheMany). "So long as they were doing all that anyways, they might as well" is the language of someone who's never considered that what they're about to do might be a crime, that [people knowing things has benefits as well as costs](http://benjaminrosshoffman.com/humility-argument-honesty/).
 
-It would be remiss not to consider a [Doylist rather than Watsonian](https://tvtropes.org/pmwiki/pmwiki.php/Main/WatsonianVersusDoylist) interpretation of the history screen. Rumored Word of God states that one reason for the history screen is that it makes a better story for dath ilani isekai protagonists to be ignorant of historical ways of life; it's more interesting to watch Keltham encounter a medieval monarchy if he doesn't know what a queen is.
+It would be remiss not to consider a [Doylist rather than Watsonian](https://tvtropes.org/pmwiki/pmwiki.php/Main/WatsonianVersusDoylist) interpretation of the history screen. Rumored Word of God states that one reason for the history screen is that it makes a better story for dath ilani isekai protagonists to be ignorant of historical ways of life; it's more interesting to watch Keltham encounter a medieval monarchy if he doesn't know what a queen is.[^wog-history-screen]
 
-I would add that the history screen is an imaginative illustration of the capabilities of a world with higher coordination capacity. Separately from the question of whether censoring all of history is an insane and evil thing to do, the in-story fact that dath ilan's Legislators _can_ censor all of history when they want to, because they want to, shows that dath ilan is a powerful and unified collective, which can easily prevent uncoordinated dissenters from 
+I would add that the history screen also serves as an imaginative illustration of the capabilities of a world with higher coordination capacity. Separately from the question of whether censoring all of history is an insane and evil thing to do, the in-story fact that dath ilan's Legislators _can_ censor all of history when they want to, because they want to, shows that dath ilan is a powerful and unified collective. A government on Earth (_i.e._, in real life) that tried to censor all of history would have no hope of enforcing it: there would be too many dissenters willing and able to hide books. Dath ilan is apparently too well-coordinated for that.
 
-[TODO: tie off graf]
+[TODO: cite passage about Keltham respecting the buried cities]
 
 O'Brien from Orwell's _1984_ would be jealous.
 
-But insofar as the history screen is justified on Doylist storytelling grounds, it undermines attempts to use the dath ilan mythos as a utopian contrast to the real world, as epitomized by the in- and out-of-story sneers at "Earth" (_i.e._, real) people. You can't have it both ways: if major features of the setting don't really make sense and are just there to tell a cool story, then
+Insofar as the history screen is justified on Doylist storytelling grounds, it undermines attempts to use the dath ilan mythos as a utopian contrast to the real world, as epitomized by the in- and out-of-story sneers at "Earth" (_i.e._, real) people. You can't have it both ways: if major features of the setting don't really make sense and are just there to tell a cool story, then you shouldn't be making [appeals to generalization from fictional evidence](https://www.readthesequences.com/The-Logical-Fallacy-Of-Generalization-From-Fictional-Evidence).
 
-[TODO: tie off section]
-
-As it happens, Word of God further clarifies, "I wouldn't say [the history Screen is] _just_ a plot device and I can see the real dath ilan doing it; Earth definitely shouldn't bother considering it, though."[^wog-history-screen]
-
-[^wog-history-screen]: Eliezer Yudkowsky. Discord message to Eliezerfic, #dath-ilan channel, 22 February 2024.
+[^wog-history-screen]: Although Word of God further clarifies, "I wouldn't say [the history Screen is] _just_ a plot device and I can see the real dath ilan doing it; Earth definitely shouldn't bother considering it, though." Eliezer Yudkowsky. Discord message to Eliezerfic server, #dath-ilan channel, 22 February 2024.
 
 ### The Ordinary Merrin Conspiracy
 
-The story of Merrin provides us with a case study on dath ilani culture's penchant for deception in a lower-stakes context. Merrin is a famous emergency medical technician of exceptional endurance, who obsessively improves her skills by training on simulated disasters when she's not on duty saving QALYs in real life. We are [told of an Ordinary Merrin Conspiracy](https://www.glowfic.com/replies/1764946#reply-1764946)
+The story of Merrin provides us with a case study on how dath ilani culture's obsession with deception and secrecy affects the lives of non-Keepers. Merrin is a famous emergency medical technician of exceptional endurance, who compulsively improves her skills by training on simulated disasters when she's not on duty saving QALYs in real life. We are [told of an Ordinary Merrin Conspiracy](https://www.glowfic.com/replies/1764946#reply-1764946)
 
 > wherein Merrin has some weird psychological hangup about believing she is a totally normal and ordinary person or even something of a struggling low achiever, and everybody in Civilization is coordinating to pretend around her that ordinary normal people totally get their weird Exception Handling training scenarios televised to a million watchers on a weekly basis.
 
@@ -128,9 +126,15 @@ It's like a reverse [Emperor Norton](https://en.wikipedia.org/wiki/Emperor_Norto
 
 One is given the sense that from a dath ilani moral perspective, this is heartwarming. Merrin doesn't want to feel important, so everyone in her world colludes to conceal evidence from her than she's important. Isn't that thoughtful?
 
-From the moral perspective of an _Overcoming Bias_ reader in 2008 "on Earth" (_i.e._, in real life) who places value on authenticity and truth in human affairs, this is repugnant, for the same reason [the Emperor Norton Conspiracy was immoral](/2018/Feb/the-categories-were-made-for-man-to-make-predictions/#emperor-norton). Merrin is living a lie, and everyone she trusts is in on it!
+From the moral perspective of an _Overcoming Bias_ reader in 2008 on Earth (_i.e._, in real life) who places value on authenticity and truth in human affairs, this is repugnant, for the same reason [the Emperor Norton Conspiracy was repugnant](/2018/Feb/the-categories-were-made-for-man-to-make-predictions/#emperor-norton). Merrin is living a lie, and everyone she trusts is in on it!
 
-The deception by the people in Merrin's life is especially galling in light of the fact that the situation that Merrin needs to be protected from is one of their own making. EMTs can't become famous on accident. If Merrin doesn't like attention, she should not have a TV show with a million viewers! (We can assume that most unusually skilled workers aren't celebrities in dath ilan, as in real life, not because their work is particularly secret, but because recording and editing it for public consumption is a cost that no one has particular reason to pay.) One almost wonders whether the deception is the point—that people in dath ilan enjoy "coordinating to pretend around" someone, and Merrin's psychological hangup presented them with a golden opportunity to put someone in a [_The Truman Show_](https://en.wikipedia.org/wiki/The_Truman_Show)-like psuedo-reality.
+The deception by the people in Merrin's life is especially galling in light of the fact that the situation that Merrin needs to be protected from has to be one of their own making. EMTs can't become famous on accident. If Merrin doesn't like attention, she should not have a TV show with a million viewers! (We can assume that most unusually skilled workers aren't celebrities in dath ilan, as in real life, not because their work is particularly secret, but because recording and editing it for public consumption is a cost that no one has particular reason to pay.) One almost wonders whether the deception is the point—that dath ilani enjoy enjoy "coordinating to pretend around" someone, perhaps because the eliezera are tempermentally "sneakier" than real-world populations.[^sneaky-jews] Merrin's psychological hangup presented them with a golden opportunity to put someone in a [_The Truman Show_](https://en.wikipedia.org/wiki/The_Truman_Show)-like psuedo-reality.
+
+[^sneaky-jews]: If you believe that [IQ research](https://web.mit.edu/fustflum/documents/papers/AshkenaziIQ.jbiosocsci.pdf) [validates the "Jews are clever" stereotype](https://slatestarcodex.com/2017/05/26/the-atomic-bomb-considered-as-hungarian-high-school-science-fair-project/), it should be at least minimally plausible that there exists a "enjoying deception" trait that validates the classic anti-Semetic "Jews are sneaky" stereotype. If dath ilan is high in this "sneakiness" trait relative to Earth Jews, that would explain a lot.
+
+    The infamous Nazi storybook [_Trust No Fox on his Green Heath and No Jew on his Oath_](https://en.wikipedia.org/wiki/Trust_No_Fox_on_his_Green_Heath_and_No_Jew_on_his_Oath) tells a parable about a Jew who converts to Christianity but eats a goose on a Friday (in contravention of his [new faith's dietary restrictions](https://www.archspm.org/faith-and-discipleship/catholic-faith/why-dont-catholics-eat-meat-on-fridays/)), arguing that just as he converted to Christianity, the goose could become a fish. This over-the-top fictional example of dishonesty via linguistic flexibility with which the Nazi author sought to demonize Jews is [uncomfortably reminiscent of my actual experiences with Eliezer Yudkowsky](http://unremediatedgender.space/2024/Mar/agreeing-with-stalin-in-ways-that-exhibit-generally-rationalist-principles/).
+
+[TODO: continue editing from here]
 
 ["For No Laid Course Prepare"](https://glowfic.com/posts/6263), the story about how Merrin came to the attention of dath ilan's bureau of Exception Handling, shows us more examples of dath ilani conspiracy culture. In the story, Merrin is dressed up as a member of a fictional alien species, the Sparashki, due to having been summoned to the hospital from a fan convention with no time to change outfits. Merrin's coworkers falsely maintain to outsiders that Merrin always cosplays as a Sparashki while on duty. ["This is not considered a lie, in that it would be universally understood and expected that no one in this social circumstance would tell the truth,"](https://www.glowfic.com/replies/1857346#reply-1857346) the narrator tells us. The language used here is strikingly similar to that of one of the corrupt executives in [_Moral Mazes_](https://thezvi.wordpress.com/2019/05/30/quotes-from-moral-mazes/): "We lie all the time, but if everyone knows that we're lying, is a lie really a lie?"
 
@@ -194,8 +198,9 @@ Or consider how our Society handles pedophilia. This is a sexuality that we do n
 
 ## Further Replies to Objections
 
-### Marginalizing Truthseekers Is Relevantly Similar to Persecuting Them
+### Marginalizing Truthtellers Is Relevantly Similar to Persecuting Them
 
 ### Paying Someone to Keep Secrets From You Is Relevantly Similar to Doublethink From an Embedded Agency Perspective
 
-### Spoiler Protections Are Not Relevantly Similar to Coverups
+### Not All Alleged Infohazards Are Alike
+

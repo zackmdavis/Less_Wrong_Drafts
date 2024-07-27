@@ -18,7 +18,9 @@ What happens, I asked, to the occasional dath ilani free speech activists, with 
 
 [...]
 
-If we believe that [IQ research validates the "Jews are clever" stereotype](https://web.mit.edu/fustflum/documents/papers/AshkenaziIQ.jbiosocsci.pdf), I wondered if there's a distinct (albeit probably correlated) "enjoying deception" trait that validates the "Jews are sneaky" stereotype? If dath ilan is very high in this "sneakiness" trait (relative to Earth Jews), that would help explain all the conspiracies!
+
+
+
 
 The existence of such a widespread sneakiness/"taste for deception" trait among the eliezera, in conjunction with their culture just not particularly valuing public knowledge (because they assume everything important is being handled by the Keepers), explains the recurring conspiracies and coverups, like the Ordinary Merrin Conspiracy, Exception Handling's fabrication of evidence for Sparashki being real, the sadism/masochism coverup, and [the village that deliberately teaches anti-redhead bigotry to children in order to test the robustness of dath ilan's general humanism indoctrination](https://www.lesswrong.com/posts/uyBeAN5jPEATMqKkX/lies-told-to-children-1).
 
