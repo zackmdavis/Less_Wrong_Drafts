@@ -42,11 +42,15 @@ I posit it has to do with deception being instrumentally convergent. Rational ag
 
 There are more false maps than true maps. An agent trying to alter other agents' beliefs in the service of its goals will tend to promote falsehoods, not because it terminally values other agents being deceived, but because there's no particular reason for the beliefs that make the other agents behave in a way that best suits the first agent's goals to be true. Generic consequentialists are liars.
 
-This generic pressure towards false representations seems to go a long way towards explaining how dath ilan can be such an egregious dystopia of universal deception, without needing to postulate [unrealistically malign motives](https://www.readthesequences.com/Are-Your-Enemies-Innately-Evil). (As I will discuss, there's also textual evidence that the eliezera[^eliezera] are high in a "sneakiness"/"enjoyment of social deception" trait relative to real-world populations, but this supporting detail isn't pivotal to my thesis.)
+This generic pressure towards false representations seems to go a long way towards explaining how dath ilan can be such an egregious dystopia of universal deception, without needing to postulate [unrealistically malign motives](https://www.readthesequences.com/Are-Your-Enemies-Innately-Evil). (Although, as I will discuss, there's also textual evidence that the eliezera[^eliezera] are high in a "sneakiness"/"enjoyment of social deception" trait relative to real-world populations.)
 
-[^eliezera]: The convention in discussions of the dath ilan mythos seems to be that the "dath ilani" are a nationality, but the "eliezera" are the race that dath ilani people belong to. I will generally use _dath ilani_ to describe people from dath ilan, but use _eliezera_ when discussing distinctive racial characteristics (which would presumably be stable across alternative histories of dath ilan) that distinguish the eliezera from real-world populations.
+[^eliezera]: The convention in discussions of the dath ilan mythos seems to be that the "dath ilani" are a nationality, but the "eliezera" are the race that dath ilani people belong to. I will generally use _dath ilani_ to describe people from dath ilan, but use _eliezera_ when discussing distinctive predispositions (traits which would presumably be stable across alternative histories of dath ilan) that distinguish the eliezera from real-world populations.
 
 It's not necessarily that the dath ilani want to live in a fake world, as a terminal value. They just don't particularly care about non-Keepers having false beliefs. (They might care about [not technically lying](https://www.lesswrong.com/posts/PrXR66hQcaJXsgWsa/not-technically-lying), but that [turns out to be a weak constraint](https://www.lesswrong.com/posts/MN4NRkMw7ggt9587K/firming-up-not-lying-around-its-edge-cases-is-less-broadly).) If a policy adequately achieves its purpose by means of deception or secrecy, Civilization isn't going to reject it on that basis and keep searching for a solution that involves telling the truth.
+
+Are people sad about some fact about the world that isn't easily fixed? Just censor it! 
+
+[TODO: rewrite tie-off end of intro ...]
 
 If you're in the business of coming up with clever plans to solve problems, and you don't care about [affirmatively telling the whole truth](http://benjaminrosshoffman.com/honesty-and-perjury/#Intent_to_inform), you mostly end up supplying false maps in order to control people's behavior by means of controling their information, because if you told them the whole truth, they wouldn't behave the way you want them to.
 
@@ -132,9 +136,9 @@ The deception by the people in Merrin's life is especially galling in light of t
 
 [^sneaky-jews]: If you believe that [IQ research](https://web.mit.edu/fustflum/documents/papers/AshkenaziIQ.jbiosocsci.pdf) [validates the "Jews are clever" stereotype](https://slatestarcodex.com/2017/05/26/the-atomic-bomb-considered-as-hungarian-high-school-science-fair-project/), it should be at least minimally plausible that there exists a "enjoying deception" trait that validates the classic anti-Semetic "Jews are sneaky" stereotype. If dath ilan is high in this "sneakiness" trait relative to Earth Jews, that would explain a lot.
 
-    The infamous Nazi storybook [_Trust No Fox on his Green Heath and No Jew on his Oath_](https://en.wikipedia.org/wiki/Trust_No_Fox_on_his_Green_Heath_and_No_Jew_on_his_Oath) tells a parable about a Jew who converts to Christianity but eats a goose on a Friday (in contravention of his [new faith's dietary restrictions](https://www.archspm.org/faith-and-discipleship/catholic-faith/why-dont-catholics-eat-meat-on-fridays/)), arguing that just as he converted to Christianity, the goose could become a fish. This over-the-top fictional example of dishonesty via linguistic flexibility with which the Nazi author sought to demonize Jews is [uncomfortably reminiscent of my actual experiences with Eliezer Yudkowsky](http://unremediatedgender.space/2024/Mar/agreeing-with-stalin-in-ways-that-exhibit-generally-rationalist-principles/).
+    The Nazi children's storybook [_Trust No Fox on his Green Heath and No Jew on his Oath_](https://en.wikipedia.org/wiki/Trust_No_Fox_on_his_Green_Heath_and_No_Jew_on_his_Oath) tells a parable about a Jew who converts to Christianity but eats a goose on a Friday (in contravention of his [new faith's dietary restrictions](https://www.archspm.org/faith-and-discipleship/catholic-faith/why-dont-catholics-eat-meat-on-fridays/)), arguing that just as he converted to Christianity, the goose could become a fish. This over-the-top caricature of dishonesty via linguistic flexibility with which the Nazi author sought to demonize Jews is uncomfortably reminiscent of [my actual experiences](http://unremediatedgender.space/2023/Jul/a-hill-of-validity-in-defense-of-meaning/) [with Eliezer Yudkowsky](http://unremediatedgender.space/2024/Mar/agreeing-with-stalin-in-ways-that-exhibit-generally-rationalist-principles/#an-adversarial-game).
 
-[TODO: continue editing from here]
+[TODO: continue editing pass from here]
 
 ["For No Laid Course Prepare"](https://glowfic.com/posts/6263), the story about how Merrin came to the attention of dath ilan's bureau of Exception Handling, shows us more examples of dath ilani conspiracy culture. In the story, Merrin is dressed up as a member of a fictional alien species, the Sparashki, due to having been summoned to the hospital from a fan convention with no time to change outfits. Merrin's coworkers falsely maintain to outsiders that Merrin always cosplays as a Sparashki while on duty. ["This is not considered a lie, in that it would be universally understood and expected that no one in this social circumstance would tell the truth,"](https://www.glowfic.com/replies/1857346#reply-1857346) the narrator tells us. The language used here is strikingly similar to that of one of the corrupt executives in [_Moral Mazes_](https://thezvi.wordpress.com/2019/05/30/quotes-from-moral-mazes/): "We lie all the time, but if everyone knows that we're lying, is a lie really a lie?"
 
@@ -198,9 +202,31 @@ Or consider how our Society handles pedophilia. This is a sexuality that we do n
 
 ## Further Replies to Objections
 
-### Marginalizing Truthtellers Is Relevantly Similar to Persecuting Them
+### Not All Alleged Infohazards Are Alike
+
+[TODO—
+ * 
+
+]
 
 ### Paying Someone to Keep Secrets From You Is Relevantly Similar to Doublethink From an Embedded Agency Perspective
 
-### Not All Alleged Infohazards Are Alike
+[TODO—
+ *
 
+
+]
+
+### Marginalizing Truthtellers Is Relevantly Similar to Persecuting Them
+
+[TODO—
+ * counterargument: you presumably have the option to move to Infoharzardville
+ * dath ilani free speech activists, with their eloquent manifestos arguing that Civilization would be better off coordinating on maps that reflect the territory, rather than coordinating to be a Keeper-managed zoo? (They _had_ to exist: in a medianworld centered on Yudkowsky, there are going to be a few weirdos who are +2.5 standard deviations on "speak the truth, even if your voice trembles" and −2.5 standard deivations on love of clever plots; this seems less weird than negative utilitarians, who were [established to exist](https://www.glowfic.com/replies/1789623#reply-1789623).)
+ * (the kitchen knives thing can go here)
+]
+
+## Conclusion
+
+[TODO—
+ * the dath ilan mythos is interesting fiction as Coordination World, people who fall for the eliezera racial superiority bluster really ought to read some sort of book about critical thinking
+]
