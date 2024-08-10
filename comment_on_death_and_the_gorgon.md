@@ -1,5 +1,37 @@
 ## Comment on "Death and the Gorgon"
 
+There's something distinctly uncomfortable about reading Greg Egan in the 2020s. Egan stories written in the 1990s and set in the twenty-first century—besides telling gripping tales with insightful commentary on true nature of mind and existence—excelled at speculative worldbuilding, imagining what technological wonders might exist in the decades to come and how Society might adapt to them.
+
+In contrast, "Death and the Gorgon", published in the January/February 2024 issue of _Asimov's_, feels like it's set [twenty minutes into the future](https://tvtropes.org/pmwiki/pmwiki.php/Main/TwentyMinutesIntoTheFuture). The future technologies on display are an AI assistant for police officers (capable of performing routine research tasks and carrying on conversation) and real-time synthetic avatars (good enough to pass as a video call with a real person). When these kinds of products showed up in "'90s Egan"—I think of Worth's "pharm" custom drug dispenser in _Distress_ (1995) or Maria's "mask" for screening spam calls in _Permutation City_ (1994)—it was part of the background setting of a more technologically advanced world than our own.
+
+Reading "Gorgon" in 2024, not only do the depicted capabilities seem less out of reach (our language model assistants and deepfakes aren't quite there yet, but don't seem too far off), but their literary function has changed: much of the moral of "Gorgon" seems to be to chide people in the real world who are overly impressed by and inappropriately dependent on ChatGPT. Reality and Greg Egan are starting to meet in the middle.
+
+Our story features Beth, a standard-issue Greg Egan protagonist as a sherriff in small-town Australia, investigating the suspicious destruction of a cryonics vault in an old mine: a naturally occuring cave-in seems unlikely, but it's not clear who would have the motive to "murder" a hundred frozen heads.
+
+Graciously tolerating the antics of her deputy, who is obsessed with the department's trial version of ChatGPT-for-law-enforcement, Beth proceeds to interview the next of kin, searching for a motive. She discovers that many of the recently preserved were beneficiaries of a lottery for terminal patients in which the prize was free cyronic suspension. The lottery is run OG—"Optimized Giving"—a charitable group concerned with risks affecting the future of humanity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 (maybe don't summarize too much plot in the post, for fear that Egan might consider it an infringing substitute?)
 
 ### Plot summary
