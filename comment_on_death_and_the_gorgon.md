@@ -1,38 +1,27 @@
 ## Comment on "Death and the Gorgon"
 
-There's something distinctly uncomfortable about reading Greg Egan in the 2020s. Egan stories written in the 1990s and set in the twenty-first century—besides telling gripping tales with insightful commentary on true nature of mind and existence—excelled at speculative worldbuilding, imagining what technological wonders might exist in the decades to come and how Society might adapt to them.
+_(some plot spoilers)_
 
-In contrast, "Death and the Gorgon", published in the January/February 2024 issue of _Asimov's_, feels like it's set [twenty minutes into the future](https://tvtropes.org/pmwiki/pmwiki.php/Main/TwentyMinutesIntoTheFuture). The future technologies on display are an AI assistant for police officers (capable of performing routine research tasks and carrying on conversation) and real-time synthetic avatars (good enough to pass as a video call with a real person). When these kinds of products showed up in "'90s Egan"—I think of Worth's "pharm" custom drug dispenser in _Distress_ (1995) or Maria's "mask" for screening spam calls in _Permutation City_ (1994)—it was part of the background setting of a more technologically advanced world than our own.
+There's something distinctly uncomfortable about reading Greg Egan in the 2020s. Besides telling gripping tales with insightful commentary on true nature of mind and existence, Egan stories written in the 1990s and set in the twenty-first century excelled at speculative worldbuilding, imagining what technological wonders might exist in the decades to come and how Society might adapt to them.
 
-Reading "Gorgon" in 2024, not only do the depicted capabilities seem less out of reach (our language model assistants and deepfakes aren't quite there yet, but don't seem too far off), but their literary function has changed: much of the moral of "Gorgon" seems to be to chide people in the real world who are overly impressed by and inappropriately dependent on ChatGPT. Reality and Greg Egan are starting to meet in the middle.
+In contrast, "Death and the Gorgon", published in the January/February 2024 issue of _Asimov's_, feels like it's set [twenty minutes into the future](https://tvtropes.org/pmwiki/pmwiki.php/Main/TwentyMinutesIntoTheFuture). The technologies on display are an AI assistant for police officers (capable of performing research tasks and carrying on conversation) and real-time synthetic avatars (good enough to pass as a video call with a real person). When these kinds of products showed up in "'90s Egan"—I think of Worth's "pharm" custom drug dispenser in _Distress_ (1995) or Maria's "mask" for screening spam calls in _Permutation City_ (1994)—it was part of the background setting of a more technologically advanced world than our own.
 
-Our story features Beth, a standard-issue Greg Egan protagonist as a sherriff in small-town Australia, investigating the suspicious destruction of a cryonics vault in an old mine: a naturally occuring cave-in seems unlikely, but it's not clear who would have the motive to "murder" a hundred frozen heads.
+Reading "Gorgon" in 2024, not only do the depicted capabilities seem less out of reach (our language model assistants and deepfakes aren't quite there yet, but don't seem too far off), but their literary function has changed: much of the moral of "Gorgon" seems to be to chide people in the real world who are overly impressed by ChatGPT. Reality and Greg Egan are starting to meet in the middle.
 
-Graciously tolerating the antics of her deputy, who is obsessed with the department's trial version of ChatGPT-for-law-enforcement, Beth proceeds to interview the next of kin, searching for a motive. She discovers that many of the recently preserved were beneficiaries of a lottery for terminal patients in which the prize was free cyronic suspension. The lottery is run OG—"Optimized Giving"—a charitable group concerned with risks affecting the future of humanity.
+Our story features Beth, a standard-issue Greg Egan protagonist as a small-town Colorado sherriff investigating the suspicious destruction of a cryonics vault in an old mine: a naturally occuring cave-in seems unlikely, but it's not clear who would have the motive to thaw (murder?) a hundred frozen heads.
 
+Graciously tolerating the antics of her deputy, who is obsessed with the department's trial version of (what is essentially) ChatGPT-for-law-enforcement, Beth proceeds to interview the next of kin, searching for a motive. She discovers that many of the recently preserved were beneficiaries of a lottery for terminal patients in which the prize was free cyronic suspension. The lottery is run by OG—"Optimized Giving"—a charitable group concerned with risks affecting the future of humanity. As the investigation unfolds, Beth and a colleague at the FBI begin to suspect that the lottery is a front for a creative organized crime scheme: OG is recruiting terminal patients to act as assassins and arranging for them to "win" the lottery as payment. Intrigue, action, and a cautionary moral ensue as our heroes make use of ChatGPT-for-law-enforcement to prove their theory and catch OG red-handed before more people get hurt.
 
+-----
 
+So, cards on the table. This story spends a lot of wordcount satirizing a subculture that, unfortunately, I don't think I can credibly claim not to be a part of. ("Optimized Giving" is clearly a spoof on Effective Altruism—specifically the longtermism stuff, which is largely an outgrowth of futurist ideas I adhere to, not the global health and development stuff.)
 
+I don't want to be defensive, because I'm not loyal to the subculture, its leaders, or its institutions. In the story, Beth talks to a professor—think [Émile Torres](https://en.wikipedia.org/wiki/%C3%89mile_P._Torres#Transhumanism,_longtermism,_and_effective_altruism) as a standard-issue Greg Egan character—who studies "apostates" from OG who are angry about "the hubris, the deception, and the waste of money." That resonated with me a lot.
 
-
-
-
-
-
-
-
+I have a Whole Dumb Story to tell about hubris and deception
 
 
 
-
-
-
-
-
-
-
-
-(maybe don't summarize too much plot in the post, for fear that Egan might consider it an infringing substitute?)
 
 ### Plot summary
 
@@ -67,7 +56,7 @@ Graciously tolerating the antics of her deputy, who is obsessed with the departm
 
  * snipe at LLMs on p. 185: "Sherlock had absolutely no conception of what a movie was"
  * plausibility question: is OG big enough such that there are a lot of terminally ill assassins? (most terminal patients are old, right?) I remember it being a big deal when Hal Finney died
- * ZonesOfOught, DarkCardinal, and BayesianBae  (realistic usernames)
+ * fun names: ZonesOfOught, DarkCardinal, and BayesianBae  (realistic usernames) 
  * distrust of LLM decisions is well taken
  * "it had no real conception of what might happen if its words were acted on"—that part is correct! and it's an alignment problem!
  * "they need to drop the half-baked imitation of it being some kind of colleague"
@@ -121,3 +110,5 @@ I don't think this is true
 
 https://twitter.com/teortaxesTex/status/1752469634173800710
 > it's like treating two countries at war like a single political party because they're both populated by heliocentrists
+
+Asimov's back issues: https://www.magzter.com/US/Penny-Publications-LLC/Asimovs-Science-Fiction/Fiction/
