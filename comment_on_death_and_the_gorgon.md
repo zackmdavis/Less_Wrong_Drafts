@@ -14,14 +14,14 @@ Graciously tolerating the antics of her deputy, who is obsessed with the departm
 
 -----
 
-So, cards on the table. This story spends a lot of wordcount satirizing a subculture that, unfortunately, I don't think I can credibly claim not to be a part of. ("Optimized Giving" is clearly a spoof on Effective Altruism—specifically the longtermism stuff, which is largely an outgrowth of futurist ideas I adhere to, not the global health and development stuff.)
+So, cards on the table: this story spends a lot of wordcount satirizing a subculture that, unfortunately, I don't think I can credibly claim not to be a part of. ("Optimized Giving" is clearly a spoof on the longtermist wing of Effective Altruism.)
 
-I don't want to be defensive, because I'm not loyal to the subculture, its leaders, or its institutions. In the story, Beth talks to a professor—think [Émile Torres](https://en.wikipedia.org/wiki/%C3%89mile_P._Torres#Transhumanism,_longtermism,_and_effective_altruism) as a standard-issue Greg Egan character—who studies "apostates" from OG who are angry about "the hubris, the deception, and the waste of money." That resonated with me a lot.
+I don't want to be defensive, because I'm not loyal to the subculture, its leaders, or its institutions. In the story, Beth talks to a professor—think [Émile Torres](https://en.wikipedia.org/wiki/%C3%89mile_P._Torres#Transhumanism,_longtermism,_and_effective_altruism) as a standard-issue Greg Egan character—who studies "apostates" from OG who are angry about "the hubris, the deception, and the waste of money." That resonated with me a lot: I have a long [dumb](http://unremediatedgender.space/2023/Jul/blanchards-dangerous-idea-and-the-plight-of-the-lucid-crossdreamer/) [story](http://unremediatedgender.space/2023/Jul/a-hill-of-validity-in-defense-of-meaning/) [to tell](http://unremediatedgender.space/2023/Dec/if-clarity-seems-like-death-to-them/) [about hubris and deception](http://unremediatedgender.space/2024/Mar/agreeing-with-stalin-in-ways-that-exhibit-generally-rationalist-principles/), and the corrupting forces of money are probably part of the explanation of how my beloved rationalism got eaten by Effective Altruism over the 2010s.
 
-I have a Whole Dumb Story to tell about hubris and deception
+So if my commentary on Egan's satire contains some criticism, it's absolutely _not_ because I think my ingroup is beyond reproach and doesn't deserve to satirized. They (we) absolutely do. (I took joy in including a similar sort of mockery in [one of my own stories](http://unremediatedgender.space/2023/Oct/fake-deeply/).) But if Egan's satire doesn't quite hit the mark of explaining why the group is bad, it's not an act of partisan loyalty for me to contribute my nuanced explanation of what I think it gets right and what it gets wrong. I'm not carrying water for the movement; it's just a topic that I happen to have a lot of information about.
 
 
-
+-------
 
 ### Plot summary
 
