@@ -14,7 +14,7 @@ I'm more preoccupied by a [Doylistic](https://tvtropes.org/pmwiki/pmwiki.php/Mai
 
 As another notable example of dath ilan hiding information for the alleged greater good, in Golarion, Keltham discovers that he's a sexual sadist, and deduces that Civilization has deliberately prevented him from realizing this, because there aren't enough corresponding masochists to go around in dath ilan. Having concepts for "sadism" and "masochism" as variations in human psychology would make sadists like Keltham sad about the desirable sexual experiences they'll never get to have, so Civilization arranges for them to _not be exposed to knowledge that would make them sad, because it would make them sad_ (!!).
 
-What happens, I asked, to the occasional dath ilani free speech activists, with their eloquent manifestos arguing that Civilization would be better off coordinating on maps that reflect the territory, rather than coordinating to be a Keeper-managed zoo? (They _had_ to exist: in a medianworld centered on Yudkowsky, there are going to be a few weirdos who are +2.5 standard deviations on "speak the truth, even if your voice trembles" and −2.5 standard deivations on love of clever plots; this seems less weird than negative utilitarians, who were [established to exist](https://www.glowfic.com/replies/1789623#reply-1789623).) I _assumed_ they get dealt with somehow in the end (exiled from most cities? ... involuntarily cryopreserved?), but there had to be an interesting story about someone who starts out whistleblowing small lies (which Exception Handling allows; they think it's cute, and it's "priced in" to the game they're playing), and then just keeps _escalating and escalating and escalating_ until Governance decides to unperson him.
+What happens, I asked, to the occasional  I _assumed_ they get dealt with somehow in the end (exiled from most cities? ... involuntarily cryopreserved?), but there had to be an interesting story about someone who starts out whistleblowing small lies (which Exception Handling allows; they think it's cute, and it's "priced in" to the game they're playing), and then just keeps _escalating and escalating and escalating_ until Governance decides to unperson him.
 
 [...]
 
@@ -333,3 +333,8 @@ Chicago (17th edition):
 Username. "Message content." Discord message to [Channel name]. Day Month Year, Time.
 For example:
 JohnDoe. "The data suggests a correlation between X and Y." Discord message to #research-discussion. July 15, 2023, 2:30 p.m.
+
+https://www.lesswrong.com/posts/gvA4j8pGYG4xtaTkw/i-m-from-a-parallel-earth-with-much-higher-coordination-ama
+https://www.reddit.com/r/rational/comments/mmmxg7/im_from_a_parallel_earth_with_much_higher/?share_id=JOuJBjrQBH_c9la7wbpho
+
+Address the "it's just an April Fools' Day joke that got filled in"

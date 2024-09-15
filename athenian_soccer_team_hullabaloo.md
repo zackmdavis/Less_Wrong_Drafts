@@ -170,6 +170,8 @@ In contrast, I have [a sense that more is possible](https://www.lesswrong.com/po
 
 And to those who think that's not possible, I ask: why do you have such a low opinion of yourselves? If you know that there are facts, and that the facts aren't sensitive to your feelings, why would you demand a cyber-agora that caters to the latter? Are you really that fragile? If you had a choice, wouldn't you prefer to not be that fragile? What if you _do_ have a choice?
 
+[TODO: ref https://homosabiens.substack.com/p/invalidating-imaginary-injury]
+
 I fear that some readers will doubt the sincerity of the question, and think that I'm trying to position my Socratics as superior to the Meleteans for caring more about truth—that the only reason someone would object to thinking about the cyber-agora in terms of "siphoning status without making a corresponding contribution" is as itself another move in the status game. I want to disclaim that I don't mean it that way!
 
 But if you still don't believe me, I can't begrudge you calling it like you see it.

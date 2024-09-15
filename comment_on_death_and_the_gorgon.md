@@ -30,12 +30,15 @@ While the depiction of OG in the story clearly shows familiarity with the source
 
 > Super-intelligent AIs conquering the world; the whole Universe turning out to be a simulation; humanity annihilated by aliens because we failed to colonize the galaxy in time. Even if it was all just stale clichés from fifty-year-old science fiction, a bright teenager like Anna could have found some entertainment value analyzing the possibilities rigorously and puncturing the forums' credulous consensus. But while she'd started out healthily skeptical, some combination of in-forum peer pressure, the phony gravitas of trillions of future deaths averted, and the corrosive effect of an endless barrage of inane slogans pimped up as profound insights—all taking the form "X is the mind-killer," where X was pretty much anything that might challenge the delusions of the cult—seemed to have worn down her resistance in the end.
 
-I absolutely agree that healthy skepticism is critical when evaluating ideas and that in-forum peer pressure and the gravitas of a cause (for any given set of peers and any given cause) are troubling sources of potential bias—and that just because a group pays lip service to the value of healthy skepticism and the dangers of peer pressure and gravitas, doesn't mean the group's culture isn't falling prey to the usual dysfunctions of groupthink. (As the inane slogan goes, ["Every cause wants to be a cult."](https://www.lesswrong.com/posts/yEjaj7PWacno5EvWa/every-cause-wants-to-be-a-cult))
+I absolutely agree that healthy skepticism is critical when evaluating ideas and that in-forum peer pressure and the gravitas of a cause (for any given set of peers and any given cause) are troubling sources of potential bias—and that just because a group pays lip service to the value of healthy skepticism and the dangers of peer pressure and gravitas, doesn't mean the group's culture isn't still falling prey to the usual dysfunctions of groupthink. (As the inane slogan goes, ["Every cause wants to be a cult."](https://www.lesswrong.com/posts/yEjaj7PWacno5EvWa/every-cause-wants-to-be-a-cult))
 
-That being said, however, ideas ultimately need to be judged on their merits, and the narration here isn't giving the reader any counterarguments to the ideas being alluded to. ("These are stale clichés from fifty-year-old science fiction" isn't a counterargument; as Egan should know, science fiction authors having written about an idea does not itself make the idea false.)
+That being said, however, ideas ultimately need to be judged on their merits, and the narration in this passage isn't giving the reader any counterarguments to the ideas being alluded to. ("These are stale clichés from fifty-year-old science fiction" isn't a counterargument; as Egan should know, science fiction authors having written about an idea does not make the idea false.) The clause about the whole Universe turning out to be a simulation is likely a reference to Bostrom's [simulation arugment](https://simulation-argument.com/simulation/), which is a disjunctive, conditional claim: _given_ certain computationalist assumptions in the philosophy of mind, then _if_ future civilization could run simulations of its ancestors, then _either_ they won't want to, _or_ we're probably in one of the simulations (because there are more simulated than "real" histories). The clause about humanity being annihilated by failing to colonize the galaxy in time is likely a reference to Robin Hanson _et al._'s [grabby aliens thesis](https://grabbyaliens.com/), that the Fermi paradox can be explained by a selection effect: there's a relatively narrow range of parameters in which we would see signs of an expanding alien civilization in our skies without already having been engulfed by them.
+
+No doubt many important criticisms could be made of Bostrom's or Hanson's work.
 
 
-The reference to the whole Universe turning out to be a simulation is presumably an allusion to Bostrom's [simulation arugment](https://simulation-argument.com/simulation/), a disjunctive claim about 
+
+
 
 
 The reference to humanity annihilated by aliens because we failed to colonize the galaxy in time is presumably 
@@ -146,3 +149,8 @@ https://twitter.com/teortaxesTex/status/1752469634173800710
 > it's like treating two countries at war like a single political party because they're both populated by heliocentrists
 
 Asimov's back issues: https://www.magzter.com/US/Penny-Publications-LLC/Asimovs-Science-Fiction/Fiction/
+
+https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art
+
+> it’s funny that Ted chiang wrote that short story / sermon about empathizing with parrots before looking for alien intelligence but doesn’t recognize the aliens that landed in his backyard
+https://x.com/tszzl/status/1831066060646473732

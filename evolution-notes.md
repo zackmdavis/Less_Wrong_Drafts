@@ -368,3 +368,16 @@ https://x.com/ESYudkowsky/status/1709410777785127331
 
 
 [A child who gave back $5 won't necessarily grow up to be a reliable financial advisor.](https://x.com/ESYudkowsky/status/1793697046198923757)
+
+> We could build smarter humans -- we can actually check to see if humans have gotten smarter, and they start out relatively alignable and relatively understandable -- and they could maybe build a stably aligned superintelligence through methods not resembling modern ML.
+https://x.com/ESYudkowsky/status/1827021878147657887
+
+
+> that we cannot steer even into being people instead of entities 
+https://x.com/ESYudkowsky/status/1828824928915017934
+
+> Right, evolution applied an outer signal to an end result, which then found successful circuits that pursued correlated dense proxies whose local optima were roughly aligned within (only) the training set.  But just saying "we'll use gradient descent" doesn't get you perfect inner alignment with outer human intentions even if the outer signal is legitimately denser than in natural selection.
+>
+> Let's be concrete.  What's a training setup that you think just works?
+
+https://x.com/ESYudkowsky/status/1726329895121514565
