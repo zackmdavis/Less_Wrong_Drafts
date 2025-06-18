@@ -2,13 +2,13 @@
 
 _(some plot spoilers)_
 
-There's something distinctly uncomfortable about reading Greg Egan in the 2020s. Besides telling gripping tales with insightful commentary on true nature of mind and existence, Egan stories written in the 1990s and set in the twenty-first century excelled at speculative worldbuilding, imagining what technological wonders might exist in the decades to come and how Society might adapt to them.
+There's something distinctly uncomfortable about reading Greg Egan in the 2020s. Besides telling gripping tales with insightful commentary on the true nature of mind and existence, Egan stories written in the 1990s and set in the twenty-first century excelled at speculative worldbuilding, imagining what technological wonders might exist in the decades to come and how Society might adapt to them.
 
 In contrast, "Death and the Gorgon", published in the January/February 2024 issue of _Asimov's_, feels like it's set [twenty minutes into the future](https://tvtropes.org/pmwiki/pmwiki.php/Main/TwentyMinutesIntoTheFuture). The technologies on display are an AI assistant for police officers (capable of performing research tasks and carrying on conversation) and real-time synthetic avatars (good enough to pass as a video call with a real person). When these kinds of products showed up in "'90s Egan"—I think of Worth's "pharm" custom drug dispenser in _Distress_ (1995) or Maria's "mask" for screening spam calls in _Permutation City_ (1994)—it was part of the background setting of a more technologically advanced world than our own.
 
 Reading "Gorgon" in 2024, not only do the depicted capabilities seem less out of reach (our language model assistants and deepfakes aren't quite there yet, but don't seem too far off), but their literary function has changed: much of the moral of "Gorgon" seems to be to chide people in the real world who are overly impressed by ChatGPT. Reality and Greg Egan are starting to meet in the middle.
 
-Our story features Beth, a standard-issue Greg Egan protagonist[^egan-protagonist] as a small-town Colorado sherriff investigating the suspicious destruction of a cryonics vault in an old mine: a naturally occuring cave-in seems unlikely, but it's not clear who would have the motive to thaw (murder?) a hundred frozen heads.
+Our story features Beth, a standard-issue Greg Egan protagonist[^egan-protagonist] as a small-town Colorado sheriff investigating the suspicious destruction of a cryonics vault in an old mine: a naturally occurring cave-in seems unlikely, but it's not clear who would have the motive to thaw (murder?) a hundred frozen heads.
 
 [^egan-protagonist]: Some people say that Greg Egan is bad at characterization. I think he just specializes in portraying _reasonable_ people, who don't have grotesque personality flaws to be the subject of "characterization."
 
@@ -16,7 +16,7 @@ Graciously tolerating the antics of her deputy, who is obsessed with the departm
 
 -----
 
-So, cards on the table: this story spends a lot of wordcount satirizing a subculture that, unfortunately, I don't think I can credibly claim not to be a part of. "Optimized Giving" is clearly a spoof on the longtermist wing of Effective Altruism—and if I'm not happy about how the "Effective Altruism" brand ate my beloved rationalism over the 2010s, I don't think anyone would deny the contiguous memetic legacy involving many of the same people. ([Human subcultures are nested fractally](https://xkcd.com/1095/); for the purposes of reviewing the story, it would benefit no one for me to to insist that Egan isn't talking about me and my people, even if, from _within_ the subculture, it looks like the OpenPhil people and the MIRI people and the Vassarites and ... _&c._ are all totally different and in fact hate each other's guts.)
+So, cards on the table: this story spends a lot of wordcount satirizing a subculture that, unfortunately, I can't credibly claim not to be a part of. "Optimized Giving" is clearly a spoof on the longtermist wing of Effective Altruism—and if I'm not happy about how the "Effective Altruism" brand ate my beloved rationalism over the 2010s, I don't think anyone would deny the contiguous memetic legacy involving many of the same people. ([Human subcultures are nested fractally](https://xkcd.com/1095/); for the purposes of reviewing the story, it would benefit no one for me to to insist that Egan isn't talking about me and my people, even if, from _within_ the subculture, it looks like the OpenPhil people and the MIRI people and the Vassarites and ... _&c._ are all totally different and in fact hate each other's guts.)
 
 I don't want to be defensive, because I'm _not_ loyal to the subculture, its leaders, or its institutions. In the story, Beth talks to a professor—think [Émile Torres](https://en.wikipedia.org/wiki/%C3%89mile_P._Torres#Transhumanism,_longtermism,_and_effective_altruism) as a standard-issue Greg Egan character—who studies "apostates" from OG who are angry about "the hubris, the deception, and the waste of money." That resonated with me a lot: I have a long [dumb](http://unremediatedgender.space/2023/Jul/blanchards-dangerous-idea-and-the-plight-of-the-lucid-crossdreamer/) [story](http://unremediatedgender.space/2023/Jul/a-hill-of-validity-in-defense-of-meaning/) [to tell](http://unremediatedgender.space/2023/Dec/if-clarity-seems-like-death-to-them/) [about hubris and deception](http://unremediatedgender.space/2024/Mar/agreeing-with-stalin-in-ways-that-exhibit-generally-rationalist-principles/), and the corrupting forces of money are probably a big part of the explanation for [the rise and predictable perversion of Effective Altruism](http://benjaminrosshoffman.com/effective-altruism-is-self-recommending/).
 
@@ -28,152 +28,42 @@ Without calling it a fair portrayal, the OG of "Gorgon" isn't a strawman conjure
 
 The cryonics-as-murder-payment lottery fraud is fictional, of course, but I'm inclined to read it as artistically-licensed commentary on a strain of ends-justify-the-means thinking that does exist within EA. EA organizations don't take money from the mob for facilitating contract killings, but they _did_ take money from [the largest financial fraud in history](https://en.wikipedia.org/wiki/FTX), [which was explicitly founded as a means to make money for EA](https://thezvi.wordpress.com/2023/10/24/book-review-going-infinite/). (One could point out that the charitable beneficiaries of Sam Bankman-Fried's largesse didn't know that FTX wasn't an honest business, but we have to assume that the same is true of OG in the story: only a few insiders would be running the contract murder operation, not the rank-and-file believers.)
 
-While the depiction of OG in the story clearly shows familiarity with the source material, the satire feels lacking _qua_ anti-EA advocacy insofar as it relies too much on mere dismissal rather than presenting clear counterarguments.[^satire] The effect of OG-related web forums on a vulnerable young person are described thus:
+While the depiction of OG in the story clearly shows familiarity with the source material, the satire feels somewhat lacking _qua_ anti-EA advocacy insofar as it relies too much on mere dismissal rather than presenting clear counterarguments.[^satire] The effect of OG-related web forums on a vulnerable young person are described thus:
 
-[^satire]: On the other hand, one could argue that satire just isn't the right medium for presenting counterarguments, which would take up a lot of wordcount without advancing the story. Not every written work can accomplish all goals! Maybe it's fine for this story to make fun of the grandiose and cultish elements within longtermist EA (and there are a lot of them), with a critical evaluation of their ideas being left to other work. But insofar as the goal of "Gorgon" is to persuade readers that the ideas aren't even worthy of consideration, I think that's a mistake.
+[^satire]: On the other hand, one could argue that satire just isn't the right medium for presenting counterarguments, which would take up a lot of wordcount without advancing the story. Not every written work can accomplish all goals! Maybe it's fine for this story to make fun of the grandiose and cultish elements within longtermist EA (and there are a lot of them), with a critical evaluation of the ideas being left to other work. But insofar as the goal of "Gorgon" is to persuade readers that the ideas aren't even worthy of consideration, I think that's a mistake.
 
 > Super-intelligent AIs conquering the world; the whole Universe turning out to be a simulation; humanity annihilated by aliens because we failed to colonize the galaxy in time. Even if it was all just stale clichés from fifty-year-old science fiction, a bright teenager like Anna could have found some entertainment value analyzing the possibilities rigorously and puncturing the forums' credulous consensus. But while she'd started out healthily skeptical, some combination of in-forum peer pressure, the phony gravitas of trillions of future deaths averted, and the corrosive effect of an endless barrage of inane slogans pimped up as profound insights—all taking the form "X is the mind-killer," where X was pretty much anything that might challenge the delusions of the cult—seemed to have worn down her resistance in the end.
 
 I absolutely agree that healthy skepticism is critical when evaluating ideas and that in-forum peer pressure and the gravitas of a cause (for any given set of peers and any given cause) are troubling sources of potential bias—and that just because a group pays lip service to the value of healthy skepticism and the dangers of peer pressure and gravitas, doesn't mean the group's culture isn't still falling prey to the usual dysfunctions of groupthink. (As the inane slogan goes, ["Every cause wants to be a cult."](https://www.lesswrong.com/posts/yEjaj7PWacno5EvWa/every-cause-wants-to-be-a-cult))
 
-That being said, however, ideas ultimately need to be judged on their merits, and the narration in this passage isn't giving the reader any counterarguments to the ideas being alluded to. (As Egan would know, science fiction authors having written about an idea does not make the idea false.) The clause about the whole Universe turning out to be a simulation is probably a reference to Bostrom's [simulation arugment](https://simulation-argument.com/simulation/), which is a disjunctive, conditional claim: given some assumptions in the philosophy of mind and the theory of anthropic reasoning, then _if_ future civilization could run simulations of its ancestors, then _either_ they won't want to, _or_ we're probably in one of the simulations (because there are more simulated than "real" histories). The clause about humanity being annihilated by failing to colonize the galaxy in time is probably a reference to Robin Hanson _et al._'s [grabby aliens thesis](https://grabbyaliens.com/), that the Fermi paradox can be explained by a selection effect: there's a relatively narrow range of parameters in which we would see signs of an expanding alien civilization in our skies without already having been engulfed by them.
+That being said, however, ideas ultimately need to be judged on their merits, and the narration in this passage[^this-passage] isn't giving the reader any counterarguments to the ideas being alluded to. (As Egan would know, science fiction authors having written about an idea does not make the idea false.) The clause about the whole Universe turning out to be a simulation is probably a reference to Bostrom's [simulation argument](https://simulation-argument.com/simulation/), which is a disjunctive, conditional claim: given some assumptions in the philosophy of mind and the theory of anthropic reasoning, then _if_ future civilization could run simulations of its ancestors, then _either_ they won't want to, _or_ we're probably in one of the simulations (because there are more simulated than "real" histories). The clause about humanity being annihilated by failing to colonize the galaxy in time is probably a reference to Robin Hanson _et al._'s [grabby aliens thesis](https://grabbyaliens.com/), that the Fermi paradox can be explained by a selection effect: there's a relatively narrow range of parameters in which we would see signs of an expanding alien civilization in our skies without already having been engulfed by them.
 
-No doubt many important criticisms could be made of Bostrom's or Hanson's work, perhaps by a bright teenager finding entertainment value in analyzing the possibilities rigorously. But there's an important difference between having such a criticism[^criticism-upvoted] and merely asserting that it could exist. Speaking only to my own understanding, Hanson's and Bostrom's arguments both look pretty reasonable to me? It's certainly possible I've just been hoodwinked by the cult, but if so, the narrator of "Gorgon"'s snarky description isn't helping me snap out of it.
+[^this-passage]: In critically examining this passage, I don't want to suggest that "Gorgon"'s engagement with longtermist ideas is all snark and no substance. Earlier in the story, Beth compares OG believers "imagin[ing] that they're in control of how much happiness there'll be in the next trillion years" to a child's fantasy of violating relativity by twirling a rope millions of miles long. That's substantive: even if the future of humanity is very large, the claim that a nonprofit organization today is in a position to meaningfully affect it is surprising and should not be accepted uncritically on the basis of [evocative storytelling about the astronomical stakes](https://www.lesswrong.com/posts/pGvyqAQw6yqTjpKf4/the-gift-we-give-to-tomorrow).
 
-[^criticism-upvoted]: Which I think would get upvoted on this website if it were well done—and certainly it were written with the insight and rigor characteristic of a standard-issue Greg Egan protagonist.
+No doubt many important criticisms could be made of Bostrom's or Hanson's work, perhaps by a bright teenager finding entertainment value in analyzing the possibilities rigorously. But there's an important difference between having such a criticism[^criticism-upvoted] and merely asserting that it could exist. Speaking only to my own understanding, Hanson's and Bostrom's arguments both look reasonable to me? It's certainly possible I've just been hoodwinked by the cult, but if so, the narrator of "Gorgon"'s snarky description isn't helping me snap out of it.
 
-It's worth noting that despite the notability of Hanson's and Bostrom's work, in practice, I don't see anyone in the subculture particularly worrying about losing out on galaxies due to competition with aliens[^reduce-xrisk]—admittedly, because we're worried about "super-intelligent AIs conquering the world" first. About which, "Gorgon" ends on a line from Beth about "the epic struggle to make computers competent enough to help bring down the fools who believe that they're going to be omnipotent."
+[^criticism-upvoted]: Which I think would get upvoted on this website if it were well done—certainly if it were written with the insight and rigor characteristic of a standard-issue Greg Egan protagonist.
 
-I have to say, this is a deeply puzzling take from the author[^from-the-author] of [multiple](https://gregegan.net/DIASPORA/DIASPORA.html) [novels](https://www.gregegan.net/SCHILD/SCHILD.html) in which software minds engage in astronomical-scale engineering projects. By all means, institutional longtermist EA deserves condemnation for being goofy and a fraud, but in condemning them, why single out as the characteristic belief of this dispicable group, the idea future AI could be really powerful?[^omnipotent] Isn't that premise at least credible?
+It's worth noting that despite the notability of Hanson's and Bostrom's work, in practice, I don't see anyone in the subculture particularly worrying about losing out on galaxies due to competition with aliens—admittedly, because we're worried about "super-intelligent AIs conquering the world" first.[^reduce-xrisk] About which, "Gorgon" ends on a line from Beth about "the epic struggle to make computers competent enough to help bring down the fools who believe that they're going to be omnipotent."
 
-Even if you think people in the cult or who work at AI companies are liars or dupes, it's hard to say that about eminent academics like Stuart Russell, Geoffrey Hinton, Yoshua Bengio, David Chalmers, and Daniel Dennett, who signed [a statement affirming that "[m]itigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war."](https://www.safe.ai/work/statement-on-ai-risk)[^cais-statement]
+This is an odd take from the author[^from-the-author] of [multiple](https://gregegan.net/DIASPORA/DIASPORA.html) [novels](https://www.gregegan.net/SCHILD/SCHILD.html) in which software minds engage in astronomical-scale engineering projects. Accepting the premise that institutional longtermist EA deserves condemnation for being goofy and a fraud: in condemning them, why single out as the characteristic belief of this despicable group, the idea that future AI could be really powerful?[^omnipotent] Isn't that at least credible? Even if you think people in the cult or who work at AI companies are liars or dupes, it's harder to say that about eminent academics like Stuart Russell, Geoffrey Hinton, Yoshua Bengio, David Chalmers, and Daniel Dennett, who signed [a statement affirming that "[m]itigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war."](https://www.safe.ai/work/statement-on-ai-risk)[^cais-statement]
 
 [^reduce-xrisk]: Bostrom's "Astronomical Waste" concludes that "The Chief Goal for Utilitarians Should Be to Reduce Existential Risk": making sure colonization happens at all (by humanity or worthy [rather than unworthy](https://www.lesswrong.com/tag/squiggle-maximizer-formerly-paperclip-maximizer) successors) is more important that making it happen faster.
 
 [^from-the-author]: In context, it seems reasonable to infer that Beth's statement is author-endorsed, even if fictional characters do not in general represent the author's views.
 
-[^omnipotent]: I'm construing "omnipotent" as rhetorical hyperbole.
+[^omnipotent]: I'm construing "omnipotent" as rhetorical hyperbole; influential subcultural figures [clarifying that no one thinks superintelligence will be able to break the laws of physics](https://x.com/ESYudkowsky/status/1658616828741160960) seems unlikely to be exculpatory in Egan's eyes.
 
-[^cais-statement]: Okay, the organization of the circulation of the statement by Dan Hendrycks's [Center for AI Safety](https://www.safe.ai/) _was_ a cult activity. But Russell, Hinton, et al. did sign.
+[^cais-statement]: Okay, the drafting and circulation of the statement by Dan Hendrycks's [Center for AI Safety](https://www.safe.ai/) was arguably cult activity. (While Hendrycks has a PhD from UC Berkeley and [co-pioneered the usage of a popular neural network activation function](https://arxiv.org/abs/1606.08415), he [admits that his career focus on AI safety was influenced by](https://archive.ph/20230708182452/https://www.bostonglobe.com/2023/07/06/opinion/ai-safety-human-extinction-dan-hendrycks-cais/#selection-1909.0-1913.10) the EA advice-counseling organization [80,000 hours](https://80000hours.org/). But Russell, Hinton, _et al_. did sign.
 
-Egan's own work sometimes features artificial minds with goals at odds with their creators, as in ["Steve Fever"](https://www.technologyreview.com/2007/10/15/223446/steve-fever/) (2007) or ["Crystal Nights"](https://gregegan.net/MISC/CRYSTAL/Crystal.html) (2008). 
+Egan's own work sometimes features artificial minds with goals at odds with their creator, as in ["Steve Fever"](https://www.technologyreview.com/2007/10/15/223446/steve-fever/) (2007) or ["Crystal Nights"](https://gregegan.net/MISC/CRYSTAL/Crystal.html) (2008), and with substantial advantages over biological creatures: in _Diaspora_ (1997), the polis citizens running at 800 times human speed were peace-loving, but surely could have glassed the fleshers in a war if they wanted to. If you believe that AI could be at odds with its creators and hold a competitive advantage, scenarios along the lines of "super-intelligent AIs conquering the world" should seem plausible rather than far-fetched—a natural phenomenon straightforwardly analogous to human empires conquering other countries, or humans dominating other animals.
 
+Given so many shared premises, it's puzzling to me why Egan seems to have to bear so much antipathy towards "us",[^historical-antipathy] rather than than regarding the subculture more coolly, as a loose amalgamation of people interested in many of the same topics as him, but having come to somewhat different beliefs. (Egan doesn't seem to think human-level AI is at all close, nor that AI could be qualitatively superhumanly intelligent; an aside in _Schild's Ladder_ (2002) alludes to a fictional result that there's nothing "above" general intelligence of the type humans have, _modulo_ speed and memory.) He seems to expect the feeling to be mutual: when someone remarked on Twitter about finding it funny that the _Less Wrong_ crowd likes his books, Egan [replied](https://twitter.com/gregeganSF/status/1727940487255138404), "Oh, I think they've noticed, but some of them still like the, err, 'early, funny ones' that predate the cult and hence devote no time to mocking it."
 
+[^historical-antipathy]: This isn't the first time Egan has satirized the memetic lineage that became longtermist EA; _Zendegi_ (2010) [features negative portrayals of](https://www.overcomingbias.com/p/egans-zendegihtml) a character who blogs at _overpoweringfalsehood.com_ (a reference to [_Overcoming Bias_](https://www.overcomingbias.com/)) and a Benign Superintelligence Bootstrap Project (a reference to what was then the Singularity Institute for Artificial Intelligence).
 
+Well, I can't speak for anyone else, but personally, _I_ like Egan's later work, including "Death and the Gorgon."[^early-egan] Why wouldn't I? I am not so petty as to let my appreciation of well-written fiction be dulled by the incidental fact that I happen to disagree with some of the author's views on artificial intelligence and a social group that I can't credibly claim not to be a part of. That kind of dogmatism would be contrary to the ethos of humanism and clear thinking that I learned from reading Greg Egan and _Less Wrong_—an ethos that doesn't endorse blind loyalty to every author or group you learned something from, but a discerning loyalty to whatever was _good_ in what the author or group saw in our shared universe. I don't know what the future holds in store for humanity. But whatever risks and opportunities nature may present, I think our odds are better for every thinking individual who tries to read widely and see more.[^hanson-egan]
 
+[^early-egan]: Okay, I should confess that I do treasure early Egan (_Quarantine_ (1992)/_Permutation City_ (1994)/_Distress_ (1995)) more than later Egan, but not because they devote no time to mocking the cult. It's because I'm not smart enough to properly appreciate all the alternate physics in, _e.g._, _Schild's Ladder_ (2002) or the _Orthogonal_ trilogy (2011–2013).
 
-
-[TODO—
- * But ... I agree that AI won't literally be "omnipotent", but the idea that AIs could have superior capabilities and different goals from us isn't outlandish, but AI being powerful and misaligned is absolutely a realistic threat
- * 
- * Footnote: OK, the organization of that statement was a cult activity, but Russell et al. did in fact sign
- * Egan's own work  The polises in _Disaspora_ (1997) absolutely could have glassed the fleshers if they wanted to
- * Why all the antipathy? This isn't the first time Egan has made fun of us: Nate Caplan in Zhendeghi
- * "some of them still like the, err, 'early, funny ones' that predate the cult and hence devote no time to mocking it."
- * Footnote: I'll confess that I do treasure early Egan more than later Egan, but that's not the reason: it's that I'm not smart enough to appreciate them
- * Cruxes: Egan doesn't believe qualitative superintelligence is possible (mention of general intelligence theorem in Schild's Ladder) and doesn't think the singularity is near
- * Beth's million light-year rope in "Gorgon" is actually a fine critique
- * It would be a healthier timeline if STEM intellectuals interested in the future could criticize each other on the merits without trying to delegitimize their voice; I happen to think Egan is mistaken about AI power, but I'm still a huge fan—why wouldn't I be? I'm not loyal to the cult; my loyalty is to the good things I saw in both the cult and Egan
- * Footnote: I still want my Egan/Hanson collaboration
-]
-
-[TODO: footnote—the fraction of my recent output that criticizes the cult is not healthy; it's better when I'm just doing math]
-
--------
-
-### Plot summary
-
- * cryonics vault collapses, our sherriff protagonist Beth is to investigate whether foul play
-    * (all Greg Egan protagonists are basically the same person)
- * fair-minded discussion of cryonics with husband
- * interviewing family members, some of the heads won a lottery by "Optimized Giving"
- * (in reality, life insurance is affordable)
- * Beth's coworker obsessed with AI assistant Sherlock
- * leading theory: competing cryonics company??
- * one family statement claims lottery winner was pressured to die early
- * characterization of OG
-     * "Some of them started out sounding like worthy causes, until you hit the strange last clause" p. 171
- * partner compares to Make-A-Wish Foundation, Beth notices that cryo lottery doesn't seem very "optimized"
- * talks to OG-ologist (Emile Torres role, but as a Greg Egan character)
- * "They don't seem to be spending anything on climate change." "OG consider that solved." (p. 174) Accurate!
- * Torres speculates that the lottery is just good PR
- * "What they’re angry about is the hubris, the deception, and the waste of money."
- * Sherlock turns up Anna
- * Beth follows Anna to Dallas, who ends up being followed by someone else, too; Beth intervenes when Anna pulls out a gun
- * It transpires that lottery winners have been witnesses or POIs of shootings
- * "OG are raising funds by selling the services of terminally ill assassins. Cleanskins, with no criminal record and no connection to the victim"
- * organized crime trigged the vault collapse, as revenge/incentives
- * plan to take over apostate accounts to be the next assassin, impersonating them with an LLM
- * partner pretends to be an apostate volunteer
- * at the meeting, he takes a syringe meant to shorten his time and secure his committment
- * syringe taking was on AI's advice
- * they write a criminology journal article 
- * "on the epic struggle to make computers competent enough to help bring down the fools who believe that they’re going to be omnipotent"
-
-### Other Notes
-
- * snipe at LLMs on p. 185: "Sherlock had absolutely no conception of what a movie was"
- * plausibility question: is OG big enough such that there are a lot of terminally ill assassins? (most terminal patients are old, right?) I remember it being a big deal when Hal Finney died
- * fun names: ZonesOfOught, DarkCardinal, and BayesianBae  (realistic usernames) 
- * distrust of LLM decisions is well taken
- * "it had no real conception of what might happen if its words were acted on"—that part is correct! and it's an alignment problem!
- * "they need to drop the half-baked imitation of it being some kind of colleague"
- * cryonics-as-blood-money is a bit cartoony, but it's not vile slander, it rhymes with a certain strain of bloodless utilitarianism; these days, EA has billionaire support and doesn't need mob support, but back in the day, there was idle talk of life insurance suicide fraud, or Ziz's Uber-for-porn loophole idea; or SBF himself
-
-## Egan's history of TESCREAL criticism
-
- * I don't want to seem too defensive, because I do hate you motherfuckers; I think I've been very clear about that in my memoir; and "Fake Deeply" also engages in some mockery
- * There totally are culty elements: if his impression was formed from https://www.scientificamerican.com/article/ai-safety-research-only-enables-the-dangers-of-runaway-superintelligence/ , I can see why he'd think that
-
- * But Egan's contempt doesn't hit the mark of exactly _why_ the scene deserves contempt, doesn't hit the good parts
- * he has a history of sniping at "us": Nate Caplan in Zendeghi, "Crystal Nights", snipe about the general intelligence theorem in Schild's Ladder
- * Torres and Gebru's TESCREAL is actually apt (EA/OG wasn't a thing at the time of the Zendeghi satire)
- * But risks of AIs not behaving as their creators intended is a real thing that Egan of course acknowledges (as in "Crystal Nights" or "Steve Fever")
- * The polises of Diaspora could have glassed the fleshers _if they wanted to_
-
-
- * "Intelligence explosion microeconomics" isn't _goofy_, even if you disagree with it
-
- * I think I've flip-flopped on the satire of postmodernism in Terenesia: at first I was cold (while I was still a SJW), then I got it, now I'm not sure Egan is a fair critic
- * Cosma Shalizi is even worse: http://bactra.org/notebooks/nn-attention-and-transformers.html#cultists
-
- * compare to Chiang on blurry JPEGs?
-
-https://firstmonday.org/ojs/index.php/fm/article/view/13636/11599 
-
-https://twitter.com/gregeganSF/status/1727940487255138404
-> Oh, I think they've noticed, but some of them still like the, err, "early, funny ones" that predate the cult and hence devote no time to mocking it.
-
- * 
- * Or is the fact that I'm saying "not smart enough" a shibboleth? Egan does not seem HBD-pilled
-
-https://twitter.com/zackmdavis/status/1728850649012695136
-> I still liked Zendegi & "Crystal Nights"! Books that mock my subculture can still be good on the merits! (I do find the contempt puzzling, though. What are the conditions that make mockery seem more appealing than a more tempered "I disagree with this group about this-and-such"?)
-
-https://twitter.com/zackmdavis/status/1365534204075806720
-> new @gregeganSF story is ... based?? (story-universe does not hew to (unrealistic) "universalist" intelligence-implies-nonselfishness assumption often seemingly validated in other Egan stories, somewhat abating my fanciful wish for a collaboration with @robinhanson)
-
-https://twitter.com/robinhanson/status/1365662127504187396
-> And he’s blocked me, not a good sign re collaboration
-
-https://twitter.com/XiXiDu/status/1365675253976956928
-> This made me wonder why I am not following him on Twitter so I checked out Egan's tweets and couldn't find even one opinion that's either controversial or which violates the mainstream consensus. A bunch of woke stuff though. In other words, just noise that's to be ignored.
-
-https://twitter.com/zackmdavis/status/1365715251283464196
-> Only if you're mindkilled by politics!! Knowing as much math and physics as Greg Egan is very time-consuming! Hypothetically, if we did live in a world where mainstream consensus on some less-strictly-technical topics were wrong, it shouldn't be his job to notice. 1/2
-> Also, don't confuse late-20th-century-style environmentalist/human-rights liberalism with Twitter-era wokeness!! His Terenesia (1999) is very tough on postmodernism (in a way that I thought was too harsh when I read it in ~2008, but now, I get it) 2/2
-
-> a bright teenager like Anna could have found some entertainment value analyzing the possibilities rigorously and puncturing the forums' credulous consensus.
-I don't think this is true
-
-https://twitter.com/teortaxesTex/status/1752469634173800710
-> it's like treating two countries at war like a single political party because they're both populated by heliocentrists
-
-Asimov's back issues: https://www.magzter.com/US/Penny-Publications-LLC/Asimovs-Science-Fiction/Fiction/
-
-https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art
-
-> it’s funny that Ted chiang wrote that short story / sermon about empathizing with parrots before looking for alien intelligence but doesn’t recognize the aliens that landed in his backyard
-https://x.com/tszzl/status/1831066060646473732
-
-If you zoom out enough, [the TESCREAL bundle](https://asteriskmag.com/issues/06/the-tescreal-bungle) is real,
+[^hanson-egan]: Though we're [unlikely to get it](https://twitter.com/robinhanson/status/1365662127504187396), I've sometimes wished for a Greg Egan–Robin Hanson collaboration; I think Egan's masterful understanding of the physical world and Hanson's unsentimental analysis of the social world would complement each other well.
