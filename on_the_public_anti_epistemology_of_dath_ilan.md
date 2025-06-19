@@ -230,3 +230,13 @@ Or consider how our Society handles pedophilia. This is a sexuality that we do n
 [TODO—
  * the dath ilan mythos is interesting fiction as Coordination World, people who fall for the eliezera racial superiority bluster really ought to read some sort of book about critical thinking
 ]
+
+> And now consider that the entirety of category (a) simply does not apply to dath ilan.
+https://www.datasecretslox.com/index.php/topic,12846.msg610992.html#msg610992
+
+
+https://glowfic.com/replies/1813137#reply-1813137
+
+
+https://x.com/ESYudkowsky/status/1669776786593583104
+> It's so that Thellim and Keltham don't instantly decode fantasy-medieval societies on arrival.  There's a backrationalization for it within the context of dath ilan, and it's a clever one, but I would strongly bet against Real Dath Ilan actually doing that.
