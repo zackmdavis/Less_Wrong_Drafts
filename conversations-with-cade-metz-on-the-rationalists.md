@@ -222,7 +222,7 @@
 
 **CM**: One more question before I get to what I want to do. The other thing is that these aren't necessarily in a particular order. What's interesting to me is if you go and you look at how these things have been packaged now, it's in a completely different order.
 
-**ZMD**: It's not completely different. The name "Sequences" comes from the fact that there is kind of an order. I'm not sure if it's still online anymore, but at one point, another one of Yudkowsky's fans had put together—while they were being published, there was at the top of the post, there would be a "Follow-up to:", and then link to previous posts. And one of his other fans had like written a script to compile the directed acyclic graph of which posts are prerequisites to other posts. So _Sequences_ is plural. It's not one strictly linear sequence, but there is a dependency graph where like the final post, ["Value is Fragile"](https://www.lesswrong.com/posts/GNnHHmm8EzePmKzPk/value-is-fragile), is not really going to make sense unless you read the other 80,000 words. So there's the sequence on language, there's the sequence on morality, there's the sequence about evolution. And I think like those particular topic sequences are mostly in order.
+**ZMD**: It's not completely different. The name "Sequences" comes from the fact that there is kind of an order. I'm not sure if it's still online anymore, but at one point, another one of Yudkowsky's fans had put together—while they were being published, there was at the top of the post, there would be a "Follow-up to:", and then link to previous posts. And one of his other fans had like written a script to [compile the directed acyclic graph of which posts are prerequisites to other posts](https://web.archive.org/web/20100502183914/http://www.cs.auckland.ac.nz/~andwhay/graphsfiles/dependencygraphs.html). So _Sequences_ is plural. It's not one strictly linear sequence, but there is a dependency graph where like the final post, ["Value is Fragile"](https://www.lesswrong.com/posts/GNnHHmm8EzePmKzPk/value-is-fragile), is not really going to make sense unless you read the other 80,000 words. So there's the sequence on language, there's the sequence on morality, there's the sequence about evolution. And I think like those particular topic sequences are mostly in order.
 
 **CM**: Yeah. The topics are mostly in order, but they do shift a lot of stuff, but the very first one, it's from 2008. So that was kind of surprising. But you're right, I think those sequences seem to be in order. If you had to describe to people, you do a good job of saying,  teach you how to think. Are there like three major lessons, three or four major lessons on the other thing that you feel like are the top of the things that you feel like?
 
@@ -452,7 +452,7 @@ And like, it's kind of sad that at the beginning, I, and I think a lot of people
 
 **ZMD**: Sorry, again, this is why people don't want to talk to journalists. I shouldn't have called it a religion. But in all seriousness, without believing in the supernatural and, in fact, having [an essay in our literature that says here's why supernatural things don't exist](https://www.readthesequences.com/Excluding-The-Supernatural), it's kind of obviously filling the sociological niche of a religion in that there's a social group that believes things that has a canonical text about why the group believes those things. It's that kind of social grouping. So, psychologically and sociologically, it seems very comparable to a religion, even though I would say that a lot of the beliefs are true. As far as the thing that I wrote that 80,000 word memoir about where me and Michael and Ben and Jessica had this whole petty drama about how we think Yudkowsky and MIRI and CfAR have gone wrong, I do sometimes talk about that as being a religious civil war, in the sense that, it's just an apt description.
 
-**CM**: Just because you brought it up, this is why people don't want to talk to journalists. What do you think about journalists that make saying something like that dangerous?
+**CM**: Just because you brought it up, this is why people don't want to talk to journalists. What do you think about journalists that makes saying something like that dangerous?
 
 **ZMD**: Because there's the fear that—oh, that reminds me, I still owe you, I never got around to it, I owe you an explanation of why I thought your _Slate Star Codex_ piece was worse than the _New Yorker_ pieces that I mentioned. I can't do it on the fly now, because I would need to reread the pieces. But basically, there's this fear that big publications, like _The New York Times_ or _The Atlantic_ or something, have a lot of power to determine what people believe. And so if I have my weird religion, I'm just going to use the word religion in this context, maybe I'm a Christian or a Zoroastrianist or whatever, if _The New York Times_ says bad things about my religion, that's dangerous for me.
 
@@ -494,7 +494,7 @@ And like, it's kind of sad that at the beginning, I, and I think a lot of people
 
 **CM**: Is it fair that this—
 
-**ZMD**: It's a risk. What I would say is that there are risks both ways. Thinking for yourself and pursuing radical ideas, pursuing your philosophy wherever it takes you, even if it's an unconventional thing, it can, in fact, go very wrong, as we've seen. But refusing to think for yourself and just doing what your parents and schools want you to do, that's definitely a lower variance path. If your only concern is to avoid anything bad happening, then just do what your parents and schools tell you to do. I'm using this word _variance_. You know what that means. So you can have good things; you can also have bad things. I do think that just doing what your parents and schools tell you to do is not a great life. It's a lower variance life. I think I'm doing much, much better for—as many criticisms as I have of this whole thing, of this whole quasi-religion. It has changed me so much. I am doing so, so much better in life than if it hadn't been there. For now, I am actually finishing college 15 years late. But the way I'm doing itI think the way I'm doing it now makes so much more sense in that I learned how to study for my own reasons from my own books. And then applying all those skills I've gained in the intervening 15 years and applying it to the standard school stuff. It's just a very different experience from just being in school and just doing what the teachers tell you to do, and that's your only experience of what it means to learn. As opposed to, now that I've had some experience, trying to do things for myself and making some mistakes along the way and trying to learn. I can take those skills and apply them to the standard curriculum and now do better. As opposed to when I was at Santa Cruz 15 years ago, I was going to major in philosophy. I didn't have a purpose. I didn't have a plan. I didn't know anything about the world or how to think or how to do anything except sit in a class and do what the teacher tells you to do. It was a very impoverished existence. I think it was pretty bad. I think I'm doing much better in life now. I think I made more money. I think my life is so much better for taking ideas seriously.
+**ZMD**: It's a risk. What I would say is that there are risks both ways. Thinking for yourself and pursuing radical ideas, pursuing your philosophy wherever it takes you, even if it's an unconventional thing, it can, in fact, go very wrong, as we've seen. But refusing to think for yourself and just doing what your parents and schools want you to do, that's definitely a lower variance path. If your only concern is to avoid anything bad happening, then just do what your parents and schools tell you to do. I'm using this word _variance_. You know what that means. So you can have good things; you can also have bad things. I do think that just doing what your parents and schools tell you to do is not a great life. It's a lower variance life. I think I'm doing much, much better for—as many criticisms as I have of this whole thing, of this whole quasi-religion. It has changed me so much. I am doing so, so much better in life than if it hadn't been there. For now, I am actually finishing college 15 years late. But the way I'm doing it, I think the way I'm doing it now makes so much more sense in that I learned how to study for my own reasons from my own books. And then applying all those skills I've gained in the intervening 15 years and applying it to the standard school stuff. It's just a very different experience from just being in school and just doing what the teachers tell you to do, and that's your only experience of what it means to learn. As opposed to, now that I've had some experience, trying to do things for myself and making some mistakes along the way and trying to learn. I can take those skills and apply them to the standard curriculum and now do better. As opposed to when I was at Santa Cruz 15 years ago, I was going to major in philosophy. I didn't have a purpose. I didn't have a plan. I didn't know anything about the world or how to think or how to do anything except sit in a class and do what the teacher tells you to do. It was a very impoverished existence. I think it was pretty bad. I think I'm doing much better in life now. I think I made more money. I think my life is so much better for taking ideas seriously.
 
 **CM**: What is it about the community in particular that enabled that?
 
@@ -684,7 +684,7 @@ Maybe a good example would be, you know, the COVID pandemic. In the early days o
 
 **ZMD**: I think his views have diverged by now. There was that, there was that story where he was advising Sam Altman, EAs are going to kill your company.
 
-**CM**: okay, just, like, to circle all the way back around. Because I want to, you know, make sure I understand. Like, I think it's good for me to get inside the mindset. Uh-huh. Let's take that one overcoming bias blog post. that you think its so important.
+**CM**: okay, just, like, to circle all the way back around. Because I want to, you know, make sure I understand. Like, I think it's good for me to get inside the mindset. Uh-huh. Let's take that one _Overcoming Bias_ blog post. that you think its so important.
 
 **ZMD**: Yeah, so, I'd rather not do this live. I'd rather just send you the—I'm a lot, I'm a lot dumber in real time.
 
@@ -760,13 +760,13 @@ Maybe a good example would be, you know, the COVID pandemic. In the early days o
 
 **ZMD**: To our—to their deep regret.
 
-**CM**: Yeah, there's another side, we can talk about that later, but also like also the creation of Anthropic and it continues to drive the thinking of Anthropic. The community is deeply entwined with Anthropic. There's this like MATS program that is held at Lighthaven and they're like feeding people into the company—
+**CM**: Yeah, there's another side, we can talk about that later, but also like also the creation of Anthropic and it continues to drive the thinking of Anthropic. The community is deeply entwined with Anthropic. There's this MATS program that is held at Lighthaven and they're feeding people into the company—
 
 **ZMD**: I was actually just reading, before you walked up here, I was reading [a comment from Nostalgebraist responding to Evan Hubinger](https://www.lesswrong.com/posts/HE3Styo9vpk7m8zi4/evhub-s-shortform?commentId=uAdgsqWftrZcgb7Es), who is the lead, I think it's the alignment stress testing team at Anthropic. I guess, to me this is normal, but to someone who thinks more in terms of institutions than random internet blog weirdos might find this kind of surprising, because Nostalgebraist is the pseudonym of—I don't know what this person's dayjob is, if they even have a dayjob, and Evan Hubinger actually works for Anthropic, which is a tech company that you've heard of.
 
 **CM**: You call them the internet weirdos, we can call it something nicer like the rationalist, the rationalist-slash-EA community or whatever you want to call it, it is this giant force in that world that in some ways has more power than the companies.
 
-**ZMD*: We wish. We wish.
+**ZMD**: We wish. We wish.
 
 **CM**: It's a different power, but it's power, and nobody knows about it. What I'm doing is explaining this to people, and showing like how this happened. Where did this where did this community come from, how did these ideas evolve.
 
@@ -794,7 +794,7 @@ Maybe a good example would be, you know, the COVID pandemic. In the early days o
 
 **CM**: A, that doesn't surprise me. So many people in this—this is not rocket science people, people in that circle don't view the world the way I do. I view it differently I'm trying to take what's going on in that world, and convey it to the layperson. That is fundamentally going to be different. The writing that I do is completely different from, say, your memoir. Completely different. The layperson cannot comprehend your memoir. Because you think differently. Maybe you think better. Maybe that's a better way to think about the world. But people don't think that way. I'm taking all this stuff and I'm conveying it in a completely different way, and if Ben doesn't like that, that's fine.
 
-**ZMD**: So I definitely I definitely agree that you're writing a book for the general public, you can't just do a raw thought dump of what the people you're covering think, because they're not speaking the same language as the general public.
+**ZMD**: So I definitely agree that you're writing a book for the general public, you can't just do a raw thought dump of what the people you're covering think, because they're not speaking the same language as the general public.
 
 **CM**: But where he's wrong is, I care deeply about the ideas. This is why I'm talking to you. This is why this is so interesting, and why your Diary was so interesting, because what the Diary showed are the ideas that people were thinking about at that time. I love there's this moment where you go back to the group house to the the meetup, and you're talking about, the _Overcoming Bias_ community, and the the topic really on the table is rationality and bias, but it goes towards this transhumanism stuff. It shows that was that was just part of it. So I want to explain the idea of transhumanism to people. I want to explain the idea of rational thought to people. I want to explain why these things intersect in this community. I want to explain all that through the people, and through the things that happened to people.
 
@@ -818,11 +818,11 @@ Maybe a good example would be, you know, the COVID pandemic. In the early days o
 
 **CM**: How would you describe what she said? That's what she said. I said, there are a lot of people who see Scott this way, there are a lot of other people who see Scott that way, I'm going to represent both views, and so she said, you know, what you really need to do is find a way of statistically—
 
-**ZMD**: No, that's a terrible paraphrase. Here, let me bring up my—because in my interview with you, I included a little editor's note of what Kelsey actually said to me afterwards, that wasn't very many words,
+**ZMD**: No, that's a terrible paraphrase. Here, let me bring up my—because in my interview with you, I included a little editor's note of what Kelsey actually said to me afterwards, that wasn't very many words.
 
 **CM**: Is that necessarily what she said to me?
 
-**ZMD**: So without casting blame, without—you know, maybe it was her fault for giving a bad interview and not pushing back enough during the fact-check call, but separately from whether how much of it is your fault and how much of it is Kelsey's fault, the thing that was actually printed in _The New York Times_ was not a good paraphrase of Kelsey's views as I understand them. ["Editor's note: when reached for comment, Piper said that she told Metz that she "wasn't a huge fan of 'both sides' journalism, where you just find someone with one opinion and someone with"](https://www.lesswrong.com/posts/oYnwTuxySiaZYDrur/my-interview-with-cade-metz-on-his-reporting-about-slate)—I mean, I don't have to read this whole quote, but like I wrote like I have this paragraph of what Kelsey said to me afterwards, and then like people who read my interview on Twitter kind of making fun of you—
+**ZMD**: So without casting blame, without—you know, maybe it was her fault for giving a bad interview and not pushing back enough during the fact-check call, but separately from whether how much of it is your fault and how much of it is Kelsey's fault, the thing that was actually printed in _The New York Times_ was not a good paraphrase of Kelsey's views as I understand them. ["Editor's note: when reached for comment, Piper said that she told Metz that she "wasn't a huge fan of 'both sides' journalism, where you just find someone with one opinion and someone with"](https://www.lesswrong.com/posts/oYnwTuxySiaZYDrur/my-interview-with-cade-metz-on-his-reporting-about-slate)—I mean, I don't have to read this whole quote, but I have this paragraph of what Kelsey said to me afterwards, and then people who read my interview on Twitter kind of making fun of you—
 
 **CM**: Of course they are.
 
@@ -840,13 +840,13 @@ There's this thing where if you're just counting heads of, these people say this
 
 **CM**: That's what I do. I really do my best. I just do it a different way.
 
-**ZMD**: I'm just saying, when we when we get to that fact-checking phase, I want to be more diligent than Kelsey, because I don't—with respect, I don't trust you to get the story right. I'm happy to talk out of the principle that I'm happy to talk to anyone. I don't have faith that you're going get it right. When we get to the fact-checking phase, whatever you can show me, I'm going to be like watching like a hawk.
+**ZMD**: I'm just saying, when we when we get to that fact-checking phase, I want to be more diligent than Kelsey, because I don't—with respect, I don't trust you to get the story right. I'm happy to talk out of the principle that I'm happy to talk to anyone. I don't have faith that you're going to get it right. When we get to the fact-checking phase, whatever you can show me, I'm going to be like watching like a hawk.
 
 **CM**: What's so interesting to me is, as you discover, I just think that your story is so interesting, because you kind of knew who Yudkowsky, mentioned in your diary, you read _Great Mambo Chicken_, you really like it, you're kind of intrigued by these—I'm kind of doing fact-checking now—you're intrigued by these transhumanist ideas. You said that future tech is comforting, because it's kind of like religion, but more real, more plausible. And then you're reading [that _Jane Galt_ blog and she links to](https://web.archive.org/web/20071129181942/http://www.janegalt.net/archives/009783.html) that ["Universal Fire" essay](https://www.lesswrong.com/posts/LaM5aTcXvXzwQSC2Q/universal-fire), and you click on it, and you read this thing, and in my story, I explain to them, the Universal Fire essay captures your interest, and you keep reading this stuff, and then you meet these people in person, and that excites you; you see that in your Diary. And you get more and more into these ideas of rational thought, but also, as you show in your Diary, you get into this idea of the singularity. You tell people, I'm down with this, too, right? And then you reach this moment, where you're comforted, also, by this notion that there is this fundamental truth, and that includes this post from Yudkowsky, where he says [men and women are fundamentally different and you can't change](https://www.lesswrong.com/posts/QZs4vkC7cbyjL9XA9/changing-emotions), right, and I go into that essay.
 
 **ZMD**: _[laughing]_ Okay.
 
-**CM**: It's a way of showing these ideas, right? Your eyes are opened by this, you do a good job of explaining it, in an email you send to somebody, where you say this is shocking slash _et cetera_.  There is this comfort, for you in this moment, where you feel like there is an absolute reality, right?
+**CM**: It's a way of showing these ideas, right? Your eyes are opened by this, you do a good job of explaining it, in an email you send to somebody, where you say this is shocking slash _et cetera_. There is this comfort, for you in this moment, where you feel like there is an absolute reality, right?
 
 **ZMD**: Well ... I mean, I agree that there's an absolute reality, but I wouldn't have quite phrased it like that. What I found so striking about that post is just, it was very very clear about something that I had never seen any author articulate so clearly, which is that, yeah, you could fantasize about changing sex, and you can write a fun science fiction story about it, but he points out like, look, there are lots of technical details that you would have to settle here.
 
@@ -854,11 +854,11 @@ There's this thing where if you're just counting heads of, these people say this
 
 **ZMD**: I do use that word a lot, yeah.
 
-**CM**: It's a really good word. In some ways it's a metaphor for this whole movement, it gives people clarity.
+**CM**: It's a really good word. In some ways it's a metaphor for this whole movement; it gives people clarity.
 
 **ZMD**: I mean the thing the thing that the whole memoir is about is expressing rage and frustration that—
 
-**CM**: I haven't gotten there yet, that's what's so interesting. You like a lot of people get comfort from this clarity and this very like cool calculated way of viewing the world. You fast forward to 2016 when has the Facebook post, and then he blows it all up, and then that clarity is lost, in some ways. The comfort and the clarity is lost.
+**CM**: I haven't gotten there yet; that's what's so interesting. You, like a lot of people, get comfort from this clarity and this very cool calculated way of viewing the world. You fast forward to 2016 when has the Facebook post, and then he blows it all up, and then that clarity is lost, in some ways. The comfort and the clarity is lost.
 
 **ZMD**: So again, I don't like thinking in terms of comfort.
 
@@ -872,11 +872,11 @@ There's this thing where if you're just counting heads of, these people say this
 
 **CM**: Clarity.
 
-**ZMD**: Yeah, but clarity isn't—it's not comfortable, it's like—in Paul Graham's writings, he says something about how [people who work at startups as opposed to big companies, they seem more worried but also more alive.](https://paulgraham.com/boss.html) It's more like that. It's not like being clear and telling the truth even when those truths are genuinely uncomfortable, it's not comforting, but it's like a more more intense and vivid way to live. Whereas delusions like delusions that flatter things— well, wouldn't it be nice if that were true—are often more comforting.
+**ZMD**: Yeah, but clarity isn't—it's not comfortable, it's like—in Paul Graham's writings, he says something about how [people who work at startups as opposed to big companies, they seem more worried but also more alive.](https://paulgraham.com/boss.html) It's more like that. It's not like being clear and telling the truth even when those truths are genuinely uncomfortable, it's not comforting, but it's like a more more intense and vivid way to live. Whereas delusions like delusions that flatter things—well, wouldn't it be nice if that were true—are often more comforting.
 
 **CM**: But then that clarity is threatened by this Facebook post. So tell me what you feel in that moment.
 
-**ZMD**: Well, at the time I'm just like very confused. Like, wait, what? Clearly this is hugely in tensions with this thing that he wrote, you know, seven years ago, like, what's going on?
+**ZMD**: Well, at the time I'm just very confused. Like, wait, what? Clearly this is hugely in tensions with this thing that he wrote, you know, seven years ago, like, what's going on?
 
 **CM**: It causes confusion.
 
@@ -948,7 +948,7 @@ And then it turned out that, at least on some topics where getting the correct m
 
 **CM**: I didn't say that. What I pointed out—well, we won't go into that. They're worried about people calling that out. Why are they worried about that?
 
-**ZMD**: In the late teens and early 2020s, we saw that like cultural trend of cancellations. You lived through these years, I don't feel like I should have to explain this.
+**ZMD**: In the late teens and early 2020s, we saw that cultural trend of cancellations. You lived through these years, I don't feel like I should have to explain this.
 
 **CM**: So you're saying that because of that trend, Yudkowsky and the people around him are bowing to this because of that.
 
@@ -964,7 +964,7 @@ And then it turned out that, at least on some topics where getting the correct m
 
 **CM**: But you've also told me in the past that you can't necessarily trust this group's opinions on x-risk.
 
-**ZMD**: Just, in general. I do think x-risk is real. I do think the world should pay the world should be paying much more attention to getting this stuff right, and I think this community is the place where people are paying attention to it, but that doesn't mean you should just defer to what these what these people already think. It means you should think for yourself. I would love for like more people with more diverse backgrounds to read this stuff and think about it for themselves, instead of just, like, copy-pasting Yudkowsky's beliefs, which—
+**ZMD**: Just, in general. I do think x-risk is real. I do think the world should be paying much more attention to getting this stuff right, and I think this community is the place where people are paying attention to it, but that doesn't mean you should just defer to what these what these people already think. It means you should think for yourself. I would love for like more people with more diverse backgrounds to read this stuff and think about it for themselves, instead of just, like, copy-pasting Yudkowsky's beliefs, which—
 
 **CM**: So ultimately you still believe that there is this absolute truth.
 
@@ -978,13 +978,13 @@ And then it turned out that, at least on some topics where getting the correct m
 
 **ZMD**: _[laughing]_
 
-**CM**: What you said is it like after this situation, it changed the way you read that. Explain that.
+**CM**: What you said is after this situation, it changed the way you read that. Explain that.
 
 **ZMD**: _[laughing]_ I'm laughing because like this is exactly the reason that everyone's like, don't talk to Cade Metz, because this is the part they don't want to talk about.
 
 **CM**: It's so interesting.
 
-**ZMD**: But I'm happy to talk to anyone. I had read Yarvin, writing as Moldbug, back in the late 'aughts, just because I read lots of things on the internet. It was something I had read and not taken very seriously, and then in light of suddenly everyone I trust are saying that guys like me can be women by means of saying so, which is just so transparently absurd, Yarvin's model of the political pressures and the asymmetry between the left and right in the US—sorry, I'm not I'm not nearly as much of a Yarvin scholar as a Yudkowsky scholar, so I don't think I can summarize the model briefly verbally.
+**ZMD**: But I'm happy to talk to anyone. I had read Yarvin, writing as Moldbug, back in the late 'aughts, just because I read lots of things on the internet. It was something I had read and not taken very seriously, and then in light of suddenly everyone I trust are saying that guys like me can be women by means of saying so, which is just so transparently absurd, Yarvin's model of the political pressures and the asymmetry between the left and right in the US—sorry, I'm not nearly as much of a Yarvin scholar as a Yudkowsky scholar, so I don't think I can summarize the model briefly verbally.
 
 **CM**: What you're saying is that model started to make sense to you.
 
@@ -1008,7 +1008,7 @@ And then it turned out that, at least on some topics where getting the correct m
 
 **CM**: I get it. I get it. It's so interesting how there is this determination to engage. I think that that's interesting. And that's all I'm saying in that _Slate Star Codex_ piece.
 
-**ZMD**: Read the first section of part four, I think I explained my issues with it. 
+**ZMD**: Read the first section of part four; I think I explained my issues with it. 
 
 **CM**: I undersand, I think it boils down to, again, you're kind of paraphrasing, right; I've got to boil stuff down, I have space. I get it. We've gone over that. 
 
@@ -1020,7 +1020,7 @@ And then it turned out that, at least on some topics where getting the correct m
 
 **CM**: Where does that come from?
 
-**ZMD**: I've always been this way, in a way that it makes it makes sense that I fell in with this group, because I was like this beforehand.
+**ZMD**: I've always been this way, in a way that it makes sense that I fell in with this group, because I was like this beforehand.
 
 **CM**: They probably all were. There's this great moment in your Diary where you're talking with Anna about her being surprised that you're in the 97th percentile on SATs. It really shows that. All of you are so concerned with the intelligence.
 
@@ -1038,9 +1038,9 @@ And then it turned out that, at least on some topics where getting the correct m
 
 **ZMD**: Because it's faster.
 
-**CM**: No. We're dumber in some ways; we're smarter than others
+**CM**: No. We're dumber in some ways; we're smarter than others.
 
-**ZMD**: Okay
+**ZMD**: Okay.
 
 **CM**: We can have a back-and-forth; you can correct yourself; you can respond to what I said. You can't do that on the page.
 
@@ -1110,19 +1110,15 @@ The smart version of this idea for futurism is imagining that like, if you have 
 
 **CM**: Isn't there a really good argument to be made though, that the race we're in now is what's really dangerous?
 
------ [TODO edit this section]
+**ZMD**: That's why Yudkowsky and Soares have said, creating—I mean, there was a part where like, there was this weird thing where when OpenAI was announced, Soares [posted on the MIRI blog](https://intelligence.org/2015/12/11/openai-and-other-news/)—
 
-**ZMD**: That's why Yudkowsky and Soares have like said creating I mean there was a part where like there was this weird thing where like when open AI was announced like stories like posted on the Miri blog like
+**CM**: Saw that [_inaudible_]. Said he was excited.
 
-**CM**: yeah
+**ZMD**: And like privately he, I mean he has a rationalization of why that was not technically lying, but like, functionally, that's a lie.
 
-**ZMD**: and like privately he I mean he has a rationalization of why that was like not technically lying but like functionally that's a lie like
+**CM**: Do you think he was purposefully lying in the moment?
 
-**CM**: was he do you think he was purposeful he was
-
-**ZMD**: like trying to again I don't have insider knowledge here this is just my my understanding from like gossip channels and stuff but like the like he didn't feel comfortable he didn't feel comfortable like saying in public this sounds like a horrible idea what what the hell are you guys doing this is terrible he felt like that would not be because you know there was so much money and power behind this open AI thing that he didn't feel comfortable criticizing in public at that time I mean you I don't I don't have he probably on his Twitter somewhere but like Yukowski said somewhere that like he cried at the open AI announcement
-
------
+**ZMD**: He was trying to—again, I don't have insider knowledge here, this is just my understanding from like, gossip channels and stuff, but like—he didn't feel comfortable saying in public, this sounds like a horrible idea, what what the hell are you guys doing, this is terrible. He felt like that would not be—because you know, there was so much money and power behind this OpenAI thing, that he didn't feel comfortable criticizing in public at that time. It's probably on his Twitter somewhere, but Yudkowsky said somewhere [that he cried at the OpenAI announcement](https://x.com/ESYudkowsky/status/1683592535569231873).
 
 **CM**: It is interesting, separately, Paul Christiano and Dario Amodei, they were actually in talks with those guys. They didn't join the lab, but then they joined a little bit later. It seems because they wanted to change the culture. OpenPhil came in with 30 million dollars. 
 
@@ -1144,33 +1140,27 @@ The smart version of this idea for futurism is imagining that like, if you have 
 
 **ZMD**: Yudkowsky has changed his mind about this. There's the book coming out in September, _If Anyone Builds It, Everyone Dies_ that's lobbying for an international treaty to not build it. So nowadays the plan is, our only hope—this probably won't work, but our only hope is to get governments to make people not build it.
 
------ [TODO continue editing transcript —59:09]
+**CM**: I'm fascinated by the Anthropic philosophy where we're gonna build it and create this race to the top, they talk about. What they did is they came into OpenAI, and then they scaled it up. They were the ones that scaled it up. It's not like anybody else was—they scaled it up, and their argument is, you got to be working on the technology to do safety but—
 
-**CM**: yeah I'm fascinated by the anthropic philosophy where we're gonna build it and create this race to the top they talk about like oh you know well what they did is they came into open AI yeah and then they scaled it up like they were the ones that scaled it up it's not like anybody else was they scaled it up and their argument is you gotta be working on the technology to do safety but
+**ZMD**: I'm kind of sympathetic to that.
 
-**ZMD**: I kind of I'm kind of sympathetic to that
+**CM**: Tell me why.
 
-**CM**: tell me why
+**ZMD**: The logic of if we don't do it, someone else will—I think it's true on some timescale. If we don't do it, someone else might not do it immediately, but like as as time goes on, and economic growth continues, eventually someone is going to get around to it. The idea of, we the foresighted people are going to do what we can to take leadership in doing this in the most responsible way, that we can, like—I won't necessarily say—I'm not going to necessarily full-throatedly agree, but it doesn't seem like an entirely crazy thing to think or try.
 
-**ZMD**: cause like if we don't like the logic of if we don't do it someone else will like it I think it's true on some time scale like if we don't do it like someone else might not do it immediately but like as as time goes on and economic growth continues and people and like eventually someone is going to get around to it and so like the the idea of like okay we the we foresighted people are going to like do what we can to like take leadership in like doing this in the most in the most responsible way that we can like I won't I won't necessarily say I I'm not going to necessarily full-throatedly agree but like it doesn't seem like an entirely crazy thing to think or try
+**CM**: It does seem like that classic argument between free will and determinism. It's this very deterministic stand. It's going to happen no matter what, so we might as well do it. I think it's one way to see the world. I don't know. I think I think there's another way to look at it. Is that fair?
 
-**CM**: it does seem like the art that sort of classic argument between free will and determinism like it's like it's like very deterministic yeah you know stand it's gonna happen no matter
+**ZMD**: What is the other way?
 
-**ZMD**: what
+**CM**: That if you scale this thing up as quickly as you can, you're creating a lot of the problems that you sought to avoid.
 
-**CM**: so we might as well do it I think it's one way to see the world
+**ZMD**: Yeah.
 
-**UNKNOWN**: but
+**CM**: We'll see how it all plays out. Have you read Yudkowsky's book?
 
-**CM**: I don't know I think I think there's another way to look at it is that fair
+**ZMD**: No. It's not published yet, and I am not on the pre-readers list.
 
-**ZMD**: what is the other way
-
-**CM**: that if you scale this thing up as quickly as you can you're creating a lot of the problems yeah yes yeah we'll see how you read you cast this book
-
-**ZMD**: No. It's not it's not published yet, and I am not on the pre-readers list.
-
-**CM**: The other thing is I think the other reason that they're scaling it up you know continue to push for this is they think it's gonna bring utopia right yeah I mean like that's the flip side it's like the flip side that's where they're worried about destruction but what they really you know well because
+**CM**: The other reason that they're scaling it up and continue to push for this, is they think it's gonna bring utopia. That's the flip side. It's like this flip side where they're worried about destruction, but what they really—
 
 **ZMD**: LLMs are already economically useful. I do use these things all the time.
 
@@ -1186,58 +1176,442 @@ The smart version of this idea for futurism is imagining that like, if you have 
 
 **ZMD**: Yeah. That's right, that's right.
 
-**CM**: That might be the end of the book, and it sort of sums it up.
+**CM**: That might be the end of the book, and it sort of sums it up. One other thing, because you pointed to that thing from Scott Alexander, where he sums up what rationality is, like I talked about before, and you talked about it as like, joking, but not. I think that's right.
 
-okay one other one other thing because I you pointed to that thing from a scholar where he sums up what rationality is like I talked about before and you talked about it as like joking but not I think that's right like it's
+**ZMD**: I don't remember which thing you're talking about.
 
-**ZMD**: I don't remember which thing you're talking about where he says what are the rationalists really the belief that Eliezer Yudkowsky is the rightful call-off
+**CM**: Where he says what are the rationalists really—
 
-**CM**: exactly I mean that's I think you sum it up well it's true sort of a joke
+**ZMD**: The belief that Eliezer Yudkowsky is the rightful caliph.
 
-**ZMD**: well yeah and that's why I got so mad and like spent the last nine years of my life trying to fix this stupid cult is that like I actually believed that Eliezer Yudkowsky was the rightful call-off and then it turns out like he's not interested in living up to that standard because it would be politically inconvenient when you're trying to run a non-profit in Berkeley so that
+**CM**: Exactly. I mean that's, I think you sum it up well, it's true, sort of a joke, but.
 
-**CM**: was the way but the column wasn't standing out for what he should yeah
+**ZMD**: Well, yeah, and that's why I got so mad and spent the last nine years of my life trying to fix this stupid cult, is that I actually believed that Eliezer Yudkowsky was the rightful caliph, and then it turns out he's not interested in living up to that standard, because it would be politically inconvenient when you're trying to run a non-profit in Berkeley.
 
-**ZMD**: I mean and like maybe like you know it's possible that was like the right decision from an existential risk management perspective of like let's not let's not venture I mean as you've noticed that like a lot of people around here are eager to like talk about everything including all the heresies but like the leadership isn't going to like be be serious like free speech free inquiry maximalists and like maybe that's the right decision from an existential risk management thing but I think if you're going to do that you should be humble you should be humble about like not insinuating that you and your flunkies are the only sane people in the world and so that's why so in part four I the end of part four of my memoir I talk about this very explicitly I'm not really like I also think Scott is being pretty dishonest for political reasons I think he's less self-aware about it than Yukowski that's just my read I don't obviously I'm not I'm not a mind reader but that's my read of the situation but I have a lot less personal I feel much less personally aggrieved at Scott because precisely because Scott is so humble like he's not like he writes a blog a lot of people read the blog but he's not expecting people to defer to him as an authority figure he's just like I write a blog I'm just a guy who writes a blog and Yukowski does not identify as I'm just a guy who writes the blog he's like I am the only sane person on earth and he doesn't you know the sequences were so good that I actually thought the screen was credible at the time it really did seem credible at the time and he just does not seem interested in living up to this these days or even like noticing I I'm not sure how like to this day I am not sure to what extent he is being consciously dishonest versus has fallen into self-delusion but it's it's
+**CM**: So that was the way the community worked, but the caliph wasn't standing up for what he should.
 
-**CM**: well last thing on the consciously dishonest front people talk about this you you linked to that blog post it was EA has a lying problem
+**ZMD**: I mean, like maybe it's possible that was the right decision from an existential risk management perspective, of let's not venture—I mean, as you've noticed, a lot of people around here are eager to talk about everything, including all the heresies, but the leadership isn't going to be serious free speech free inquiry maximalists, and maybe that's the right decision from an existential risk management thing, but I think if you're going to do that, you should be humble you should be humble about not insinuating that you and your flunkies are the only sane people in the world. That's why, in part four of my memoir I talk about this very explicitly, I also think Scott is being pretty dishonest for political reasons; I think he's less self-aware about it than Yudkowsky, that's just my read;  obviously I'm not I'm not a mind-reader, but that's my read of the situation—but I feel much less personally aggrieved at Scott, precisely because Scott is so humble. He writes a blog. A lot of people read the blog, but he's not expecting people to defer to him as an authority figure. He's just like, I write a blog, I'm just a guy who writes a blog. And Yudkowsky does not identify as, I'm just a guy who writes the blog, he's like, I am the only sane person on earth. The sequences were so good that I actually thought this claim was credible at the time. It really did seem credible at the time, and he just does not seem interested in living up to this these days, or even noticing. To this day, I am not sure to what extent he is being consciously dishonest _versus_ has fallen into self-delusion but it's, it's ...
 
-**ZMD**: was the post
+**CM**: Well, last thing on the consciously dishonest front, people talk about this, you linked to that blog post, it talks about, did they say "EA Has a Lying Problem", or what it the whole community has a lying problem?
 
-**CM**: so people talk about
+**ZMD**: ["EA Has a Lying Problem"](https://srconstantin.github.io/2017/01/17/ea-has-a-lying-problem.html) was the post.
 
-**ZMD**: that
+**CM**: So people talk about that.  It's like everything is in service of this x-risk thing, and so lying becomes okay, or undermine your values in other ways becomes okay, because you're saving the world. How real is that?
 
-**CM**: like it's like everything is in service of this x-risk thing and so lying becomes okay but or undermine your values in other
+**ZMD**: I think there are people who are falling into that failure mode, and there are also other people who are criticizing them for that. Both those things can happen at the same time, because again, we talk about the movement as an abstracted thing, but it's actually thousands of different people who happen to read the same stuff. Some of them are more honest than others, and some of them are less honest than others, and some of them are true believers, and some of them—and so like, Sam Bankman-Fried, you know, as of 2021, everyone would agree, Sam Bankman-Fried, oh, he's an effective altruist, he's totally one of us. And then afterwards, we're like, wait, he shouldn't count. 
 
-**ZMD**: ways
+**CM**: It's like anyone who missteps. Zizians? They're not part of it. Sam Bankman-Fried, Leverage, all that stuff, not part of it. I don't know, when you have enough evidence that there might be a problem with the extreme. Honestly, it's hugely helpful. I might come back to you with a couple things, where you were elected to talk, but if you write it down, if you wrote down what you meant about Anna Salamon's response.
 
-**CM**: becomes okay because you're saving the world
+**ZMD**: In general, I'm happy to talk, because I'm happy to talk to anyone, but in terms of maximizing accuracy for the book and not doing the thing you did to Kelsey Piper, I would prefer email, just because I can think carefully and and write the exact paragraph that expresses exactly the thing, whereas like in real time I'm just like—
 
-**UNKNOWN**: like
+**CM**: I can do that. I can give you a list of facts.
 
-**CM**: how real is that
+**ZMD**: If you give me a huge list of facts, I can go line by line and be very, very precise. Okay. When is this coming out?
 
-**ZMD**: I mean I think there are people who are falling into that failure mode and there are also other people who are criticizing them for that so like both those things can happen at the same time because like the move like the again we talk about the movement as an abstracted thing but like it's actually like thousands of different people who happen to read the same stuff and so like some of them some of them are more honest than others and some of them are less honest than others and some like some of them are true believers and some of them and so like Sam you know Sam Bankman Freed you know as of 2021 everyone would agree Sam Bankman Freed oh he's an effective altruist like he's totally one of us and then afterwards we're like wait he shouldn't count it's like anyone
+**CM**: We'll see. Sometimes it's hard to tell with the book publishing industry. I'll keep you updated. What's your impression of what Roose is doing with this community?
 
-**CM**: yeah exactly anyone who missteps yeah Zizians they're not part of it yeah Sam Freed leverage all that stuff not part of it yeah I mean I don't know when you
+**ZMD**: I don't know the details. The reason I mentioned you to him is because you both work for _The New York Times_. so it's a conversation—you know, I've read a few of his articles, I listened to a couple podcast episodes, and I happened to see him at Less Online. That's all I know. I don't actually know anything.
 
-**ZMD**: have enough evidence
+**CM**: Just curious. Fantastic. Thank you as always.
 
-**CM**: yeah there might be a problem with the strength yeah okay honestly it's hugely helpful I might come back to you with like a couple things where you know where you were elected to talk but if you write it down like if you wrote down what you meant about Anna Solomon's response yeah
+**ZMD**: Okay, thanks.
 
-**ZMD**: I would so like in general like I mean if for like you know I'm happy to talk because I'm happy to talk to anyone but like just in terms of in terms of like maximizing accuracy for the book and like not not doing the thing you did to Kelsey Piper like I would prefer email just because like I can think I can think carefully and write the exact paragraph that expresses exactly the thing whereas like in real time I'm just like
+### 12 August 2025
 
-**CM**: it's harder yeah
+[the first few minutes were a separate post]
 
-**ZMD**: if you give me a huge list of facts I can go line by line and like be very very precise
+**ZMD**: One other question here, so the Lighthaven piece included a photo of Eliezer Yudkowsky wearing a golden fedora. Can you say anything about how that photo was chosen? Is that your decision, is it your editor's decision? Who chooses the photos?
+
+**CM**: I mean, _The New York Times_ chose the part of the photos. We have lots and lots of people who work on stories. It's probably not right for me to talk about.
+
+---- [TODO edit this part ]---
+
+**ZMD**: Sorry, so the reason I'm asking is that like Yudkowsky reacted to the photo on Twitter like assuming that it was your choice and if that's not true then like
+
+**CM**: I guess
+
+**ZMD**: you can't comment on the editorial the photo choice
+
+**CM**: I think that picture has appeared in the New York Times but yeah right right
+
+**ZMD**: do you want me to read what he said or is it not interesting
 
 **CM**: okay
 
-**ZMD**: when is this coming out
+**ZMD**: so he said um quote I expect Cade Metz is deliberately showing a photo which says nerd so that his audience will feel it's safe to bully his targets about being culty cultists a real cult leader might seem dangerous Metz needs to also convey that he's lying end quote
 
-**CM**: yeah yeah okay what's your impression of what Bruce is doing with this community
+**CM**: he said worse yeah I guess
 
-**ZMD**: I don't I mean I don't know the details like I basically I just sorry I mentioned like the reason I mentioned you to him is because like you both work for the New York Times so it's a conversation I'm you know I've read a few of his articles I listened to a couple podcast episodes and I happened to see him at less online that's all I know I don't actually know anything
+**ZMD**: I just thought like he can say
 
-**CM**: fantastic thank you as always okay
+**CM**: whatever he wants
+
+**ZMD**: yeah I just thought it would be interesting so the reason the question seemed worth asking is because it would be interesting if like it turns out that like so I don't know how it works inside at the times but like if someone else chooses the photos if it's someone else's job to choose the photos then the thing he said about you would be false
+
+**CM**: but if you can't
+
+**ZMD**: comment on that whatever
+
+**CM**: I think I'll talk about myself I don't want to talk about anybody else at the times yeah I have a lot more notes
+
+-------
+
+**ZMD**: Those were the prepared questions I had.
+
+**CM**: Well, one tiny question I had for you, I want to make sure I got this right. When you you talk about that great moment where you discover the "Universal Fire" essay through that _Jane Galt_ blog, had you dropped out of Santa Cruz at that point?
+
+**ZMD*:: No, no, that was before—that was like—so I had been—that was after my first year. I entered UC Santa Cruz fall of 2006. And so like spring quarter—they were in the quarter system—spring quarter 2007, I had some academic trouble, I got a D in vector calculus, but then so I was coming back in the fall, coming back to Santa Cruz in the fall, and reading _Overcoming Bias_.
+
+**CM**: So when did you drop out?
+
+**ZMD**: After that quarter, actually.
+
+**CM**: So you did go back.
+
+**ZMD*:: Yeah, I did go back. I remember being at being at UC Santa Cruz in fall 2007 and reading _Overcoming Bias_ in the computer labs, and then having a nervous breakdown at the end of the quarter.
+
+**CM**: Got it. Alright, that's good. I wanted to make sure I got that right. What I really am interested in, what I think is what's crucial to people understand, is that this community has played a role in everything that we're seeing, and so that's what I'm aiming to do.
+
+**ZMD**: Yeah, I definitely agree that there's a real story there.
+
+**CM**: Exactly.
+
+**ZMD**: There was a _Wired_ piece that had that really funny part where Daniella Amodei said like, I don't know very much about EA, I think it's kind of an outdated term, and then the reporter points out that she's married to Holden Karnofsky. That kind of thing is kind of funny.
+
+**CM**: It's not only funny, it's really interesting. A thing I think about a lot is that that kind of thing has been part of the community for years, right, where people wouldn't say they were EA, they would say they were EA-adjacent. Did you experience that? I mean, that's something that a lot of people—
+
+**ZMD**: I definitely heard the phrase "EA adjacent" a lot.
+
+**CM**: Exactly, you hear it a lot, people have said it to me about themselves, for years and years and years. It's sort of this interesting phenomenon where you have you have this community, which is obvious,  it's documented on the internet, again, it's had a real effect in so many ways, but then so many people say they're not part of it, which a little makes sense, in that, you know, there aren't rationalists membership cards, EA membership cards, you know there's no official body, necessarily. It's this kind of organic community. Why do you think even in the past people wouldn't identify? Is there something in your generation or in that community that doesn't want to identify? Some people do.
+
+**ZMD**: Until I had my conflict with them, I was quite happy to call myself a rationalist. I would not have called myself an EA, but I did give a lot of money to charity before I stopped.
+
+**CM**: Why do you think that others were reluctant to associate themselves with the community?
+
+**ZMD**: I'm not really sure. After the FTX thing, there was definitely brand damage from that.
+
+**CM**: Oh, yeah, exactly. That's clear and that's obvious, but what's interesting to me is that even before that, people would do it. Some people have argued it's just a thing with your generation to not want to be part of the larger collective.
+
+**ZMD*: I think that impulse is healthy. We want people—I want people to think for themselves.
+
+**CM**: Some people in the community do right, and not everybody agrees, but there is still a community, it's a social thing, but it's also it's an agreement on these larger issues, meaning AI's on that trendline, it's going to be powerful, it could deliver the singularity, but it could also kill us, right, and there are these common ideas that people congregate around, that's a real a real thing. I am fascinated by this idea that even the people who are as close to the middle of it as you can get, the power center, they're like, I mean, that's fascinating.
+
+**ZMD**: I suspect Daniela would have been like more forthcoming if it weren't for the FTX thing, probably?
+
+**CM**: I think you're right. Why do you feel like that changed it?
+
+**ZMD**: I mean, it is kind of embarrassing, right? Before, you can always say, well, we didn't know, and that's true, we didn't know, but like ...
+
+**CM**: The other thing I think about is that any ideology, any belief taken to an extreme, can be dangerous. There are many examples of this in the community: Leverage Research, SBF, the Zizians.  Do you ever think about that? That there are multiple examples of this ideology being taken to an extreme.
+
+**ZMD**: I don't spend a lot of time thinking about this. Ozy Brennan, who you quoted in the Lighthaven piece, actually has like [an article about that topic in _Asterisk_ magazine, "Why Are There So Many Rationalist Cults?"](https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults) I guess I don't spend a lot of time personally worrying about this because I feel like it's not a problem for me. Maybe some people would say that I have extreme beliefs, but I don't seem to be having problems.
+
+**CM**: I guess there are two things, you could have a single person having extreme beliefs, or the group—the group dynamic is part of this. That can be dangerous. If everybody is pushing everybody else to the extreme. But you don't think much about that.
+
+**ZMD**: So there's also there's also this problem of like different groups like slandering each other. I mentioned in the memoir that there were a couple years when I was collaborating with Michael Vassar and some of his friends on a lot of intellectual stuff. I still consider myself friends with Ben Hoffman and Jessica Taylor. I don't talk to Michael very much these days. We chatted briefly at a conference the other month. But there's some people who call us "the Vassarites" with cultish insinuations in a way that just sort of seems like slander, because from the inside, like, what? We're different people who talk to each other sometimes, what is the alleged problem here, exactly?
+
+**CM**: It's a great point. It's a tricky thing to describe.
+
+**ZMD**: So that's why—you've told me that like the book will be able to capture more nuance than the _New York Times_ articles. I hope you're telling the truth about that, because the conversations that we have here are actually good. In these conversations here, you seem you seem pretty perceptive. I want to trust you.
+
+**CM**: Good to hear.
+
+**ZMD**: Well, no, and then I listen to the audio commentary on the _New York Times_ piece, and I'm like, ugh, really? _Really?_
+
+**CM**: Think of it this way. You're not the only person I'm talking to.
+
+**ZMD**: Well, it's true, but like—
+
+**CM**: You have to take these ideas  and really help people understand it. It's something very different than they're used to. I definitely see what you're saying, but a lot of these ideas are in this book, like the thing we just talked about, that this there is this phenomenon where people have a problem with being associated with the group, and that's real, but the group is also real. The collective has power, even if no one says they're part it, because they are working together.
+
+**ZMD**: Ideological coordination.
+
+**CM**: Sure. Great term. I love that; I'm going to quote you on that.
+
+**ZMD**: I think I got that I think I got that from, [there was an article in _Palladium_ magazine that used that term](https://www.palladiummag.com/2019/08/05/the-real-problem-at-yale-is-not-free-speech/), and it stuck with me.
+
+**CM**: It's really a great term, and what's so interesting is that having covered this field for a long time, having kept an eye on this community and talked to people in and around it, people with both feet in it, people with one foot in it, people on the outside, I can recognize what someone is going to do based on their proximity to that ideology.
+
+**ZMD**: There's also this thing where I kind of think the coordination is bad and wish people would like—so again, the Sequences were great. I really think the philosophy is really really great. In principle, the philosophy of EA seems pretty good, too: help people, help people efficiently. But there's this coordin—so specifically, your Lighthaven article came out, I mentioned on Twitter somewhere that I've been talking to you, and someone who had been supportive of my gender and philosophy of language war, actually, was critical of me on the grounds that—so the final sequence in Yudkowsky's Sequences had been on "The Craft and the Community", and one of the posts was ["Why Our Kind Can't Cooperate"](https://www.readthesequences.com/Why-Our-Kind-Cant-Cooperate) and was pointing out that our kind of personality type, of libertarian atheist techno nerd people, tend to be hard to cohere into everyone supporting a group effort, as opposed to conventionally—as opposed to religious people who can form a collective, form a powerful collective, and Yudkowsky is arguing that we the nerds should also be able to harness the technology of coordination.
+
+**CM**: That's really interesting. What's it called?
+
+**ZMD**: "Why Our Kind Can't Cooperate."
+
+**CM**: So it was on _Overcoming Bias_, one the last of the sequences.
+
+**ZMD**: It was _the_ last sequence, it was the sequence that appeared on _Less Wrong_ instead of _Overcoming Bias_, so in early 2009. I mentioned I had been talking to you and someone someone who had been broadly supportive of me and my work criticized it as, the fact that we can't even we can't even coordinate to not talk to the guy who doxxed Scott Alexander, is why our kind can't cooperate, it's epitomizing that tendency that Eliezer was complaining about.
+
+**CM**: That's true. But they do a pretty good job of coordinating on that one.
+
+**ZMD**: That was another thing I was wondering. I had asked this question, I don't think you gave me an answer, maybe you don't want to give me an answer, but has reporting on this topic been noticeably harder than other reporting that you've done, because of that angle?
+
+**CM**: Reporting is hard. If you're covering Google—
+
+**ZMD**: Googlers don't want to talk, either.
+
+**CM**: They don't want to talk. It's just reporting. It's just reporting. And people _[dropping to a whisper]_ always talk. And good for them. Like I said, I admire your philosophy, like information—
+
+**ZMD**: But so, that's just that's kind of why I wanted to—because again, I mentioned I did not like the religion angle in this piece, and so I was just worrying that, oh man, I really, really—I was worrying if the people criticizing me might have a point. I think if the book turns—I guess this is why I was curious why I sent that email asking about if you could share drafts, because if you're not telling the truth about the book being more nuanced, then I think the people criticizing me probably had a point.
+
+**CM**: Well, of course it's more nuanced. It talks about all these ideas. I just told you about that. But think about it like this. You say that I'm the guy that doxxed Scott Alexander. I still—did I? The guy had just revealed his own name.
+
+**ZMD**: I explained this game theory thing to you on April 22nd; I guess you didn't get it, but it's really important.
+
+**CM**: I get what you're saying. Some people just don't, wouldn't agree with that.
+
+**ZMD**: Well, no, but I think that I think this is pretty straightforward. He had a job as a psychiatrist.
+
+**CM**: I understand why he did it, okay. I also understand why _The New York Times_ and I did what we did. It was a clash of ideology. It went down the way it went down. It was astounding when it happened. And then, you know, I will walk down the street, and people will say that's the guy who doxxed Scott Alexander, and I think, did I? Did I dox him?
+
+**ZMD**: I mean, I'm not attached to that particular choice of word. The issue is, he wanted his political writing to stay under the pseudonym, and he didn't want that like visibly tied to his identity as a psychiatrist, even though, as you have pointed out, he did not have very good opsec. The information was out there, but he was depending on a security-by-obscurity strategy, where like the information was discoverable, but he didn't want it in _The New York Times_. It's true that he published the name first, but the reason he did that is because he knew that you were going to put it in _The New York Times_, and so he wanted it to happen on his terms.
+
+**CM**: I completely get it, but again, if you look at the group, as opposed to the individual, the group very often decides certain things, and operates in lockstep. The group has decided that it shouldn't talk to me, because I did this horrible thing. It's a thing that, if the average person looks at it, they don't understand it. That's the power of these ideologies we talked about.
+
+**ZMD** That's also in a lot of ways the power of _The New York Times_, and why people are so afraid of you, is because they're afraid—so you're you are correctly pointing out that there's this cabal of Scott Alexander and his friends who have the power to like determine what these thousands of people believe. But the reason those people are afraid of you, is because you have the power to decide what a much larger group of people believes. There are lots of people who read _The New York Times_ and just believe what it says. That's why people are so scared when you're pushing this religion angle. That's why I'm like having these second thoughts, like, man, I really want to just talk to everyone, and now—
+
+**CM**: I know, but you know, and so many people in your community, and your friends, use all the same terms, and it's okay when you do it, but somehow it's not okay if _The New York Times_ points out that there are these characteristics. We're being careful with that language. 
+
+**ZMD**: I think I would I think I would object less—in fact I might not object at all—if you had said _ideology_ instead of _religion_.
+
+**CM**: I hear what you're saying, but I quote a Franciscan nun and scholar about what religion is. People use these terms all the time.
+
+**ZMD**: This was actually in my prepared questions, and I skipped over it because the conversation didn't zag that way. Sorry, one moment. You'd included a quote from our April 22nd conversation, or in an earlier in an earlier revision of the article, you'd included this, quote, "Psychologically and sociologically, it seems very comparable to a religion, even though I would say that a lot of the beliefs are true," end quote. I still stand by that quote, because the thing I said was appropriately qualified. As I said in the interview, I was referring to the sociological niche of a social group that believes things that has a canonical text of why the group believes those things. I was drawing a parallel to religion, while making it clear that the beliefs themselves can be evaluated on the empirical merits, rather than being dismissed as the group's self-serving myth. Why did you cut that quote?
+
+**CM**: Because you asked me to. You didn't want to be included.
+
+**ZMD**: Sorry, point of clarification, from my perspective, that wasn't what I was asking. I think you made a probabilistic inference that would be correct about most people, but was actually not what I was requesting, because I have this weird ideology. We had that phone call where I was annoyed that you were taking this religious angle—
+
+**CM**: I should clarify. I didn't take it out because of anything you said, it just came out. Lots of things go in and out. No, you're right. It didn't have anything to do with that.
+
+**ZMD**: But to explain the weird ideological thing, I was complaining, I was expressing annoyance that you were taking this religious angle, but I still stand by my quote. I think it's fair game for you to use that quote, because I know the rules of the game.
+
+**CM**: It was on the record, of course it's fair game.
+
+**ZMD**: Yeah, exactly.
+
+**CM**: It's a great quote, and this is an interesting thing that I explore as well. A lot of people see this where they see like the belief in the singularity coming as something very different than religion because it's science based, and that if you follow those trendlines, you get there. Again, there's still faith there. You don't know when, you don't know. We're not sure that's definitely going to happen, and so there is this overlap. That's why I like your quote. I don't remember why it came out, but it came out.
+
+**ZMD**: From my perspective, there's this really unfortunate thing, where the underlying tendencies in human psychology that make religions be like a memetically stable thing, like we are human, we necessarily think in the kind of way that results in religions being a thing. The problem is when you encounter this belief that, oh, wow, artificial intelligence or superintelligence will remake the entire world, it definitely pattern-matches to these grand visions, and a lot of people do go crazy over that. At the same time, when I think about what I know about what I think people have learned from science, and taking what humanity has learned from science seriously, it still seems pretty credible, just because—
+
+**CM**: People have agreed with you since the earliest days of the extropians, this is what this is what they talk about. They say we don't believe in organized religion and this idea of heaven and hell; we're going to create our own afterlife here, with science and technology. It's a replacement.
+
+**ZMD**: There's a good post—I'm wondering if I should be embarrased to be citing the Sequences at this point.
+
+**CM**: Of course not.
+
+----- [TODO: continue editing transcription here 38:39]
+
+**ZMD**: Well, no, because you're going to pattern-match it to like oh it's like citing the bible no but I think it's a good point though that hold that thought we keep going what are we
+
+**CM**: going to
+
+**ZMD**: say like Yudkowsky makes this great point about like taking taking history seriously and sort of like realizing that because you know a lot of people like just sort of like you think of the world that you grew up in as normal and you and when you when you hear about ideas of radical change from that you think like wow that seems like a weird fantasy fairy tale but the things we think of as normal have not always been here like if you go back you know 10 20 100 1000 years you know there were not always computers there were not always cars there was not always abundant food there was not always literacy if you go act sufficiently further enough there were not always humans and so like if you like zoom out to this like thinking about how the universe evolves like there have been radical changes and the idea that
+
+**CM**: like the
+
+**ZMD**: idea that like the thing that we have now where you have a bunch of human you have a bunch of humans that have intelligence and have language and have technology but things still look normal and we still we're still very limited we're still like like this when I just like zoom out and just look at the entire history of the universe the thing the thing that we have now does not look stable
+
+**CM**: I understand I understand
+
+**ZMD**: okay
+
+**CM**: you know it's definitely it's a fascinating thing where people all over the past 40 years have talked about this where they're they're discarding traditional religion yeah and they a lot of people read you know Richard Dawkins the god delusion
+
+**ZMD**: right
+
+**CM**: he's a big part of that generation and they think about and this is they're often a replacement
+
+**ZMD**: for that
+
+**CM**: but you're right it's different people think
+
+**ZMD**: about it different right I don't think it is a like there's there's this tragedy like the tragedy of being human is that like it's easy to construe as a replacement in so far as like the ideas like hit hit like similar buttons in people's brain but like
+
+**CM**: but again like at the same time even in your diary like you will you will talk about it
+
+**ZMD**: right like yeah you like I mean to be to be clear I wrote that 20 years ago my I mean I would not write that today
+
+**CM**: I know but you you also you know it's not just you all sorts of people like they think about it in these
+
+**ZMD**: terms and yeah
+
+**CM**: but you
+
+**ZMD**: know
+
+**CM**: your point is I guess like the other one other thing I've been thinking about is this this idea that this community who is so concerned about the dangers has in some ways brought those about like people about the idea of hyperspace yeah as I've
+
+**ZMD**: been saying a lot of people are sad about this
+
+**CM**: tell me what's their thinking what's your thinking
+
+**ZMD**: well so like the
+
+**CM**: I mean
+
+**ZMD**: it's just kind of hard to avoid right because like given
+
+**CM**: because
+
+**ZMD**: you know for a lot of years Yudkowsky had this vision of like well we're going to make it friendly and or at least like
+
+**CM**: like
+
+**ZMD**: there's like there's this there's this problem of like like given given a certain view of like what is technologically possible
+
+**CM**: like there's
+
+**ZMD**: this there's this pretty reasonable presumption that if something is possible sooner or later someone is going to do it and like the way and like avoiding that would be pretty hard
+
+**CM**: and
+
+**ZMD**: in fact like Yudkowsky and stories have this thing it's like yeah it's you know coordinating to not do this is pretty hard but like it's humanity's only option at this point
+
+**CM**: how did you well yeah I guess there's it being possible and it you know you're being pretty sure it's gonna happen and you're doing it quicker right because so this community
+
+**ZMD**: yeah for a lot of reasons like
+
+**CM**: help create deep mind help
+
+**ZMD**: create open AI
+
+**CM**: help create anthropic yeah and you know these ideas have pushed it forward
+
+**ZMD**: yeah that's
+
+**CM**: right it's not just about doing it it's about doing it faster yeah
+
+**ZMD**: so the whole I mean I do
+
+**CM**: man I have a
+
+**ZMD**: belief here like I sorry there's there's something I want to say here that like
+
+**CM**: I feel
+
+**ZMD**: like there's something I want to say here that I would if I were just having an ordinary conversation with someone I would just absolutely say it but like after after seeing after listening to the audio commentary on that Lighthaven piece I feel like do I really want to say this part to Kate Vince
+
+**CM**: I'd love
+
+**ZMD**: to hear it I might email you I'll think about it but like this is you see the tragedy though right of that like I want I would rather just live in a world where just people just say everything and like that but there's this fear that like there's this fear that like the different parties with different interests have like differently sized megaphones where like so like in principle the thing that we're doing is actually symmetrical in that we are on the record in both directions I already published I already published one interview with you I'm gonna I'm gonna put like I'm planning to publish more of our conversations
+
+**CM**: but like so in principle
+
+**ZMD**: this is perfectly symmetrical in practice there's the issue that like
+
+**CM**: you know
+
+**ZMD**: how many people read your stuff versus how many people read my stuff
+
+**CM**: so like
+
+**ZMD**: you have more power to like determine what happens in society than me well I mean
+
+**CM**: a lot of other powerful forces at work and with all this stuff and but I hear you I hear you um alright um is that all the questions I have oh oh when how did you feel when the dying with dignity post went up did that surprise you what was the reaction of you and others
+
+**ZMD**: I wasn't that surprised it was it was it was definitely it wasn't very surprising but it was definitely a somber it wasn't very surprising to people who had been paying attention because he had been sort of like quietly saying similar things for a few years
+
+**CM**: um it was definitely
+
+**ZMD**: a somber moment tell me about
+
+**CM**: that why was it so somber well
+
+**ZMD**: this person who like a lot I mean I again I already I have had my differences with Yudkowsky and reasons to distrust him but like this person who we had learned a lot from and whom a lot of us trusted quite a lot was saying like well everyone's gonna die like it's a pretty somber moment um I mean it wasn't it wasn't unexpected so in that like
+
+**CM**: that had
+
+**ZMD**: sort of been that had been sort of been like a quiet vibe for a few years and then the April 1st was just like a time to like make it text instead of subtext like I do remember like being I remember being at a
+
+**CM**: so I talked
+
+**ZMD**: to Yudkowsky at an Independence Day party in 2021 and you know I don't quite remember the details but like there was this
+
+**CM**: there was
+
+**ZMD**: just this moment in conversation where like he referred he like
+
+**CM**: I
+
+**ZMD**: you know I didn't unfortunately I didn't actually write a diary entry immediately after the party so I don't actually remember the details but like
+
+**CM**: there was
+
+**ZMD**: a moment where like he he alluded to everyone's impending death and I said something like I said something about how like it hadn't really it hadn't really felt as real to me before Dali so I in January 2021 I think it was January 5th or January 6th 2021 OpenAI published Dali which was the text image thing the one that the avocado chairs I like to say that like that was there's a line in my forthcoming memoir part where I say that like that was the most significant thing that happened that week of January 2021
+
+**CM**: and like that was the
+
+**ZMD**: moment where
+
+**CM**: like for me
+
+**ZMD**: so like for me like Dali was this moment like wow this AI stuff that we've been talking about for 15 years might actually or I guess it only been 12 years at that point might actually be reasonably soon rather than someday because like specifically why I was so impressed by Dali was just the fact that like it was easy enough to it's easy enough to believe that like if you have it's easy enough to have an intuition that like if you have a million if you have a thousand images of chairs you can like train a neural network on that and can spit out more chairs from the same chair distribution but like the fact that it can compose concepts and do avocado chairs without there being a thousand avocado chairs in the data set like that seemed to me like this glimmer of generality and like composing concepts instead of just being a clever statistics trick and so that was the moment that like I was like okay this might be sooner than I expected
+
+**CM**: and I think
+
+**ZMD**: I think for Yudkowsky Yudkowsky probably had this moment you know just sort of reading between the lines or reading between the lines or maybe not even needing to read between the lines too much of things he had said like I think for him this moment was AlphaGo in 2016 and I guess it took me you know took me another five years to see the thing that he was seeing then
+
+**CM**: a lot of people talk about like after that post went up it was a somber moment some people like quit brushing their quit going to dentists you said they weren't going to have children did you experience what's of that like changing behavior
+
+**ZMD**: I have been doing a I'm not I'm not an extreme version but I have been doing a little bit of this in so far as like again I I think I think I'm being reasonable here in that like so for example okay I probably don't want to talk about my personal finances in detail on the record but like for example I do not you know I up through 2022 I was working as a software engineer and right now I do not have a day job right now and like part of the reason part of the reason I feel comfortable living with savings right now is because living on savings right now is because like there's this uncertainty of like well given a substantial probability of like the world is going to get really crazy in the next 5 or 10 or 15
+
+**CM**: years maybe
+
+**ZMD**: maybe I want to like probably like just sort of shift behavior on the margin shift my behavior more towards more towards like in the moment personal consumption like not having a day job is great I get to do what I want it's great in the moment personal consumption and like trying to do things that help prepare the world for things getting crazy as the AI stuff gets
+
+**CM**: crazy and now of course I
+
+**ZMD**: could be wrong about this so
+
+**CM**: if so let's
+
+**ZMD**: see it is 2025
+
+**CM**: because you know
+
+**ZMD**: I don't like the money I have from my software engineering career it's not going to last forever like I have enough to I have enough to live comfortably for quite a while especially because you know I don't have I don't have children or anything I feel a little bit guilty about this because conditional on no conditional on because you know you also read about like you know South South Koreans are going extinct and so like conditional on no AI I think it would be really important for people like me to have children and like I just never I have not been romantically successful
+
+**CM**: in life and so did you feel like
+
+**ZMD**: people around you change their behavior after the time I mean I'm not sure like I mean I think I think there are a lot of people who are doing a similar thing similar thing that I'm doing of like on the margin shifting more shifting more towards like shifting more towards consumption and less on like you know 10 year 20 year 30 year plans but like but like trying obviously I think I think people are painfully aware of the analogy to doomsday cults and trying not like sorry did I hear you correctly that you said something about like stop going to the dentist some people told me
+
+**CM**: that
+
+**ZMD**: that's crazy okay sorry I think that's crazy
+
+**CM**: I mean the other the other side of this is that you know certain people in the community want this to come right this is the always been the thing well no but singularity right no I mean not I mean who like
+
+**ZMD**: the EAC people might say that
+
+**CM**: we should think about it how do you view that do you view them as part of the community
+
+**ZMD**: no so like it so that the thing is it's almost not really a real thing it's like a it's like it's like a it's like a twitter
+
+**CM**: fat yes that had a real impact attracted Mark Andreessen and Gary Tan yeah you know and and you know I would go to like AI salons right in the valley in San Francisco some people would identify as EAC some people would identify as EAC
+
+**ZMD**: yeah I think it's unfortunate because like I think I think part of what I think part of what motivates like the twitter fad is like people are annoyed at the rationalist people are annoyed at the corrupt rationalist EIA EIA Borg that's right and you know I I hope I hope I've made it clear that like I I share some of I share some of those annoyances I think there are good reasons to be annoyed I think there are more productive ways I think there are more productive ways to like voice that criticism than just like slapping a negative sign and saying like no we're doing the opposite
+
+**CM**: thing I got you I got you it was definitely a reaction yeah absolutely great well if you want to email me that thought let me know
+
+**ZMD**: um so at wait I think I had one more thing I didn't cover sorry I'm trying to remember what it was
+
+**CM**: give me a moment
+
+**ZMD**: oh yeah yeah yeah so about like what is the reason you can't share drafts like what is the right because like I'm worried about the failure
+
+**CM**: mode where like so like
+
+**ZMD**: when I write when I write stuff like I like to get like free pre-publication feedback because because people can catch errors and like not just not just fact check errors but like subtle thing okay so like a subtle thing from the Lighthaven article that like didn't didn't rise to the level of like failing the fact check but I thought was like a little bit misleading was the way
+
+**CM**: like like you described
+
+**ZMD**: mats as a gathering and you said like and you said like less wrong mats mats has been like an entry point into AI companies and I feel like I'm worried that like okay this does not fail fact check like it's true well no but I'm there's a subtle nuance that I'm worried that readers are not going to get which is that like mat like so like mats is specifically an application only like research program where where like you you know you apply you you fill out a form you you submit your school school grades you like it's it is the kind of work people are doing in academia and when you just call it a gathering like I worry that it's not sufficiently clear to readers that like that thing is a very different thing from like just showing up to secular solstice you know
+
+**CM**: have you been to mats it's like I've talked to a lot of people over there like it's it's different than an academic
+
+**ZMD**: okay sorry that's true but like if they they are producing like machine learning research papers is what I meant
+
+**CM**: absolutely yeah like look at the end of that piece like yeah who I really like she really she really thinks about this stuff well because like you know she's there she's a serious researcher yeah super super smart she she writes those research papers yeah but she also says there's this sort of mythic quality everything yeah it drives her and so many others forward and I didn't go into a lot of the other stuff that goes on there right yeah
+
+**ZMD**: but I but I can't um okay one last question so about but like okay like two two related questions the how is this so like what what is the right because like Paul Sass said you did share the extropians chapters so like when you tell me that you can't share are you you
