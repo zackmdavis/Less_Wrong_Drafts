@@ -1,5 +1,13 @@
 # Conversations With Cade Metz on the Rationalists
 
+_New York Times_ reporter Cade Metz has been writing a book about the people who believed in AGI before it was cool. That's a subject that I think I know some things about, so we've been having on-the-record conversations occasionally, which I'd like to publish here (for transparency's sake, not because they're necessarily that interesting).
+
+The recordings (with varying amounts of background noise) are available—
+
+[TODO: redact and host recordings]
+
+Or you can read the transcripts below, which have been edited for clarity. (There are a few redactions indicated by "[...]" where either we went off the record or I wanted to cut something from this publication.)
+
 ### 21 March 2025
 
 **CM**: What's left out of my book is the philosophy, or at least a big part of the philosophy, meaning people like you and your community. People don't know how important this community is. It's an astounding story.
@@ -136,7 +144,7 @@
 
 **CM**: What about Dario? What was his relationship?
 
-**ZMD**: You've asked me this before, and my answer at the time  was still, I don't really know Dario. I assume he was reading some of the same things, but I never talked to him. I have listened to his interviews; he's been giving a few more press interviews lately. And he did mention that he tries to stay off social media. And so I guess he was a lurker; I don't know. He was also probably pretty busy, because he also had his own, you know, neuroscience or whatever background, or physics background. I don't know.
+**ZMD**: You've asked me this before, and my answer at the time was still, I don't really know Dario. I assume he was reading some of the same things, but I never talked to him. I have listened to his interviews; he's been giving a few more press interviews lately. And he did mention that he tries to stay off social media. And so I guess he was a lurker; I don't know. He was also probably pretty busy, because he also had his own, you know, neuroscience or whatever background, or physics background. I don't know.
 
 **CM**: Well, I'd love to—I've got to go do something else, but I'd love to talk more about this, and also about the Zizians and such.
 
@@ -272,7 +280,7 @@ And like, it's kind of sad that at the beginning, I, and I think a lot of people
 
 **CM**: I see. How big was that group? How often did that group happen?
 
-**ZMD**: I don't think it was very regular. I think it was, like, like, I remember later in 2008, you know, Robin Hanson happened to be in town, and so we had a meetup. Or the Singularity Summit 2008 happened to be a thing, and there was a meetup. I think it was more opportunistic than regular at that point.
+**ZMD**: I don't think it was very regular. I think it was, like, I remember later in 2008, you know, Robin Hanson happened to be in town, and so we had a meetup. Or the Singularity Summit 2008 happened to be a thing, and there was a meetup. I think it was more opportunistic than regular at that point.
 
 **CM**: Can you describe what was it like?
 
@@ -298,9 +306,9 @@ And like, it's kind of sad that at the beginning, I, and I think a lot of people
 
 **ZMD**: It doesn't seem surreal now because it became a community, but compared to your only intellectual experience being alone with books or in school, the people actually having these really intense debates in real time was, wow.
 
-**CM**: And the surreality meeting, where was that?
+**CM**: And the surreality meeting, where was that? Physically where were you?
 
-**ZMD**: Where physically? Oh, this was South Bay. I don't know if it was literally in Palo Alto, but somewhere in the South Bay. Just someone's house.
+**ZMD**: Oh, this was South Bay. I don't know if it was literally in Palo Alto, but somewhere in the South Bay. Just someone's house.
 
 **CM**: Someone's house? Were these typically at somebody's house or were they at a coffee shop? Would you have food? 
 
@@ -308,7 +316,7 @@ And like, it's kind of sad that at the beginning, I, and I think a lot of people
 
 **CM**: Do you get a sense of how the community grew and how quickly it grew? It sounds like these meetups are, I don't know, 10 people?
 
-**ZMD**: I think there were more like thirty. Thirty?
+**ZMD**: I think there were more like thirty.
 
 **CM**: Thirty Bay Area people who were interested in that.
 
@@ -510,7 +518,7 @@ And like, it's kind of sad that at the beginning, I, and I think a lot of people
 
 **CM**: Why are people so concerned with using a pseudonym?
 
-**ZMD**: Different people in different subcultures from different generations just relate to the internet differently. People have told me that the fact that I use my real name for blog comments makes me seem older. I was born in 1987. I think I was born in this  very narrow window where the pre-internet world is still real to me. I think maybe people who have always been online, rather than just since age 10 or whatever, are used to screen names first. I don't know. I'm not sure.
+**ZMD**: Different people in different subcultures from different generations just relate to the internet differently. People have told me that the fact that I use my real name for blog comments makes me seem older. I was born in 1987. I think I was born in this very narrow window where the pre-internet world is still real to me. I think maybe people who have always been online, rather than just since age 10 or whatever, are used to screen names first. I don't know. I'm not sure.
 
 **CM**: Do you think that the adherence to that is stronger in your community than in others?
 
@@ -646,7 +654,7 @@ Maybe a good example would be, you know, the COVID pandemic. In the early days o
 
 **CM**: But this is another thing that interests me is that your community used to think that OpenAI was okay, and now, Sam Altman is like the devil.
 
-**ZMD**: So, this is another thing that Michael and Ben were criticizing Eliezer and Nate and MIRI over, was that, when OpenAI was first founded, Yudkowsky already thought it was a bad idea, a terrible idea. He reports, I'm sure this is on his Twitter somewhere, but he reports, he cried when OpenAI was announced. And then, publicly, Nate Soares on MIRI's blog said something like, I don't remember, we can track down exactly what he said, but it was something like, we welcome a new entrant to this space. It said something vaguely positive-sounding about OpenAI, even though he thought, the sentiment in our community was that open source AI is a bad idea. OpenAI, it was originally pitched as open source. There's this thing where Nate Soares and Yudkowsky privately thought OpenAI as announced was a bad idea, but there was so much power and money behind this new thing, because this was downstream of the Puerto Rico conference about AI safety, there was so much power and money behind this new thing that they didn't feel comfortable bad-mouthing it in public at the time.
+**ZMD**: So, this is another thing that Michael and Ben were criticizing Eliezer and Nate and MIRI over, was that, when OpenAI was first founded, Yudkowsky already thought it was a bad idea, a terrible idea. He reports, I'm sure this is on his Twitter somewhere, but he reports, he cried when OpenAI was announced. And then, publicly, [Nate Soares on MIRI's blog said](https://intelligence.org/2015/12/11/openai-and-other-news/) something like, I don't remember, we can track down exactly what he said, but it was something like, we welcome a new entrant to this space. It said something vaguely positive-sounding about OpenAI, even though he thought, the sentiment in our community was that open source AI is a bad idea. OpenAI, it was originally pitched as open source. There's this thing where Nate Soares and Yudkowsky privately thought OpenAI as announced was a bad idea, but there was so much power and money behind this new thing, because this was downstream of the Puerto Rico conference about AI safety, there was so much power and money behind this new thing that they didn't feel comfortable bad-mouthing it in public at the time.
 
 **CM**: I think there's some revisionist history going on there. Maybe they're saying they were concerned—
 
@@ -776,7 +784,7 @@ Maybe a good example would be, you know, the COVID pandemic. In the early days o
 
 **ZMD**: Do you have a title?
 
-**CM**: I don't have a title, but I've written almost all of it now. That's what it does. It shows the evolution of these ideas and then how they move from kind of important person to important person.
+**CM**: I don't have a title, but I've written almost all of it now. That's what it does. It shows the evolution of these ideas and then how they move from important person to important person.
 
 **ZMD**: Well, so that's—we've mentioned like criticisms of you in the past, and I want to distinguish between two different types of criticisms, because there's some people who are saying, oh Cade Metz is such a meanie and bully, revealing Scott Alexander's name, and I think you don't take that very seriously. Whereas I want to set that aside, and also focus on—separately, people who are like, who have talked to you and who have read your work, who are saying, this is kind of like gossip column-y coverage that's not focused on the ideas and more focused on powerful people and their relationships to each other, and I don't know, maybe you're doing that on purpose, but it just seems like—
 
@@ -792,7 +800,7 @@ Maybe a good example would be, you know, the COVID pandemic. In the early days o
 
 **ZMD**: ["When Metz reached out to me in the process of working on a book on the idea of general intelligence, I formed the same independent impression; if I asked him about his interest in the topic, his perception of my relevance, etc, the answer was entirely in terms of social reality. What was really striking about this was the perfect serenity with which he was enacting a pseudoperspective which functionally constitutes total and perfect aggression against anyone who cares about anything. I didn't think it was worth my time to proceed."](https://benjaminrosshoffman.com/if-there-were-no-journalism-how-would-we-find-out/) End quote.
 
-**CM**: A, that doesn't surprise me. So many people in this—this is not rocket science people, people in that circle don't view the world the way I do. I view it differently I'm trying to take what's going on in that world, and convey it to the layperson. That is fundamentally going to be different. The writing that I do is completely different from, say, your memoir. Completely different. The layperson cannot comprehend your memoir. Because you think differently. Maybe you think better. Maybe that's a better way to think about the world. But people don't think that way. I'm taking all this stuff and I'm conveying it in a completely different way, and if Ben doesn't like that, that's fine.
+**CM**: A, that doesn't surprise me. So many people in this—this is not rocket science people, people in that circle don't view the world the way I do. I view it differently. I'm trying to take what's going on in that world, and convey it to the layperson. That is fundamentally going to be different. The writing that I do is completely different from, say, your memoir. Completely different. The layperson cannot comprehend your memoir. Because you think differently. Maybe you think better. Maybe that's a better way to think about the world. But people don't think that way. I'm taking all this stuff and I'm conveying it in a completely different way, and if Ben doesn't like that, that's fine.
 
 **ZMD**: So I definitely agree that you're writing a book for the general public, you can't just do a raw thought dump of what the people you're covering think, because they're not speaking the same language as the general public.
 
@@ -840,9 +848,9 @@ There's this thing where if you're just counting heads of, these people say this
 
 **CM**: That's what I do. I really do my best. I just do it a different way.
 
-**ZMD**: I'm just saying, when we when we get to that fact-checking phase, I want to be more diligent than Kelsey, because I don't—with respect, I don't trust you to get the story right. I'm happy to talk out of the principle that I'm happy to talk to anyone. I don't have faith that you're going to get it right. When we get to the fact-checking phase, whatever you can show me, I'm going to be like watching like a hawk.
+**ZMD**: I'm just saying, when we when we get to that fact-checking phase, I want to be more diligent than Kelsey, because I don't—with respect, I don't trust you to get the story right. I'm happy to talk out of the principle that I'm happy to talk to anyone. I don't have faith that you're going to get it right. When we get to the fact-checking phase, whatever you can show me, I'm going to be watching like a hawk.
 
-**CM**: What's so interesting to me is, as you discover, I just think that your story is so interesting, because you kind of knew who Yudkowsky, mentioned in your diary, you read _Great Mambo Chicken_, you really like it, you're kind of intrigued by these—I'm kind of doing fact-checking now—you're intrigued by these transhumanist ideas. You said that future tech is comforting, because it's kind of like religion, but more real, more plausible. And then you're reading [that _Jane Galt_ blog and she links to](https://web.archive.org/web/20071129181942/http://www.janegalt.net/archives/009783.html) that ["Universal Fire" essay](https://www.lesswrong.com/posts/LaM5aTcXvXzwQSC2Q/universal-fire), and you click on it, and you read this thing, and in my story, I explain to them, the Universal Fire essay captures your interest, and you keep reading this stuff, and then you meet these people in person, and that excites you; you see that in your Diary. And you get more and more into these ideas of rational thought, but also, as you show in your Diary, you get into this idea of the singularity. You tell people, I'm down with this, too, right? And then you reach this moment, where you're comforted, also, by this notion that there is this fundamental truth, and that includes this post from Yudkowsky, where he says [men and women are fundamentally different and you can't change](https://www.lesswrong.com/posts/QZs4vkC7cbyjL9XA9/changing-emotions), right, and I go into that essay.
+**CM**: What's so interesting to me is, as you discover, I just think that your story is so interesting, because you kind of knew who Yudkowsky, mentioned in your Diary, you read _Great Mambo Chicken_, you really like it, you're kind of intrigued by these—I'm kind of doing fact-checking now—you're intrigued by these transhumanist ideas. You said that future tech is comforting, because it's kind of like religion, but more real, more plausible. And then you're reading [that _Jane Galt_ blog and she links to](https://web.archive.org/web/20071129181942/http://www.janegalt.net/archives/009783.html) that ["Universal Fire" essay](https://www.lesswrong.com/posts/LaM5aTcXvXzwQSC2Q/universal-fire), and you click on it, and you read this thing, and in my story, I explain to them, the Universal Fire essay captures your interest, and you keep reading this stuff, and then you meet these people in person, and that excites you; you see that in your Diary. And you get more and more into these ideas of rational thought, but also, as you show in your Diary, you get into this idea of the singularity. You tell people, I'm down with this, too, right? And then you reach this moment, where you're comforted, also, by this notion that there is this fundamental truth, and that includes this post from Yudkowsky, where he says [men and women are fundamentally different and you can't change](https://www.lesswrong.com/posts/QZs4vkC7cbyjL9XA9/changing-emotions), right, and I go into that essay.
 
 **ZMD**: _[laughing]_ Okay.
 
@@ -1004,7 +1012,7 @@ And then it turned out that, at least on some topics where getting the correct m
 
 **CM**: In fact, you're kind of determined to engage. It's like a badge of honor.
 
-**ZMD**: Even if we don't—so, me personally, I ended up actually agreeing with parts of this, but other people who are part of the community who just read it and disagreed, there's still this threat of, someone else could say, aha, you read the you read the evil text, even if you say you disagreed, you're still tainted.
+**ZMD**: Even if we don't—so, me personally, I ended up actually agreeing with parts of this, but other people who are part of the community who just read it and disagreed, there's still this threat of, someone else could say, aha, you read the evil text, even if you say you disagreed, you're still tainted.
 
 **CM**: I get it. I get it. It's so interesting how there is this determination to engage. I think that that's interesting. And that's all I'm saying in that _Slate Star Codex_ piece.
 
@@ -1128,9 +1136,9 @@ The smart version of this idea for futurism is imagining that like, if you have 
 
 **ZMD**: It was contemporaneous, yeah. I'll send you the link later.
 
-**CM**: It's funny nowadays that crowd, they sort of deny that they did all this, but it's all there on the internet. We're making this donation; we get the two board seats; we're going to oversee AI safety.
+**CM**: It's funny nowadays that crowd, they sort of deny that they did all this, but it's all there on the internet. We're making this donation. We get the two board seats. We're going to oversee AI safety.
 
-**ZMD**: They thought they could they thought they could exert more control than they ended up exerting.
+**ZMD**: They thought they could exert more control than they ended up exerting.
 
 **CM**: And it has, in the end, it has the opposite effect.
 
@@ -1140,7 +1148,7 @@ The smart version of this idea for futurism is imagining that like, if you have 
 
 **ZMD**: Yudkowsky has changed his mind about this. There's the book coming out in September, _If Anyone Builds It, Everyone Dies_ that's lobbying for an international treaty to not build it. So nowadays the plan is, our only hope—this probably won't work, but our only hope is to get governments to make people not build it.
 
-**CM**: I'm fascinated by the Anthropic philosophy where we're gonna build it and create this race to the top, they talk about. What they did is they came into OpenAI, and then they scaled it up. They were the ones that scaled it up. It's not like anybody else was—they scaled it up, and their argument is, you got to be working on the technology to do safety but—
+**CM**: I'm fascinated by the Anthropic philosophy where we're going to build it and create this race to the top, they talk about. What they did is they came into OpenAI, and then they scaled it up. They were the ones that scaled it up. It's not like anybody else was—they scaled it up, and their argument is, you got to be working on the technology to do safety but—
 
 **ZMD**: I'm kind of sympathetic to that.
 
@@ -1310,7 +1318,7 @@ End quote.
 
 **ZMD**: Well, it's true, but like—
 
-**CM**: You have to take these ideas  and really help people understand it. It's something very different than they're used to. I definitely see what you're saying, but a lot of these ideas are in this book, like the thing we just talked about, that this there is this phenomenon where people have a problem with being associated with the group, and that's real, but the group is also real. The collective has power, even if no one says they're part it, because they are working together.
+**CM**: You have to take these ideas and really help people understand it. It's something very different than they're used to. I definitely see what you're saying, but a lot of these ideas are in this book, like the thing we just talked about, that this there is this phenomenon where people have a problem with being associated with the group, and that's real, but the group is also real. The collective has power, even if no one says they're part it, because they are working together.
 
 **ZMD**: Ideological coordination.
 
@@ -1356,7 +1364,7 @@ End quote.
 
 **CM**: I completely get it, but again, if you look at the group, as opposed to the individual, the group very often decides certain things, and operates in lockstep. The group has decided that it shouldn't talk to me, because I did this horrible thing. It's a thing that, if the average person looks at it, they don't understand it. That's the power of these ideologies we talked about.
 
-**ZMD** That's also in a lot of ways the power of _The New York Times_, and why people are so afraid of you, is because they're afraid—so you're you are correctly pointing out that there's this cabal of Scott Alexander and his friends who have the power to like determine what these thousands of people believe. But the reason those people are afraid of you, is because you have the power to decide what a much larger group of people believes. There are lots of people who read _The New York Times_ and just believe what it says. That's why people are so scared when you're pushing this religion angle. That's why I'm like having these second thoughts, like, man, I really want to just talk to everyone, and now—
+**ZMD** That's also in a lot of ways the power of _The New York Times_, and why people are so afraid of you, is because they're afraid—so you are correctly pointing out that there's this cabal of Scott Alexander and his friends who have the power to like determine what these thousands of people believe. But the reason those people are afraid of you, is because you have the power to decide what a much larger group of people believes. There are lots of people who read _The New York Times_ and just believe what it says. That's why people are so scared when you're pushing this religion angle. That's why I'm like having these second thoughts, like, man, I really want to just talk to everyone, and now—
 
 **CM**: I know, but you know, and so many people in your community, and your friends, use all the same terms, and it's okay when you do it, but somehow it's not okay if _The New York Times_ points out that there are these characteristics. We're being careful with that language. 
 
@@ -1368,7 +1376,7 @@ End quote.
 
 **CM**: Because you asked me to. You didn't want to be included.
 
-**ZMD**: Sorry, point of clarification, from my perspective, that wasn't what I was asking. I think you made a probabilistic inference that would be correct about most people, but was actually not what I was requesting, because I have this weird ideology. We had that phone call where I was annoyed that you were taking this religious angle—
+**ZMD**: Sorry, point of clarification: from my perspective, that wasn't what I was asking. I think you made a probabilistic inference that would be correct about most people, but was actually not what I was requesting, because I have this weird ideology. We had that phone call where I was annoyed that you were taking this religious angle—
 
 **CM**: I should clarify. I didn't take it out because of anything you said, it just came out. Lots of things go in and out. No, you're right. It didn't have anything to do with that.
 
@@ -1420,15 +1428,15 @@ End quote.
 
 **CM**: Sounds good. Think it over.
 
-**ZMD**: But you see the tragedy, though, right, of that I would rather just live in a world where just people just say everything, but there's this fear that ... different parties with different interests have differently sized megaphones. In principle, the thing that we're doing is actually symmetrical in that we are on the record in both directions, I already published one interview with you, I'm planning to publish more of our conversations. In principle, this is perfectly symmetrical, in practice there's the issue that, how many people read your stuff versus how many people read my stuff. You have more power to determine what happens in Society than me.
+**ZMD**: But you see the tragedy, though, right, of that I would rather just live in a world where just people just say everything, but there's this fear that ... different parties with different interests have differently sized megaphones. In principle, the thing that we're doing is actually symmetrical in that we are on the record in both directions. I already published [one interview with you](https://www.lesswrong.com/posts/oYnwTuxySiaZYDrur/my-interview-with-cade-metz-on-his-reporting-about-slate). I'm planning to publish more of our conversations. In principle, this is perfectly symmetrical, in practice there's the issue that, how many people read your stuff versus how many people read my stuff. You have more power to determine what happens in Society than me.
 
-**CM**: There are a lot of other powerful forces at work and with all this stuff, but I hear you. I hear you. Is that all the questions I had? Oh, how did you feel when the dying with dignity post went up? Did that surprise you what was the reaction of you and others to that?
+**CM**: There are a lot of other powerful forces at work and with all this stuff, but I hear you. I hear you. Is that all the questions I had? Oh, how did you feel when [the dying with dignity post](https://www.lesswrong.com/posts/j9Q8bRmwCgXRYAgcJ/miri-announces-new-death-with-dignity-strategy) went up? Did that surprise you what was the reaction of you and others to that?
 
 **ZMD**: I wasn't that surprised. It wasn't very surprising to people who had been paying attention, because he had been quietly saying similar things for a few years, but it was definitely a somber moment.
 
 **CM**: Tell me about that, why was it so somber?
 
-**ZMD**: Well, this person who a lot—I again, I have had my differences with Yudkowsky and reasons to distrust him—this person who we had learned a lot from, and whom a lot of us trusted quite a lot, was saying like, well, everyone's going to die. It's a pretty somber moment. It wasn't unexpected in that, that been a quiet vibe for a few years, and then April 1st was just like a time to like make it text instead of subtext. So I talked to Yudkowsky at an Independence Day party in 2021, and I don't quite remember the details, but like there was just this moment in conversation, where like he referred—you know, unfortunately, I didn't actually write a Diary entry immediately after the party, so I don't actually remember the details—there was a moment where he alluded to everyone's impending death, and I said something about how it hadn't really felt as real to me before DALL-E. So in January 2021, I think it was January 5th or January 6th, 2021, [OpenAI published DALL-E]((https://openai.com/index/dall-e/)), which was the text-to-image thing, the one that—the avocado chairs. I like to say that that was, there's a line in my forthcoming memoir part where I say that that was the most significant thing that happened that week of January 2021.
+**ZMD**: Well, this person who a lot—I again, I have had my differences with Yudkowsky and reasons to distrust him—this person who we had learned a lot from, and whom a lot of us trusted quite a lot, was saying like, well, everyone's going to die. It's a pretty somber moment. It wasn't unexpected in that, that been a quiet vibe for a few years, and then April 1st was just like a time to like make it text instead of subtext. So I talked to Yudkowsky at an Independence Day party in 2021, and I don't quite remember the details, but like there was just this moment in conversation, where like he referred—you know, unfortunately, I didn't actually write a Diary entry immediately after the party, so I don't actually remember the details—there was a moment where he alluded to everyone's impending death, and I said something about how it hadn't really felt as real to me before DALL-E. So in January 2021, I think it was January 5th or January 6th, 2021, [OpenAI published DALL-E](https://openai.com/index/dall-e/), which was the text-to-image thing, the one that—the avocado chairs. I like to say that that was, there's a line in my forthcoming memoir part where I say that that was the most significant thing that happened that week of January 2021.
 
 **CM**: Got it, got it.
 
@@ -1458,7 +1466,7 @@ Because specifically why I was so impressed by DALL-E was just the fact that—i
 
 **CM**: Yes, that had a real impact, attracted Marc Andreessen and Gary Tan. I would go to like AI salons in the valley in San Francisco, some people would identify as EA, some people would identify as e/acc.
 
-**ZMD**: I think it's unfortunate, because I think part of what motivates like the Twitter fad is people are annoyed at the corrupt rationalist/EA borg. I hope I've made it clear that I share some of I share some of those annoyances. I think there are good reasons to be annoyed. I think there are more productive ways to voice that criticism than just slapping a negative sign and saying, no, we're doing the opposite thing.
+**ZMD**: I think it's unfortunate, because I think part of what motivates like the Twitter fad is people are annoyed at the corrupt rationalist/EA borg. I hope I've made it clear that I share some of those annoyances. I think there are good reasons to be annoyed. I think there are more productive ways to voice that criticism than just slapping a negative sign and saying, no, we're doing the opposite thing.
 
 **CM**: I got you. It was definitely a reaction. If you want to email me that thought, let me know.
 
