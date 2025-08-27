@@ -1,6 +1,6 @@
 # My Interview With Cade Metz on His Reporting About Lighthaven
 
-On 12 August 2025, I sat down with _New York Times_ reporter Cade Metz to express some criticisms I had of his 4 August 2025 article, ["The Rise of Silicon Valley's Techno-Religion"](http://archive.today/2025.08.06-024919/https://www.nytimes.com/2025/08/04/technology/rationalists-ai-lighthaven.html). The transcript below has been edited for clarity.
+On 12 August 2025, I sat down with _New York Times_ reporter Cade Metz to discuss some criticisms of his 4 August 2025 article, ["The Rise of Silicon Valley's Techno-Religion"](http://archive.today/2025.08.06-024919/https://www.nytimes.com/2025/08/04/technology/rationalists-ai-lighthaven.html). The transcript below has been edited for clarity.
 
 -----
 
@@ -14,7 +14,7 @@ For example, you write, quote,
 
 End quote. What is the word "near-religious" doing in that sentence? You could have just cut the word and just said, "their concerns about AI", and it would be a perfectly informative sentence.
 
-**CM**: My job is to explain to people what is going on. These are laypeople. They don't necessarily have any experience with the tech industry or with your community or with what's going on here. You have to make a lot of decisions in order to do that, right? The job is to take information from lots and lots and lots of people who each bring something to the article, and then you consolidate that into a piece that tries to convey all that information. It's not necessarily—if you write a article about Google, Google is not necessarily going to agree with every word in the article.
+**CM**: My job is to explain to people what is going on. These are laypeople. They don't necessarily have any experience with the tech industry or with your community or with what's going on here. You have to make a lot of decisions in order to do that, right? The job is to take information from lots and lots and lots of people who each bring something to the article, and then you consolidate that into a piece that tries to convey all that information. If you write a article about Google, Google is not necessarily going to agree with every word in the article.
 
 **ZMD**: Right, I definitely understand that part. I'm definitely not demanding a puff piece about these people who I have also written critically about. But just in terms of like—
 

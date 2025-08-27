@@ -1,12 +1,12 @@
 # Conversations With Cade Metz on the Rationalists
 
-_New York Times_ reporter Cade Metz has been writing a book about the people who believed in AGI before it was cool. That's a subject that I think I know some things about, so we've been having on-the-record conversations occasionally, which I'd like to publish here (for transparency's sake, not because they're necessarily that interesting).
+_New York Times_ reporter Cade Metz has been writing a book about the people who believed in AGI before it was cool. That's a subject that I think I know some things about, so we've been having on-the-record conversations occasionally, which I'd like to publish here (for transparency's sake, not because a raw 30,000-word transcript dump necessarily that interesting).
 
 The recordings (with varying amounts of background noise) are available—
 
 [TODO: redact and host recordings]
 
-Or you can read the transcripts below, which have been edited for clarity. (There are a few redactions indicated by "[...]" where either we went off the record or I wanted to cut something from this publication.)
+Or you can consider the transcripts below, which have been edited for clarity. (There are a few redactions indicated by "[...]" where either we went off the record or I wanted to cut something from this publication.)
 
 ### 21 March 2025
 
@@ -458,7 +458,7 @@ And like, it's kind of sad that at the beginning, I, and I think a lot of people
 
 **CM**: But I hear what you're saying. You called it, what did you call it earlier? Quasi-religious.
 
-**ZMD**: Sorry, again, this is why people don't want to talk to journalists. I shouldn't have called it a religion. But in all seriousness, without believing in the supernatural and, in fact, having [an essay in our literature that says here's why supernatural things don't exist](https://www.readthesequences.com/Excluding-The-Supernatural), it's kind of obviously filling the sociological niche of a religion in that there's a social group that believes things that has a canonical text about why the group believes those things. It's that kind of social grouping. So, psychologically and sociologically, it seems very comparable to a religion, even though I would say that a lot of the beliefs are true. As far as the thing that I wrote that 80,000 word memoir about where me and Michael and Ben and Jessica had this whole petty drama about how we think Yudkowsky and MIRI and CfAR have gone wrong, I do sometimes talk about that as being a religious civil war, in the sense that, it's just an apt description.
+**ZMD**: Sorry, again, this is why people don't want to talk to journalists. I shouldn't have called it a religion. But in all seriousness, without believing in the supernatural and, in fact, having [an essay in our literature that says here's why supernatural things don't exist](https://www.readthesequences.com/Excluding-The-Supernatural), it's kind of obviously filling the sociological niche of a religion in that there's a social group that believes things that has a canonical text about why the group believes those things. It's that kind of social grouping. So, psychologically and sociologically, it seems very comparable to a religion, even though I would say that a lot of the beliefs are true. As far as the thing that I wrote that 80,000 word memoir about where me and Michael and Ben and Jessica had this whole petty drama about how we think Yudkowsky and MIRI and CfAR have gone wrong, I do sometimes talk about that as being a religious civil war, in the sense that it's just an apt description.
 
 **CM**: Just because you brought it up, this is why people don't want to talk to journalists. What do you think about journalists that makes saying something like that dangerous?
 
@@ -1360,7 +1360,7 @@ End quote.
 
 **CM**: I understand why he did it, okay. I also understand why _The New York Times_ and I did what we did. It was a clash of ideology. It went down the way it went down. It was astounding when it happened. And then, you know, I will walk down the street, and people will say that's the guy who doxxed Scott Alexander, and I think, did I? Did I dox him?
 
-**ZMD**: I mean, I'm not attached to that particular choice of word. The issue is, he wanted his political writing to stay under the pseudonym, and he didn't want that like visibly tied to his identity as a psychiatrist, even though, as you have pointed out, he did not have very good opsec. The information was out there, but he was depending on a security-by-obscurity strategy, where like the information was discoverable, but he didn't want it in _The New York Times_. It's true that he published the name first, but the reason he did that is because he knew that you were going to put it in _The New York Times_, and so he wanted it to happen on his terms.
+**ZMD**: I mean, I'm not attached to that particular choice of word. The issue is, he wanted his political writing to stay under the pseudonym, and he didn't want that visibly tied to his identity as a psychiatrist, even though, as you have pointed out, he did not have very good opsec. The information was out there, but he was depending on a security-by-obscurity strategy, where the information was discoverable, but he didn't want it in _The New York Times_. It's true that he published the name first, but the reason he did that is because he knew that you were going to put it in _The New York Times_, and so he wanted it to happen on his terms.
 
 **CM**: I completely get it, but again, if you look at the group, as opposed to the individual, the group very often decides certain things, and operates in lockstep. The group has decided that it shouldn't talk to me, because I did this horrible thing. It's a thing that, if the average person looks at it, they don't understand it. That's the power of these ideologies we talked about.
 
@@ -1398,7 +1398,7 @@ End quote.
 
 **ZMD**: Well, no, because you're going to pattern-match it to, oh, it's like citing the Bible, no, but I think it's a good point, though. Yudkowsky makes this great point about like taking [history](https://www.readthesequences.com/Failing-To-Learn-From-History) [seriously](https://www.readthesequences.com/Making-History-Available) and realizing that you think of the world that you grew up in as normal, and when you hear about ideas of radical change from that, you think, wow, that seems like a weird fantasy fairy tale. But the things we think of as normal have not always been here. If you go back, you know, 10, 20, 100, 1000 years, there were not always computers, there were not always cars, there was not always abundant food, there was not always literacy; if you go back sufficiently further enough, there were not always humans. If you zoom out to this thinking about how the universe evolves, there have been radical changes. The idea that the thing that we have now, where you have a bunch of humans that have intelligence and have language and have technology, but things still look normal, and we're still very limited. When I zoom out and just look at the entire history of the universe, the thing that we have now does not look stable.
 
-**CM**: I understand, I understand.
+**CM**: I understand. I understand.
 
 **ZMD**: Okay.
 

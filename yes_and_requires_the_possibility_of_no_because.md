@@ -1,0 +1,5 @@
+# "Yes, and—" Requires the Possibility of "No, Because—"
+
+Scott Garrabrant [gives a number of examples to illustrate a principle that "Yes Requires the Possibility of No"](https://www.lesswrong.com/posts/G5TwJ9BGxcgh5DsmQ/yes-requires-the-possibility-of-no). We can understand the principle in terms of information theory. Consider the answer to a yes-or-no question as a binary random variable. The "amount of information" associated with a random variable is quantified by the [_entropy_](https://en.wikipedia.org/wiki/Entropy_(information_theory)), the expected value of the negative logarithm of the probability of the outcome. If we know in advance of asking that the answer to the question will always be Yes, then the entropy is −P(Yes)·log(P(Yes)) − P(No)·log(P(No)) = −1·log(1) − 0·log(0) = 0.[^undefined-convention] If you already knew what the answer would be, then the answer contains no information; you didn't learn anything new by asking.
+
+[^undefined-convention]: I'm glossing over a technical subtlety here by assuming—pretending?—that 0·log(0) = 0, when log(0) is actually undefined. But it's the correct thing to pretend. [TODO: fill in limit argument]
