@@ -24,23 +24,26 @@ There is only one means: by commenters pointing out all the places where a post 
 
 If the "discussion doesn't illuminate what you are trying to communicate", it's worth asking: why is that? If it were because the commenters are for some perverse reason pretending _en masse_ to not understand your clear and correct explanations, then that would be bad. But if it's because your explanations were not, in fact, clear and correct, then disappointment was inevitable: commenters can't illuminate what you're trying to communicate if you didn't successfully communicate it.
 
-As a perennial _Less Wrong_ author of over 90 posts, including 8 Curated posts, I have the experience to testify on this matter. Yes, it is disappointing when a post doesn't land in the comment section the way I wanted it to, but it's obviously not because commenters are culpably witholding their illumination of my precious ideas. It's because writing about ideas is hard and I don't always get it right.  Sometimes I'm wrong, sometimes I'm confused, sometimes I don't write clearly—[and](https://www.lesswrong.com/posts/XbXJZjwinkoQXu4db/funk-tunul-s-legacy-or-the-legend-of-the-extortion-war) [it](https://www.lesswrong.com/posts/67NrgoFKCWmnG3afd/you-ll-never-persuade-people-like-that) [shows](https://www.lesswrong.com/posts/rzFrwWvvpgzfnwSeB/some-basic-level-of-mutual-respect-about-whether-other) in the comment section and the karma score. I prefer it when the discussion illuminates what I was trying to communicate, but the only real way to accomplish that is by me writing something that commenters as individuals find illuminating—and there's always the possibility of that not happening when people are being honest, rather that sycophantically colluding to flatter the author's ego. "Yes, and—" requires the possibility of "No, because—".
+As a perennial _Less Wrong_ author of over 90 posts, including 8 Curated posts, I have the experience to testify on this matter. Yes, it is disappointing when a post doesn't land in the comment section the way I wanted it to, but it's obviously not because commenters are culpably witholding their illumination of my precious ideas. It's because writing about ideas is hard and I don't always get it right.  Sometimes I'm wrong, sometimes I'm confused, sometimes I don't write clearly—[and](https://www.lesswrong.com/posts/XbXJZjwinkoQXu4db/funk-tunul-s-legacy-or-the-legend-of-the-extortion-war) [it](https://www.lesswrong.com/posts/67NrgoFKCWmnG3afd/you-ll-never-persuade-people-like-that) [shows](https://www.lesswrong.com/posts/rzFrwWvvpgzfnwSeB/some-basic-level-of-mutual-respect-about-whether-other) in the comment section and the karma score. I certainly prefer it when the discussion illuminates what I was trying to communicate, but the only real way to accomplish that is by me writing something that commenters as individuals find illuminating—and there's always the possibility of that not happening when people are being honest, rather that sycophantically colluding to flatter the author's ego. "Yes, and—" requires the possibility of "No, because—".
 
 [TODO: write and link "Yes, and" prerequisite]
 
-(As for "implying that they are superior in their dismissal of your irrational and dumb ideas", I suppose it's true that when someone rejects an idea, that [creates a logical implication that the rejecter thinks they're more rational than the idea-proposer on that topic](https://www.overcomingbias.com/p/disagreement-ishtml). It's a weirdly petty implication to focus on, though. Who cares? This is a blog, not some kind of intellectual beauty pageant that awards a sash and cash prize for the "best rationalist".)
+(As for "implying that they are superior in their dismissal of your irrational and dumb ideas", I suppose it's true that when someone rejects an idea, that [creates a logical implication that the rejecter thinks they're more rational than the idea-proposer on that topic](https://www.overcomingbias.com/p/disagreement-ishtml). It's a weirdly petty implication to focus on, though. Who cares? This is a blog, not some kind of beauty pageant that awards a sash and cash prize for the "best rationalist".)
 
-What is most striking about the second perspective's list of reasons that critical commenters make _Less Wrong_ unrewarding to interact with is what it does _not_ say. _It doesn't say the commenters are wrong!_ If the second perspective had claimed that commenters _mischaracterize_ posts (rather than merely criticizing non-"load bearing" aspects of the posts or failing to "illuminate what [authors] are trying to communicate"), that would be a serious problem that would warrant corrective actions by moderators. We can infer that bad arguments and strawmanning are not seen by user reports as a pervasive problem on _Less Wrong_. (If it were, the second perspective would have mentioned it.)
-
-[TODO: link "Absence of Evidence"]
+What is most striking about the second perspective's list of reasons that critical commenters make _Less Wrong_ unrewarding to interact with is what it does _not_ say. _It doesn't say the commenters are wrong!_ If the second perspective had claimed that commenters _mischaracterize_ posts (rather than merely criticizing non-"load bearing" aspects of the posts or failing to "illuminate what [authors] are trying to communicate"), that would be a serious problem that would warrant corrective actions by moderators. We can infer that bad arguments and strawmanning are not seen by user reports as a pervasive problem on _Less Wrong_. [(If it were, the second perspective would have mentioned it.)](https://www.readthesequences.com/Absence-Of-Evidence-Is-Evidence-Of-Absence)
 
 Thus, it would seem that the two complementary perspectives described by Habryka are describing a success story of a vibrant intellectual forum with a culture of excellence that cares fanatically about getting things right via the power of vigorous and rigorous discussion. It's true that posting on _Less Wrong_ can be "unrewarding"—but that's because the rewards are real and therefore have to be earned.
 
 Habryka states that "few people have done as much to shape the culture of LessWrong" than one Said Achmiz. I think this is giving Achmiz far too much credit. I think _Less Wrong_'s culture of excellence derives from the legacy of Eliezer Yudkowsky's Sequences attracting a userbase that cares about getting things right. Achmiz is only #43 on [the all-time karma list](https://www.lesswrong.com/leaderboard) and is better seen in historical context as an inheritor of the culture of excellence rather than one of its originators.
 
+[TODO: Habyrka says "place 20 in how people would bring up your name. I think this would be an underestimate of your effect on the culture", so maybe not too much disagreement?]
+
 But granting for the sake of argument that Habyrka is right to attribute such influence to Achmiz, one wonders what the occasion of bringing it up is. The natural assumption is that the post must be announcing Achmiz as the recipient of some kind of award.
 
-[TODO: fire-and-brimstone condemnation of the total inversion of values]
+[TODO: fire-and-brimstone condemnation of the total inversion of values
+talk about the three-scenarios of examples vs. DirectedEvolution
+A LessWrong that takes DirectedEvolution's side here calls for bullshit and ass-covering, fraud
+]
 
 ### If "Every Individual Owns Their Own Judgment of You", Then the Ban Rationale Makes No Sense
 
@@ -66,15 +69,23 @@ One can only infer that Habryka is lying or self-deluding when he claims to care
 
 [TODO: examples throughout the post
 > If your comments have a consistent subtext of denigrating authors who invoke reasoning by analogy [...] if they reflect a genuine underlying policy of not trying to shift the norms of the site towards your preferred epistemological style
+
+Ben Pace writes about 
+> any commenter being able to demand answers to questions at the risk of the post-author’s status
+
 ]
 
-### Habyrka's "Core Dynamics" Analysis Is Full of Misrepresentations
+[TODO: lip service in insufficient; look at actions; his warning to me about "scorn" means it's not just Said]
+
+### Misrepresentations in Habyrka's Analysis of Achmiz's Comments
 
 [TODO—
 The initial "Zetetic Explanation" comment was _not_ vague and high-level put-down! Reading it that way is just poor reading comprehension. It was expresssed elliptically by juxtaposing the "ordinary means" and "Robinson Crusoe" quotes. Is that a good criticism? I don't know; it's a judgement call! But it's clearly in-bounds.
 
 > Said (as far as I can tell) refuses to do much cognitive labor in the rest of the thread
 What?
+
+"called him a coward"
 ]
 
 ### You Can Too Ignore Unwanted Comments
@@ -87,7 +98,7 @@ The quoted 2020 comment is a willful misrepresentation of Achmiz's views
 He clarified his position later in that thread, and we know that Habyrka knows this because Achmiz wrote a comment about it in the moderation thread
 There was also a comment where Achmiz explicitly clarified that people shouldn't reply if they don't expect it to be productive (which I linked to Ben Pace on Messenger, so the mod team knows about it)
 The implications of not replying happen in the heads of readers doing Bayesian reasoning
-What's being expressed in the 2020 thread is a view that such questions _are_ in fact productive
+What's being expressed in the 2020 thread is a view that such questions _are_ in fact productive; Achmiz agrees with the conditional that _if_ it's not productive, then it's fine not to engage
 You could just do nothing: https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/rwvEgbDKrcojyLTef
 ]
 
@@ -100,9 +111,17 @@ Favoring overt aggression is crazy; you don't want to know what we think of you 
 Usually, opinions about people are off-topic
 
 Judge, and be prepared to be judged
+
+I can't speak for Achmniz (and Achmiz is no longer permitted to speak for himself), but actually, I do feel disdain and disrespect for the entire mod team and a large fraction of the user base. Am I supposed to announce that in my comments? Why? Why would that be better?
+
+https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/BJ2j8sQThHzDYNFo9
+> holding extreme disdain and disrespect for interlocutors while being committed to never saying anything explicitly or even denying that it is the case
+
+Gordon Worley is actually a coward
+
 ]
 
-### Habyrka Lied About Author Complaints
+### Misrepresentations in Habyrka's Reports of Alleged Author Complaints About Achmiz
 
 [TODO
 Investigation with Scott and Falkovich
@@ -132,14 +151,29 @@ the mod's shameless bullying of sunwillrise, who was one of the best new comment
 
 (Sometimes criticism involves building a counter-thesis, and the "author" vs. "critic" roles in an ongoing conversation are not clear-cut, but the question-asking aspect is asymmetric.)
 
+https://www.lesswrong.com/posts/eY45uCCX7DdwJ4Jha/no-one-can-exempt-you-from-rationality-s-laws
+
 If you're trying to jigger the status rewards, fine, critical questions should be _worth less_ than writing a post .. but the place to intervene is in the rewards, not by censoring the criticism! That is, if you care about being correct.
 ]
 
 ### Reply to Vaniver on "Emotional Tallness"
 
+Lightcone Infrastructure board member and _Less Wrong_ BDFL Vaniver [commented on the ban announcement](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=j57cuznkZBXqSn7sr).
+
+----
+
+[TODO—this should actually be a comment; I should break out a separate file for comment replies]
+
+Vaniver affirms that one hypothesis for why people might be annoyed by Achmiz's comments is because they don't like Achmiz correctly directing people's attention at holes in their argument, but opines that Achmiz and I often acted as though it were the only hypothesis. I agree that it's not the only hypothesis—there's never only one hypothesis—but I do think it should usually be the dominant hypothesis. By way of illustration, consider that the justice system has a concept called [_adverse inference_](https://en.wikipedia.org/wiki/Adverse_inference). If the plantiff in a court case wants to cite a document that turns out to have been shredded by the defendant, the judge can instruct the jury to assume that the document was unfavorable to the defendant's case. Is that unfair? The document could have been shredded for any number of perfectly innocent reasons! Indeed, it _could_ have. But, well, really? Really?
+
+(In Bayesian terms, given that the document 
+
+I think a similar skepticism should apply to censorship of criticism.
+
+
+-----
+
 [TODO—
-> But this isn’t the only hypothesis and I think often Said or Zack acted as tho it was.
-Because it doesn't matter: supressing criticism on non-merit grounds creates a presumption of guilt for the same reason that destroying evidence does. If the criticism was wrong, why didn't you address it on merit grounds or not reply or leave a note that says "no time to reply"?
 
 the choice of metaphor in "emotional tallness" being something immutable is telling; someone who thought it was a good thing would use the usual metaphor, strength
 
@@ -162,6 +196,7 @@ I agree with "Feeling Rational"; for me, it emerges as righteous outrage at thes
 Yeah, and what's the reply? 
 ]
 
+
 ### Comment on "On the Construction of Beacons"
 
 [TODO:
@@ -173,5 +208,5 @@ This is an exact match to what we see in Habyrka's behavior: an obsession with w
 ### Conclusion
 
 [TODO after writing everything else
-LW has betrayed its mission
+LW has betrayed its mission—Vaniver and Ray acknowledge that we are the spirit of LW1
 ]
