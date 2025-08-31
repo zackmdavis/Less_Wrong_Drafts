@@ -43,6 +43,10 @@ But granting for the sake of argument that Habyrka is right to attribute such in
 [TODO: fire-and-brimstone condemnation of the total inversion of values
 talk about the three-scenarios of examples vs. DirectedEvolution
 A LessWrong that takes DirectedEvolution's side here calls for bullshit and ass-covering, fraud
+
+https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/GjtZY7pg9LRB2mwMi
+> There are selection effects on who stays in the community under these conditions.
+Indeed. For example, if a community selects for phonies who want people to lie to them in order to protect their feelings, and selects against people who want to have real, honest conversations, then you end up with a community full of phonies. 
 ]
 
 ### If "Every Individual Owns Their Own Judgment of You", Then the Ban Rationale Makes No Sense
@@ -102,25 +106,6 @@ What's being expressed in the 2020 thread is a view that such questions _are_ in
 You could just do nothing: https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/rwvEgbDKrcojyLTef
 ]
 
-### We Don't Actually Respect You
-
-[TODO: somehow clarify what's going on when Said says he has no feelings about anyone, and Habyrka's reply to my "we just mean"
-Censorship doesn't make the underlying reality go away; you can't win our respect by silencing us
-
-Favoring overt aggression is crazy; you don't want to know what we think of you people
-Usually, opinions about people are off-topic
-
-Judge, and be prepared to be judged
-
-I can't speak for Achmniz (and Achmiz is no longer permitted to speak for himself), but actually, I do feel disdain and disrespect for the entire mod team and a large fraction of the user base. Am I supposed to announce that in my comments? Why? Why would that be better?
-
-https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/BJ2j8sQThHzDYNFo9
-> holding extreme disdain and disrespect for interlocutors while being committed to never saying anything explicitly or even denying that it is the case
-
-Gordon Worley is actually a coward
-
-]
-
 ### Misrepresentations in Habyrka's Reports of Alleged Author Complaints About Achmiz
 
 [TODO
@@ -154,24 +139,16 @@ the mod's shameless bullying of sunwillrise, who was one of the best new comment
 https://www.lesswrong.com/posts/eY45uCCX7DdwJ4Jha/no-one-can-exempt-you-from-rationality-s-laws
 
 If you're trying to jigger the status rewards, fine, critical questions should be _worth less_ than writing a post .. but the place to intervene is in the rewards, not by censoring the criticism! That is, if you care about being correct.
+
+fights of attrition are a possible failure mode, but so is stonewalling
 ]
+
 
 ### Reply to Vaniver on "Emotional Tallness"
 
 Lightcone Infrastructure board member and _Less Wrong_ BDFL Vaniver [commented on the ban announcement](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=j57cuznkZBXqSn7sr).
 
 ----
-
-[TODO—this should actually be a comment; I should break out a separate file for comment replies]
-
-Vaniver affirms that one hypothesis for why people might be annoyed by Achmiz's comments is because they don't like Achmiz correctly directing people's attention at holes in their argument, but opines that Achmiz and I often acted as though it were the only hypothesis. I agree that it's not the only hypothesis—there's never only one hypothesis—but I do think it should usually be the dominant hypothesis. By way of illustration, consider that the justice system has a concept called [_adverse inference_](https://en.wikipedia.org/wiki/Adverse_inference). If the plantiff in a court case wants to cite a document that turns out to have been shredded by the defendant, the judge can instruct the jury to assume that the document was unfavorable to the defendant's case. Is that unfair? The document could have been shredded for any number of perfectly innocent reasons! Indeed, it _could_ have. But, well, really? Really?
-
-(In Bayesian terms, given that the document 
-
-I think a similar skepticism should apply to censorship of criticism.
-
-
------
 
 [TODO—
 
@@ -196,7 +173,6 @@ I agree with "Feeling Rational"; for me, it emerges as righteous outrage at thes
 Yeah, and what's the reply? 
 ]
 
-
 ### Comment on "On the Construction of Beacons"
 
 [TODO:
@@ -205,8 +181,25 @@ The prophetic line: from the sociopaths' perspective, they are fixing errors, no
 This is an exact match to what we see in Habyrka's behavior: an obsession with what will make people use the website, and not about what's logically correct
 ]
 
-### Conclusion
+### We Don't Actually Respect You
 
-[TODO after writing everything else
-LW has betrayed its mission—Vaniver and Ray acknowledge that we are the spirit of LW1
+[TODO: somehow clarify what's going on when Said says he has no feelings about anyone, and Habyrka's reply to my "we just mean"
+Censorship doesn't make the underlying reality go away; you can't win our respect by silencing us
+
+Favoring overt aggression is crazy; you don't want to know what we think of you people
+Usually, opinions about people are off-topic
+
+Judge, and be prepared to be judged
+
+I can't speak for Achmniz (and Achmiz is no longer permitted to speak for himself), but actually, I do feel disdain and disrespect for the entire mod team and a large fraction of the user base. Am I supposed to announce that in my comments? Why? Why would that be better?
+
+https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/BJ2j8sQThHzDYNFo9
+> holding extreme disdain and disrespect for interlocutors while being committed to never saying anything explicitly or even denying that it is the case
+
+Gordon Worley is actually a coward
+
+> I would appreciate some courtesy[3] to keep discussion to the principles and decision-level instead of critiques of my personal behavior, as indeed much of the cost of moderation is measured in having any moderation-adjacent action be torn apart and be requested to be justified or defended.
+> [3] though of course in as much as something seems egregious, you and others should feel free to call it out
+
+I can't imagine saying that—if someone has opinions about my personal behavior, why shouldn't they talk about it?
 ]
