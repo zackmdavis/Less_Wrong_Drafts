@@ -6,6 +6,24 @@
 >
 > —[Voltairine de Cleyre (paraphrased)](https://theanarchistlibrary.org/library/voltairine-de-cleyre-sex-slavery)
 
+### "If I Can't Explain It to Said Achmiz, I Probably Don't Understand It"
+
+This is a tribute to my friend Said Achmiz, the wisest person I know.
+
+The choice of adjective is deliberately chosen as term of art. Achmiz is not the most quick-witted, nor the most knowledgable, nor the most creative, nor the most savvy. I say _wise_ because the nature of his peculiar talent is the same one ascribed to [Socrates](https://www.lesswrong.com/posts/JcgtKunqmELefxksx/killing-socrates): [_he knows what he doesn't know_](https://en.wikipedia.org/wiki/I_know_that_I_know_nothing).
+
+Most people don't. At least, I don't. All too often, when asked, "Do you get what I'm saying?", I reply, "I think so" with perfect subjective sincerity, only realizing later that I was deluding myself—that I could not have paraphrased my interlocutor's ideas, let alone explained where I agreed or disagreed with them. In retrospect (and only in retrospect), it's clear that I didn't want to disrupt the harmonious give-and-take flow of social exchange, that I feared being seen as foolish or obstinate for having the temerity to say, "No, I don't understand"—and to continue standing by that _No_ should understanding not be forthcoming.
+
+The unique genius of Achmiz is simply that he's not afraid to be seen as foolish or obstinate. If he doesn't understand how you're using a term, he'll ask for a definition. If he doesn't see how to apply your abstract claim, he'll ask for an example. If your offered definition or example doesn't make sense to him, he'll say so. _Bluffing doesn't work on him._
+
+Occasionally it strikes me as a little odd when Achmiz asks something that I think he should have been able to figure out by himself, but it's no trouble. If I can spare the time, I'm usually happy to type up the requested additional explanation. If I can't spare the time, there's a chance someone else in the cyber-agora might pitch in and supply it.
+
+But if I can spare the time but can't come up with an explanation that will satisfy Socrates, that's an alarming warning sign that my grasp of the topic isn't as firm as thought: I didn't know what I didn't know.
+
+But there's also such a thing as people who combine an above-average need for rigor with a below-average need for social harmony, to the result that they can't be bluffed—who are incredibly valuable to have around to help check that you aren't fooling yourself. Mostly, I figure that if I can't explain it to Socrates, I probably don't understand it.
+
+[TODO: four round back and forth]
+
 ### An Inversion of Values
 
 Oliver Habyrka begins what I can only describe as [an astonishing document](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation) by contrasting two frequently voiced perspectives on the culture of _Less Wrong_.
@@ -203,3 +221,5 @@ Gordon Worley is actually a coward
 
 I can't imagine saying that—if someone has opinions about my personal behavior, why shouldn't they talk about it?
 ]
+
+Kill him!
