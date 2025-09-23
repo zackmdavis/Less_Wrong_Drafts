@@ -1,0 +1,25 @@
+# Generalization and the Multiple Stage Fallacy?
+
+**Doomimir**: [The possibility of AGI being developed gradually doesn't obviate the problem of the "first critical try"](https://www.lesswrong.com/posts/kgb58RL88YChkkBNf/the-problem?commentId=zEcMTMxj4mzovhQpZ): AIs that _seem_ aligned when they're weaker than humans, won't generalize to not kill the humans once they're stronger than humans and the misalignment can no longer be "corrected". The speed of the transition between those regimes doesn't matter. The problem still exists and is still fatal whether it takes a day or a decade.
+
+**Simplicia**: [I agree that](https://www.lesswrong.com/posts/kgb58RL88YChkkBNf/the-problem?commentId=6YBNPriTW8iTHQ2v4) the risk of goal misgeneralization must be confronted, but I don't understand why you're so sure the risk is high. If we work hard to test and iterate on our AI's behavior in the settings where we can observe and correct it, isn't there hope of it generalizing to behave well once we can no longer correct it? In analogy, it's not inhumanly hard to design and build machines on land that successfully generalize to functioning on an airplane or in a submarine.
+
+**Doomimir**: Or in space, or inside the sun? [Suppose that two dozen things change](https://www.lesswrong.com/posts/kgb58RL88YChkkBNf/the-problem?commentId=RqrKG3x6q3Wqz5TED) between the regime where you can iterate and test, and the regime in which failure kills you. Even if you anticipate and try to devise generalizing solutions for three-quarters of them, not all of your solutions are going to work on the first critical try, and then there are the problems you failed to anticipate. This isn't the kind of thing humans beings can pull off in real life.
+
+**Simplicia**: Sorry, this is probably a stupid question, but isn't this similar to the [multiple stage fallacy](https://arbital.com/p/multiple_stage_fallacy/) which you've derided elsewhere?
+
+That is, in the multiple stage fallacy, someone who wishes to portray a proposition as unlikely can prey on people's reluctance to assign extreme probabilities by spuriously representing the proposition as a conjunction of sub-propositions that all need to be true.
+
+As an illustrative example, suppose that [the "correct" probability](https://www.lesswrong.com/posts/XhaKvQyHzeXdNnFKy/probability-is-subjectively-objective) of some proposition $Q$ is 0.9. Someone who wants to argue that the proposition is unlikely represents it as a conjunction of two dozen sub-propositions: $Q$ is true if and only if $Q_1$ is true, _and_ $Q_2$ is true given that $Q_1$ is true, _and_ $Q_3$ is true given that $Q_1$ and $Q_2$ are true, and so on up to $Q_{24}$.
+
+Someone who assumed the sub-propositions $Q_i$ were independent and assigned them each a probability 0.95 would only assign $Q$ a probability of $0.9^{24} \approx 0.29$. Indeed, with the assumption of independent sub-propositions $Q_i$, one would need to assign each $Q_i$ an intuitively "extreme"-looking probability of $\exp \frac{\log 0.9}{24} \approx 0.996$ in order to assign $Q$ the correct probability of 0.9—which should be a clue that the $Q_i$ aren't really independent, that that choice of decomposition into sub-propositions was a poor one (with respect to the goal of getting the right answer, as contrasted to the goal of tricking respondents into assigning a low probability to $Q$).
+
+So when you posit that two dozen things change between an detectable/correctable failures regime and a fatal regime, such that the conjunctive probability of not hitting a fatal misgeneralization is tiny, how do I know you're not committing a multiple stage fallacy? How is that decomposition into sub-propositions empirically grounded?
+
+In analogy, someone who wanted to argue that it's infeasible to build text-to-image generative models that make art that humans enjoy, could partition their prediction of failure into disjunctive failure modes: the model has to generalize what hands look like; it has to generalize what noses look like; it has to generalize what birds look like. One-shotting all of those separate problems isn't something that human beings can do in real life, the argument would go. But of course, the problems aren't independent, and text-to-image generators do exist.
+
+Is there a version of your argument that doesn't depend on the equivalent of, "Suppose there are twenty-four independent things that can go wrong, surely you don't want to bet the world on them each succeeding with probability 0.996"?
+
+**Doomimir**: You're right: that _is_ a stupid question.
+
+**Simplicia**: _[head down in shame]_ I know. It's only ... _[straightening up]_ I would like to know the answer, though. _[turning to the audience]_ Do _you_ know?
