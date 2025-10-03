@@ -1,6 +1,8 @@
 # Conversations With Cade Metz on the Rationalists
 
-_New York Times_ reporter Cade Metz has been writing a book about the people who believed in AGI before it was cool. That's a subject that I think I know some things about, so we've been having on-the-record conversations occasionally, which I'd like to publish here (for transparency's sake, not because a raw 30,000-word transcript dump necessarily that interesting).
+(Previously, previously.)
+
+_New York Times_ reporter Cade Metz has been writing a book about the people who believed in AGI before it was cool. That's a subject that I think I know some things about, so we've been having on-the-record conversations occasionally, which I'd like to publish here (for transparency's sake, not because a 30,000-word transcript dump is necessarily that interesting).
 
 The recordings (with varying amounts of background noise) are available—
 
@@ -210,7 +212,7 @@ Or you can consider the transcripts below, which have been edited for clarity. (
 
 **CM**: So you read the meaning of life in that context and don't buy into everything and, say, when you discover _Cvercoming Bias_, do you think about the relationship between those two things at that point or at any point?
 
-**ZMD**: I mean, no—so I think it's better to think of them as separate. And he even wrote an essay when _Less Wrong_ was new, there was like a temporary ban on, don't discuss AI/singularity topics because we're trying to found a new rationality website and it's a separate topic. And it turns out that these topics actually turn out to inform each other in surprising ways, but I think it's better to read the Sequences as just being about human rationality and not worry about the thing that indirectly inspired them.
+**ZMD**: I mean, no—so I think it's better to think of them as separate. And he even wrote [an essay when _Less Wrong_ was new, there was like a temporary ban on, don't discuss AI/singularity topics because we're trying to found a new rationality website and it's a separate topic](https://www.lesswrong.com/posts/SqNvmwDxRibLXjMZN/and-say-no-more-of-it). And it turns out that these topics actually turn out to inform each other in surprising ways, but I think it's better to read the Sequences as just being about human rationality and not worry about the thing that indirectly inspired them.
 
 **CM**: All right. So let's come back to that, because I think that's a really interesting notion, and I get it. I think there might be something more complicated around there, but we can get there. But this blog, at that point, they're not called the Sequences, right? It's just a blog.
 
@@ -804,7 +806,7 @@ Maybe a good example would be, you know, the COVID pandemic. In the early days o
 
 **ZMD**: So I definitely agree that you're writing a book for the general public, you can't just do a raw thought dump of what the people you're covering think, because they're not speaking the same language as the general public.
 
-**CM**: But where he's wrong is, I care deeply about the ideas. This is why I'm talking to you. This is why this is so interesting, and why your Diary was so interesting, because what the Diary showed are the ideas that people were thinking about at that time. I love there's this moment where you go back to the group house to the the meetup, and you're talking about, the _Overcoming Bias_ community, and the the topic really on the table is rationality and bias, but it goes towards this transhumanism stuff. It shows that was that was just part of it. So I want to explain the idea of transhumanism to people. I want to explain the idea of rational thought to people. I want to explain why these things intersect in this community. I want to explain all that through the people, and through the things that happened to people.
+**CM**: But where he's wrong is, I care deeply about the ideas. This is why I'm talking to you. This is why this is so interesting, and why your diary was so interesting, because what the diary showed are the ideas that people were thinking about at that time. I love there's this moment where you go back to the group house to the the meetup, and you're talking about, the _Overcoming Bias_ community, and the the topic really on the table is rationality and bias, but it goes towards this transhumanism stuff. It shows that was that was just part of it. So I want to explain the idea of transhumanism to people. I want to explain the idea of rational thought to people. I want to explain why these things intersect in this community. I want to explain all that through the people, and through the things that happened to people.
 
 **ZMD**: Do I get to read excerpts of the book? I know for the article, I know the _Times_ has a policy against that, but does that apply to the book?
 
@@ -850,7 +852,7 @@ There's this thing where if you're just counting heads of, these people say this
 
 **ZMD**: I'm just saying, when we when we get to that fact-checking phase, I want to be more diligent than Kelsey, because I don't—with respect, I don't trust you to get the story right. I'm happy to talk out of the principle that I'm happy to talk to anyone. I don't have faith that you're going to get it right. When we get to the fact-checking phase, whatever you can show me, I'm going to be watching like a hawk.
 
-**CM**: What's so interesting to me is, as you discover, I just think that your story is so interesting, because you kind of knew who Yudkowsky, mentioned in your Diary, you read _Great Mambo Chicken_, you really like it, you're kind of intrigued by these—I'm kind of doing fact-checking now—you're intrigued by these transhumanist ideas. You said that future tech is comforting, because it's kind of like religion, but more real, more plausible. And then you're reading [that _Jane Galt_ blog and she links to](https://web.archive.org/web/20071129181942/http://www.janegalt.net/archives/009783.html) that ["Universal Fire" essay](https://www.lesswrong.com/posts/LaM5aTcXvXzwQSC2Q/universal-fire), and you click on it, and you read this thing, and in my story, I explain to them, the Universal Fire essay captures your interest, and you keep reading this stuff, and then you meet these people in person, and that excites you; you see that in your Diary. And you get more and more into these ideas of rational thought, but also, as you show in your Diary, you get into this idea of the singularity. You tell people, I'm down with this, too, right? And then you reach this moment, where you're comforted, also, by this notion that there is this fundamental truth, and that includes this post from Yudkowsky, where he says [men and women are fundamentally different and you can't change](https://www.lesswrong.com/posts/QZs4vkC7cbyjL9XA9/changing-emotions), right, and I go into that essay.
+**CM**: What's so interesting to me is, as you discover, I just think that your story is so interesting, because you kind of knew who Yudkowsky, mentioned in your diary, you read _Great Mambo Chicken_, you really like it, you're kind of intrigued by these—I'm kind of doing fact-checking now—you're intrigued by these transhumanist ideas. You said that future tech is comforting, because it's kind of like religion, but more real, more plausible. And then you're reading [that _Jane Galt_ blog and she links to](https://web.archive.org/web/20071129181942/http://www.janegalt.net/archives/009783.html) that ["Universal Fire" essay](https://www.lesswrong.com/posts/LaM5aTcXvXzwQSC2Q/universal-fire), and you click on it, and you read this thing, and in my story, I explain to them, the Universal Fire essay captures your interest, and you keep reading this stuff, and then you meet these people in person, and that excites you; you see that in your diary. And you get more and more into these ideas of rational thought, but also, as you show in your diary, you get into this idea of the singularity. You tell people, I'm down with this, too, right? And then you reach this moment, where you're comforted, also, by this notion that there is this fundamental truth, and that includes this post from Yudkowsky, where he says [men and women are fundamentally different and you can't change](https://www.lesswrong.com/posts/QZs4vkC7cbyjL9XA9/changing-emotions), right, and I go into that essay.
 
 **ZMD**: _[laughing]_ Okay.
 
@@ -864,7 +866,7 @@ There's this thing where if you're just counting heads of, these people say this
 
 **CM**: It's a really good word. In some ways it's a metaphor for this whole movement; it gives people clarity.
 
-**ZMD**: I mean the thing the thing that the whole memoir is about is expressing rage and frustration that—
+**ZMD**: I mean the thing that the whole memoir is about is expressing rage and frustration that—
 
 **CM**: I haven't gotten there yet; that's what's so interesting. You, like a lot of people, get comfort from this clarity and this very cool calculated way of viewing the world. You fast forward to 2016 when has the Facebook post, and then he blows it all up, and then that clarity is lost, in some ways. The comfort and the clarity is lost.
 
@@ -946,7 +948,7 @@ Okay, so basically that was like the first note of, wait, what's going on here, 
 
 **CM**: I'm just trying to help you; I'm giving you a chance to explain. You don't have to.
 
-**ZMD**: I want to contextualize that, in the sense that lots of things in Society are fake in the same sense. School is fake. Work is fake. As someone who had read the Sequences as they were being written, there was this very very high standard being articulated, of, we are going to pursue the truth, not just in the sense of we're going to say literally true sentences, but we are going to like use a cognitive algorithm that would have that would have returned a different answer if reality had been different, which is a much higher standard than only using true sentences, for the same reason that politicians and used car salesmen are very very good at getting people to believe and do what they want them to do and believe, without technically lying, because you just cherry-pick. A lot of journalists are good at this, too: just cherry-pick the particular facts that you want in order to weave the narrative that you want. Yudkowsky's Sequences had articulated this much more ambitious vision holding oneself to a much, much higher standard. We're not just going to not lie; we're actually going to get the correct model.
+**ZMD**: I want to contextualize that, in the sense that lots of things in Society are fake in the same sense. School is fake. Work is fake. As someone who had read the Sequences as they were being written, there was this very very high standard being articulated, of, we are going to pursue the truth, not just in the sense of we're going to say literally true sentences, but we are going to use a cognitive algorithm that would have that would have returned a different answer if reality had been different, which is a much higher standard than only using true sentences, for the same reason that politicians and used car salesmen are very very good at getting people to believe and do what they want them to do and believe, without technically lying, because you just cherry-pick. A lot of journalists are good at this, too: just cherry-pick the particular facts that you want in order to weave the narrative that you want. Yudkowsky's Sequences had articulated this much more ambitious vision holding oneself to a much, much higher standard. We're not just going to not lie; we're actually going to get the correct model.
 
 And then it turned out that, at least on some topics where getting the correct model would be perceived as political suicide, it turns out, okay, we're not actually going to do it on those topics. I think that the disagreement with my other community members that's being expressed in this memoir is, for me, at least, this kills the whole project. Lots of people I know are making these huge, huge social and medical decisions on the basis of information that I think is just egregiously misleading. If the rationalists can't even get this one right, that's actually personally relevant to us, what is even the point? I think from the perspective of the people I'm disagreeing with, they think that, well, you know, we will avoid politically sensitive topics, but that doesn't kill the whole project, because we can just carefully not lie and carefully avoid sensitive topics, and still focus on the thing that actually matters, which is AI risk. I can understand that and I can respect that in certain ways, but I'm mad about the misleading marketing. I go into this in part four. I think I do have a false advertising complaint. If you are going to follow the strategy, which I can understand and respect, of, okay, we're not going to do heresies, we're not going to do thoughtcrimes; we have more important things to focus on, then you should not really be marketing yourselves as, we are the only sane and rational people in the world, because on certain topics, there are other people who are facing less political pressure than you, who are going to be better than you on those topics.
 
@@ -964,7 +966,7 @@ And then it turned out that, at least on some topics where getting the correct m
 
 **CM**: They're bowing to the external cancellation pressure. 
 
-**ZMD**: Because remember the James Damore thing? No one wants to be James Damore, right? And especially if you have this movement that you think is like uniquely important for the entire future history of the world, you don't want the thing that happened to James Damore to happen to your project.
+**ZMD**: Because remember the James Damore thing? No one wants to be James Damore, right? And especially if you have this movement that you think is uniquely important for the entire future history of the world, you don't want the thing that happened to James Damore to happen to your project.
 
 **CM**: I got it. So I guess my question is, when you say the whole enterprise is called into question, you have doubt over whether or not it can hang on to the real truth in this one area, does that reduce your confidence they're willing to hang on to the truth in other areas?
 
@@ -972,7 +974,7 @@ And then it turned out that, at least on some topics where getting the correct m
 
 **CM**: But you've also told me in the past that you can't necessarily trust this group's opinions on x-risk.
 
-**ZMD**: Just, in general. I do think x-risk is real. I do think the world should be paying much more attention to getting this stuff right, and I think this community is the place where people are paying attention to it, but that doesn't mean you should just defer to what these what these people already think. It means you should think for yourself. I would love for like more people with more diverse backgrounds to read this stuff and think about it for themselves, instead of just, like, copy-pasting Yudkowsky's beliefs, which—
+**ZMD**: Just, in general. I do think x-risk is real. I do think the world should be paying much more attention to getting this stuff right, and I think this community is the place where people are paying attention to it, but that doesn't mean you should just defer to what these what these people already think. It means you should think for yourself. I would love for more people with more diverse backgrounds to read this stuff and think about it for themselves, instead of just, like, copy-pasting Yudkowsky's beliefs, which—
 
 **CM**: So ultimately you still believe that there is this absolute truth.
 
@@ -1008,7 +1010,7 @@ And then it turned out that, at least on some topics where getting the correct m
 
 **CM**: I talked to a lot of people.
 
-**ZMD**: Basically in in our Society, people who just work at a university, people who work at, you know, San Francisco State, are not going to engage with far-right thought at all. It's just unthinkable. But as internet weirdos, we're happy to think about anything.
+**ZMD**: Basically in our Society, people who just work at a university, people who work at, you know, San Francisco State, are not going to engage with far-right thought at all. It's just unthinkable. But as internet weirdos, we're happy to think about anything.
 
 **CM**: In fact, you're kind of determined to engage. It's like a badge of honor.
 
@@ -1030,7 +1032,7 @@ And then it turned out that, at least on some topics where getting the correct m
 
 **ZMD**: I've always been this way, in a way that it makes sense that I fell in with this group, because I was like this beforehand.
 
-**CM**: They probably all were. There's this great moment in your Diary where you're talking with Anna about her being surprised that you're in the 97th percentile on SATs. It really shows that. All of you are so concerned with the intelligence.
+**CM**: They probably all were. There's this great moment in your diary where you're talking with Anna about her being surprised that you're in the 97th percentile on SATs. It really shows that. All of you are so concerned with the intelligence.
 
 **ZMD**: I think there's a subtle point of that anecdote that you might not have picked up on, because it's where she said she was surprised, I said she was surp—I don't.
 
@@ -1146,7 +1148,7 @@ The smart version of this idea for futurism is imagining that like, if you have 
 
 **CM**: I really question this this idea that this is going to be built no matter what, so we're we're going to build it.
 
-**ZMD**: Yudkowsky has changed his mind about this. There's the book coming out in September, _If Anyone Builds It, Everyone Dies_ that's lobbying for an international treaty to not build it. So nowadays the plan is, our only hope—this probably won't work, but our only hope is to get governments to make people not build it.
+**ZMD**: Yudkowsky has changed his mind about this. There's the book coming out in September, _If Anyone Builds It, Everyone Dies_, that's lobbying for an international treaty to not build it. So nowadays the plan is, our only hope—this probably won't work, but our only hope is to get governments to make people not build it.
 
 **CM**: I'm fascinated by the Anthropic philosophy where we're going to build it and create this race to the top, they talk about. What they did is they came into OpenAI, and then they scaled it up. They were the ones that scaled it up. It's not like anybody else was—they scaled it up, and their argument is, you got to be working on the technology to do safety but—
 
@@ -1406,7 +1408,7 @@ End quote.
 
 **ZMD**: I don't think it is a replacement. The tragedy of being human is that it's easy to construe as a replacement insofar as like the ideas hit similar buttons in people's brains.
 
-**CM**: At the same time, even in your Diary, you will talk about it.
+**CM**: At the same time, even in your diary, you will talk about it.
 
 **ZMD**: To be clear, I wrote that 20 years ago. I would not write that today.
 
@@ -1416,7 +1418,7 @@ End quote.
 
 **CM**: Tell me what's their thinking, what's your thinking?
 
-**ZMD**: It's just kind of hard to avoid, right? For a lot of years, Yudkowsky had this vision of, well, we're going to make it friendly. Given a certain view of what is technologically possible, there's this pretty reasonable presumption that if something is possible, sooner or later someone is going to do it, and avoiding that would be pretty hard. And in fact Yudkowsky and Soares have this thing, coordinating to not do this is pretty hard, but it's humanity's only option at this point.
+**ZMD**: It's just kind of hard to avoid, right? For a lot of years, Yudkowsky had this vision of, well, we're going to make it Friendly. Given a certain view of what is technologically possible, there's this pretty reasonable presumption that if something is possible, sooner or later someone is going to do it, and avoiding that would be pretty hard. And in fact Yudkowsky and Soares have this thing, coordinating to not do this is pretty hard, but it's humanity's only option at this point.
 
 **CM**: I guess there's it being possible, and your being pretty sure it's gonna happen, and you're doing it quicker. This community for a lot of reasons, help create DeepMind, help create OpenAI, help create Anthropic, and, you know, these ideas have pushed it forward. It's not just about doing it, it's about doing it faster.
 
@@ -1446,7 +1448,7 @@ Because specifically why I was so impressed by DALL-E was just the fact that—i
 
 **CM**: A lot of people talk about, after that post went up, it was a somber moment, some people like quit going to dentists, said they weren't going to have children. Did you experience much of that, like changing behavior?
 
-**ZMD**: I'm not an extreme version, but I have been doing a little bit of this insofar as, again, I think I'm being reasonable here, in that, so for example, okay, I probably don't want to talk about my personal finances in detail on the record, but for example, up through 2022, I was working as a software engineer, and right now I do not have a dayjob, and part of the reason I feel comfortable living on savings right now is because there's this uncertainty of, well, given a substantial probability the world is going to get really crazy in the next 5 or 10 or 15 years, maybe I want to on the margin shift my behavior more towards more towards, in the moment personal consumption, like not having a day job is great, I get to do what I want, and trying to do things that help prepare the world for things getting crazy as the AI stuff gets crazy. And now of course I could be wrong about this. So let's see, it is 2025. The money I have from my software engineering career, it's not going to last forever. I have enough to I have enough to live comfortably for quite a while, especially because you know, I don't have I don't have children or anything. I feel a little bit guilty about this. You also read about South Koreans are going extinct, and so conditional on no AI, I think it would be really important for people like me to have children. I just never—I have not been romantically successful in life.
+**ZMD**: I'm not an extreme version, but I have been doing a little bit of this insofar as, again, I think I'm being reasonable here, in that, so for example, okay, I probably don't want to talk about my personal finances in detail on the record, but for example, up through 2022, I was working as a software engineer, and right now I do not have a dayjob, and part of the reason I feel comfortable living on savings right now is because there's this uncertainty of, well, given a substantial probability the world is going to get really crazy in the next 5 or 10 or 15 years, maybe I want to on the margin shift my behavior more towards more towards, in the moment personal consumption, like not having a day job is great, I get to do what I want, and trying to do things that help prepare the world for things getting crazy as the AI stuff gets crazy. And now of course I could be wrong about this. So let's see, it is 2025. The money I have from my software engineering career, it's not going to last forever. I have enough to live comfortably for quite a while, especially because you know, I don't have children or anything. I feel a little bit guilty about this. You also read about South Koreans are going extinct, and so conditional on no AI, I think it would be really important for people like me to have children. I just never—I have not been romantically successful in life.
 
 **CM**: Do you feel like people around you change their behavior after the die with dignity?
 
