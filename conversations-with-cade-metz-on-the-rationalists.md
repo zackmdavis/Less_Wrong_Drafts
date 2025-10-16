@@ -1,6 +1,6 @@
 # Conversations With Cade Metz on the Rationalists
 
-(Previously, previously.)
+([Previously](https://www.lesswrong.com/posts/oYnwTuxySiaZYDrur/my-interview-with-cade-metz-on-his-reporting-about-slate), [previously](https://www.lesswrong.com/posts/JkrkzXQiPwFNYXqZr/my-interview-with-cade-metz-on-his-reporting-about).)
 
 _New York Times_ reporter Cade Metz has been writing a book about the people who believed in AGI before it was cool. That's a subject that I think I know some things about, so we've been having on-the-record conversations occasionally, which I'd like to publish here (for transparency's sake, not because a 30,000-word transcript dump is necessarily that interesting).
 
@@ -1226,6 +1226,136 @@ The smart version of this idea for futurism is imagining that like, if you have 
 
 **ZMD**: Okay, thanks.
 
+### 25 June–23 July 2025
+
+**From**: Cade Metz  
+**To**: Zack M. Davis  
+**Date**: Wed, 25 Jun 2025 08:50:50 -0700  
+**Subject**: thanks and blog post
+
+Hey Zack: Thanks again for chatting yesterday. Small question for now: do you have a link to that Ben Hoffman blog post where he talked about the price of a board seat at OpenAI?
+
+----
+
+**From**: Zack M. Davis  
+**To**: Cade Metz  
+**Date**: Wed, 25 Jun 2025 13:05:48 -0700  
+**Subject**: Re: thanks and blog post
+
+The post is [\"An OpenAI Board Seat Is Surprisingly Expensive\"](https://benjaminrosshoffman.com/an-openai-board-seat-is-surprisingly-expensive/), but I misremembered what the post is saying. (The title doesn\'t really capture it.) Ben is hypothesizing that more than just the money, what OpenAI was getting out of the deal was validation from OpenPhil as a legitimate \"AI safety\" actor.
+
+(This while none of the original AI safety people thought OpenAI was a good idea: see Ben in April 2017 on [\"OpenAI Makes Humanity Less Safe\"](https://benjaminrosshoffman.com/openai-makes-humanity-less-safe/), Scott Alexander in December 2015 on [\"Should AI Be Open?\"](https://slatestarcodex.com/2015/12/17/should-ai-be-open/) expressing the same concern but with Scott\'s characteristic timidity and waffling, Yudkowsky saying he [\"cried for 45 seconds or so\"](https://x.com/ESYudkowsky/status/1683592535569231873) at the OpenAI launch, *&c*.)
+
+⁂
+
+I want to explain the Bayesian thing that's going on in this passage that I couldn\'t explain in real time that I don\'t expect *New York Times* readers to get (because it was new to me at the time):
+
+> When Anna said she was surprised by my SAT scores only being ninety-seventh percentile (as I had mentioned on our walk the previous afternoon), I said that I was surprised that she was surprised, and she said that I should expect her to have been surprised, given that I had said earlier that I thought she overestimated my abilities.
+
+A background axiom here is that [beliefs are for making predictions](https://www.readthesequences.com/Making-Beliefs-Pay-Rent-In-Anticipated-Experiences) about your future experiences: what it means to \"believe\" the sky is blue is that you *predict* that if you look up outside and open your eyes you\'ll see blue. \"Surprise\", then, is when you have an experience that you didn\'t predict. Being surprised means your beliefs were probably wrong; if you have correct beliefs, you shouldn\'t be surprised by things.
+
+Here, Anna thought I seemed impressive, so she was surprised that my standardized test scores were so low. (Her beliefs about my impressiveness made her predict that I would have scores to match, and that prediction didn\'t come true.)
+
+I thought I wasn\'t impressive, so I didn\'t think she should have been surprised, but what Anna subsequently pointed out was that I hadn\'t thought through the implications of my own beliefs: my belief that Anna was overestimating me should have implied that her overestimation would make bad predictions about evidence about my abilities that didn\'t route through her own purportedly biased perceptions (*e.g*., test scores), and that those bad predictions would surprise her: thus, I should have expected her to be surprised.
+
+⁂
+
+I have some follow-up commentary on this moment from our conversation yesterday. The context was me saying that I wanted people to think critically about AI risk for themselves:
+
+> **CM**: So, ultimately, you still believe that there is this absolute truth.  
+> **ZMD**: Yes.  
+> **CM**: Do you get that some people really question you?  
+> **ZMD**: I think they are confused about some things.  
+
+The reason I think they're confused is, well, what would it even *mean* for there to not be an absolute truth? It doesn't make sense to think that rationalists believe AI existential risk is real but normies don\'t, but there\'s no absolute truth of the matter, because eventually, you expect these beliefs to make different predictions. If we invent AGI and nothing really changes, then the rationalists were wrong; if we invent AGI, and it kills a billion people, then the normies were wrong.
+
+We may not *know* what the truth is, but there\'s still going to be a truth (which you could call \"absolute\").
+
+We have a slogan, "The map is not the territory." When I try to imagine how someone could possibly disagree with this, my guess is that they're confusing the map and the territory: thinking, well, there are all these different groups that believe different things, how can you say there\'s an absolute truth? But the different groups\' beliefs are just different maps. There's still an underlying territory.
+
+----
+
+**From**: Cade Metz  
+**To**: Zack M. Davis  
+**Date**: Tue, 1 Jul 2025 08:34:08 -0700  
+**Subject**: Re; thanks and blog post
+
+Zack: This is great stuff. Thanks. After doing some more reading, this might be the more interesting blog post:
+
+[https://benjaminrosshoffman.com/effective-altruism-is-self-recommending/](https://benjaminrosshoffman.com/effective-altruism-is-self-recommending/)
+
+Would love for Ben to chat about this. Will at least try....
+
+Cade
+
+----
+
+**From**: Zack M. Davis  
+**To**: Cade Metz  
+**CC**: Benjamin Hoffman  
+**Date**: Tue, 1 Jul 2025 19:25:55 -0700  
+**Subject**: Re: thanks and blog post
+
+Cade, I think Ben would be more open to chatting if you could provide some sort of counterevidence to his perception of you as having ["\[a\]bsolutely zero recognition of any underlying reality about which an accusation might be made, or communication attempted" such that he "didn't think it was worth \[his\] time to proceed."](https://benjaminrosshoffman.com/if-there-were-no-journalism-how-would-we-find-out/)
+
+Such counterevidence could take the form of, say, a written or verbal explanation in your own words of what observations you think might have made Ben think that about you, but why he's actually got you all wrong. (If it helps, [ChatGPT o3](https://chatgpt.com/share/6864964c-be8c-8005-8599-6224f9896509) and [Claude 4 Opus](https://claude.ai/share/6e3aed11-30b4-4e87-a73a-5ce3dfbe3460) did a pretty serviceable job of the former.)
+
+This is related to the section in my previous email about absolute truth. When you asked me if I still believed in an absolute truth, and if I understood that some people really question that, what did *you* mean by "absolute truth", such that it makes sense to you that some people question whether there is such a thing?
+
+I'd expect that you do believe in an underlying reality when it comes to ordinary, "mundane" things: if there's an apple on the table in front of you, then it's true (perhaps, "absolutely" true) that the apple is there. You don't need to get an on-the-record quote from a professor of apples at Harvard to believe that the apple is there, because you can see it.
+
+Basically, the "rationalists" are applying that attitude (which everyone has about the topic of whether there's an apple on the table) to *everything*, including much more complicated and abstract topics where you, as part of your job, *would* need to get a quote from a professor somewhere.
+
+That convention exists for reasons, of course. There aren't enough column-inches for reporters to present a long chain of observations and inferences which busy *New York Times* readers wouldn't be able to evaluate for themselves anyway. It makes sense that the *Times* wants its reporters to stick to either uncontroversial checkable facts *or* opinions and theories from credentialed experts. That's the epistemology of journalism.
+
+However, when you're writing a book *about* an loose collection of philosophy autodidacts with deep ties to technology barons that you think the public should know about, you need to understand that your subjects are not operating under journalist epistemology. Separately from the fact that it's not *your* job to write that way (because you need to play the facts-and-sourced-opinions game), if you don't understand this in your soul, you're not going to be able to accurately paraphrase the ideas of Ben Hoffman (or Kelsey Piper, as we've discussed, or really any of these people). That's a problem that you need to fix if you want to write a great book!!
+
+----- 
+
+**From**: Benjamin Hoffman  
+**To**: Zack M. Davis  
+**CC**: Cade Metz  
+**Date**: Fri, 4 Jul 2025 11:22:31 -0400  
+**Subject**: Re: thanks and blog post
+
+I just got off the phone with Cade. Most of the conversation focused on the social graph, and the material facts related to it: who was socially connected to whom, at what time, in what place - the sort of stuff I already understood Cade to be tracking as a journalist. But the surprising bit was that he took initiative to keep circling back to the only *important* thing I said in the conversation - that the problem with OpenAI wasn't a matter of individual bad actors replacing good ones, but a systemic shift—a deterioration in accountability norms, or (worded differently) a vibe shift towards opportunism.
+
+Cade, I didn't get the sense that you were satisfied with your understanding of what I was saying. At the same time, there wasn't enough back-and-forth for me to form a clear impression of what you *did* understand me to be saying. It seems as though you were inhibited from asking followup questions about anything conceptual. Each time you brought up the topic, you verbally claimed to understand what I was saying, but then you brought it up again - which implies real, unaddressed curiosity.
+
+I wonder whether this confusing combination of curiosity and inhibition might have something to do with your understanding of journalistic ethics, which as far as I can tell you follow fastidiously. Specifically, I wonder whether something about the idea that it would be wrong to *get involved with* a story you're writing about, also makes it hard to take the sorts of actions that would lead to *understanding* the story.
+
+*Vice Magazine* forms an interesting contrast; my impression is that the specific way in which their reporting has been distinctively interesting has to do with their tendency to try to be wicked, rather than good, by the standards of journalistic ethics, and specifically in terms of getting involved with the story. Unfortunately, just as reversed stupidity is not intelligence, journalistic vice doesn't fix all the problems with journalistic ethics; because they're moved by a desire to vice-signal, they only get involved with stories in transgressive and opportunistic ways that also prevent them from trying to *understand*.
+
+If this doesn't match how you see it, I'd be interested in where you think I've misunderstood you.
+
+------
+
+**From**: Cade Metz  
+**To**: Benjamin Hoffman  
+**CC**: Zack M. Davis  
+**Date**: Wed, 23 Jul 2025 10:18:51 -0700  
+**Subject**: Re: thanks and blog post
+
+Hey Ben (and Zack): So sorry for the delay in getting back to you. I was away on vacation for a couple of weeks.
+
+I truly enjoyed our chat -- and it was wonderfully helpful as I put together my book.
+
+I think what you sense from me is a little different than the way you are thinking about it. It is not about journalistic ethics.
+
+Like you, I am interested in the big ideas -- like your big idea that I kept circling back around to. We share an interest in that. We both understand its importance. And I want to show others how important it is.
+
+But in order to do that -- to reach people who have no familiarity with the world you live in -- I need even more information. I am \*also\* interested in "the social graph, and the material facts related to it: who was socially connected to whom, at what time, in what place." I am interested in that because I can use it to deliver the big ideas. Most people do not read like you do or think like you do. They want a story, a narrative. More importantly, they really understand the big idea when it is delivered through a narrative -- through people.
+
+If I seem inhibited, it is only because I am trying to keep you talking. Everything you say is interesting to me, because you have had experiences I haven't had and you have thought hard about ideas I am interested in.
+
+That's it. 
+
+Anyway, I am very much interested in the same ideas that you are. But I also want the little details, too. People love details!
+
+Happy to discuss more. I loved our conversation.
+
+Cade   
+
 ### 12 August 2025
 
 [The first 11 minutes of this conversation were published separately as ["My Interview With Cade Metz on His Reporting About Lighthaven"](https://www.lesswrong.com/posts/JkrkzXQiPwFNYXqZr/my-interview-with-cade-metz-on-his-reporting-about).]
@@ -1483,3 +1613,37 @@ Because specifically why I was so impressed by DALL-E was just the fact that—i
 **ZMD**: Okay, sorry, that's true, but they are producing machine learning research papers, is what I meant.
 
 **CM**: Absolutely. Look at the end of that piece. Sonia, who I really like, she really thinks about this stuff well, because there, she's a serious researcher, super, super smart, she writes those research papers, but she also says there's this sort of mythic quality to everything that drives her and so many others forward. I didn't go into a lot of the other stuff that goes on there. But I hear what you're saying. [...]
+
+### 14 August 2025
+
+**From**: Cade Metz  
+**To**: Zack M. Davis  
+**Date**: Thu, 14 Aug 2025 10:02:30 -0700  
+**Subject**: terminology question  
+
+You and other [_sic_] have talked about Scott Alexander's response to be as decision theory.  But is game theory a better term? How do you (and the rest of the community) think about the distinction between the two?
+
+Cade 
+
+⁂
+
+**From**: Cade Metz  
+**To**: Zack M. Davis  
+**Date**: Thu, 14 Aug 2025 13:00:54 -0700  
+**Subject**: Re: terminology question  
+
+I actually said "game theory", not "decision theory." And maybe that choice of phrase is just me over-intellectualizing and using an academic term in a context where it doesn't actually clarify anything.
+
+The point was that I don't think it makes sense to say, "Cade Metz didn't dox Scott Alexander Siskind; Siskind published the name *himself* on Astral Codex Ten *before* Metz's February 2021 NYT article."
+
+The reason I don't think that makes sense is because Scott only published his last name *after* ["gradually rework\[ing\] \[his\] life to be compatible with the sort of publicity that circumstances seem\[ed\] to be forcing on \[him\]" because "maintaining anonymity \[was\] a losing battle"](https://slatestarcodex.com/2020/09/11/update-on-my-situation/). If you hadn't been exploring a story about the rationalists in June 2020, or if you had told Scott that you'd respect his pseudonymity, those circumstances wouldn't have happened: he would have stayed with his employer and stayed on *slatestarcodex.com*.
+
+The reason I wanted to summarize that as it being "game-theoretically your (Metz's) fault" (I don't know if that phrasing made sense to you) is because game theory is the academic term for the study of how people's decisions depend on the decisions of other people who have different interests. (Thomas Schelling described it as the "theory of interdependent decision" in his seminal work *Strategy of Conflict*.) The definition is abstract, but the *kind of thinking* that Schelling was writing about, about making and responding to threats and promises, recursively computing "my best move, given his best move, given my best move, given ...", is ubiquitous in human life, and even in the animal world. Countries prepare for nuclear war, not because anyone *wants* a nuclear war---it would be better for everyone if no one had nukes---but because it's even worse for you if you don't have nukes, but your rival nation does. Gazelles [leap in the air, not "for fun", but to credibly signal to predators that they're too fast to bother chasing](https://en.wikipedia.org/wiki/Stotting).
+
+The conflict between you and Scott Alexander had a similar flavor. You were credibly threatening to publish his name, which "changed the game" such that his [best response](https://en.wikipedia.org/wiki/Best_response) ended up involving up publishing the name first, but that's *not at all* the same thing as him just spontaneously deciding to drop pseudonymity. It was definitely your (or *The New York Times*'s) fault.
+
+"Decision theory" is a related but more general term. I would venture that a lot of the distinction is a contingent accident of intellectual history. (Academics studying Newcomb's problem called themselves "decision theorists"; academics studying the Prisoner's dilemma called themselves "game theorists", but they're intrinsically deeply related subjects.)
+
+In recent years, Yudkowsky has apparently taken to [telling journalists that he's a "decision theorist"](https://time.com/collection/time100-ai/6309037/eliezer-yudkowsky/) rather than an "artificial intelligence researcher", presumably because his AI thinking never produced academically-legible achievements (because he was trying to come up with a theory of ultimate AGI "Friendliness", not implement something immediately useful the way people like Hinton, Sutskever, *&c*. have done), whereas [functional](https://arxiv.org/abs/1710.05060) (formerly ["timeless"](https://intelligence.org/files/TDT.pdf)) [decision theory](https://intelligence.org/files/DeathInDamascus.pdf) is a more academically credible concrete contribution.
+
+Not sure how you can maintain journalistic distance about this part in the book (the whole *SSC*-vs.*NYT* affair is presumably part of the story you\'re trying to tell, but in this case, *you* are an interested character in the story). Maybe switch to an autobiographical "gonzo" style for that chapter?!

@@ -1,6 +1,102 @@
 # Conversation with Cade Metz, Michael Vassar, Jessica Taylor, and Zack M. Davis
 
-(Previously, previously, previously.)
+([Previously](https://www.lesswrong.com/posts/oYnwTuxySiaZYDrur/my-interview-with-cade-metz-on-his-reporting-about-slate), [previously](https://www.lesswrong.com/posts/JkrkzXQiPwFNYXqZr/my-interview-with-cade-metz-on-his-reporting-about), previously.)
+
+### 20–21 August 2025
+
+**From**: Zack M. Davis  
+**To**: Cade Metz  
+**CC**: Benjamin Hoffman, Jessica Taylor, Michael Vassar  
+**Date**: Wed, 20 Aug 2025 14:18:53 -0700  
+**Subject**: the importance of probabilistic reasoning  
+
+Dear Cade (cc Ben Michael Jessica):
+
+I think I failed to explain the substance of the Sequences to you---and really, not the Sequences themselves, but the underlying philosophical insights they popularized. I want to try again, because I think it's important to the book you\'re writing. You want to tell the story of how this internet ideology that no one has heard of has been a driving force in the shadows behind the people making DeepMind and OpenAI and Anthropic, which everyone has heard of. But in order to tell the story of the people, you need to understand enough of the ideology to make sense of why the ideology has affected these people in this way.
+
+In our conversations and in your coverage, you've focused on the analogy between religion and belief in the singularity, but I don't think that's an adequate explanation of what's going on in these people's heads. In our 21 March and 22 April conversations, you expressed amazement that Yudkowsky set out in the early 2000s to create a community of people attuned to what he saw as the dangers of AGI, and then actually did it.
+
+It's worth asking: why did Yudkowsky have all these effects such that you're writing this book, and not, say, Ray Kurzweil (who I assume you have some familiarity with)? Kurzweil's work (*e.g.* *The Age of Spiritual Machines*) is a much better fit to the "techno-religion" angle expressed in your 4 August *Times* piece, and yet it didn't catch on in the same way. (Kurzweil's Singularity University [bought the "Singularity Summit" brand from MIRI in 2012](https://web.archive.org/web/20130112221511/http://singularityu.org/singularity-university-acquires-the-singularity-summit/), and you haven't heard of the Singularity Summit since.)
+
+I *don't* think it's that Yudkowsky is somehow that much more charismatic than Kurzweil. I think much of the difference has to do with the philosophical content of "rationalism" being recognizably credible to Silicon Valley types already fluent in the language of science and technology, whereas the "radical" visions of transhumanism (wow-ee, immortality, nanotech, superintelligence!!) that are more easily pattern-matched to religion don't have the same built-in credibility (even if immortality, nanotechnology, and superintelligence all end up being real).
+
+On 12 August, You mentioned the fact that I had said in a 2005 Diary entry that "Dreams of a technotopia are a lot like religious stories of salvation, except more plausable \[*sic*\]". As evidenced by my 17-year-old self, I suppose that is the educated layman's default reaction to Kurzweil-tier exposition of the singularity, but it's not the *right* way to think about it. (If an "intelligence explosion" is a real natural phenomenon in the future, we want to invent the concepts to predict, describe, and ideally control that natural phenomenon. The correct concepts to describe a novel future phenomenon are not going to particularly resemble the fears and fantasies of humanity's past as expressed in religion, even if one of the hypothetical benefits of successfully controlling the phenomenon would be that you could use it to fulfill a lot of longstanding human fantasies.)
+
+I suspect that the extent to which things like the religion analogy are the default reaction to these ideas and that the default reaction is wrong, is *why* Yudkowsky had to "back up" and write the Sequences and spawn a subculture instead of just focusing on the Singularity Institute. If you write your book in a way that centers the educated layman's default reactions to transhumanism and the singularity (as exemplified by *e.g.* Kurzweil), you're missing the story of the much more surprising thing that actually happened.
+
+⁂
+
+The philosophy of rationality really is applicable to inferences that people make all the time. I think it will help to illustrate with specific examples from things you've said to me or others.
+
+In a 2021 podcast with Jason Calacanis, [you said](https://youtu.be/bcRU1jAFnls?si=W4BA6gZqyH_GL_Yo&t=5100), "None of us know what's going to happen in the future, obviously \[...\] because we don't know, we can make any claim we want."
+
+But that's importantly wrong! A relevant slogan: "The map is not the territory. A blank map does not correspond to a blank territory." That is, a corollary of the claims we make about reality ("the map") being different from reality itself ("the territory"), is that just because we don't *know* what's going to happen in the future, doesn't mean that the future is actually indeterminate in any real sense. In the theory of relativity, the future is just a different region of spacetime; [it's still "there" even if we can't "see" it](https://en.wikipedia.org/wiki/B-theory_of_time). It's true that none of us know *with certainty* what's going to happen in the future, and because of that, any claims we make today can't be *immediately* proven wrong. But that's not the same thing as "we can make any claim we want", because we can still express uncertain, probabilistic beliefs, and keep track of whose probabilistic predictions make better predictions over time.
+
+To illustrate how probabilistic predictions are more powerful than verbal "any claims we want" precisely because the former are more constrained, the Sequences post ["Focus Your Uncertainty"](https://www.readthesequences.com/Focus-Your-Uncertainty) tells a parable about a journalist preparing a *post facto* "explanation" (really, excuse) for bond prices going up or down. The advance anticipation of which excuse will be needed represents the journalist's true beliefs, and is subject to constraints. (The more confident you are that bond prices will go up, the less confident you have to be that bond prices will go down.) The after-the-fact verbal explanation doesn't matter. (No matter what happens, you can invent a story afterwards about why whatever happened means that you were right.)
+
+People are pretty familiar with probability in the context of, say, weather forecasting, or sports betting. If I say it's a 70% chance that it's going to be sunny tomorrow, or that the Giants are going to win, what that means (if I'm doing it right) is that out of 10 times when I say that something is going to happen with a 70% chance, it should actually happen 7 times.
+
+A big part of "rationalist" philosophy is that this style of thinking is actually very general, that you can assign "subjective" probabilities to anything that might happen in the future, including things that have never happened before, like AI catastrophes. Probability is not just for obviously repeatable events like the day's weather or a baseball game or a coin toss, where people can measure and agree on the long-run frequency over many days or games or tosses.
+
+I think a failure to fully appreciate the generality of probabilistic reasoning could explain the disconnect we had in this exchange from [our 12 August conversation](https://www.lesswrong.com/posts/JkrkzXQiPwFNYXqZr/my-interview-with-cade-metz-on-his-reporting-about):
+
+> **ZMD**: And just, these people have written hundreds of thousands of words carefully arguing why they think powerful AI is possible and plausibly coming soon.  
+> **CM**: That's an argument.  
+> **ZMD**: Right.  
+> **CM**: It's an argument.  
+> **ZMD**: Right.  
+> **CM**: We don't know how to get there.  
+> **ZMD**: Right.  
+> **CM**: We do not—we don't know—  
+> **ZMD**: But do you understand the difference between "uncertain probabilistic argument" and "leap of faith"? Like these are different things.  
+> **CM**: I didn't say that. People need to understand that we don't know how to get there. There are trend lines that people see. There are arguments that people make. But we don't know how to get there. And people are saying it's going to happen in a year or two, when they don't know how to get there. There's a gap.
+
+What I was taking issue with there was *not* skepticism of dramatic short-timelines stories like [Kokotajlo, Alexander, *et al.*'s "AI 2027"](https://ai-2027.com/).
+
+(A lot of people in "the community" are *also* critical of that stuff, and critical of the conflation of present-day LLMs with the kind of AGI that would pose existential risks. Physicist-turned-AI-safety-researcher [Stephen Byrnes](https://sjbyrnes.com/) (B.A. Harvard, Ph.D. Berkeley) has written about how [he expects LLMs to plateau](https://www.lesswrong.com/posts/KJRBb43nDxk6mwLcR/ai-doom-from-an-llm-plateau-ist-perspective) and later be overtaken by [more powerful AI architectures that more closely resemble the human brain](https://www.lesswrong.com/posts/yew6zFWAKG4AGs3Wk/foom-and-doom-1-brain-in-a-box-in-a-basement). Jessica Taylor (M.S. Stanford), formerly of MIRI (cc'd here) has written about ["The AI Timelines Scam"](https://www.lesswrong.com/posts/KnQs55tjxWopCzKsk/the-ai-timelines-scam), in which people are incentivized to confabulate reasons to believe in near-term AGI to make their project look important. (That was in 2019; I'm not sure whether or how she might have changed her mind or not in the intervening six years.) Michael Vassar (cc'd here) expressed the view to me the other month (if I recall correctly) that the METR time horizons work is probably bogus, because if it were really measuring what it purported to be, we would expect to see more impressive commercial applications of LLM agents.)
+
+What I was taking issue with was the apparent implication of "That's an argument", that a mere argument can be derided as requiring a leap of faith, as contrasted to an opposing belief allegedly justified with only hard facts and not "arguments". I think the situation is symmetrical in that both sides are making (mere) "arguments".
+
+It seems to me that your position rests on an implied belief that in the absence of definitely knowing how to build AGI, we don't know much about when it will arrive (or perhaps, that we know it won't be soon), such that, *e.g.*, quantitative reasoning about algorithmic progress in language modeling is irrelevant or bogus.
+
+That's a tenable position! Indeed, it's striking to me how much your skepticism of trendlines ("trendlines, okay, sometimes they slow down. Sometimes they stop") resembles things Yudkowsky has said in [disagreements with people like Christiano who think AI progress will be more gradual and predictable](https://www.lesswrong.com/posts/vwLxd6hhFvPbvKmBH/yudkowsky-and-christiano-discuss-takeoff-speeds) (with AI getting better and more integrated into the economy over a period of years) rather than coming "lumpy" dramatic innovations.
+
+But crucially, the trendlike-skeptical agnostic position is also, fundamentally, an uncertain probabilistic argument. There's an intuitive sense in which arguments for AGI being the Biggest Thing to Ever Happen and plausibly within our lifetimes feel "shocking", because it's predicting something outside of our immediate experience. But the structure of correct reasoning about probailistic beliefs isn't bound to our human intuitions about what feels shocking. You can't just dismiss one side of the debate with "That's an argument."
+
+When I say, "You can't just dismiss one side of the debate", I don't mean it as an appeal to fairness intuitions in human social life. I mean it as a philosophical claim that that general form of reasoning doesn't get the right answer. In slogan form: ["If you attend only to favorable evidence, picking and choosing from your gathered data, then the more data you gather, the less you know. If you are selective about which arguments you inspect for flaws, or how hard you inspect for flaws, then every flaw you learn how to detect makes you that much stupider."](https://www.readthesequences.com/The-Twelve-Virtues-Of-Rationality) It's a fundamentally procedural objection that still holds force even if the conclusion (that apocalyptic short-timelines hype is bunk) happens to be correct.
+
+This is also where the determination to engage with unpopular ideas comes from. It's not an arbitrary preference for being edgy for edginess's sake. It's that if you're trying to be correct above all else, you have to hold ideas to the same standards of inquiry regardless of whether they're popular or unpopular.
+
+Multiple times in our conversations, you've appealed to the need to boil things down in plain language for the non-specialist reader, but I think the thing I'm saying here is not actually that complicated and sufficiently integral to your subject matter that you you need to make sure the book incorporates this perspective. People who read *The New York Times* or buy books, do understand weather forecasts and sports betting! I believe in your readers!
+
+⁂
+
+The most interesting part of our 12 August conversation to me was when you said you could "recognize what someone is going to do based on their proximity to that ideology." That recognition (as always) is *also* a form of implied probabilistic reasoning. The reason "rationalist" is a useful concept is [because it helps you make predictions](https://www.lesswrong.com/posts/esRZaPXSHgWzyB2NL/where-to-draw-the-boundaries); it's pointing to an empirical cluster of traits in the world that would still exist even if people prefer not to name it.
+
+I wish I had asked followup questions. What cluster of traits are you seeing, specifically? I can believe that you're seeing something that I'm not by virtue of fewer preconceptions and superior social cognition abilities. I recognize that the sociological angle on this story is a legitimate avenue of journalistic inquiry. Your job is to explain to the public what's driving the movers and shakers in Silicon Valley; if you notice a pattern of tech workers coordinating on the basis of a shared ideology, that's a story, and it's not surprising that the people you're writing about won't approve of every word of the story (as when you write about *e.g.* Google). I'm not expecting a puff piece about these people, and I'm not expecting agreement, but I do think a big part of the story that you need to convey is that a lot of people read this stuff and *thought it made sense as a literal description of reality* (in the way that it's a literal description of reality to say that there's an apple on the table when you see an apple on the table), not just that it offered a subjective feeling of comfort or clarity, or a sense of working on something mythic. Whether or not *you* believe them, *they* think AI risk belongs in the same literary genre as risks of global warming or asteroid strikes---and much more fundamentally than that, that [the entire mode of thinking that categorizes beliefs on the basis of what literary genre they seem to fit is importantly mistaken](https://www.readthesequences.com/Science-As-Attire). I remain,
+
+Your faithful correspondent,  
+Zack M. Davis
+
+------
+
+**From**: Cade Metz   
+**To**: Zack M. Davis  
+**CC**: Benjamin Hoffman, Jessica Taylor, Michael Vassar  
+**Date**: Thu, 21 Aug 2025 09:14:14 -0400  
+**Subject**: Re; the importance of probabilistic reasoning  
+
+Zack: Thanks for this.
+
+There is so much to discuss.
+
+One of the things I have explored with Michael is the possibility of a group discussion. What if everyone on this thread got together and we discussed these issues as a group?
+
+We could explore all of these ideas in detail.
+
+You have explained your position well. I certainly want to explain it to others. I would argue that there are other positions that others take -- and that those are worth representing, too. Would love to discuss all that.
+
+Cade
 
 ### 2 October 2025
 
@@ -458,7 +554,7 @@ _[laughter]_
 
 **JT**: I don't want to assume a causal order here, right? I read _AI: A Modern Approach_ in high school, right? One thing it describes is Bayesian thinking. It also describes vNM rationality. So people were thinking about stuff like reinforcement learning and von Neumann–Morgenstern utility maximization in the context of AI, and people were thinking about it at RAND Corp. before it was much applied to AI, too. There's already a pre-existing correlation where if someone's in AI, they're probably already thinking about this stuff. If someone is thinking about this stuff, they can take that methodology and then notice that AI is important. I think other things that could be going on is, at some point if you're thinking about decision theory and rational thinking a bunch, then it kind of opens a question of, well, what if something were better than me at rational thinking or decision theory? And then you're like, oh, wow, that would be really weird. So that's one way.
 
-**CM**: It's maybe simpler than that, meaning—the other thing Zack and I have talked about is that there's this moment on the SL4 main list where Yudkowsky says, you know, I don't have the people I need to build this Friendly AI. I need to create this community. I need to write. Every movement needs a book. We don't have our book. He said, I have to do a book on rational thinking. And a few years pass and he basically does that, right? With _Overcoming Bias, he puts together this book that attracts people, and the book that he writes isn't about existential risk. It's not about AI destroying the world. It's about this rational thinking. But as this community comes together, they're already thinking about that. And Zack talks about, you know, [when _Less Wrong_ was formed, there was a ban on discussing existential risk](https://www.lesswrong.com/posts/SqNvmwDxRibLXjMZN/and-say-no-more-of-it), but that was lifted and everybody started discussing it. Is it because they were already following Yudkowsky? 
+**CM**: It's maybe simpler than that, meaning—the other thing Zack and I have talked about is that there's this moment on the SL4 main list where Yudkowsky says, you know, I don't have the people I need to build this Friendly AI. I need to create this community. I need to write. Every movement needs a book. We don't have our book. He said, I have to do a book on rational thinking. And a few years pass and he basically does that, right? With _Overcoming Bias_, he puts together this book that attracts people, and the book that he writes isn't about existential risk. It's not about AI destroying the world. It's about this rational thinking. But as this community comes together, they're already thinking about that. And Zack talks about, you know, [when _Less Wrong_ was formed, there was a ban on discussing existential risk](https://www.lesswrong.com/posts/SqNvmwDxRibLXjMZN/and-say-no-more-of-it), but that was lifted and everybody started discussing it. Is it because they were already following Yudkowsky? 
 
 **ZMD**: I think so.
 
@@ -791,3 +887,7 @@ The thing I just said is easy for an AI to understand. It's also easy for a huma
 **ZMD**: I mean, I'm not optimistic, but I don't think I'll regret my faith in Speech. I don't think it's going to be a good book, but it's not my fault.
 
 **CM**: There you go.
+
+### October 2025
+
+[TODO: draft followup email]
