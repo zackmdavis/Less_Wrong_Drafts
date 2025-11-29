@@ -4,11 +4,10 @@
 
 _New York Times_ reporter Cade Metz has been writing a book about the people who believed in AGI before it was cool. That's a subject that I think I know some things about, so we've been having on-the-record conversations occasionally, which I'd like to publish here (for transparency's sake, not because a 30,000-word transcript dump is necessarily that interesting).
 
-The recordings (with varying amounts of background noise) are available—
+The transcripts below have been edited for clarity, and relevant hyperlinks have been inserted. (Hyperlinks in emails are in the original.) There are a few redactions indicated by "[...]" where either we went off the record or I wanted to cut something from this publication.
 
-[TODO: redact and host recordings]
-
-Or you can consider the transcripts below, which have been edited for clarity. (There are a few redactions indicated by "[...]" where either we went off the record or I wanted to cut something from this publication.)
+[TODO: redact and host recordings, maybe put each recording link under the date header
+The recordings (with varying amounts of background noise) are available]
 
 ### 21 March 2025
 
@@ -508,7 +507,7 @@ And like, it's kind of sad that at the beginning, I, and I think a lot of people
 
 **CM**: What is it about the community in particular that enabled that?
 
-**ZMD**: On, they call it "this part of Twitter", there's this slogan, "You can just do things." We didn't have that slogan at the time. But there was just this ethos of, you can just do things. After I quit Santa Cruz, I started studying math from just from textbooks, because the _Overcoming Bias_ comment section made that seem like a cool and important thing to do. These are mathy people. People have a concept of pleasure reading, where you can read a book, not for school, but just because you want to read a book. You can do that for other things, too.
+**ZMD**: On, they call it "this part of Twitter", there's this slogan, "You can just do things." We didn't have that slogan at the time. But there was just this ethos of, you can just do things. After I quit Santa Cruz, I started studying math just from textbooks, because the _Overcoming Bias_ comment section made that seem like a cool and important thing to do. These are mathy people. People have a concept of pleasure reading, where you can read a book, not for school, but just because you want to read a book. You can do that for other things, too.
 
 **CM**: Tell me about the comment section at _Overcoming Bias_. Thriving, it seems. Same group of people. Discussing these ideas in much the same way that you discuss them. And that kind of empowers you to do that.  Did everybody use their real names? Did you know who these people were?
 
@@ -692,9 +691,9 @@ Maybe a good example would be, you know, the COVID pandemic. In the early days o
 
 **CM**: You know, um, it's interesting that he did it, right, at that time.
 
-**ZMD**: I think his views have diverged by now. There was that, there was that story where he was advising Sam Altman, EAs are going to kill your company.
+**ZMD**: I think his views have diverged by now. There was [that story where he was advising Sam Altman, EAs are going to kill your company](http://archive.today/2025.10.06-003842/https://www.wsj.com/tech/ai/the-real-story-behind-sam-altman-firing-from-openai-efd51a5d).
 
-**CM**: okay, just, like, to circle all the way back around. Because I want to, you know, make sure I understand. Like, I think it's good for me to get inside the mindset. Uh-huh. Let's take that one _Overcoming Bias_ blog post. that you think its so important.
+**CM**: Okay, just to circle all the way back around. Because I want to, you know, make sure I understand. I think it's good for me to get inside the mindset. Let's take that one _Overcoming Bias_ blog post. that you think its so important.
 
 **ZMD**: Yeah, so, I'd rather not do this live. I'd rather just send you the—I'm a lot, I'm a lot dumber in real time.
 
@@ -757,6 +756,89 @@ Maybe a good example would be, you know, the COVID pandemic. In the early days o
 **CM**: Good for you.
 
 **ZMD**: Thanks.
+
+### 5 May–15 June 2025
+
+**From**: Cade Metz  
+**To**: Zack M. Davis  
+**Date**: Mon, 5 May 2025 09:25:59 -0700  
+**Subject**: Thanks again and one more request
+
+Hey Zack: Thanks again for spending so much time chatting recently -- and even putting up with my repeat questions.
+
+Could you meet one last time? There are just a few more things I want to run by you:
+
+--one read your memoir very closely. So powerful. There is one part of that I want to discuss to make sure I have it right. Basically, I want to understand why, ultimately, the Rationalist/Yudkowky view of gender was eye-opening/comforting/inspiring?
+
+--My editors at The Times have also asked me to put together a story I want to let you know about. Pretty straightforward
+
+Thanks,
+
+Cade
+
+-----
+
+**From**: Zack M. Davis  
+**To**: Cade Metz  
+**Date**: Mon, 5 May 2025 12:08:53 -0700  
+**Subject**: Re: Thanks again and one more request
+
+I\'m super-busy with coursework and finals for the next three weeks. Can meet again sometime after May 25.
+
+\"Comforting\" is definitely the wrong word!! [\"Sexual Dimorphism in \...\"](http://unremediatedgender.space/2021/May/sexual-dimorphism-in-the-sequences-in-relation-to-my-gender-problems/) is spending a lot of time talking about how I came to disbelieve things that I used to believe in passionately. When someone loses their religion in favor of atheism (because they read up on evolution, the big bang, *&c*. and found it more convincing than Genesis), it\'s *not* because atheism is more \"comforting\" and \"inspiring\". It\'s because a harsh truth is more useful than a comforting lie.\
+
+-----
+
+**From**: Cade Metz  
+**To**: Zack M. Davis  
+**Date**: Mon, 5 May 2025 12:46:33 -0700  
+**Subject**: Re: Thanks again and one more request
+
+Now that is well said! Thank you.
+
+Would love to meet again after March 25.
+
+Cade
+
+-----
+
+**From**: Cade Metz  
+**To**: Zack M. Davis  
+**Date**: Mon, 9 Jun 2025 09:21:34 -0700  
+**Subject**: Hello again
+
+Hey Zack: Hope you are well. Thanks for the call two weekends ago. Really enjoyed chatting. 
+
+So, if it isn't obvious, I am truly interested in what you are dealing with. You are already an important character in my book, and I think you can be even more important.
+
+I am interested two additional things, if you are willing:
+
+--would love to talk one more time about your memoir and your disagreement with the community
+
+--would love to see your diary entries from when you first started joining Overcoming Bias/LessWrong meetups. Real contemporaneous details are always more trustworthy. I am just looking for a few details. This would help
+
+Feel like chatting over the next couple of weeks?
+
+Thanks,
+
+Cade 
+
+------
+
+**From**: Zack M. Davis  
+**To**: Cade Metz  
+**Date**: Sun, 15 Jun 2025 19:22:15 -0700  
+**Subject**: Re: Hello again
+
+Thanks for your patience. I\'m very confused what this book is about; I should not be an important character in a book about (especially) AGI *or* (probably) the rationalists.
+
+*I\'m* happy to talk about my personal war because it matters *to me*; it just doesn\'t seem like it should matter at all for your book. Was I correct to guess that fewer people have been willing to talk to you for coverage of the \"rationalists\" after the *Slate Star* affair, compared to other stories you\'ve worked on? If you\'re starved for sources and end up promoting random people who are willing to talk to you to \"important character\", that seems like a bad sign regarding the quality of the end product.
+
+Your question on May 5 made it sound like you had read [\"Sexual Dimorphism in \...\"](http://unremediatedgender.space/2021/May/sexual-dimorphism-in-the-sequences-in-relation-to-my-gender-problems/), which is only \"part 0\" of what I\'ve been calling my memoir: [part 1](http://unremediatedgender.space/2023/Jul/blanchards-dangerous-idea-and-the-plight-of-the-lucid-crossdreamer/), [part 2](http://unremediatedgender.space/2023/Jul/a-hill-of-validity-in-defense-of-meaning/), [part 3](http://unremediatedgender.space/2023/Dec/if-clarity-seems-like-death-to-them/), [part 4](http://unremediatedgender.space/2024/Mar/agreeing-with-stalin-in-ways-that-exhibit-generally-rationalist-principles/), part 5 forthcoming.\
+
+If you still want to chat more, pick a time next week (the week of the 22nd)? (I need to get my writing routine focused this week, end the disruption from being depressed after Less Online and the Reproductive Frontiers conference at Lighthaven last week.)\
+
+Let me get back to you about the Diary entries (I don\'t think there\'s too much there, but I\'m waiting on guidance from Anna about whether I\'m supposed to redact anything; also reserving the right to back out if the forthcoming Lighthaven/Solstice piece is sufficiently terrible to override my bias towards Sharing Information without trying to control how it gets used).\
 
 ### 24 June 2025
 
@@ -1130,6 +1212,8 @@ The smart version of this idea for futurism is imagining that like, if you have 
 
 **ZMD**: He was trying to—again, I don't have insider knowledge here, this is just my understanding from like, gossip channels and stuff, but like—he didn't feel comfortable saying in public, this sounds like a horrible idea, what what the hell are you guys doing, this is terrible. He felt like that would not be—because you know, there was so much money and power behind this OpenAI thing, that he didn't feel comfortable criticizing in public at that time. It's probably on his Twitter somewhere, but Yudkowsky said somewhere [that he cried at the OpenAI announcement](https://x.com/ESYudkowsky/status/1683592535569231873).
 
+[TODO: "money or power" should link the Yudkowsky/Vassar Twitter discussion where he talked about EA bullies shoving MIRI against the wall]
+
 **CM**: It is interesting, separately, Paul Christiano and Dario Amodei, they were actually in talks with those guys. They didn't join the lab, but then they joined a little bit later. It seems because they wanted to change the culture. OpenPhil came in with 30 million dollars. 
 
 **ZMD**: Did you see, speaking of Ben Hoffman, he had a post about ["An OpenAI Board Seat is Surprisingly Expensive"](https://benjaminrosshoffman.com/an-openai-board-seat-is-surprisingly-expensive/).
@@ -1488,7 +1572,7 @@ End quote.
 
 **CM**: I get what you're saying. Some people just don't, wouldn't agree with that.
 
-**ZMD**: Well, no, but I think that I think this is pretty straightforward. He had a job as a psychiatrist.
+**ZMD**: Well, no, but I think this is pretty straightforward. He had a job as a psychiatrist.
 
 **CM**: I understand why he did it, okay. I also understand why _The New York Times_ and I did what we did. It was a clash of ideology. It went down the way it went down. It was astounding when it happened. And then, you know, I will walk down the street, and people will say that's the guy who doxxed Scott Alexander, and I think, did I? Did I dox him?
 
@@ -1496,7 +1580,7 @@ End quote.
 
 **CM**: I completely get it, but again, if you look at the group, as opposed to the individual, the group very often decides certain things, and operates in lockstep. The group has decided that it shouldn't talk to me, because I did this horrible thing. It's a thing that, if the average person looks at it, they don't understand it. That's the power of these ideologies we talked about.
 
-**ZMD** That's also in a lot of ways the power of _The New York Times_, and why people are so afraid of you, is because they're afraid—so you are correctly pointing out that there's this cabal of Scott Alexander and his friends who have the power to like determine what these thousands of people believe. But the reason those people are afraid of you, is because you have the power to decide what a much larger group of people believes. There are lots of people who read _The New York Times_ and just believe what it says. That's why people are so scared when you're pushing this religion angle. That's why I'm like having these second thoughts, like, man, I really want to just talk to everyone, and now—
+**ZMD** That's also in a lot of ways the power of _The New York Times_, and why people are so afraid of you, is because they're afraid—so you are correctly pointing out that there's this cabal of Scott Alexander and his friends who have the power to like determine what these thousands of people believe. But the reason those people are afraid of you, is because you have the power to decide what a much larger group of people believes. There are lots of people who read _The New York Times_ and just believe what it says. That's why people are so scared when you're pushing this religion angle. That's why I'm having these second thoughts, like, man, I really want to just talk to everyone, and now—
 
 **CM**: I know, but you know, and so many people in your community, and your friends, use all the same terms, and it's okay when you do it, but somehow it's not okay if _The New York Times_ points out that there are these characteristics. We're being careful with that language. 
 
@@ -1568,7 +1652,7 @@ End quote.
 
 **CM**: Tell me about that, why was it so somber?
 
-**ZMD**: Well, this person who a lot—I again, I have had my differences with Yudkowsky and reasons to distrust him—this person who we had learned a lot from, and whom a lot of us trusted quite a lot, was saying like, well, everyone's going to die. It's a pretty somber moment. It wasn't unexpected in that, that been a quiet vibe for a few years, and then April 1st was just like a time to like make it text instead of subtext. So I talked to Yudkowsky at an Independence Day party in 2021, and I don't quite remember the details, but like there was just this moment in conversation, where like he referred—you know, unfortunately, I didn't actually write a Diary entry immediately after the party, so I don't actually remember the details—there was a moment where he alluded to everyone's impending death, and I said something about how it hadn't really felt as real to me before DALL-E. So in January 2021, I think it was January 5th or January 6th, 2021, [OpenAI published DALL-E](https://openai.com/index/dall-e/), which was the text-to-image thing, the one that—the avocado chairs. I like to say that that was, there's a line in my forthcoming memoir part where I say that that was the most significant thing that happened that week of January 2021.
+**ZMD**: Well, this person who a lot—I again, I have had my differences with Yudkowsky and reasons to distrust him—this person who we had learned a lot from, and whom a lot of us trusted quite a lot, was saying like, well, everyone's going to die. It's a pretty somber moment. It wasn't unexpected in that, that been a quiet vibe for a few years, and then April 1st was just like a time to make it text instead of subtext. So I talked to Yudkowsky at an Independence Day party in 2021, and I don't quite remember the details, but like there was just this moment in conversation, where like he referred—you know, unfortunately, I didn't actually write a Diary entry immediately after the party, so I don't actually remember the details—there was a moment where he alluded to everyone's impending death, and I said something about how it hadn't really felt as real to me before DALL-E. So in January 2021, I think it was January 5th or January 6th, 2021, [OpenAI published DALL-E](https://openai.com/index/dall-e/), which was the text-to-image thing, the one that—the avocado chairs. I like to say that that was, there's a line in my forthcoming memoir part where I say that that was the most significant thing that happened that week of January 2021.
 
 **CM**: Got it, got it.
 
@@ -1625,10 +1709,10 @@ You and other [_sic_] have talked about Scott Alexander's response to be as deci
 
 Cade 
 
-⁂
+----
 
-**From**: Cade Metz  
-**To**: Zack M. Davis  
+**From**: Zack M. Davis  
+**To**: Cade Metz  
 **Date**: Thu, 14 Aug 2025 13:00:54 -0700  
 **Subject**: Re: terminology question  
 
@@ -1638,7 +1722,7 @@ The point was that I don't think it makes sense to say, "Cade Metz didn't dox Sc
 
 The reason I don't think that makes sense is because Scott only published his last name *after* ["gradually rework\[ing\] \[his\] life to be compatible with the sort of publicity that circumstances seem\[ed\] to be forcing on \[him\]" because "maintaining anonymity \[was\] a losing battle"](https://slatestarcodex.com/2020/09/11/update-on-my-situation/). If you hadn't been exploring a story about the rationalists in June 2020, or if you had told Scott that you'd respect his pseudonymity, those circumstances wouldn't have happened: he would have stayed with his employer and stayed on *slatestarcodex.com*.
 
-The reason I wanted to summarize that as it being "game-theoretically your (Metz's) fault" (I don't know if that phrasing made sense to you) is because game theory is the academic term for the study of how people's decisions depend on the decisions of other people who have different interests. (Thomas Schelling described it as the "theory of interdependent decision" in his seminal work *Strategy of Conflict*.) The definition is abstract, but the *kind of thinking* that Schelling was writing about, about making and responding to threats and promises, recursively computing "my best move, given his best move, given my best move, given ...", is ubiquitous in human life, and even in the animal world. Countries prepare for nuclear war, not because anyone *wants* a nuclear war---it would be better for everyone if no one had nukes---but because it's even worse for you if you don't have nukes, but your rival nation does. Gazelles [leap in the air, not "for fun", but to credibly signal to predators that they're too fast to bother chasing](https://en.wikipedia.org/wiki/Stotting).
+The reason I wanted to summarize that as it being "game-theoretically your (Metz's) fault" (I don't know if that phrasing made sense to you) is because game theory is the academic term for the study of how people's decisions depend on the decisions of other people who have different interests. (Thomas Schelling described it as the "theory of interdependent decision" in his seminal work *Strategy of Conflict*.) The definition is abstract, but the *kind of thinking* that Schelling was writing about, about making and responding to threats and promises, recursively computing "my best move, given his best move, given my best move, given ...", is ubiquitous in human life, and even in the animal world. Countries prepare for nuclear war, not because anyone *wants* a nuclear war—it would be better for everyone if no one had nukes—but because it's even worse for you if you don't have nukes, but your rival nation does. Gazelles [leap in the air, not "for fun", but to credibly signal to predators that they're too fast to bother chasing](https://en.wikipedia.org/wiki/Stotting).
 
 The conflict between you and Scott Alexander had a similar flavor. You were credibly threatening to publish his name, which "changed the game" such that his [best response](https://en.wikipedia.org/wiki/Best_response) ended up involving up publishing the name first, but that's *not at all* the same thing as him just spontaneously deciding to drop pseudonymity. It was definitely your (or *The New York Times*'s) fault.
 

@@ -12,7 +12,7 @@
 
 Dear Cade (cc Ben Michael Jessica):
 
-I think I failed to explain the substance of the Sequences to you---and really, not the Sequences themselves, but the underlying philosophical insights they popularized. I want to try again, because I think it's important to the book you\'re writing. You want to tell the story of how this internet ideology that no one has heard of has been a driving force in the shadows behind the people making DeepMind and OpenAI and Anthropic, which everyone has heard of. But in order to tell the story of the people, you need to understand enough of the ideology to make sense of why the ideology has affected these people in this way.
+I think I failed to explain the substance of the Sequences to you—and really, not the Sequences themselves, but the underlying philosophical insights they popularized. I want to try again, because I think it's important to the book you\'re writing. You want to tell the story of how this internet ideology that no one has heard of has been a driving force in the shadows behind the people making DeepMind and OpenAI and Anthropic, which everyone has heard of. But in order to tell the story of the people, you need to understand enough of the ideology to make sense of why the ideology has affected these people in this way.
 
 In our conversations and in your coverage, you've focused on the analogy between religion and belief in the singularity, but I don't think that's an adequate explanation of what's going on in these people's heads. In our 21 March and 22 April conversations, you expressed amazement that Yudkowsky set out in the early 2000s to create a community of people attuned to what he saw as the dangers of AGI, and then actually did it.
 
@@ -20,7 +20,7 @@ It's worth asking: why did Yudkowsky have all these effects such that you're wri
 
 I *don't* think it's that Yudkowsky is somehow that much more charismatic than Kurzweil. I think much of the difference has to do with the philosophical content of "rationalism" being recognizably credible to Silicon Valley types already fluent in the language of science and technology, whereas the "radical" visions of transhumanism (wow-ee, immortality, nanotech, superintelligence!!) that are more easily pattern-matched to religion don't have the same built-in credibility (even if immortality, nanotechnology, and superintelligence all end up being real).
 
-On 12 August, You mentioned the fact that I had said in a 2005 Diary entry that "Dreams of a technotopia are a lot like religious stories of salvation, except more plausable \[*sic*\]". As evidenced by my 17-year-old self, I suppose that is the educated layman's default reaction to Kurzweil-tier exposition of the singularity, but it's not the *right* way to think about it. (If an "intelligence explosion" is a real natural phenomenon in the future, we want to invent the concepts to predict, describe, and ideally control that natural phenomenon. The correct concepts to describe a novel future phenomenon are not going to particularly resemble the fears and fantasies of humanity's past as expressed in religion, even if one of the hypothetical benefits of successfully controlling the phenomenon would be that you could use it to fulfill a lot of longstanding human fantasies.)
+On 12 August, you mentioned the fact that I had said in a 2005 Diary entry that "Dreams of a technotopia are a lot like religious stories of salvation, except more plausable \[*sic*\]". As evidenced by my 17-year-old self, I suppose that is the educated layman's default reaction to Kurzweil-tier exposition of the singularity, but it's not the *right* way to think about it. (If an "intelligence explosion" is a real natural phenomenon in the future, we want to invent the concepts to predict, describe, and ideally control that natural phenomenon. The correct concepts to describe a novel future phenomenon are not going to particularly resemble the fears and fantasies of humanity's past as expressed in religion, even if one of the hypothetical benefits of successfully controlling the phenomenon would be that you could use it to fulfill a lot of longstanding human fantasies.)
 
 I suspect that the extent to which things like the religion analogy are the default reaction to these ideas and that the default reaction is wrong, is *why* Yudkowsky had to "back up" and write the Sequences and spawn a subculture instead of just focusing on the Singularity Institute. If you write your book in a way that centers the educated layman's default reactions to transhumanism and the singularity (as exemplified by *e.g.* Kurzweil), you're missing the story of the much more surprising thing that actually happened.
 
@@ -73,7 +73,7 @@ Multiple times in our conversations, you've appealed to the need to boil things 
 
 The most interesting part of our 12 August conversation to me was when you said you could "recognize what someone is going to do based on their proximity to that ideology." That recognition (as always) is *also* a form of implied probabilistic reasoning. The reason "rationalist" is a useful concept is [because it helps you make predictions](https://www.lesswrong.com/posts/esRZaPXSHgWzyB2NL/where-to-draw-the-boundaries); it's pointing to an empirical cluster of traits in the world that would still exist even if people prefer not to name it.
 
-I wish I had asked followup questions. What cluster of traits are you seeing, specifically? I can believe that you're seeing something that I'm not by virtue of fewer preconceptions and superior social cognition abilities. I recognize that the sociological angle on this story is a legitimate avenue of journalistic inquiry. Your job is to explain to the public what's driving the movers and shakers in Silicon Valley; if you notice a pattern of tech workers coordinating on the basis of a shared ideology, that's a story, and it's not surprising that the people you're writing about won't approve of every word of the story (as when you write about *e.g.* Google). I'm not expecting a puff piece about these people, and I'm not expecting agreement, but I do think a big part of the story that you need to convey is that a lot of people read this stuff and *thought it made sense as a literal description of reality* (in the way that it's a literal description of reality to say that there's an apple on the table when you see an apple on the table), not just that it offered a subjective feeling of comfort or clarity, or a sense of working on something mythic. Whether or not *you* believe them, *they* think AI risk belongs in the same literary genre as risks of global warming or asteroid strikes---and much more fundamentally than that, that [the entire mode of thinking that categorizes beliefs on the basis of what literary genre they seem to fit is importantly mistaken](https://www.readthesequences.com/Science-As-Attire). I remain,
+I wish I had asked followup questions. What cluster of traits are you seeing, specifically? I can believe that you're seeing something that I'm not by virtue of fewer preconceptions and superior social cognition abilities. I recognize that the sociological angle on this story is a legitimate avenue of journalistic inquiry. Your job is to explain to the public what's driving the movers and shakers in Silicon Valley; if you notice a pattern of tech workers coordinating on the basis of a shared ideology, that's a story, and it's not surprising that the people you're writing about won't approve of every word of the story (as when you write about *e.g.* Google). I'm not expecting a puff piece about these people, and I'm not expecting agreement, but I do think a big part of the story that you need to convey is that a lot of people read this stuff and *thought it made sense as a literal description of reality* (in the way that it's a literal description of reality to say that there's an apple on the table when you see an apple on the table), not just that it offered a subjective feeling of comfort or clarity, or a sense of working on something mythic. Whether or not *you* believe them, *they* think AI risk belongs in the same literary genre as risks of global warming or asteroid strikes—and much more fundamentally than that, that [the entire mode of thinking that categorizes beliefs on the basis of what literary genre they seem to fit is importantly mistaken](https://www.readthesequences.com/Science-As-Attire). I remain,
 
 Your faithful correspondent,  
 Zack M. Davis
@@ -694,7 +694,7 @@ _[laughter]_
 
 **JT**: Exactly. And if you read the fine print, it's like, oh, we conditioned on success. But even if they conditioned on success, their conditioning on success didn't lead them to longer timelines. I don't know; it's just like there's the thing you could immediately interpret it as, where it's just like obviously wrong, like why would just a few years slowdown cause this huge effect in outcomes, and then the fine print, even if you look at the fine print and you're super autistic about it, it's still a really bad scenario. That just seems like propaganda, and in the third part of this book, some parts also seem like propaganda. They spent a bunch of time being like, this alignment approach won't work, and this won't work, and this won't work; you really need to know what you're doing; you shouldn't have false hope in things; this is just cope. And then they start talking about political solutions, and they're like, oh, humanity still has hope; we can still do something; this is tractable. I don't buy it.
 
-**CM**:  Why do you think that this community dovetailed with the EA community?
+**CM**: Why do you think that this community dovetailed with the EA community?
 
 **MV**: We didn't. We created the EA community.
 
@@ -776,7 +776,7 @@ In that respect, I would say you are more rational than Oliver Habryka and the m
 
 **ZMD**: From your acknowledgments page, it seems like you at least have the concept that when someone tells you your book proposal is bad, it's not summoning judgment and punishment. They just mean it's a bad book idea and you should maybe write a different book. The sanity and maturity to recognize that is apparently a large amount of rationality in today's world. I think the thing that the thing that Michael was trying to do in 2009 was to create more sane and rational people, rather than the doomsday cult it turned into. Separately from the fact that doomsday is still real, sane and mature people would be helpful for confronting the impending doom.
 
-The reason the reason I put in so much effort, talking with you multiple times, sending you that 2000 word email, is because like I'm worried you're going to tell the story of this book as strictly the sociological lens of, here are these weird people forming a doomsday cult and they're pulling the strings in Silicon Valley.
+The reason the reason I put in so much effort, talking with you multiple times, sending you that 2000 word email, is because I'm worried you're going to tell the story of this book as strictly the sociological lens of, here are these weird people forming a doomsday cult and they're pulling the strings in Silicon Valley.
 
 That part is true. The sociological lens is valid. But there's also this other part of the story, as I said in the email, the reason Yudkowsky succeeded and Kurzweil didn't, is because before we gave up, before we gave up on objectivity like the rest of the world, except for Michael—
 
@@ -888,6 +888,26 @@ The thing I just said is easy for an AI to understand. It's also easy for a huma
 
 **CM**: There you go.
 
-### October 2025
+### 28 November 2025
 
-[TODO: draft followup email]
+[TODO— drafting a closing-statement email in this file, but it's not part of the record until I send it]
+
+Subj: the importance of doing better than not-lying
+
+Dear Cade:
+
+In our conversation with Michael and Jessica of 2 October, you seemed amused by Michael's suggestion that your non-objective perspective might kill him, but it really shouldn't be funny. (Or if it was funny, it was black humor.)
+
+It may seem counterintuitive at first, but we can quite concretely describe a plausible relationship between the kind of institutional corruption Michael was explaining, and people dying. The kind of objectivity Michael is appealing to has been metaphorically likened to "a map that reflects the territory." If you're trying to cross a dangerous jungle or desert, and your map says that there's a safe oasis where in reality there is none, you could die.
+
+In the same way, in order to make good decisions about the economy, or war, or emerging technologies, Society needs accurate beliefs, a map that reflects the territory. If Society's economic decisionmakers think (in their "map") that their macroeconomic theories will bring prosperity, but the theories are wrong in reality (the "territory"), then people lose their jobs and homes. If Society's military decisionmakers think (in their "map") that bringing democracy to Iraq will take three weeks, and it turns out to not be that simple in the "territory", then soldiers die. And if Society's tech moguls and politicians think that AI can't be dangerous and that turns out not to be the case, well ...
+
+Even now, more than any single other institution, Society's beliefs are determined by _The New York Times_.
+
+[TODO: turn back on the truth; turning back on truth-telling]
+
+[TODO: a higher standard, Kelsey Piper, it starts with "Sorry"]
+
+[TODO: Vassar's point about rational response to oppression, the brick and the AI that you don't see]
+
+[TODO: normies are worse]
