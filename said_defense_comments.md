@@ -23,7 +23,7 @@ The phrasing of your comment seems to suggest that at some level, this is also y
 
 > Despite my disagreement I endorse Habryka unilaterally taking these kinds of decisions and approve of his [...] conduct in this matter.
 
-Why? If you think Achmiz's posts are clear, crisp, and valuable and that the examples in the post don't seem compelling, then that would seem to imply that Habyrka is making a terrible decision and that you should therefore disapprove of his conduct. Is the idea that it's critical for coordination purposes to have a dictator, any dictator, such that it doesn't actually matter whether they make good decisions? _Reply!_
+Why? If you think Achmiz's posts are clear, crisp, and valuable and that the examples in the post don't seem compelling, then that would seem to imply that Habyrka is making a terrible decision and that you should therefore disapprove of his conduct. Is the idea that it's critical for coordination purposes to have a dictator, any dictator, such that it doesn't actually matter whether the dictator makes good decisions?
 
 ----
 

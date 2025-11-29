@@ -142,9 +142,9 @@ I [articulated a toy model](https://www.datasecretslox.com/index.php/topic,14237
 >
 > My response [should depend on how it came to be that you showed me $e_{17}$, $e_{18}$, $e_{19}$, and $e_{20}$.](https://www.lesswrong.com/posts/DoPo4PDjgSySquHX8/heads-i-win-tails-never-heard-of-her-or-selective-reporting)
 >
-> If I were certain that you were a psychic all-seeing perfectly dogmatic B-partisan that got to look at all twenty cards and are showing me all of the cards that say "B", then I can infer that all of $e_{4}$ through $e_{16}$ say "A" (because if any of them didn't, you would have shown me them). I should end up with posterior odds of 2[sup]16-4[/sup] = 2[sup]12[/sup] = 4096:1, or probability about 0.9998 that Reality is A.
+> If I were certain that you were a psychic all-seeing perfectly dogmatic B-partisan that got to look at all twenty cards and are showing me all of the cards that say "B", then I can infer that all of $e_{4}$ through $e_{16}$ say "A" (because if any of them didn't, you would have shown me them). I should end up with posterior odds of $2^{16-4} = 2^{12} = 4096:1$, or probability about 0.9998 that Reality is A.
 >
-> If I were certain that you're a philosopher pursuing truth just showing me all the cards you happened to find, then I should count your cards the same as mine and have posterior odds of 2[sup]3-4[/sup] = 1:2, or probability 1/3 that Reality is A.
+> If I were certain that you're a philosopher pursuing truth just showing me all the cards you happened to find, then I should count your cards the same as mine and have posterior odds of $2^3-4 = 1:2$, or probability 1/3 that Reality is A.
 >
 > Realistically, I expect that you're definitely not all-seeing, and probably some sort of B-partisan but not perfectly dogmatic about it, so my posterior probability should end up somewhere in between the two extreme cases. It would depend on the details. It's not worth specifying the details, because this is just a toy formalism meant to illustrate a qualitative principle of normative behavior. I'm not claiming that real-world arguments are literally isomorphic to cards representing a known likelihood ratio; I just think doing the arithmetic for the cute story about cards is helpful for disciplining the mind and preparing it to confront the normative principle which many find hard to face.
 >
