@@ -132,3 +132,10 @@ I strong-downvoted (but weak agree-upvoted) and put a too-sneering react on http
 
 > One thing is sure, the path that leads to sanity and survival doesn't start with lies or with reasoning by Appeal to (Internal) Consequences.
 https://twitter.com/ESYudkowsky/status/1743522277835333865
+
+
+> They discussed it in person and spent a considerable amount of time on it. My understanding is that Oliver wanted me kicked out.
+>
+> It would look fairly bad for them if they did kick me out.
+https://x.com/Mihonarium/status/1996771921162072557
+https://x.com/ohabryka/status/1996776783669313887

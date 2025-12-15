@@ -840,6 +840,17 @@ If you still want to chat more, pick a time next week (the week of the 22nd)? (I
 
 Let me get back to you about the Diary entries (I don\'t think there\'s too much there, but I\'m waiting on guidance from Anna about whether I\'m supposed to redact anything; also reserving the right to back out if the forthcoming Lighthaven/Solstice piece is sufficiently terrible to override my bias towards Sharing Information without trying to control how it gets used).\
 
+------
+
+**From**: Zack M. Davis  
+**To**: Cade Metz  
+**Date**: Mon, 16 Jun 2025 23:30:38 -0700  
+**Subject**: Diary excerpts
+
+Attached are some of my old Diary entries from that might give a sense of the subcultural scene. (You can see from the entry-number gaps that I tried to cherry-pick entries that looked at least vaguely relevant to your story, skipping over entries that seemed less relevant or full of histrionic garbage.) These selections go from one entry in 2005 (first mention of Yudkowsky), to *Overcoming Bias* meetups in 2008, to a brief you-can-sleep-in-the-garage-and-we-won\'t-pay-you internship with the then-Singularity Institute in 2009, to subsequent visits with the gang in 2010.
+
+**Attachment**: [siai_diary.pdf](http://zackmdavis.net/docs/siai_diary.pdf)
+
 ### 24 June 2025
 
 **ZMD**: Okay, we're recording. I am a little bit worried that you just summarized it as, oh, these people claim to be rational, but they're actually just following the beliefs of this guy. And like—
@@ -1210,9 +1221,7 @@ The smart version of this idea for futurism is imagining that like, if you have 
 
 **CM**: Do you think he was purposefully lying in the moment?
 
-**ZMD**: He was trying to—again, I don't have insider knowledge here, this is just my understanding from like, gossip channels and stuff, but like—he didn't feel comfortable saying in public, this sounds like a horrible idea, what what the hell are you guys doing, this is terrible. He felt like that would not be—because you know, there was so much money and power behind this OpenAI thing, that he didn't feel comfortable criticizing in public at that time. It's probably on his Twitter somewhere, but Yudkowsky said somewhere [that he cried at the OpenAI announcement](https://x.com/ESYudkowsky/status/1683592535569231873).
-
-[TODO: "money or power" should link the Yudkowsky/Vassar Twitter discussion where he talked about EA bullies shoving MIRI against the wall]
+**ZMD**: He was trying to—again, I don't have insider knowledge here, this is just my understanding from like, gossip channels and stuff, but like—he didn't feel comfortable saying in public, this sounds like a horrible idea, what what the hell are you guys doing, this is terrible. He felt like that would not be—because you know, [there was so much money and power](https://x.com/ESYudkowsky/status/1947455028253597967) behind this OpenAI thing, that he didn't feel comfortable criticizing in public at that time. It's probably on his Twitter somewhere, but Yudkowsky said somewhere [that he cried at the OpenAI announcement](https://x.com/ESYudkowsky/status/1683592535569231873).
 
 **CM**: It is interesting, separately, Paul Christiano and Dario Amodei, they were actually in talks with those guys. They didn't join the lab, but then they joined a little bit later. It seems because they wanted to change the culture. OpenPhil came in with 30 million dollars. 
 

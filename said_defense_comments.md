@@ -1,6 +1,8 @@
 
 TODO— Ngo and Wentworth
 
+attack Ruby's praise of Ray— https://www.lesswrong.com/posts/thc4RemfLcM5AdJDa/skills-from-a-year-of-purposeful-rationality-practice?commentId=AbqcJn5FpquZvZY5b
+
 ----
 
 [reply to Vaniver: https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=j57cuznkZBXqSn7sr]
@@ -44,3 +46,6 @@ I don't think the principle is that illegible, and I don't think superficial cha
 As an example of what an actually superficial conflict over writing style would look like, I'm probably not the only one who's annoyed that Vaniver spells _though_ as _tho_, but there's no coalition demanding him to adopt standard English orthography or be deposed. No one wants to do that, because that would be petty, and it would be pretty precisely because it's superficial: both the standard and reformed spellings mean the same thing.
 
 In contrast, the reason people wanted Achmiz to write words that convey a different tone is because the different words would have a different meaning. The kind of people who would make that demand wouldn't be satisfied with mere compliance, [because it would be easy to infer that Achmiz was only saying what was demanded of him as the price of being allowed to speak at all](https://www.lesswrong.com/posts/pC74aJyCRgns6atzu/meta-discussion-from-circling-as-cousin-to-rationality?commentId=g6vrAMkHmCHTRa4C2) These people don't want compliance. They want submission.
+
+----
+
