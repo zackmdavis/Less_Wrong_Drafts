@@ -89,7 +89,7 @@ The recordings (with varying amounts of background noise) are available]
 
 **CM**: Was there a moment when he decided we're all doomed, and why?
 
-**ZMD**: I mean, it's funny when you read his stuff from the mid-teens. I don't know what we call the decade. But to talk about the probability of the singularity going well, he would refuse to give a probability. He's saying, I'm trying to maximize the probability, and in order to take the best actions, I don't particularly need to know what that number is exactly. It's funny because, in the more recent, starting with April 1, 2022's "MIRI Announces Death with Dignity Strategy", he starts saying, by the way, that probability is almost zero. So going from, I refuse to name a number, to, the number is really, really low, it's maybe not even that much of a change. It's being more explicit.
+**ZMD**: I mean, it's funny when you read his stuff from the mid-teens. I don't know what we call the decade. But to talk about the probability of the singularity going well, he would refuse to give a probability. He's saying, I'm trying to maximize the probability, and in order to take the best actions, I don't particularly need to know what that number is exactly. It's funny because, in the more recent, starting with April 1, 2022's ["MIRI Announces Death with Dignity Strategy"](https://www.lesswrong.com/posts/j9Q8bRmwCgXRYAgcJ/miri-announces-new-death-with-dignity-strategy), he starts saying, by the way, that probability is almost zero. So going from, I refuse to name a number, to, the number is really, really low, it's maybe not even that much of a change. It's being more explicit.
 
 **CM**: Now, I asked you this once before; let me try again, see what you think. If you're talking to a layperson, who has no familiarity with this world. How do you explain to them what the Sequences are doing. They're a way of describing that.
 
@@ -757,7 +757,7 @@ Maybe a good example would be, you know, the COVID pandemic. In the early days o
 
 **ZMD**: Thanks.
 
-### 5 May–15 June 2025
+### 5 May–16 June 2025
 
 **From**: Cade Metz  
 **To**: Zack M. Davis  
@@ -1319,7 +1319,7 @@ The smart version of this idea for futurism is imagining that like, if you have 
 
 **ZMD**: Okay, thanks.
 
-### 25 June–23 July 2025
+### 25 June–7 August 2025
 
 **From**: Cade Metz  
 **To**: Zack M. Davis  
@@ -1371,7 +1371,7 @@ We have a slogan, "The map is not the territory." When I try to imagine how some
 **From**: Cade Metz  
 **To**: Zack M. Davis  
 **Date**: Tue, 1 Jul 2025 08:34:08 -0700  
-**Subject**: Re; thanks and blog post
+**Subject**: Re: thanks and blog post
 
 Zack: This is great stuff. Thanks. After doing some more reading, this might be the more interesting blog post:
 
@@ -1448,6 +1448,38 @@ Anyway, I am very much interested in the same ideas that you are. But I also wan
 Happy to discuss more. I loved our conversation.
 
 Cade   
+
+----------
+
+**From**: Zack M. Davis  
+**To**: Cade Metz  
+**Date**: Thu, 7 Aug 2025 20:55:41 -0700  
+**Subject**: book review?
+
+Dear Cade:
+
+Can you share any part of the book draft with me for feedback? I know it's not against your publisher's policy, because Paul Sas says you shared drafts of the chapters on the Extropians.
+
+I wrote down a lot of thoughts about the 4 August Lighthaven article and some potential issues with the fact-checking process for it, but I'm going to withhold that for now in favor of this shorter email. I remain,
+
+Your faithful correspondent,
+Zack M. Davis
+
+------
+
+**From**: Cade Metz  
+**To**: Zack M. Davis  
+**Date**: Thu, 7 Aug 2025 21:12:19 -0700  
+**Subject**: Re: book review?
+
+Hello. Would love to hear your thoughts on the article. Happy to discuss.
+
+I can't share the book chapters, for various reasons that I am also happy to discuss. But I will certainly fact check stuff that involves you, as promised.
+
+Do let me know if you want to discuss on phone or in person.
+
+Cade
+
 
 ### 12 August 2025
 
@@ -1529,7 +1561,7 @@ End quote.
 
 **CM**: I guess there are two things, you could have a single person having extreme beliefs, or the group—the group dynamic is part of this. That can be dangerous. If everybody is pushing everybody else to the extreme. But you don't think much about that.
 
-**ZMD**: So there's also there's also this problem of like different groups like slandering each other. I mentioned in the memoir that there were a couple years when I was collaborating with Michael Vassar and some of his friends on a lot of intellectual stuff. I still consider myself friends with Ben Hoffman and Jessica Taylor. I don't talk to Michael very much these days. We chatted briefly at a conference the other month. But there's some people who call us "the Vassarites" with cultish insinuations in a way that just sort of seems like slander, because from the inside, like, what? We're different people who talk to each other sometimes, what is the alleged problem here, exactly?
+**ZMD**: So there's also this problem of different groups slandering each other. I mentioned in the memoir that there were a couple years when I was collaborating with Michael Vassar and some of his friends on a lot of intellectual stuff. I still consider myself friends with Ben Hoffman and Jessica Taylor. I don't talk to Michael very much these days. We chatted briefly at a conference the other month. But there's some people who call us "the Vassarites" with cultish insinuations in a way that just sort of seems like slander, because from the inside, like, what? We're different people who talk to each other sometimes, what is the alleged problem here, exactly?
 
 **CM**: It's a great point. It's a tricky thing to describe.
 
@@ -1573,7 +1605,7 @@ End quote.
 
 **CM**: They don't want to talk. It's just reporting. It's just reporting. And people _[dropping to a whisper]_ always talk. And good for them. Like I said, I admire your philosophy, like information—
 
-**ZMD**: But so, that's just that's kind of why I wanted to—because again, I mentioned I did not like the religion angle in this piece, and so I was just worrying that, oh man, I really, really—I was worrying if the people criticizing me might have a point. I think if the book turns—I guess this is why I was curious why I sent that email asking about if you could share drafts, because if you're not telling the truth about the book being more nuanced, then I think the people criticizing me probably had a point.
+**ZMD**: But so, that's just that's kind of why I wanted to—because again, I mentioned I did not like the religion angle in this piece, and so I was just worrying that, oh man, I really, really—I was worrying if the people criticizing me might have a point. I think if the book turns—I guess this is why I was curious, why I sent that email asking about if you could share drafts, because if you're not telling the truth about the book being more nuanced, then I think the people criticizing me probably had a point.
 
 **CM**: Well, of course it's more nuanced. It talks about all these ideas. I just told you about that. But think about it like this. You say that I'm the guy that doxxed Scott Alexander. I still—did I? The guy had just revealed his own name.
 
@@ -1661,13 +1693,13 @@ End quote.
 
 **CM**: Tell me about that, why was it so somber?
 
-**ZMD**: Well, this person who a lot—I again, I have had my differences with Yudkowsky and reasons to distrust him—this person who we had learned a lot from, and whom a lot of us trusted quite a lot, was saying like, well, everyone's going to die. It's a pretty somber moment. It wasn't unexpected in that, that been a quiet vibe for a few years, and then April 1st was just like a time to make it text instead of subtext. So I talked to Yudkowsky at an Independence Day party in 2021, and I don't quite remember the details, but like there was just this moment in conversation, where like he referred—you know, unfortunately, I didn't actually write a Diary entry immediately after the party, so I don't actually remember the details—there was a moment where he alluded to everyone's impending death, and I said something about how it hadn't really felt as real to me before DALL-E. So in January 2021, I think it was January 5th or January 6th, 2021, [OpenAI published DALL-E](https://openai.com/index/dall-e/), which was the text-to-image thing, the one that—the avocado chairs. I like to say that that was, there's a line in my forthcoming memoir part where I say that that was the most significant thing that happened that week of January 2021.
+**ZMD**: Well, this person who a lot—I again, I have had my differences with Yudkowsky and reasons to distrust him—this person who we had learned a lot from, and whom a lot of us trusted quite a lot, was saying like, well, everyone's going to die. It's a pretty somber moment. It wasn't unexpected in that, that been a quiet vibe for a few years, and then April 1st was just a time to make it text instead of subtext. So I talked to Yudkowsky at an Independence Day party in 2021, and I don't quite remember the details, but like there was just this moment in conversation, where he referred—you know, unfortunately, I didn't actually write a Diary entry immediately after the party, so I don't actually remember the details—there was a moment where he alluded to everyone's impending death, and I said something about how it hadn't really felt as real to me before DALL-E. So in January 2021, I think it was January 5th or January 6th, 2021, [OpenAI published DALL-E](https://openai.com/index/dall-e/), which was the text-to-image thing, the one that—the avocado chairs. I like to say that that was, there's a line in my forthcoming memoir part where I say that that was the most significant thing that happened that week of January 2021.
 
 **CM**: Got it, got it.
 
 **ZMD**: So for me, DALL-E was this moment like, wow, this AI stuff that we've been talking about for 15 years might actually—or I guess it only been 12 years at that point—might actually be reasonably soon, rather than "someday".
 
-Because specifically why I was so impressed by DALL-E was just the fact that—it's easy enough to have an intuition that if you have a million, if you have a thousand images of chairs, you can train a neural network on that, and can spit out more chairs from the same chair distribution, but the fact that it can compose concepts and do avocado chairs, without there being a thousand avocado chairs in the dataset, that seemed to me like this glimmer of generality, and composing concepts instead of just being a clever statistics trick. That was the moment that I was like, okay, this might be sooner than I expected. I think Yudkowsky probably had this moment—just sort of reading between the lines or maybe not even needing to read between the lines too much of things he had said, I think for him this moment was AlphaGo in 2016. I guess it took me you know took me another five years to see the thing that he was seeing then.
+Because specifically why I was so impressed by DALL-E was just the fact that—it's easy enough to have an intuition that if you have a million, if you have a thousand images of chairs, you can train a neural network on that, and can spit out more chairs from the same chair distribution, but the fact that it can compose concepts and do avocado chairs, without there being a thousand avocado chairs in the dataset, that seemed to me like this glimmer of generality, and composing concepts instead of just being a clever statistics trick. That was the moment that I was like, okay, this might be sooner than I expected. I think Yudkowsky probably had this moment—just sort of reading between the lines or maybe not even needing to read between the lines too much of things he had said, I think for him this moment was AlphaGo in 2016. I guess it took me another five years to see the thing that he was seeing then.
 
 **CM**: A lot of people talk about, after that post went up, it was a somber moment, some people like quit going to dentists, said they weren't going to have children. Did you experience much of that, like changing behavior?
 
