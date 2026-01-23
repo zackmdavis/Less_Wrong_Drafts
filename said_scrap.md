@@ -1,6 +1,3 @@
-What it is like to be a forensic psychologist?
-
-I can only imagine that many cases are routine: the suicide of a sick and lonely debtor, the crime of passion against an unfaithful spouse, the slaying of a rival gang member. While reprehensible, these crimes are fundamentally explicable. While condemning them, we can grant the perpetrators the dignity of a form of rationality. The suicide longed for an end to his pain, the jealous husband raged against betrayal, the gang member dreamed of triumph and glory—and they acted accordingly. Such tragedies will probably always be with us at some frequency as long as humans remain what they are.
 
 ----
 
@@ -139,3 +136,7 @@ https://twitter.com/ESYudkowsky/status/1743522277835333865
 > It would look fairly bad for them if they did kick me out.
 https://x.com/Mihonarium/status/1996771921162072557
 https://x.com/ohabryka/status/1996776783669313887
+
+
+> The thing that banning does is make it so the author doesn’t look like he is ignoring critics (which he hasn’t by the time he has consciously decided to ban a critic).
+https://www.greaterwrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines/comment/Jhgq6XLF7h7N6DB7K

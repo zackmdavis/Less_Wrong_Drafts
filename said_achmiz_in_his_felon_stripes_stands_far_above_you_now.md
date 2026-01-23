@@ -6,25 +6,29 @@
 >
 > —[Voltairine de Cleyre (paraphrased)](https://theanarchistlibrary.org/library/voltairine-de-cleyre-sex-slavery)
 
-### "If I Can't Explain It to Said Achmiz, I Probably Don't Understand It"
+## "If I Can't Explain It to Said Achmiz, I Probably Don't Understand It"
 
 This is a tribute to my friend Said Achmiz, the wisest person I know.
 
-The choice of adjective is deliberately chosen as term of art. Achmiz is not the most quick-witted, nor the most knowledgable, nor the most creative, nor the most savvy. I say _wise_ because the nature of his peculiar talent is the same one ascribed to [Socrates](https://www.lesswrong.com/posts/JcgtKunqmELefxksx/killing-socrates): [_he knows what he doesn't know_](https://en.wikipedia.org/wiki/I_know_that_I_know_nothing).
+The choice of adjective is deliberately chosen as term of art. Achmiz is not the most quick-witted, nor the most knowledgable, nor the most creative, nor the most savvy. I say _wise_ because the nature of his peculiar talent is the same one [ascribed to Socrates](https://www.lesswrong.com/posts/JcgtKunqmELefxksx/killing-socrates): [_he knows what he doesn't know_](https://en.wikipedia.org/wiki/I_know_that_I_know_nothing).
 
-Most people don't. At least, I don't. All too often, when asked, "Do you get what I'm saying?", I reply, "I think so" with perfect subjective sincerity, only realizing later that I was lying—that I could not have paraphrased my interlocutor's ideas, let alone explained where I agreed or disagreed with them. In retrospect (and only in retrospect), it's clear that I didn't want to disrupt the harmonious give-and-take flow of social exchange, that I feared being seen as foolish or obstinate for having the temerity to say, "No, I don't understand"—and to continue standing by that _No_ should understanding not be forthcoming.
+Most people don't. At least, I don't. All too often, when asked, "Do you get what I'm saying?", I reply, "I think so," with perfect sincerity, only realizing later that I was lying—that I could not have paraphrased my interlocutor's ideas, let alone explained where I agreed or disagreed with them. In retrospect (and only in retrospect), it's clear that I didn't want to disrupt the harmonious give-and-take flow of social exchange, that I feared being seen as foolish or obstinate for having the temerity to say, "No, I don't understand"—and to continue standing by that _No_ should understanding not be forthcoming.
 
 The unique genius of Achmiz is simply that he's not afraid to be seen as foolish or obstinate. If he doesn't understand how you're using a term, he'll ask for a definition. If he doesn't see how to apply your abstract claim, he'll ask for an example. If your offered definition or example doesn't make sense to him, he'll say so. _Bluffing doesn't work on him._
 
-Occasionally it strikes me as a little odd when Achmiz asks something that I think he should have been able to figure out by himself, but it's no trouble. If I can spare the time, I'm usually happy to type up the requested additional explanation. If I can't spare the time, there's a chance someone else in the cyber-agora might pitch in and supply it.
+Occasionally it strikes me as a little odd when Said asks about some detail that I think he should have been able to fill in by himself, but it's no trouble: if I can spare the time (and it's worth it, for him), I'm usually happy to type up the requested additional explanation. And if I can spare the time but _can't come up with an explanation that will satisfy him_, that's an alarming warning sign that my grasp of the topic wasn't as firm as thought: I didn't know what I didn't know.
 
-But if I can spare the time but can't come up with an explanation that will satisfy Socrates, that's an alarming warning sign that my grasp of the topic isn't as firm as thought: I didn't know what I didn't know.
+A few years ago, I was disappointed when the conclusion of a post that I had labored over for months didn't land in the comment section the way I wanted it to: what my words had meant in my head, wasn't the same as what the commenters took them to mean.
 
-But there's also such a thing as people who combine an above-average need for rigor with a below-average need for social harmony, to the result that they can't be bluffed—who are incredibly valuable to have around to help check that you aren't fooling yourself. Mostly, I figure that if I can't explain it to Socrates, I probably don't understand it.
+To help me figure out how revise it, I emailed Said, explaining what I meant. He had some criticisms. I proposed a rewrite. He said the rewrite was still confusing. I wrote some additional explanation, particularly of an analogy in the passage in question which I was quite fond of. Said was unmoved and pointed out some relevant disanalogies between the things I was analogizing. I cut the analogy from the rewrite entirely, which met with Said's tentative approval.
 
-[TODO: four round back and forth]
+The revised passage is perhaps less engaging writing than the original. (It was a really clever analogy.) But it's _clear_, and for that I have Said to thank—not just for his generosity with his time, but for his steadfastness. A lot of people in that situation wouldn't have stuck to their position over such a long back-and-forth (and back-and-forth-and-back-and-forth): their acute social perception would have noticed that I was fond of the analogy and "mercifully" told me what I wanted to hear—at the cost of making the post worse. In contast, Said, no less socially perceptive, has the strength of will to not make sociality his master. The plea of a friend and the threat of enemy are equally ineffective at budging him from calling it as he sees it (for a true friend wouldn't ask him to lie to them).
 
-### An Inversion of Values
+I've been blessed with many friends and collaborators in this life, each with their own unique skillset. Some of them are prolifically generative, gushing with a dozen theories and metaphors and frames at the slightest prompt. Some of them know extremely advanced mathematics and can prove in minutes what would take me hours just to understand the theorem statement. Some of them are kind and empathetic, ready to lend a sympathetic ear to anyone when the world's cruelties seem too much to bear.
+
+Said is none of these things. But when what I need is a critic's discrimination—when I'm worried that I might be fooling myself through lack of rigor—I can't think of anyone I'd rather have by my side. If I can't explain it to Said Achmiz, I probably don't understand it.
+
+## An Inversion of Values
 
 Oliver Habyrka begins what I can only describe as [an astonishing document](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation) by contrasting two frequently voiced perspectives on the culture of _Less Wrong_.
 
@@ -38,23 +42,35 @@ Habyrka opines that "both of these perspectives are right."
 
 I would go further. It's not just that both of these perspectives are right. It's that you can't have one without the other. By what means can a web forum "really force you to get your arguments together"?
 
-There is only one means: by commenters pointing out all the places where a post says something wrong—anything wrong. If the error wasn't "load bearing for your argument", it's still worth pointing out in the comment section. (We're not going to run out of _paper_.) It doesn't matter if it "isn't something you consider particularly important." (If it's so unimportant that you don't even want to receive corrections, then what was it doing in the post?)
+There is only one means: by commenters pointing out all the places where a post says something wrong—anything wrong. If the error wasn't "load bearing for your argument", it's still worth pointing out in the comment section, for the benefit of readers who might otherwise be deceived. (We're not going to run out of _paper_.) It doesn't matter if it "isn't something you consider particularly important." (If it's so unimportant that you don't even want to receive corrections, then what was it doing in the post?)
 
-If the "discussion doesn't illuminate what you are trying to communicate", it's worth asking: why is that? If it were because the commenters are for some perverse reason pretending _en masse_ to not understand your clear and correct explanations, then that would be bad. But if it's because your explanations were not, in fact, clear and correct, then disappointment was inevitable: commenters can't illuminate what you're trying to communicate if you didn't successfully communicate it.
+If the "discussion doesn't illuminate what you are trying to communicate", it's worth asking: why is that? If it were because the commenters were for some perverse reason pretending _en masse_ to not understand your clear and correct explanations, then that would be bad. But if it's because your explanations are not, in fact, clear and correct, then disappointment was inevitable: commenters can't illuminate what you're trying to communicate if you didn't successfully communicate it.
 
-As a perennial _Less Wrong_ author of over 100 posts (including 8 Curated posts, some of which were voted Best of _Less Wrong_ in [2019](https://www.lesswrong.com/posts/DoPo4PDjgSySquHX8/heads-i-win-tails-never-heard-of-her-or-selective-reporting), [2021](https://www.lesswrong.com/posts/dYspinGtiba5oDCcv/feature-selection), and [2023](https://www.lesswrong.com/posts/pYWA7hYJmXnuyby33/alignment-implications-of-llm-successes-a-debate-in-one-act)), I have the experience to testify on this matter. Yes, it is disappointing when a post doesn't land in the comment section the way I wanted it to, but it's obviously not because commenters are culpably witholding their illumination of my precious ideas. It's because writing about ideas is hard and I don't always get it right.  Sometimes I'm wrong, sometimes I'm confused, sometimes I don't write clearly—[and](https://www.lesswrong.com/posts/XbXJZjwinkoQXu4db/funk-tunul-s-legacy-or-the-legend-of-the-extortion-war) [it](https://www.lesswrong.com/posts/67NrgoFKCWmnG3afd/you-ll-never-persuade-people-like-that) [shows](https://www.lesswrong.com/posts/rzFrwWvvpgzfnwSeB/some-basic-level-of-mutual-respect-about-whether-other) in the comment section and the karma score. I certainly prefer it when the discussion illuminates what I was trying to communicate, but the only real way to accomplish that is by me writing something that commenters as individuals find illuminating—and there's always the possibility of that not happening when people are being honest, rather that sycophantically colluding to flatter the author's ego. ["Yes, and—" requires the possibility of "No, because—"](https://www.lesswrong.com/posts/Pwg7nmjkx8mxmE6gF/yes-and-requires-the-possibility-of-no-because).
+As a perennial _Less Wrong_ author of over 100 posts—including eight Curated posts, including four voted Best of _Less Wrong_ in [2019 (#9)](https://www.lesswrong.com/posts/DoPo4PDjgSySquHX8/heads-i-win-tails-never-heard-of-her-or-selective-reporting), [2021 (#31)](https://www.lesswrong.com/posts/dYspinGtiba5oDCcv/feature-selection), [2023 (#14)](https://www.lesswrong.com/posts/pYWA7hYJmXnuyby33/alignment-implications-of-llm-successes-a-debate-in-one-act), and [2024](https://www.lesswrong.com/posts/8yCXeafJo67tYe5L4/and-all-the-shoggoths-merely-players)—I have the experience to testify on this matter. Yes, it is disappointing when a post doesn't land in the comment section the way I wanted it to, but it's obviously not because commenters are culpably witholding their illumination of my precious ideas. It's because writing about ideas is hard and I don't always get it right.  Sometimes I'm wrong, sometimes I'm confused, sometimes I don't write clearly—[and](https://www.lesswrong.com/posts/XbXJZjwinkoQXu4db/funk-tunul-s-legacy-or-the-legend-of-the-extortion-war) [it](https://www.lesswrong.com/posts/67NrgoFKCWmnG3afd/you-ll-never-persuade-people-like-that) [shows](https://www.lesswrong.com/posts/rzFrwWvvpgzfnwSeB/some-basic-level-of-mutual-respect-about-whether-other) in the comment section and the karma score. I certainly prefer it when the discussion illuminates what I was trying to communicate, but the only real way to accomplish that is by me writing something that commenters as individuals find illuminating—and there's always the possibility of that not happening when people are being honest, rather than colluding to flatter the author's ego. ["Yes, and—" requires the possibility of "No, because—"](https://www.lesswrong.com/posts/Pwg7nmjkx8mxmE6gF/yes-and-requires-the-possibility-of-no-because).
 
-(As for "implying that they are superior in their dismissal of your irrational and dumb ideas", I suppose it's true that when someone rejects an idea, that [creates a logical implication that the rejecter thinks they're more rational than the idea-proposer on that topic](https://www.overcomingbias.com/p/disagreement-ishtml). It's a weirdly petty implication to focus on, though. Who cares? This is a blog, not some kind of beauty pageant that awards a sash and cash prize for the "best rationalist".)
+(As for "implying that they are superior in their dismissal of your irrational and dumb ideas", I suppose it's true that when someone rejects an idea, that [creates a logical implication that the rejecter thinks they're more rational than the idea-proposer on that topic](https://www.overcomingbias.com/p/disagreement-ishtml). It's a weirdly petty implication to focus on, though. Who cares?)
 
-What is most striking about the second perspective's list of reasons that critical commenters make _Less Wrong_ unrewarding to interact with is what it does _not_ say. _It doesn't say the commenters are wrong!_ If the second perspective had claimed that commenters _mischaracterize_ posts (rather than merely criticizing non-"load bearing" aspects of the posts or failing to "illuminate what [authors] are trying to communicate"), that would be a serious problem that would warrant corrective actions by moderators. We can infer that bad arguments and strawmanning are not seen by user reports as a pervasive problem on _Less Wrong_. [(If it were, the second perspective would have mentioned it.)](https://www.readthesequences.com/Absence-Of-Evidence-Is-Evidence-Of-Absence)
+What is most striking about the second perspective's list of reasons that critical commenters make _Less Wrong_ unrewarding to interact with is what it does _not_ say.
+
+_It doesn't say the commenters are wrong!_ If the second perspective had claimed that commenters _mischaracterize_ posts (rather than merely criticizing non-"load bearing" aspects of the posts or failing to "illuminate what [authors] are trying to communicate"), that would be a serious problem that would warrant corrective actions by moderators. We can infer that bad arguments and strawmanning are not seen by user reports as a pervasive problem on _Less Wrong_. [(If they were, the second perspective would have mentioned it.)](https://www.readthesequences.com/Absence-Of-Evidence-Is-Evidence-Of-Absence)
 
 Thus, it would seem that the two complementary perspectives described by Habryka are describing a success story of a vibrant intellectual forum with a culture of excellence that cares fanatically about getting things right via the power of vigorous and rigorous discussion. It's true that posting on _Less Wrong_ can be "unrewarding"—but that's because the rewards are real and therefore have to be earned.
 
-Habryka states that "few people have done as much to shape the culture of LessWrong" than one Said Achmiz. I think this is giving Achmiz far too much credit. I think _Less Wrong_'s culture of excellence derives from the legacy of Eliezer Yudkowsky's Sequences attracting a userbase that cares about getting things right. Achmiz is only #43 on [the all-time karma list](https://www.lesswrong.com/leaderboard) and is better seen in historical context as an inheritor of the culture of excellence rather than one of its originators.
+Habryka states that "few people have done as much to shape the culture of LessWrong" than Said Achmiz, and in the comments [guesses that a survey would place Achmiz around #20 on a list of such figures (and that "this would be an underestimate of [Achmiz's] effect on the culture")](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=Jmo9yeEkYpQMDSDrd).
 
-[TODO: Habyrka says "place 20 in how people would bring up your name. I think this would be an underestimate of your effect on the culture", so maybe not too much disagreement?]
+At this point, the natural assumption to readers who missed the title of Habryka's post is that Achmiz is being honors as the recipient of some kind of award. (Because, well, why else would Habyrka be writing a post describing what's good about the website's culture, and then naming Achmiz as a cornersone of that culture? What else would the post be announcing?)
 
-But granting for the sake of argument that Habyrka is right to attribute such influence to Achmiz, one wonders what the occasion of bringing it up is. The natural assumption is that the post must be announcing Achmiz as the recipient of some kind of award.
+[...]
+
+What it is like to be a forensic psychologist?
+
+I can only imagine that many cases are routine: the suicide of a sick and lonely debtor, the crime of passion against an unfaithful spouse, the slaying of a rival gang member. While reprehensible, these crimes are fundamentally explicable. While condemning them, we can grant the perpetrators the dignity of a form of rationality. The suicide longed for an end to his pain, the jealous husband raged against betrayal, the gang member dreamed of triumph and glory—and they acted accordingly. Such tragedies will probably always be with us at some frequency as long as humans remain what they are.
+
+
+
+
+
+
 
 [TODO: fire-and-brimstone condemnation of the total inversion of values
 talk about the three-scenarios of examples vs. DirectedEvolution
@@ -65,7 +81,7 @@ https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-bro
 Indeed. For example, if a community selects for phonies who want people to lie to them in order to protect their feelings, and selects against people who want to have real, honest conversations, then you end up with a community full of phonies. 
 ]
 
-### If "Every Individual Owns Their Own Judgment of You", Then the Ban Rationale Makes No Sense
+## If "Every Individual Owns Their Own Judgment of You", Then the Ban Rationale Makes No Sense
 
 Habyrka goes on to articulate two alleged failure modes of online communities. 
 
@@ -97,7 +113,7 @@ Ben Pace writes about
 
 [TODO: lip service in insufficient; look at actions; his warning to me about "scorn" means it's not just Said]
 
-### Misrepresentations in Habyrka's Analysis of Achmiz's Comments
+## Misrepresentations in Habyrka's Analysis of Achmiz's Comments
 
 [TODO—
 The initial "Zetetic Explanation" comment was _not_ vague and high-level put-down! Reading it that way is just poor reading comprehension. It was expresssed elliptically by juxtaposing the "ordinary means" and "Robinson Crusoe" quotes. Is that a good criticism? I don't know; it's a judgement call! But it's clearly in-bounds.
@@ -108,7 +124,7 @@ What?
 "called him a coward"
 ]
 
-### You Can Too Ignore Unwanted Comments
+## You Can Too Ignore Unwanted Comments
 
 [TODO—
 The website already supported user-level bans!!! That solves the whole problem
@@ -122,7 +138,7 @@ What's being expressed in the 2020 thread is a view that such questions _are_ in
 You could just do nothing: https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/rwvEgbDKrcojyLTef
 ]
 
-### Misrepresentations in Habyrka's Reports of Alleged Author Complaints About Achmiz
+## Misrepresentations in Habyrka's Reports of Alleged Author Complaints About Achmiz
 
 [TODO
 Investigation with Scott and Falkovich
@@ -131,7 +147,7 @@ Investigation with Scott and Falkovich
 Lies in the comment section about how central complaints were to the post
 ]
 
-### Achipelago, Tyranny, and a Single Locus of Discussion
+## Achipelago, Tyranny, and a Single Locus of Discussion
 
 [TODO:
 Betrayal of the mandate—the premise of LW2 was to reverse the diaspora and create a single locus of disucssion; "It's fine to be a dictator because you can leave" contradicts "the importance of a single central node"
@@ -146,7 +162,14 @@ the mod's shameless bullying of sunwillrise, who was one of the best new comment
 
 ]
 
-### Effort Ratios Are Logically Irrelevant
+[TODO:
+Ben Hoffman articulated a model extending "Geeks, MOPs, and Sociopaths", where the geeks create a culture, and then it ends up getting steered by sociopaths who are willing to corrupt the signal in order to make it popular.
+The prophetic line: from the sociopaths' perspective, they are fixing errors, not introducing them.
+This is an exact match to what we see in Habyrka's behavior: an obsession with what will make people use the website, and not about what's logically correct
+]
+
+
+## Effort Ratios Are Logically Irrelevant
 
 [TODO: some kinds of criticism having easier jobs than thesis-proposers is a fact about reality!
 
@@ -160,7 +183,7 @@ fights of attrition are a possible failure mode, but so is stonewalling
 ]
 
 
-### Reply to Vaniver on "Emotional Tallness"
+## Replies to Vaniver
 
 Lightcone Infrastructure board member and _Less Wrong_ BDFL Vaniver [commented on the ban announcement](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=j57cuznkZBXqSn7sr).
 
@@ -189,15 +212,7 @@ I agree with "Feeling Rational"; for me, it emerges as righteous outrage at thes
 Yeah, and what's the reply? 
 ]
 
-### Comment on "On the Construction of Beacons"
-
-[TODO:
-Ben Hoffman articulated a model extending "Geeks, MOPs, and Sociopaths", where the geeks create a culture, and then it ends up getting steered by sociopaths who are willing to corrupt the signal in order to make it popular.
-The prophetic line: from the sociopaths' perspective, they are fixing errors, not introducing them.
-This is an exact match to what we see in Habyrka's behavior: an obsession with what will make people use the website, and not about what's logically correct
-]
-
-### We Don't Actually Respect You
+## We Don't Actually Respect You
 
 [TODO: somehow clarify what's going on when Said says he has no feelings about anyone, and Habyrka's reply to my "we just mean"
 Censorship doesn't make the underlying reality go away; you can't win our respect by silencing us
