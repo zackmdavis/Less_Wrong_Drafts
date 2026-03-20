@@ -22,7 +22,7 @@ A few years ago, I was disappointed when the conclusion of a post that I had lab
 
 To help me figure out how revise it, I emailed Said, explaining what I meant. He had some criticisms. I proposed a rewrite. He said the rewrite was still confusing. I wrote some additional explanation, particularly of an analogy in the passage in question which I was quite fond of. Said was unmoved and pointed out some relevant disanalogies between the things I was analogizing. I cut the analogy from the rewrite entirely, which met with Said's tentative approval.
 
-The revised passage is perhaps less engaging writing than the original. (It was a really clever analogy.) But it's _clear_, and for that I have Said to thank—not just for his generosity with his time, but for his steadfastness. A lot of people in that situation wouldn't have stuck to their position over such a long back-and-forth (and back-and-forth-and-back-and-forth): their acute social perception would have noticed that I was fond of the analogy and "mercifully" told me what I wanted to hear—at the cost of making the post worse. In contast, Said, no less socially perceptive, has the strength of will to not make sociality his master. The plea of a friend and the threat of enemy are equally ineffective at budging him from calling it as he sees it (for a true friend wouldn't ask him to lie to them).
+The revised passage is less engaging writing than the original. (It was a really clever analogy.) But it's _clear_, and for that I have Said to thank—not just for his generosity with his time, but for his steadfastness. A lot of people in that situation wouldn't have stuck to their position over such a long back-and-forth (and back-and-forth-and-back-and-forth): their acute social perception would have noticed that I was fond of the analogy and "mercifully" told me what I wanted to hear—at the cost of making the post worse. In contast, Said, no less socially perceptive, has the strength of will to not make sociality his master. The plea of a friend and the threat of an enemy are equally ineffective at budging him from calling it as he sees it (for a true friend wouldn't ask him to lie to them).
 
 I've been blessed with many friends and collaborators in this life, each with their own unique skillset. Some of them are prolifically generative, gushing with a dozen theories and metaphors and frames at the slightest prompt. Some of them know extremely advanced mathematics and can prove in minutes what would take me hours just to understand the theorem statement. Some of them are kind and empathetic, ready to lend a sympathetic ear to anyone when the world's cruelties seem too much to bear.
 
@@ -46,7 +46,7 @@ There is only one means: by commenters pointing out all the places where a post 
 
 If the "discussion doesn't illuminate what you are trying to communicate", it's worth asking: why is that? If it were because the commenters were for some perverse reason pretending _en masse_ to not understand your clear and correct explanations, then that would be bad. But if it's because your explanations are not, in fact, clear and correct, then disappointment was inevitable: commenters can't illuminate what you're trying to communicate if you didn't successfully communicate it.
 
-As a perennial _Less Wrong_ author of over 100 posts—including eight Curated posts, including four voted Best of _Less Wrong_ in [2019 (#9)](https://www.lesswrong.com/posts/DoPo4PDjgSySquHX8/heads-i-win-tails-never-heard-of-her-or-selective-reporting), [2021 (#31)](https://www.lesswrong.com/posts/dYspinGtiba5oDCcv/feature-selection), [2023 (#14)](https://www.lesswrong.com/posts/pYWA7hYJmXnuyby33/alignment-implications-of-llm-successes-a-debate-in-one-act), and [2024](https://www.lesswrong.com/posts/8yCXeafJo67tYe5L4/and-all-the-shoggoths-merely-players)—I have the experience to testify on this matter. Yes, it is disappointing when a post doesn't land in the comment section the way I wanted it to, but it's obviously not because commenters are culpably witholding their illumination of my precious ideas. It's because writing about ideas is hard and I don't always get it right.  Sometimes I'm wrong, sometimes I'm confused, sometimes I don't write clearly—[and](https://www.lesswrong.com/posts/XbXJZjwinkoQXu4db/funk-tunul-s-legacy-or-the-legend-of-the-extortion-war) [it](https://www.lesswrong.com/posts/67NrgoFKCWmnG3afd/you-ll-never-persuade-people-like-that) [shows](https://www.lesswrong.com/posts/rzFrwWvvpgzfnwSeB/some-basic-level-of-mutual-respect-about-whether-other) in the comment section and the karma score. I certainly prefer it when the discussion illuminates what I was trying to communicate, but the only real way to accomplish that is by me writing something that commenters as individuals find illuminating—and there's always the possibility of that not happening when people are being honest, rather than colluding to flatter the author's ego. ["Yes, and—" requires the possibility of "No, because—"](https://www.lesswrong.com/posts/Pwg7nmjkx8mxmE6gF/yes-and-requires-the-possibility-of-no-because).
+As a perennial _Less Wrong_ author of over 100 posts—including eight Curated posts, including four voted Best of _Less Wrong_ in [2019 (#9)](https://www.lesswrong.com/posts/DoPo4PDjgSySquHX8/heads-i-win-tails-never-heard-of-her-or-selective-reporting), [2021 (#31)](https://www.lesswrong.com/posts/dYspinGtiba5oDCcv/feature-selection), [2023 (#14)](https://www.lesswrong.com/posts/pYWA7hYJmXnuyby33/alignment-implications-of-llm-successes-a-debate-in-one-act), and [2024 (#33)](https://www.lesswrong.com/posts/8yCXeafJo67tYe5L4/and-all-the-shoggoths-merely-players)—I have the experience to testify on this matter. Yes, it is disappointing when a post doesn't land in the comment section the way I wanted it to, but it's obviously not because commenters are culpably witholding their illumination of my precious ideas. It's because writing about ideas is hard and I don't always get it right. Sometimes I'm wrong, sometimes I'm confused, sometimes I don't write clearly—[and](https://www.lesswrong.com/posts/XbXJZjwinkoQXu4db/funk-tunul-s-legacy-or-the-legend-of-the-extortion-war) [it](https://www.lesswrong.com/posts/67NrgoFKCWmnG3afd/you-ll-never-persuade-people-like-that) [shows](https://www.lesswrong.com/posts/rzFrwWvvpgzfnwSeB/some-basic-level-of-mutual-respect-about-whether-other) in the comment section and the karma score. I certainly prefer it when the discussion illuminates what I was trying to communicate, but the only real way to accomplish that is by me writing something that commenters as individuals find illuminating—and there's always the possibility of that not happening when people are being honest, rather than colluding to flatter the author's ego. ["Yes, and—" requires the possibility of "No, because—"](https://www.lesswrong.com/posts/Pwg7nmjkx8mxmE6gF/yes-and-requires-the-possibility-of-no-because).
 
 (As for "implying that they are superior in their dismissal of your irrational and dumb ideas", I suppose it's true that when someone rejects an idea, that [creates a logical implication that the rejecter thinks they're more rational than the idea-proposer on that topic](https://www.overcomingbias.com/p/disagreement-ishtml). It's a weirdly petty implication to focus on, though. Who cares?)
 
@@ -58,28 +58,16 @@ Thus, it would seem that the two complementary perspectives described by Habryka
 
 Habryka states that "few people have done as much to shape the culture of LessWrong" than Said Achmiz, and in the comments [guesses that a survey would place Achmiz around #20 on a list of such figures (and that "this would be an underestimate of [Achmiz's] effect on the culture")](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=Jmo9yeEkYpQMDSDrd).
 
-At this point, the natural assumption to readers who missed the title of Habryka's post is that Achmiz is being honors as the recipient of some kind of award. (Because, well, why else would Habyrka be writing a post describing what's good about the website's culture, and then naming Achmiz as a cornersone of that culture? What else would the post be announcing?)
+At this point, readers who missed the title of Habryka's post might be under the impression that Achmiz is being honored with some kind of award. (Why else would Habyrka be writing a post describing what's good about the website's culture, and then naming Achmiz as a cornerstone of that culture? What else would the post be announcing?)
 
-[...]
+Upon realizing that the post is announcing a _ban_ of Achmiz, the reader is at a loss at how to react. It makes me wonder what it's like to be a forensic psychologist. I can only imagine that many cases are routine: the armed robbery of a convenience store, the suicide of a sick and lonely debtor, the crime of passion against an unfaithful spouse. While reprehensible, these offenses are fundamentally explicable. While condemning them, we can grant the perpetrators the dignity of a form of rationality. The robber wanted quick cash, the suicide longed for an end to his pain, the jealous husband raged against betrayal—and they acted accordingly. Such tragedies will probably always be with us at some frequency as long as humans remain what they are.
 
-What it is like to be a forensic psychologist?
+Our psychologist faces a more challenging puzzle in the case of Oliver Habryka. What form of criminal insanity could possibly explain such a total inversion of stated values—to laud a website as "a unique place on the internet where bad ideas do get torn apart in ways that are rare and valuable", and then, in the same breath, ban the very contributor that he himself identified as having done more than almost anyone else to shape that culture of excellence?
 
-I can only imagine that many cases are routine: the suicide of a sick and lonely debtor, the crime of passion against an unfaithful spouse, the slaying of a rival gang member. While reprehensible, these crimes are fundamentally explicable. While condemning them, we can grant the perpetrators the dignity of a form of rationality. The suicide longed for an end to his pain, the jealous husband raged against betrayal, the gang member dreamed of triumph and glory—and they acted accordingly. Such tragedies will probably always be with us at some frequency as long as humans remain what they are.
+The fact that Habyrka has written a 9000-word post explaining his reasoning would seem to provide the psychologist with a wealth of evidence—only for the mystery to deepen when, on a careful reading the post, one finds that it doesn't stand up to the barest scrutiny. It's hard to even know where to begin: untangling the strands of Habyrka's illogic and dishonesty is itself an intimidating task, one that would rightly demand the talents of a discriminating critic of the highest order, someone like ...
 
+Well, I guess that's my job now.
 
-
-
-
-
-
-[TODO: fire-and-brimstone condemnation of the total inversion of values
-talk about the three-scenarios of examples vs. DirectedEvolution
-A LessWrong that takes DirectedEvolution's side here calls for bullshit and ass-covering, fraud
-
-https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/GjtZY7pg9LRB2mwMi
-> There are selection effects on who stays in the community under these conditions.
-Indeed. For example, if a community selects for phonies who want people to lie to them in order to protect their feelings, and selects against people who want to have real, honest conversations, then you end up with a community full of phonies. 
-]
 
 ## If "Every Individual Owns Their Own Judgment of You", Then the Ban Rationale Makes No Sense
 
@@ -97,7 +85,7 @@ He identifies Achmiz as the "bearer of a flag" which is worth quoting in full (b
 >
 > You can shape it by doing good or bad things, but you do not get to shape it by preventing me and others from openly discussing you and your contributions."
 
-Well spoken! Habryka writes that he "really care[s] about this flag too" and that "much of the decisions [he has] made around LessWrong have been to foster a culture that understands and rallies behind this flag." He expresses hope that his acknowledgement of the risks of sycophancy will give supporters of the culture of excellence "a bit more trust that [he is] tracking some things they care about."
+Well spoken! Habryka reports that he "really care[s] about this flag too" and that "much of the decisions [he has] made around LessWrong have been to foster a culture that understands and rallies behind this flag." He expresses hope that his acknowledgement of the risks of sycophancy will give supporters of the culture of excellence "a bit more trust that [he is] tracking some things they care about."
 
 And it would give a bit more trust _if Habyrka were telling the truth_. But the remainder of the post persistently construes criticism as "punishments" or as claims to have "violated some social norm", and ultimately announces a ban of Achmiz on the grounds that the judgements Achmiz expresses have deleterious social effects (bringing the site closer to what Habyrka calls the Sneer Attractor). The entire point of the post is to announce that the moderators are "preventing [Achmiz] from openly discussing [_Less Wrong_ authors] and [their] contributions"!
 
@@ -110,10 +98,28 @@ Ben Pace writes about
 > any commenter being able to demand answers to questions at the risk of the post-author’s status
 
 ]
-
 [TODO: lip service in insufficient; look at actions; his warning to me about "scorn" means it's not just Said]
 
+
+
 ## Misrepresentations in Habyrka's Analysis of Achmiz's Comments
+
+Habryka helpfully presents "a breakdown of the core dynamics that make comment threads with Said rarely worth it" with examples, which would be clarifying if the examples demonstrated what Habyrka claims they do, except they don't.
+
+As an example of a comment that "read[s] like an implicit claim that you have violated some social norm [...] for which you deserve to be punished (though this will not be said explicitly), or if not that, make you look negligent by not answering an innocuous open-seeming question", Habyrka presents [a comment by Achmiz on Benjamin Hoffman's "Zetetic Explanation"](https://www.lesswrong.com/posts/i2Dnu9n7T3ZCcQPxm/zetetic-explanation?commentId=NzCRof9btBFkc6PhS), in which Achmiz juxtaposes quotes of Hoffman mentioning "the ordinary means by which they navigate their lives" and "the sorts of skills used in time-travel or Robinson Crusoe stories" as things that ideal pedagogy should connect to, with the comment, "Hm."
+
+It's expressed rather elliptically, but this is just an ordinary criticism of the post: Achmiz thinks Hoffman is in error to present portrayals of skill in fantasy fiction as representative of good holistic pedagogy of real-world skills. (And for the benefit of readers lacking the reading comprehension to understand the original comment, Achmiz [explained what he meant](https://www.greaterwrong.com/posts/i2Dnu9n7T3ZCcQPxm/zetetic-explanation/comment/s6JBxwJu3hePu8ydB) in followup discussion.) Whether you agree or disagree, this is clearly an on-topic, intellectually substantive comment. The only way I can read it as "an implicit claim that [Hoffman] violated some social norm" "for which he deserves to be punished" is if there's a social norm against making posts that can be criticized and that criticism is a punishment, but that would be absurd and contrary to the nature of a discussion forum. Arguing is not a punishment!
+
+Habyrka [cites another response from Achmiz to Hoffman](https://www.greaterwrong.com/posts/i2Dnu9n7T3ZCcQPxm/zetetic-explanation/comment/9NReWbLRe5Xv4SKid) as an instance of Achmiz "dismiss[ing] your response as being totally insufficient, confused, or proving the very point he was trying to make". This is a fair description—but Habryka doesn't address whether the dismissal is justified! Is it not conceivable that someone might write a response that's insufficient, confused, or proving the very point the critic was trying to make?
+
+In the comment in question, Achmiz is disputing Hoffman's claim that the explanation of yeast in the post was adequate 
+
+
+
+
+
+
+
 
 [TODO—
 The initial "Zetetic Explanation" comment was _not_ vague and high-level put-down! Reading it that way is just poor reading comprehension. It was expresssed elliptically by juxtaposing the "ordinary means" and "Robinson Crusoe" quotes. Is that a good criticism? I don't know; it's a judgement call! But it's clearly in-bounds.
@@ -123,6 +129,10 @@ What?
 
 "called him a coward"
 ]
+
+
+
+
 
 ## You Can Too Ignore Unwanted Comments
 
@@ -147,6 +157,7 @@ Investigation with Scott and Falkovich
 Lies in the comment section about how central complaints were to the post
 ]
 
+
 ## Achipelago, Tyranny, and a Single Locus of Discussion
 
 [TODO:
@@ -159,6 +170,8 @@ In the lead-up discussion, Habyrka denied there being a list of banned ideas
 exactly—LW is a place where people suck up to Habyrka's friends
 
 the mod's shameless bullying of sunwillrise, who was one of the best new commenters, and who I had originally noticed in the context of him taking the other side of this (although he changed his mind)
+
+So much of my life is inexctricably bound up in the "rationalist" memeplex; I can't escape, because the words themselves point to this locus of discourse in the physical world and can't be detached; 
 
 ]
 
