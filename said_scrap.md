@@ -1,4 +1,22 @@
 
+
+[...]
+
+What it is like to be a forensic psychologist?
+
+I can only imagine that many cases are routine: the suicide of a sick and lonely debtor, the crime of passion against an unfaithful spouse, the slaying of a rival gang member. While reprehensible, these crimes are fundamentally explicable. While condemning them, we can grant the perpetrators the dignity of a form of rationality. The suicide longed for an end to his pain, the jealous husband raged against betrayal, the gang member dreamed of triumph and glory—and they acted accordingly. Such tragedies will probably always be with us at some frequency as long as humans remain what they are.
+
+
+[TODO: fire-and-brimstone condemnation of the total inversion of values
+talk about the three-scenarios of examples vs. DirectedEvolution
+A LessWrong that takes DirectedEvolution's side here calls for bullshit and ass-covering, fraud
+
+https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/GjtZY7pg9LRB2mwMi
+> There are selection effects on who stays in the community under these conditions.
+Indeed. For example, if a community selects for phonies who want people to lie to them in order to protect their feelings, and selects against people who want to have real, honest conversations, then you end up with a community full of phonies. 
+]
+
+
 ----
 
 ^^^ Maybe this is still usable? 
@@ -140,3 +158,9 @@ https://x.com/ohabryka/status/1996776783669313887
 
 > The thing that banning does is make it so the author doesn’t look like he is ignoring critics (which he hasn’t by the time he has consciously decided to ban a critic).
 https://www.greaterwrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines/comment/Jhgq6XLF7h7N6DB7K
+
+
+https://www.greaterwrong.com/posts/7MTcbcfjcxgBGPviP/ivan-vendrov-s-shortform/comment/DKiRK8quQLEGCw8Xy
+> Can anyone show me the cake of this please?
+
+What kind of weird dominance move is this?!

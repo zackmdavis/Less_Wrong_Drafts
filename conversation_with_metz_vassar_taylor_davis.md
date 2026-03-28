@@ -632,7 +632,7 @@ _[laughter]_
 
 **ZMD**: Okay, the specific aspect of the people in the group debating what the group's canonical text means, that part is religion-like. I agree with that.
 
-**JT**: I think it does contain mystical things, right? He is inspired by various Eastern stuff, and he talks about the way of the Void, the virtue of the Void. I think if someone were just trying to write a math textbook or a science textbook, they would probably write something different. I think the thing he writes is somewhat more personal. He's trying to explain his perspective on a lot of things, not just a single topic. Unlike in this book. _[again, If Anyone Builds It, Everyone Dies]_ This book is more like a textbook.
+**JT**: I think it does contain mystical things, right? He is inspired by various Eastern stuff, and he talks about the way of the Void, the virtue of the Void. I think if someone were just trying to write a math textbook or a science textbook, they would probably write something different. I think the thing he writes is somewhat more personal. He's trying to explain his perspective on a lot of things, not just a single topic. Unlike in this book [ _If Anyone Builds It, Everyone Dies_]. This book is more like a textbook.
 
 **ZMD**: It's not really a textbook.
 
@@ -688,7 +688,7 @@ _[laughter]_
 
 **ZMD**: I hope not.
 
-**JT**: So I think there is a part of both AI 2027 and this book _[If Anyone Builds It, Everyone Dies]_ that does seem calculated. So if you go through AI 2027, at the end of it there's two buttons you can press. One is slow down and one is accelerate. And if you press accelerate, predictably the scenario is AI _[inaudible]_ and everyone's dead. If you press slowdown, it's like, we only had to delay AI by a few years, and also we all survived, yay, yay. 
+**JT**: So I think there is a part of both AI 2027 and this book [_If Anyone Builds It, Everyone Dies_] that does seem calculated. So if you go through AI 2027, at the end of it there's two buttons you can press. One is slow down and one is accelerate. And if you press accelerate, predictably the scenario is AI _[inaudible]_ and everyone's dead. If you press slowdown, it's like, we only had to delay AI by a few years, and also we all survived, yay, yay.
 
 **ZMD**: That's kind of obvious propaganda.
 
@@ -887,27 +887,3 @@ The thing I just said is easy for an AI to understand. It's also easy for a huma
 **ZMD**: I mean, I'm not optimistic, but I don't think I'll regret my faith in Speech. I don't think it's going to be a good book, but it's not my fault.
 
 **CM**: There you go.
-
-### 28 November 2025
-
-[TODO— drafting a closing-statement email in this file, but it's not part of the record until I send it]
-
-Subj: the importance of doing better than not-lying
-
-Dear Cade:
-
-In our conversation with Michael and Jessica of 2 October, you seemed amused by Michael's suggestion that your non-objective perspective might kill him, but it really shouldn't be funny. (Or if it was funny, it was black humor.)
-
-It may seem counterintuitive at first, but we can quite concretely describe a plausible relationship between the kind of institutional corruption Michael was explaining, and people dying. The kind of objectivity Michael is appealing to has been metaphorically likened to "a map that reflects the territory." If you're trying to cross a dangerous jungle or desert, and your map says that there's a safe oasis where in reality there is none, you could die.
-
-In the same way, in order to make good decisions about the economy, or war, or emerging technologies, Society needs accurate beliefs, a map that reflects the territory. If Society's economic decisionmakers think (in their "map") that their macroeconomic theories will bring prosperity, but the theories are wrong in reality (the "territory"), then people lose their jobs and homes. If Society's military decisionmakers think (in their "map") that bringing democracy to Iraq will take three weeks, and it turns out to not be that simple in the "territory", then soldiers die. And if Society's tech moguls and politicians think that AI can't be dangerous and that turns out not to be the case, well ...
-
-Even now, more than any single other institution, Society's beliefs are determined by _The New York Times_.
-
-[TODO: turn back on the truth; turning back on truth-telling]
-
-[TODO: a higher standard, Kelsey Piper, it starts with "Sorry"]
-
-[TODO: Vassar's point about rational response to oppression, the brick and the AI that you don't see]
-
-[TODO: normies are worse]

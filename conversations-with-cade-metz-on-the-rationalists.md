@@ -2,7 +2,7 @@
 
 ([Previously](https://www.lesswrong.com/posts/oYnwTuxySiaZYDrur/my-interview-with-cade-metz-on-his-reporting-about-slate), [previously](https://www.lesswrong.com/posts/JkrkzXQiPwFNYXqZr/my-interview-with-cade-metz-on-his-reporting-about).)
 
-_New York Times_ reporter Cade Metz has been writing a book about the people who believed in AGI before it was cool. That's a subject that I think I know some things about, so we've been having on-the-record conversations occasionally, which I'd like to publish here (for transparency's sake, not because a 30,000-word transcript dump is necessarily that interesting).
+_New York Times_ reporter Cade Metz has been writing a book about the people who believed in AGI before it was cool. That's a subject that I think I know some things about, so we've been having on-the-record conversations occasionally, which I'd like to publish here (for transparency's sake, not because a 30,000+-word transcript dump is necessarily that interesting).
 
 The transcripts below have been edited for clarity, and relevant hyperlinks have been inserted. (Hyperlinks in emails are in the original.) There are a few redactions indicated by "[...]" where either we went off the record or I wanted to cut something from this publication.
 
@@ -1529,7 +1529,7 @@ End quote.
 
 **CM**: Exactly.
 
-**ZMD**: There was a _Wired_ piece that had that really funny part where Daniella Amodei said like, I don't know very much about EA, I think it's kind of an outdated term, and then the reporter points out that she's married to Holden Karnofsky. That kind of thing is kind of funny.
+**ZMD**: There was [a _Wired_ piece that had that really funny part](http://archive.today/2025.04.05-151622/https://www.wired.com/story/anthropic-benevolent-artificial-intelligence/#selection-1905.79-1905.687) where Daniella Amodei said like, I don't know very much about EA, I think it's kind of an outdated term, and then the reporter points out that she's married to Holden Karnofsky. That kind of thing is kind of funny.
 
 **CM**: It's not only funny, it's really interesting. A thing I think about a lot is that that kind of thing has been part of the community for years, right, where people wouldn't say they were EA, they would say they were EA-adjacent. Did you experience that? I mean, that's something that a lot of people—
 
