@@ -5,6 +5,14 @@ attack Ruby's praise of Ray— https://www.lesswrong.com/posts/thc4RemfLcM5AdJDa
 
 ----
 
+[unrelated Habyrka comment: https://www.greaterwrong.com/posts/wSFmLhHxAuG4vLJoH/ai-character-is-a-big-deal/comment/QNFJWWChnsdNBuhEM ]
+
+Not just the UX, but, relatedly, the usefulness. [What, specifically, are you planning to do](https://www.lesswrong.com/posts/d4YGxMpzmvxknHfbe/conversation-with-eliezer-what-do-you-want-the-system-to-do) with a powerful AI system that's bad at modeling humans, that will make the existential risk situation better rather than worse? Is the idea to make a super-science AI that can create whole brain emulations (which can be trusted with the Future) without itself knowing very much about humans (such that it can't trick us even though it wants to)?
+
+
+
+----
+
 [reply to Vaniver: https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=j57cuznkZBXqSn7sr]
 
 > I think we should keep as a live hypothesis "this person finds Said's comments annoying because they are directing attention at the hole in their argument." As someone who likes finding the hole in their argument and then developing the argument further, this never annoyed me. But this isn't the only hypothesis and I think often Said or Zack acted as tho it was.
