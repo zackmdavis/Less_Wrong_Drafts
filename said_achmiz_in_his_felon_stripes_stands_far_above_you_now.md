@@ -6,6 +6,7 @@
 >
 > —[Voltairine de Cleyre (paraphrased)](https://theanarchistlibrary.org/library/voltairine-de-cleyre-sex-slavery)
 
+
 ## "If I Can't Explain It to Said Achmiz, I Probably Don't Understand It"
 
 This is a tribute to my friend Said Achmiz, the wisest person I know.
@@ -27,6 +28,7 @@ The revised passage is less engaging writing than the original. (It was a really
 I've been blessed with many friends and collaborators in this life, each with their own unique skillset. Some of them are prolifically generative, gushing with a dozen theories and metaphors and frames at the slightest prompt. Some of them know extremely advanced mathematics and can prove in minutes what would take me hours just to understand the theorem statement. Some of them are kind and empathetic, ready to lend a sympathetic ear to anyone when the world's cruelties seem too much to bear.
 
 Said is none of these things. But when what I need is a critic's discrimination—when I'm worried that I might be fooling myself through lack of rigor—I can't think of anyone I'd rather have by my side. If I can't explain it to Said Achmiz, I probably don't understand it.
+
 
 ## An Inversion of Values
 
@@ -73,13 +75,7 @@ Well, I guess that's my job now.
 
 ## If "Every Individual Owns Their Own Judgment of You", Then the Ban Rationale Makes No Sense
 
-Habyrka goes on to articulate two alleged failure modes of online communities. 
-
-[TODO: summarize Sneer and LinkedIn Attractors]
-
-Habryka goes on to say that many users see Achmiz as serving a vital function of preventing _Less Wrong_ from falling into the LinkedIn Attractor.
-
-He identifies Achmiz as the "bearer of a flag" which is worth quoting in full (bold in original):
+Habyrka goes on to articulate two alleged failure modes of online communities. In the sneer attractor, people tear others down with nonspecific criticism; in the LinkedIn attractor, people build each other up with nonspecific praise. Habryka goes on to say that many users see Achmiz as serving a vital function of preventing _Less Wrong_ from falling into the LinkedIn Attractor. He identifies Achmiz as the "bearer of a flag" which is worth quoting in full (bold in original):
 
 > "Just because you are hurt by, and anxious about others criticizing you or your ideas, doesn't mean we are going to accommodate you. It is the responsibility of your audience to determine what they think of you and your contributions.
 >
@@ -89,24 +85,16 @@ He identifies Achmiz as the "bearer of a flag" which is worth quoting in full (b
 
 Well spoken! Habryka reports that he "really care[s] about this flag too" and that "much of the decisions [he has] made around LessWrong have been to foster a culture that understands and rallies behind this flag." He expresses hope that his acknowledgement of the risks of sycophancy will give supporters of the culture of excellence "a bit more trust that [he is] tracking some things they care about."
 
-And it would give a bit more trust _if Habyrka were telling the truth_. But the remainder of the post persistently construes criticism as "punishments" or as claims to have "violated some social norm", and ultimately announces a ban of Achmiz on the grounds that the judgements Achmiz expresses have deleterious social effects (bringing the site closer to what Habyrka calls the Sneer Attractor). The entire point of the post is to announce that the moderators are "preventing [Achmiz] from openly discussing [_Less Wrong_ authors] and [their] contributions"!
+And it would give a bit more trust _if Habyrka were telling the truth_. But the remainder of the post persistently construes criticism as "punishments" or as claims to have "violated some social norm", and ultimately announces a ban of Achmiz on the grounds that the judgements Achmiz expresses have deleterious social effects (bringing the site closer to the alleged Sneer attractor). That is, the entire point of the post is to announce that the moderators are preventing Achmiz from openly discussing _Less Wrong_ authors and their contributions!
 
-One can only infer that Habryka is lying or self-deluding when he claims to care about a "Every individual owns their own judgment of you" principle. One almost has to wonder if the text of the "flag" was ghostwritten; Habyrka shows no sign of even understanding the concept anywhere else in the post.
+One can only infer that Habryka is lying or self-deluding when he claims to care about a "Every individual owns their own judgment of you" principle. One almost has to wonder if the text of the "flag" was ghostwritten; Habyrka shows no sign of even understanding the concept elsewhere in the post. After a discussion of Achmiz's alleged commenting patterns (which I thoroughly critique in the next section), Habyrka speculates that users will "ultimately give up feeling dejected and like a lot of people on LessWrong hate you". Setting aside the obvious irrationality of this inference—there's no good reason to think that one user's persistent questioning of your ideas implies that "a lot" of people "hate" you—well, so what?
 
-[TODO: examples throughout the post
-> If your comments have a consistent subtext of denigrating authors who invoke reasoning by analogy [...] if they reflect a genuine underlying policy of not trying to shift the norms of the site towards your preferred epistemological style
-
-Ben Pace writes about 
-> any commenter being able to demand answers to questions at the risk of the post-author’s status
-
-]
-[TODO: lip service in insufficient; look at actions; his warning to me about "scorn" means it's not just Said]
-
+I mean it. So what? Habryka just told us 900 words earlier that just because you're anxious about others criticizing your ideas doesn't mean the website is going to accomodate you! Does he expect us not to remember? How dumb does he think we are?
 
 
 ## Misrepresentations in Habyrka's Analysis of Achmiz's Comments
 
-Habryka helpfully presents "a breakdown of the core dynamics that make comment threads with Said rarely worth it" with examples, which would be clarifying if the examples demonstrated what Habyrka claims they do, except they don't.
+Habryka presents "a breakdown of the core dynamics that make comment threads with Said rarely worth it" with examples, which would be clarifying if the examples demonstrated what Habyrka claims they do.
 
 As an example of a comment that "read[s] like an implicit claim that you have violated some social norm [...] for which you deserve to be punished (though this will not be said explicitly), or if not that, make you look negligent by not answering an innocuous open-seeming question", Habyrka presents [a comment by Achmiz on Benjamin Hoffman's "Zetetic Explanation"](https://www.lesswrong.com/posts/i2Dnu9n7T3ZCcQPxm/zetetic-explanation?commentId=NzCRof9btBFkc6PhS), in which Achmiz juxtaposes quotes of Hoffman mentioning "the ordinary means by which they navigate their lives" and "the sorts of skills used in time-travel or Robinson Crusoe stories" as things that ideal pedagogy should connect to, with the comment, "Hm."
 
@@ -114,23 +102,15 @@ It's expressed rather elliptically, but this is just an ordinary criticism of th
 
 Habyrka [cites another response from Achmiz to Hoffman](https://www.greaterwrong.com/posts/i2Dnu9n7T3ZCcQPxm/zetetic-explanation/comment/9NReWbLRe5Xv4SKid) as an instance of Achmiz "dismiss[ing] your response as being totally insufficient, confused, or proving the very point he was trying to make". This, at least, is a fair description—but Habryka doesn't address whether the dismissal is justified! Is it not conceivable that someone might write a response that's insufficient, confused, or proving the very point the critic was trying to make?
 
-In the comment in question, Achmiz is disputing Hoffman's claim that the explanation of yeast in the post was adequate for being competent "competent to interact with the thing, and with its precursors, or at least have an idea of how you’d learn to do so." When [Hoffman claimed the post empowers the reader to make hard cider from apples](https://www.lesswrong.com/posts/i2Dnu9n7T3ZCcQPxm/zetetic-explanation?commentId=k67htq5c4fQAC9C54), Achmiz [disputed this by pointing to cider-making instructions that claim that naïve methods produce poor results, and arguing that Hoffman's methodology of "Zetetic explanation" is therefore inadequate](https://www.lesswrong.com/posts/i2Dnu9n7T3ZCcQPxm/zetetic-explanation?commentId=qw6DzYx57484YiAtr)—which Haybrka cites as Achmiz "continu[ing] to make insinuations that your failure to respond properly validates whatever judgment he is invoking", _again without addressing the merits of Achmiz's claim_.
+In the comment in question, Achmiz is disputing Hoffman's claim that the explanation of yeast in the post was adequate for being competent "competent to interact with the thing, and with its precursors, or at least have an idea of how you’d learn to do so." When [Hoffman claimed the post empowers the reader to make hard cider from apples](https://www.lesswrong.com/posts/i2Dnu9n7T3ZCcQPxm/zetetic-explanation?commentId=k67htq5c4fQAC9C54), Achmiz [disputed this by pointing to cider-making instructions that claim that naïve methods produce poor results, and arguing that Hoffman's methodology of "Zetetic explanation" is therefore inadequate](https://www.lesswrong.com/posts/i2Dnu9n7T3ZCcQPxm/zetetic-explanation?commentId=qw6DzYx57484YiAtr)—which Haybrka cites as Achmiz "continu[ing] to make insinuations that your failure to respond properly validates whatever judgment he is invoking", _again without addressing the merits of Achmiz's claim_. 
 
 But the merits matter! If someone believes that Achmiz is applying the wrong standard when he expects that an explanation of yeast adequate to make one competent at interacting with it should allow one to make good bread or cider, that could at least be argued.
 
-But it doesn't seem like Habyrka wants people having _arguments_ on his website. Habryka concludes his summary of the dynamics that allegedly make interacting with Achmiz not worth it by noting that when other commenters ask by what standard Achmiz is invoking a negative judgement, Achmiz is explains that he's talking on the object-level and not trying to implicitly assign someone low status. Habyrka apparently doesn't buy it, writing that "[a]fter all of this you are left questioning your own sanity".
+But Habryka evinces no interest in arguing it. He concludes his summary of commenting dynamics by noting that when other commenters ask by what standard Achmiz is invoking a negative judgement, Achmiz explains that he's talking on the object-level and not trying to implicitly assign someone low status.
 
-But if you can't tolerate someone challenging your claims and not immediately backing down when they don't find your replies adequate, then maybe you _should_ be questioning your sanity.
+It's hard to see what the alleged problem is supposed to be here! One can only infer that Achmiz's supposed crime is ... disagreeing with an author in a multi-comment exchange, and not being convinced by their replies? But on a discussion forum that attempts to grapple with difficult topics at the frontiers of human knowledge, this should be routine. People aren't always going to agree. ([Bayesian reasoners would never disagree to disagree](https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem), but humans are far from the theoretical ideal.) Part of disagreeing is not finding the other's replies adequate. (If you did find them adequate, that would presumably resolve the disagreement.) Not finding the other's replies inadequate is, in some sense, a negative judgement, but of a kind that's implied by any substantive disagreement.
 
-
-[TODO—
-The initial "Zetetic Explanation" comment was _not_ vague and high-level put-down! Reading it that way is just poor reading comprehension. It was expresssed elliptically by juxtaposing the "ordinary means" and "Robinson Crusoe" quotes. Is that a good criticism? I don't know; it's a judgement call! But it's clearly in-bounds.
-
-> Said (as far as I can tell) refuses to do much cognitive labor in the rest of the thread
-What?
-
-"called him a coward"
-]
+Punishing Achmiz for this makes no sense. For the sake of the website, one can only hope that Habyrka doesn't really mean it, and is just arbitrarily singling out Achmiz for persecution on the basis of personal feelings; if applied consistently, it would amount to wholesale endorsement of the LinkedIn attractor.
 
 
 ## You Can Too Ignore Unwanted Comments
@@ -147,6 +127,7 @@ What's being expressed in the 2020 thread is a view that such questions _are_ in
 You could just do nothing: https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/rwvEgbDKrcojyLTef
 ]
 
+
 ## Misrepresentations in Habyrka's Reports of Alleged Author Complaints About Achmiz
 
 [TODO
@@ -157,7 +138,7 @@ Lies in the comment section about how central complaints were to the post
 ]
 
 
-## Achipelago, Tyranny, and a Single Locus of Discussion
+## The Ban Is a Betrayal of LW2's "Single Locus of Discussion" Mandate
 
 [TODO:
 Betrayal of the mandate—the premise of LW2 was to reverse the diaspora and create a single locus of disucssion; "It's fine to be a dictator because you can leave" contradicts "the importance of a single central node"
@@ -186,6 +167,8 @@ This is an exact match to what we see in Habyrka's behavior: an obsession with w
 
 
 ## Effort Ratios Are Logically Irrelevant
+
+Habyrka 
 
 [TODO: some kinds of criticism having easier jobs than thesis-proposers is a fact about reality!
 
@@ -242,6 +225,12 @@ I can't speak for Achmniz (and Achmiz is no longer permitted to speak for himsel
 
 https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/BJ2j8sQThHzDYNFo9
 > holding extreme disdain and disrespect for interlocutors while being committed to never saying anything explicitly or even denying that it is the case
+
+[TODO: examples throughout the post
+Ben Pace writes about 
+> any commenter being able to demand answers to questions at the risk of the post-author’s status
+]
+
 
 Gordon Worley is actually a coward
 
