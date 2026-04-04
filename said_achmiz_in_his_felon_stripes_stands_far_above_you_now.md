@@ -85,7 +85,7 @@ Habryka goes on to articulate two alleged failure modes of online communities. I
 
 Well spoken! Habryka reports that he "really care[s] about this flag too" and that "much of the decisions [he has] made around LessWrong have been to foster a culture that understands and rallies behind this flag." He expresses hope that his acknowledgement of the risks of sycophancy will give supporters of the culture of excellence "a bit more trust that [he is] tracking some things they care about."
 
-And it would give a bit more trust _if Habryka were telling the truth_. But the remainder of the post persistently construes criticism as "punishments" or as claims to have "violated some social norm", and ultimately announces a ban of Achmiz on the grounds that the judgements Achmiz expresses have deleterious social effects (bringing the site closer to the alleged sneer attractor). That is, the entire point of the post is to announce that the moderators are preventing Achmiz from openly discussing _Less Wrong_ authors and their contributions!
+And it would give a bit more trust _if Habryka were telling the truth_. But the remainder of the post persistently construes criticism as "punishments" or as claims to have "violated some social norm", and ultimately announces a ban of Achmiz on the grounds that the judgements Achmiz expresses have deleterious social effects (bringing the site closer to the alleged sneer attractor). The entire point of the post is to announce that the moderators are preventing Achmiz from openly discussing _Less Wrong_ authors and their contributions!
 
 One can only infer that Habryka is lying or self-deluding when he claims to care about a "Every individual owns their own judgment of you" principle. One almost has to wonder if the text of the "flag" was ghostwritten; Habryka shows little sign of even understanding the concept elsewhere in the post. After a discussion of Achmiz's alleged commenting patterns (which I thoroughly rebut in the next section), Habryka speculates that users will "ultimately give up feeling dejected and like a lot of people on LessWrong hate you." Setting aside the obvious irrationality of this inference—there's no good reason to think that one user's persistent questioning of your ideas implies that "a lot" of people "hate" you—well, so what?
 
@@ -127,6 +127,9 @@ There was also a comment where Achmiz explicitly clarified that people shouldn't
 The implications of not replying happen in the heads of readers doing Bayesian reasoning
 What's being expressed in the 2020 thread is a view that such questions _are_ in fact productive; Achmiz agrees with the conditional that _if_ it's not productive, then it's fine not to engage
 You could just do nothing: https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/rwvEgbDKrcojyLTef
+
+Address Habryka's "your theory implies that bad comments can't make the site worse"
+
 ]
 
 
@@ -185,34 +188,27 @@ Moreover, people are pretty smart about status games and can figure this out. Pr
 And given that the market clears, there's no good reason to censor probing questions: whether the questions get answered or not, discerning users will make up their own minds and vote accordingly. The only reason you would want to censor probing questions is to prevent people from noticing flaws in need of probing.
 
 
-## Replies to Vaniver
+## Replies to Vaniver on the Ideological Turing Test and "Emotional Tallness"
 
 Lightcone Infrastructure board member and _Less Wrong_ BDFL Vaniver [commented on the ban announcement](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=j57cuznkZBXqSn7sr).
 
-----
+Vaniver characterizes the dispute over Achmiz as a cultural clash between the values of an older culture of _Less Wrong_ (as represented by Achmiz and the present author) and a newer one (as represented by the mod team). Vaniver concedes that by the standards of the old culture, "pointing out that something is impeding the flow of information is almost enough to end the conversation on its own." He makes an analogy to the development of evidential, causal, and functional decision theories (henceforth EDT, CDT, and FDT, respectively): CDT improves on EDT by excluding non-causal decision influences that evidential decision theory would consider legitimate, while FDT further improves on CDT by ruling in some kinds of non-causal influences as legitimate after all.
 
-[TODO—
+Vaniver then claims that the new culture is the more sophisticated one (presumably analogous to FDT), but the justification he offers is fundamentally lacking if not absent. Vaniver writes:
 
-the choice of metaphor in "emotional tallness" being something immutable is telling; someone who thought it was a good thing would use the usual metaphor, strength
+> I operationalize this by something like [Ideological Turing Test]-passing; I think it's generally the case that I can see the thing Said or Zack is pointing out, and in the reverse direction I mostly get the sense that they rarely see the criticism, and if they do, it's only as something that seems fundamentally illegitimate to them.
 
-> I think I used to view this as “a rationalist virtue I possess” and now I view it more as “an incidental fact about me”—like, my IQ is also relevant to my rationality but it’s not really a “rationalist virtue” instead of the amount of horsepower that I’m working with.
-man, I think I just want to bite the bullet on IQ being a "rationalist virtue". What matters is not some cosmic sense moral "desert", but that qualities are needed in an engine of cognition to do the job. If an 80 IQ person can't do the things we need rationalists to do in this world, oh, well—same deal with emotionally short people. You don't want to change the rules of the discussion to _cater to the needs of low IQ people_
+But that's not what the [Ideological Turing Test](https://www.econlib.org/archives/2011/06/the_ideological.html) (henceforth ITT) is for. You can't declare victory in a debate by citing your purportedly superior ITT results: a professor of comparative religion who thinks that all faith traditions are true in their own way would probably do better on an ITT for Islam than most atheists, but this does not imply that atheism is false!
 
-> I’m still not sure what Zack or Said think of the Royal Society example
-TODO—I need to read Vaniver's Royal Society post to understand what he's talking about
+If Vaniver could actually pass old _Less Wrong_'s ITT test and is not just [pretending to be wise](https://www.lesswrong.com/posts/jeyvzALDbjdjjv5RW/pretending-to-be-wise), he would understand why his purported ability to paraphrase both sides' arguments is not itself an argument, because [your strength as a rationalist](https://www.lesswrong.com/posts/5JDkW4MYXit2CquLs/your-strength-as-a-rationalist) lies in your ability to argue for a belief tracking whether that belief is actually true. As Eliezer Yudkowsky [wrote in 2008](https://www.lesswrong.com/posts/PxN5iwS2CTCYi4oAP/against-devil-s-advocacy) (before the term "Ideological Turing Test" was coined): "I cannot argue effectively for that, because I do not believe it. Or if you prefer, I do not believe it, because I cannot argue effectively for it."
 
->  I think in that framing, pointing out that something is impeding the flow of information is almost enough to end the conversation on its own. I think Said and Zack were pretty easily able to point to “and this is how your proposal blocks some information flow that is good.”
-Indeed, and what's the reply?
+Vaniver cites my ["Critic Contributions are Logically Irrelevant"](https://www.lesswrong.com/posts/bsKHthyhB7DNBxERQ/critic-contributions-are-logically-irrelevant) as "particularly crisp" example of the old _Less Wrong_ ethos conflicting with the new. (As many readers inferred at the time, that post was written as a generalized reply to [claims that Achmiz's alleged lack of positive contributions justifies censoring his criticisms](https://www.lesswrong.com/posts/JcgtKunqmELefxksx/killing-socrates).) "[P]eople often raise objections about commenters that don't make sense as logical criticisms. But if they aren't _intended_ as logical criticisms, that seems irrelevant to me," Vaniver writes, with a suggestion to reread Yudkowsky's 2007 post ["Feeling Rational"](https://www.lesswrong.com/posts/SqF8cHjJv43mvJJzx/feeling-rational).
 
-> I do believe that our view is more sophisticated, and I operationalize this by something like ITT-passing
-As I've written about, The ITT is not appropriate for this use-case!! I can't pass an ITT on Islam or ESP
+I have to question whether Vaniver read past the title of "Critic Contributions Are Logically Irrelevant".
 
-> people often raise objections about commenters that don’t make sense as logical criticisms. But if they aren’t intended as logical criticisms, that seems irrelevant to me. (Perhaps it is worth rereading Feeling Rational.)
-I agree with "Feeling Rational"; for me, it emerges as righteous outrage at these frauds who are trying to silence information to protect people's feelings
+[TODO: I clearly address the third section: that if you're trying to play a game where you care about something other than correctness, then positive contributions can be relevant, but, well, that's telling on yourself. As for "Feeling Rational", that's just saying that emotions are OK and should follow from the facts. That's not in any way an argument for censorship to protect people's feelings?! I agree that emotions are OK, and that's how I justify my being this murderously angry (to write this post) at supposed "rationalists" who are choosing censorship to protect people's feelings!]
 
-> I will finish with this comment from 12 years ago, in which I criticize Eliezer’s moderation practices. I was missing the concept of emotional tallness, then [...] I can see the younger me levelling a similar criticism at the mod team now.
-Yeah, and what's the reply? 
-]
+[TODO: the choice of metaphor in "emotional tallness" is designed to smuggle in an assumption of immutability. IQ may not be a rationalist "virtue", but if someone proposed changing the norms in order to benefit low IQ people, that would not obviously be good. (You actually need to make the case that catering to stupid people is a benefit rather than a cost for the endeavor.) Vaniver says, "I can see the younger me levelling a similar criticism at the mod team now", but that's barely an argument for new-Vaniver being wiser rather than more corrupt, as I've just addressed the concept of "emotional tallness", and "conversation quality being worse because of indirect effects" has only been asserted and not argued; the pro-Said case also appeals to indirect effects]
 
 
 ## We Don't Actually Respect You
