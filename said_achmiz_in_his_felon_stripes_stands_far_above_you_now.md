@@ -117,6 +117,8 @@ Punishing Achmiz for this makes no sense. For the sake of the website, one can o
 
 ## You Can Too Ignore Unwanted Comments
 
+
+
 [TODO—
 The website already supported user-level bans!!! That solves the whole problem
 Unless you want to grant people a Said-free LW experience _without being made to feel guilty_
@@ -128,7 +130,7 @@ The implications of not replying happen in the heads of readers doing Bayesian r
 What's being expressed in the 2020 thread is a view that such questions _are_ in fact productive; Achmiz agrees with the conditional that _if_ it's not productive, then it's fine not to engage
 You could just do nothing: https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/rwvEgbDKrcojyLTef
 
-Address Habryka's "your theory implies that bad comments can't make the site worse"
+find and address Habryka's "your theory implies that bad comments can't make the site worse"
 
 ]
 
@@ -212,12 +214,49 @@ Vaniver cites [Duncan Sabien's concept of "emotional tallness"](https://homosabi
 
 But what counts as a virtue is simply not relevant in the present context. Let us grant without question that no one is morally responsible for their IQ. Regardless, it would clearly be grossly detrimental to the site's mission to ban high-IQ users (or force them write more like low-IQ users) in order to make low-IQ users more comfortable. Or at least, while it's not literally impossible that some sort of special accomodation for low-IQ users might pass a cost–benefit analysis, a detailed case would have to be made for the surprising claim that such an intervention would benefit the site's mission.
 
-I argue that the same goes for "emotional tallness." (It's a trait relevant to rationality; a site dedicated to advancing the art of rationality shouldn't go out of its way to silence people with high values of the trait in order to accomodate people with low values of the trait.) Although it's not clear why Vaniver reached for Sabien's height metaphor instead of using a word like [_fortitude_](https://en.wiktionary.org/wiki/fortitude) or [_resilience_](https://en.wiktionary.org/wiki/resilience)—or if a metaphor for bodily attributes was desired, _strength_ would be the standard one. I argue that the strength metaphor would be more fitting insofar as it comports with the idea that it's possible and desirable to increase one's psychological fortitude. It's possible to [want to become stronger](https://www.lesswrong.com/posts/DoLQN5ryZ9XkZjq5h/tsuyoku-naritai-i-want-to-become-stronger), and succeed at training it—notably unlike height or IQ, which are largely immutable given current technology. One has to wonder whether the choice of height as the metaphor for mental fortitude is [intentional in some sense](https://www.lesswrong.com/posts/sXHQ9R5tahiaXEZhR/algorithmic-intent-a-hansonian-generalized-anti-zombie), meant to protect the self-image of those who don't want to become stronger by making it look like they don't have a choice.
+I argue that the same goes for "emotional tallness." (It's a trait relevant to rationality; a site dedicated to advancing the art of rationality shouldn't go out of its way to silence people with high values of the trait in order to accomodate people with low values of the trait.) Although it's not clear why Vaniver reached for Sabien's height metaphor instead of using a word like [_fortitude_](https://en.wiktionary.org/wiki/fortitude) or [_resilience_](https://en.wiktionary.org/wiki/resilience)—or if a metaphor for bodily attributes was desired, _strength_ would be the standard one. The strength metaphor would be more fitting insofar as it comports with the idea that it's possible and desirable to increase one's psychological fortitude. It's possible to [want to become stronger](https://www.lesswrong.com/posts/DoLQN5ryZ9XkZjq5h/tsuyoku-naritai-i-want-to-become-stronger), and succeed at training it—notably unlike height or IQ, which are largely immutable given current technology. One has to wonder whether the choice of height as the metaphor for mental fortitude is [intentional in some sense](https://www.lesswrong.com/posts/sXHQ9R5tahiaXEZhR/algorithmic-intent-a-hansonian-generalized-anti-zombie), meant to protect the self-image of those who don't want to become stronger by making it look like they don't have a choice.
 
-[TODO:  Vaniver says, "I can see the younger me levelling a similar criticism at the mod team now", but that's barely an argument for new-Vaniver being wiser rather than more corrupt, as I've just addressed the concept of "emotional tallness", and "conversation quality being worse because of indirect effects" has only been asserted and not argued; the pro-Said case also appeals to indirect effects]
+[TODO—write this when I have internet access: Vaniver says, "I can see the younger me levelling a similar criticism at the mod team now", but that's barely an argument for new-Vaniver being wiser rather than more corrupt, as I've just addressed the concept of "emotional tallness", and "conversation quality being worse because of indirect effects" has only been asserted and not argued; the pro-Said case also appeals to indirect effects]
 
 
 ## We Don't Actually Respect You
+
+A recurring theme in the charges against Achmiz is that Achmiz is allegedly being deceptive (or even "gaslighting") by disrespecting other users and then denying that disrespect was intended. _Less Wrong_ moderator Ben Pace, for example, [characterizes Achmiz as](https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/BJ2j8sQThHzDYNFo9) "holding extreme disdain and disrespect for interlocutors while being committed to never saying anything explicitly or even denying that it is the case".
+
+I can't speak for Said (and he is no longer permitted to speak for himself), but if I may be permitted to speculate, I think what's going on here is that Said is _polite_. He's a polite person! He's not going to call you a phony, because personal insults like that are contrary to the etiquette of a civilized discussion forum.
+
+Rather, what he does do, and what provokes the accusations of dishonesty, is ask pointed questions such that some people will (rightly or wrongly) _infer that he's thinking_ that they're a phony. The complaint seems to be that this is worse, because passive-aggression is purportedly worse than overt aggression.
+
+I really have to question this. For myself, I often have negative-valenced judgements of people on this forum. I usually don't articulate them in my comments, partially because that would be rude, but more fundamentally because it would be _off-topic_. This is a website for discussing topics like probability theory, the philosophy of science, the psychology of decisionmaking, or artificial intelligence. "Which users of this website does Zack M. Davis think are phonies" doesn't make the cut; that's not what people are here to read.
+
+Am I somehow wrong about that?
+
+
+
+Pace writes disapprovingly of "any commenter being able to demand answers to questions at the risk of the post-author's status".
+
+Well, _yes!_ How did Pace think status worked, exactly? "Status" is just other people's beliefs about you. People are going to update their beliefs about you based on their observations of your behavior.
+
+If someone asks you a question, and you don't answer, some people might infer 
+
+
+_Your status is always at risk._ 
+
+
+
+
+
+
+
+
+
+
+
+
+> holding extreme disdain and disrespect for interlocutors while being committed to never saying anything explicitly or even denying that it is the case
+
+
+
 
 [TODO: somehow clarify what's going on when Said says he has no feelings about anyone, and Habryka's reply to my "we just mean"
 Censorship doesn't make the underlying reality go away; you can't win our respect by silencing us
@@ -225,16 +264,18 @@ Censorship doesn't make the underlying reality go away; you can't win our respec
 Favoring overt aggression is crazy; you don't want to know what we think of you people
 Usually, opinions about people are off-topic
 
+
+[TODO—
+
 my comment about "cry-bullying" abd "deranged censorship" &c. wasn't a strawman, because I meant what I said literally, and I can point to the actual behavior—I'm not saying they _self-identify_ as censors and cry-bullies; I mean that people who can't handle the "Hm" comment are in fact &c.
 
 I think Habryka is bluffing when he says he'll ban me for this; it would be really obvious to everyone how corrupt that is
+]
 
 Judge, and be prepared to be judged
 
 I can't speak for Achmniz (and Achmiz is no longer permitted to speak for himself), but actually, I do feel disdain and disrespect for the entire mod team and a large fraction of the user base. Am I supposed to announce that in my comments? Why? Why would that be better?
 
-https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/BJ2j8sQThHzDYNFo9
-> holding extreme disdain and disrespect for interlocutors while being committed to never saying anything explicitly or even denying that it is the case
 
 [TODO: examples throughout the post
 Ben Pace writes about 
@@ -255,4 +296,3 @@ I can't imagine saying that—if someone has opinions about my personal behavior
 ]
 
 Kill him!
-
