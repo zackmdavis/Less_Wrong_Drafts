@@ -483,7 +483,7 @@ And like, it's kind of sad that at the beginning, I, and I think a lot of people
 
 **CM**: I was going to break that up. If you're talking to the layperson, someone who is not familiar with what's going on here, how do you explain the Zizians to them? Is there a succinct way to do it? 
 
-**ZMD**: I mean, I don't know. I thought that the other journalists who covered that story—I thought some of the—the _Wired_ piece was very good. The Guardian piece, I spoke to that reporter, was very good.
+**ZMD**: I mean, I don't know. I thought that the other journalists who covered that story—I thought some of the—the _Wired_ piece was very good. The _Guardian_ piece, I spoke to that reporter, was very good.
 
 **CM**: In your words, how would you explain it?
 
@@ -655,7 +655,7 @@ Maybe a good example would be, you know, the COVID pandemic. In the early days o
 
 **CM**: But this is another thing that interests me is that your community used to think that OpenAI was okay, and now, Sam Altman is like the devil.
 
-**ZMD**: So, this is another thing that Michael and Ben were criticizing Eliezer and Nate and MIRI over, was that, when OpenAI was first founded, Yudkowsky already thought it was a bad idea, a terrible idea. He reports, I'm sure this is on his Twitter somewhere, but he reports, he cried when OpenAI was announced. And then, publicly, [Nate Soares on MIRI's blog said](https://intelligence.org/2015/12/11/openai-and-other-news/) something like, I don't remember, we can track down exactly what he said, but it was something like, we welcome a new entrant to this space. It said something vaguely positive-sounding about OpenAI, even though he thought, the sentiment in our community was that open source AI is a bad idea. OpenAI, it was originally pitched as open source. There's this thing where Nate Soares and Yudkowsky privately thought OpenAI as announced was a bad idea, but there was so much power and money behind this new thing, because this was downstream of the Puerto Rico conference about AI safety, there was so much power and money behind this new thing that they didn't feel comfortable bad-mouthing it in public at the time.
+**ZMD**: So, this is another thing that Michael and Ben were criticizing Eliezer and Nate and MIRI over, was that, when OpenAI was first founded, Yudkowsky already thought it was a bad idea, a terrible idea. He reports, I'm sure this is on his Twitter somewhere, but he reports, he [cried when OpenAI was announced](https://x.com/ESYudkowsky/status/1683592535569231873). And then, publicly, [Nate Soares on MIRI's blog said](https://intelligence.org/2015/12/11/openai-and-other-news/) something like, I don't remember, we can track down exactly what he said, but it was something like, we welcome a new entrant to this space. It said something vaguely positive-sounding about OpenAI, even though he thought, the sentiment in our community was that open source AI is a bad idea. OpenAI, it was originally pitched as open source. There's this thing where Nate Soares and Yudkowsky privately thought OpenAI as announced was a bad idea, but there was so much power and money behind this new thing, because this was downstream of the Puerto Rico conference about AI safety, there was so much power and money behind this new thing that they didn't feel comfortable bad-mouthing it in public at the time.
 
 **CM**: I think there's some revisionist history going on there. Maybe they're saying they were concerned—
 

@@ -1,4 +1,35 @@
+sections—
 
+✓ "If I Can't Explain It to Said Achmiz, I Probably Don't Understand It"
+✓ An Inversion of Values
+✓ If "Every Individual Owns Their Own Judgment of You", Then the Ban Rationale Is Untenable
+✓ Misrepresentations in Habryka's Analysis of Achmiz's Comments
+_ You Can Too Ignore Unwanted Comments
+_ Misrepresentations in Habryka's Reports of Alleged Author Complaints About Achmiz
+_ The Ban Reneges on LW2's "Single Locus of Discussion" Mandate
+- Effort Ratios Are Logically Irrelevant
+- Replies to Vaniver on the Ideological Turing Test and "Emotional Tallness"
+_ We Don't Actually Respect You
+
+
+tasks to publication—
+_ finish draft
+_ confer with Said
+_ lobby Ben for amicus curiæ comment
+_ lobby Anna for amicus curiæ comment
+_ lobby Jessica for amicus curiæ comment
+_ lobby JD for amicus curiæ comment
+_ ask Robert M. about statistics and major versions
+_ offer to meet with Ray
+_ poke Vaniver
+_ poke Ben Pace
+_ Twitter capsule thread
+
+
+
+-----
+
+the "Hm" comment on "Zetetic Explanation", Ben Hoffman has totally pulled that _exact_ move on me in email before (quoting different parts of my message that seem contradictory, and making it my job to reconcile them)
 
 [...]
 
@@ -164,3 +195,66 @@ https://www.greaterwrong.com/posts/7MTcbcfjcxgBGPviP/ivan-vendrov-s-shortform/co
 > Can anyone show me the cake of this please?
 
 What kind of weird dominance move is this?!
+
+-----
+
+old Vaniver notes—
+
+[TODO—
+
+the choice of metaphor in "emotional tallness" being something immutable is telling; someone who thought it was a good thing would use the usual metaphor, strength
+
+> I think I used to view this as “a rationalist virtue I possess” and now I view it more as “an incidental fact about me”—like, my IQ is also relevant to my rationality but it’s not really a “rationalist virtue” instead of the amount of horsepower that I’m working with.
+man, I think I just want to bite the bullet on IQ being a "rationalist virtue". What matters is not some cosmic sense moral "desert", but that qualities are needed in an engine of cognition to do the job. If an 80 IQ person can't do the things we need rationalists to do in this world, oh, well—same deal with emotionally short people. You don't want to change the rules of the discussion to _cater to the needs of low IQ people_
+
+> I’m still not sure what Zack or Said think of the Royal Society example
+TODO—I need to read Vaniver's Royal Society post to understand what he's talking about
+
+>  I think in that framing, pointing out that something is impeding the flow of information is almost enough to end the conversation on its own. I think Said and Zack were pretty easily able to point to “and this is how your proposal blocks some information flow that is good.”
+Indeed, and what's the reply?
+
+> I do believe that our view is more sophisticated, and I operationalize this by something like ITT-passing
+As I've written about, The ITT is not appropriate for this use-case!! I can't pass an ITT on Islam or ESP
+
+> people often raise objections about commenters that don’t make sense as logical criticisms. But if they aren’t intended as logical criticisms, that seems irrelevant to me. (Perhaps it is worth rereading Feeling Rational.)
+I agree with "Feeling Rational"; for me, it emerges as righteous outrage at these frauds who are trying to silence information to protect people's feelings
+
+> I will finish with this comment from 12 years ago, in which I criticize Eliezer’s moderation practices. I was missing the concept of emotional tallness, then [...] I can see the younger me levelling a similar criticism at the mod team now.
+Yeah, and what's the reply? 
+]
+
+JDP on normal people—
+
+>  Which, to give some insight into the character of normal people, the personality disorder most people have is the sort of thing where they are so sensitive to status and offense that they will intuitively pick up on the fact that not trying to flatter them means you don't actually care about them liking you very much and therefore be offended when you tell them they're wrong not just by whatever immediate status implications them being wrong might have but by the fact of you being willing to tell them that implying you are not so interested in having them like you as to try flattering their wrongness.
+
+-----
+
+20 June 2023, Ben did the same thing to me, quoting two parts of my message that seemed contradictory, and commenting, "?????"  I said, "Thanks for pointing out the tension between those two passages"
+
+> which I take as a point in favor of my Dagny Taggart policy of just unilaterally revealing info, without imagining that I can successfully do galaxy-brained plotting about which strategies I could be interpreted as thereby siding with.
+
+> so I feel confident that you won't get mad if I say "Ben said this-and-such" while telling my Whole Dumb Story, whereas I feel the need to be a lot more careful mentioning "Bill" or "Rebecca" or "Thomas" or "Noreen" in order to stay friendly with them.
+
+?????
+
+------
+
+
+
+
+-------
+
+It makes me wonder what it's like to be a forensic psychologist. I can only imagine that many cases are routine: the armed robbery of a convenience store, the suicide of a sick and lonely debtor, the crime of passion against an unfaithful spouse. While reprehensible, these offenses are fundamentally explicable. While condemning them, we can grant the perpetrators the dignity of a form of rationality. The robber wanted quick cash, the suicide longed for an end to his pain, the jealous husband raged against betrayal—and they acted accordingly. Such tragedies will probably always be with us at some frequency as long as humans remain what they are.
+
+Our psychologist faces a more challenging puzzle in the case of Oliver Habryka. What form of criminal insanity could possibly explain such a total inversion of stated values—to laud a website as "a unique place on the internet where bad ideas do get torn apart in ways that are rare and valuable", and then, in the same breath, ban the very contributor that he himself identified as having done more than almost anyone else to shape that culture of excellence?
+
+----
+
+And it would give a bit more trust _if Habryka were telling the truth_. But the remainder of the post persistently construes criticism as "punishments" or as claims to have "violated some social norm", and ultimately announces a ban of Achmiz on the grounds that the judgements Achmiz expresses have deleterious social effects (bringing the site closer to the alleged sneer attractor). The entire point of the post is to announce that the moderators are preventing Achmiz from openly discussing _Less Wrong_ authors and their contributions!
+
+One can only infer that Habryka is lying or self-deluding when he claims to care about a "Every individual owns their own judgment of you" principle. One almost has to wonder if the text of the "flag" was ghostwritten; Habryka shows little sign of even understanding the concept elsewhere in the post. After a discussion of Achmiz's alleged commenting patterns (which I thoroughly rebut in the next section), Habryka speculates that users will "ultimately give up feeling dejected and like a lot of people on LessWrong hate you." Setting aside the obvious irrationality of this inference—there's no good reason to think that one user's persistent questioning of your ideas implies that "a lot" of people "hate" you—well, so what?
+
+I mean it. So what? Habryka just told us 900 words earlier that just because you're anxious about others criticizing your ideas doesn't mean the website is going to accomodate you! Anyone can scroll up and read it. Does he expect us not to remember?
+
+
+
