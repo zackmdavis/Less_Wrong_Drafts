@@ -1,4 +1,4 @@
-# Said Achmiz in His Felon Stripes Stands Far Above You Now
+# Requiem for Less Wrong; Or, Comment on "Banning Said Achmiz"
 
 ## "If I Can't Explain It to Said Achmiz, I Probably Don't Understand It"
 
@@ -72,13 +72,11 @@ Habryka goes on to articulate two alleged failure modes of online communities. I
 
 Well spoken! Habryka reports that he "really care[s] about this flag too" and that "much of the decisions [he has] made around LessWrong have been to foster a culture that understands and rallies behind this flag." He expresses hope that his acknowledgement of the risks of LinkedIn-like sycophancy will give supporters of the culture of excellence "a bit more trust that [he is] tracking some things they care about."
 
-However, it is difficult to reconcile this claim with the remainder of the post, which persistently construes criticism as "punishments" or as claims to have "violated some social norm", and ultimately announces a ban of Achmiz on the grounds that the judgements Achmiz expresses have deleterious social effects (bringing the site closer to the alleged sneer attractor).[^sneer-attractor] The entire point of the post is to announce that the moderators are preventing Achmiz from openly discussing _Less Wrong_ authors and their contributions!
+However, it is difficult to reconcile this claim with the remainder of the post, which persistently construes intellectually substantive criticism as "punishments" or as claims to have "violated some social norm", and ultimately announces a ban of Achmiz on the grounds that the judgements Achmiz expresses have deleterious social effects (bringing the site closer to the alleged sneer attractor).[^sneer-attractor] The entire point of the post is to announce that the moderators are preventing Achmiz from openly discussing _Less Wrong_ authors and their contributions!
 
 [^sneer-attractor]: Although curiously, Habryka's detailed description of the sneer attractor doesn't particularly seem to resemble Achmiz's comments in any aspect other than them both involving harsh criticism. Habryka writes that "[t]he key component of making good sneer club criticism is to never actually say out loud what your problem is." But Achmiz is quite willing to say out loud what his problem is, and is clearly committed to answering clarifying questions at length if his initial complaint was unclear.
 
-    On the other hand, if Habyrka's attempted sociological explanation of the sneer attractor isn't "load-bearing", and the goal of the moderator action is simply to crack down on sneering in the ordinary sense of the word (["to talk about or look at someone or something in an unkind way that shows you do not respect or approve of him, her, or it"](https://dictionary.cambridge.org/us/dictionary/english/sneer)), the logical target would be Eliezer Yudkowsky, [whose](https://www.lesswrong.com/posts/LvKDMWQ3yLG9R3gHw/empiricism-as-anti-epistemology) [recent](https://www.lesswrong.com/posts/dHLdf8SB8oW5L27gg/on-fleshling-safety-a-debate-by-klurl-and-trapaucius) [work](https://www.lesswrong.com/posts/3q8uu2k6AfaLAupvL/the-tale-of-the-top-tier-intellect) is full of sneering descriptions of [weak examples](https://slatestarcodex.com/2014/05/12/weak-men-are-superweapons/) of views that disagree with him.
-
-After a discussion of Achmiz's alleged commenting patterns (which I discuss in the next section), Habryka speculates that users will "ultimately give up feeling dejected and like a lot of people on LessWrong hate you." Setting aside the obvious irrationality of this inference—there's no good reason to think that one user's persistent questioning of your ideas implies that "a lot" of people "hate" you—it's hard to see the relevance given Habryka's supposed fostering of a culture that understands and rallies behind the aforementioned flag. Habryka just told us 900 words earlier that just because you're anxious about others criticizing you or your ideas doesn't mean the website is going to accomodate you! Anyone can scroll up and read it. And yet when people are hurt by and anxious about Said Achmiz in particular criticizing them or their ideas, the response is to ban Achmiz? The disconnect is left unexplained.
+After a discussion of Achmiz's alleged commenting patterns (which I discuss in the next section), Habryka speculates that users will "ultimately give up feeling dejected and like a lot of people on LessWrong hate you." Setting aside the obvious irrationality of this inference—there's no good reason to think that one user's persistent questioning of your ideas implies that "a lot" of people "hate" you—it's hard to see the relevance given Habryka's supposed fostering of a culture that understands and rallies behind the aforementioned flag. Habryka just told us 900 words earlier that just because you're anxious about others criticizing you or your ideas doesn't mean the website is going to accomodate you! Anyone can scroll up and read it. And yet when people are hurt by and anxious about Said Achmiz in particular criticizing them or their ideas, the response is to ban Achmiz? The disconnect is glaring.
 
 
 ## Misrepresentations in Habryka's Analysis of Achmiz's Comments
@@ -93,22 +91,38 @@ It's expressed rather elliptically, but what Achmiz is doing with this comment (
 
 Habryka [cites another response from Achmiz to Hoffman](https://www.lesswrong.com/posts/i2Dnu9n7T3ZCcQPxm/zetetic-explanation?commentId=9NReWbLRe5Xv4SKid) as an instance of Achmiz "dismiss[ing] your response as being totally insufficient, confused, or proving the very point he was trying to make". This is a fair description—but Habryka doesn't address whether the dismissal is justified! Is it not conceivable that someone might write a response that's insufficient, confused, or proving the very point the critic was trying to make?
 
-In the comment in question, Achmiz is disputing Hoffman's claim that the explanation of yeast in the post was adequate for being "competent to interact with the thing, and with its precursors, or at least have an idea of how you'd learn to do so."[^baking] When [Hoffman claimed the post empowers the reader to make hard cider from apples](https://www.lesswrong.com/posts/i2Dnu9n7T3ZCcQPxm/zetetic-explanation?commentId=k67htq5c4fQAC9C54), Achmiz [disputed this by pointing to cider-making instructions that claim that naïve methods produce poor results](https://www.lesswrong.com/posts/i2Dnu9n7T3ZCcQPxm/zetetic-explanation?commentId=qw6DzYx57484YiAtr), which Haybrka cites as Achmiz "continu[ing] to make insinuations that your failure to respond properly validates whatever judgment he is invoking"—again without addressing the merits of Achmiz's claim.
+In the comment in question, Achmiz is disputing Hoffman's claim that the explanation of yeast in the post was adequate for being ["competent to interact with the thing, and with its precursors, or at least have an idea of how you'd learn to do so."](https://www.lesswrong.com/posts/i2Dnu9n7T3ZCcQPxm/zetetic-explanation?commentId=g8BegiT6TDF3DzrWn)[^baking] When [Hoffman claimed the post empowers the reader to make hard cider from apples](https://www.lesswrong.com/posts/i2Dnu9n7T3ZCcQPxm/zetetic-explanation?commentId=k67htq5c4fQAC9C54), Achmiz [disputed this by pointing to cider-making instructions that claim that naïve methods produce poor results](https://www.lesswrong.com/posts/i2Dnu9n7T3ZCcQPxm/zetetic-explanation?commentId=qw6DzYx57484YiAtr), which Haybrka cites as Achmiz "continu[ing] to make insinuations that your failure to respond properly validates whatever judgment he is invoking"—again without addressing the merits of Achmiz's claim.
 
 [^baking]: As an [accomplished baker](https://www.datasecretslox.com/index.php/topic,7398.msg290680.html#msg290680), Achmiz is in a credible position to tell.
 
-But the merits matter! If someone believes that Achmiz is applying the wrong standard when he expects that an explanation of yeast adequate to make one competent at interacting with it should allow one to make good bread or cider, that could at least be argued, but Habryka shows no interest in arguing it. He concludes his summary of commenting dynamics by noting that when other commenters ask by what standard Achmiz is invoking a negative judgement, Achmiz explains that he's talking on the object-level and not trying to assign someone low status.
+But the merits matter! If someone believes that Achmiz is applying the wrong standard when he expects that an explanation of yeast adequate to make one competent at interacting with it should allow one to make good bread or cider, that could at least be argued, but Habryka shows no interest in arguing it. He concludes his summary of alleged commenting dynamics by noting that when other commenters ask by what standard Achmiz is invoking a negative judgement, Achmiz explains that he's talking on the object-level and not trying to assign someone low status.
 
-It's hard to see what the alleged problem is supposed to be here. The comments about yeast are in fact on the object level about yeast. One can only infer that Achmiz's supposed crime is ... disagreeing with an author in a multi-comment exchange, and not being convinced by their replies? But on a discussion forum that attempts to grapple with difficult topics at the frontiers of human knowledge, this should be routine. People aren't always going to agree. ([Bayesian reasoners would never disagree to disagree](https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem), but humans are far from the theoretical ideal.) Part of disagreeing is not finding the other's replies adequate. (If you did find them adequate, that would presumably resolve the disagreement.)
+But the comments about the pedagogy of yeast are in fact on the object level about the pedagogy of yeast. One could perhaps infer that when Achmiz doesn't find an interlocutor's replies to be satisfactory, Achmiz is privately making a negative character judgement about the interlocutor as a person, even if Achmiz didn't say that. Such an inference may well be correct, but it's hard to see why it's a moderation issue. On a discussion forum that attempts to grapple with difficult topics at the frontiers of human knowledge, it should not be unusual for commenters to disagree with an author in a multi-comment exchange and not be convinced by the author's replies. ([Bayesian reasoners would never disagree to disagree](https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem), but humans are known to be far from the theoretical ideal.) Part of disagreeing is not finding the other's replies adequate. (If you did find them adequate, that would resolve the disagreement.) Punishing Achmiz and only Achmiz for frequently finding authors' replies insufficient (because people suspect, rightly or wrongly, that Achmiz is privately judging them) would be incoherent, and being coherent about it would amount to plunging full speed into the LinkedIn attractor. Avoiding the possibility that strangers on the internet might be judging you is simply not a realistic goal for a public discussion forum.
 
-To be sure, not finding the other's replies inadequate is, in some sense, a negative judgement, but of a kind that's implied by any substantive disagreement. (Again, disagreeing with someone implies thinking that you're more epistemically rational than them on that topic.) Punishing Achmiz and only Achmiz for this is incoherent, and being coherent about it would amount to plunging full speed into the LinkedIn attractor.
-
-Habyrka also claims (in the previous section) that as far as he can tell, Achmiz "refuse[d] to do much cognitive labor in the rest of the thread" on "Zetetic Explanation", but this is at odds with [Habryka's own comment in that thread](https://www.lesswrong.com/posts/i2Dnu9n7T3ZCcQPxm/zetetic-explanation?commentId=jTNQ2KxDH8eAa7s2F) praising a 750-word comment from Achmiz as "a great comment" and saying that Habryka "would maybe like to see this broken out into its own post."[^cognitive-labor] The discrepancy is again left unexplained.
-
-[^cognitive-labor]: Presumably one could not write such a comment while "refus[ing] to do much cognitive labor."
+Habyrka also claims (in the previous section) that as far as he can tell, Achmiz "refuse[d] to do much cognitive labor in the rest of the thread" on "Zetetic Explanation", but this is at odds with [Habryka's own comment in that thread](https://www.lesswrong.com/posts/i2Dnu9n7T3ZCcQPxm/zetetic-explanation?commentId=jTNQ2KxDH8eAa7s2F) praising a 750-word comment from Achmiz as "a great comment" and saying that Habryka "would maybe like to see this broken out into its own post." Presumably one could not write such a comment while "refus[ing] to do much cognitive labor"! The discrepancy is again glaring.
 
 
 ## You Can Too Ignore Unwanted Comments
+
+Attempting to forestall the objection that people who don't like Achmiz's comments could simply ignore them, Habryka claims that that is "not usually a socially viable option." This neglects to mention that since 2018, [existing site functionality already permitted](https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines) users to ban commenters from their own [Personal Blog](https://www.lesswrong.com/posts/5conQhfa4rgb4SaWx/site-guide-personal-blogposts-vs-frontpage-posts) posts, and users with 2000 karma to ban users from their own Frontpage posts.
+
+Assuming for the sake of argument that a substantial minority of authors have a legitimate interest in preventing Achmiz from commenting on their own posts, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [TODO—
 The website already supported user-level bans!!! That solves the whole problem
@@ -125,7 +139,13 @@ find and address Habryka's "your theory implies that bad comments can't make the
 
 ]
 
+
 ## Misrepresentations in Habryka's Reports of Alleged Author Complaints About Achmiz
+
+Footnote 1 of the ban post claims that "many top authors cit[e] [Achmiz] as a top reason for why they do not want to post on the site, or comment here". I find this claim very surprising.
+
+Top authors for a 
+
 
 [TODO
 Investigation with Scott and Falkovich
@@ -133,6 +153,27 @@ Investigation with Scott and Falkovich
 (the 8 bans vs. 3 are evidnece, but really? You're going to kick someone off the site
 Lies in the comment section about how central complaints were to the post
 ]
+
+
+## Preventing "Relitigation" Is a Pretext for Suppressing Dissent
+
+[TODO:
+
+
+
+> I think I should very rarely prevent whoever is being affected by a moderation decision from defending themselves on LessWrong. For practical reasons, I need to limit the time I personally spend replying and engaging with their defense, but I think it makes sense to allow the opposing side in basically all cases like this to publish a defense on the site, and do at least some to signal-boost it together with any moderation decisions.
+
+
+https://www.greaterwrong.com/posts/FLJ9B4pHzjKmPPxd5/which-top-authors-did-said-achmiz-drive-away
+
+But short-run visibility was directly relevant to Sting's purpose (of crowd-sourcing an answer)
+
+Sting came in 8 days later with a question
+
+This post is not "relitigating" in the sense of extraneously making new comments to wear people out; I never commented on the ban decision at all; these arguments are appearing for the first time     
+
+]
+
 
 
 ## The Ban Reneges on LW2's "Single Locus of Discussion" Mandate
@@ -178,6 +219,8 @@ The problem is that that would be insane. No one should be thinking that an unan
 Moreover, people are pretty smart about status games and can figure this out. Probing questions rarely get high karma; thorough answers often do. No one thinks that a famous author must be worse than an unknown one because the former attracts many critics and the latter few or none. The market clears.
 
 And given that the market clears, there's no good reason to censor probing questions: whether the questions get answered or not, discerning users will make up their own minds and vote accordingly. The only reason you would want to censor probing questions is to prevent people from noticing flaws in need of probing.
+
+
 
 
 ## Replies to Vaniver on the Ideological Turing Test and "Emotional Tallness"
@@ -251,7 +294,11 @@ Which hypotheses gain probability-mass in the eyes of readers at the expense of 
 
 _Your status is always at risk._ You wouldn't even want it not to be: by [conservation of expected evidence](https://www.readthesequences.com/Conservation-Of-Expected-Evidence), [gaining status requires the possibility of losing status](https://www.lesswrong.com/posts/G5TwJ9BGxcgh5DsmQ/yes-requires-the-possibility-of-no). If Pace [thinks this stance is](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=BJ2j8sQThHzDYNFo9) "good at sucking energy out of people with little intellectual productivity as a result", he's describing people whose energy is dependent on _unaccountability_—who will only work on a guarantee that their work _won't_ be judged on the merits. I can believe that such people exist; I have much more trouble believing that their work is good on the merits.
 
-What's is particularly striking about Habyrka's persecution of Achmiz is Habyrka's apparent inability to understand the concept of independent judgement, the idea of not being dependent on the approval of others. In the comments, Habyrka [contrasts two views](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=uyobAZy5iYAAWzSSi). According to one view, which Habyrka thinks is false:
+What's is particularly striking about Habyrka's persecution of Achmiz is Habyrka's apparent inability to understand the concept of independent judgement, the idea of not being dependent on the approval of others.
+
+
+
+In the comments, Habyrka [contrasts two views](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=uyobAZy5iYAAWzSSi). According to one view, which Habyrka thinks is false:
 
 > Said is indeed really actually not intending to sneer at people all the time, is not intending to summon up lots of social judgement, does not carry emnity in his heart, and is just writing comments, usually with disagreement, sometimes with approval. Maybe he feels some things while writing, sometimes those feelings are negative, but it's not that there is some overarching complicated optimization process that tries to get most authors on LessWrong to leave and stop doing whatever they are doing. They are just comments, trying to point out flaws and correct the record. For reasons of local validity.
 
@@ -271,13 +318,6 @@ In a particularly telling disclosure earlier in the same comment, Habyrka [write
 
 If you're worried that efforts to demonstrate that you are not insane are doomed, it's worth considering that it might be _because you are insane_.
 
-----
-
-The personal disdain and disrespect I hold for this nonsense is in fact so extreme, that for the first time in my life, I find myself fearing that I'm not a talented enough writer to express the depths of my emotion. I want to adapt [Voltairine de Cleyre's 1890 defense of Moses Harman](https://theanarchistlibrary.org/library/voltairine-de-cleyre-sex-slavery) (who was selectively prosecuted and jailed under anti-obcenity laws for publishing a letter decrying marital rape):
-
-> If, beyond these, there are those here tonight who have ever forced intellectual deference from a peer, those who have prostituted themselves in the name of Charity, those who have brought confused, immoral, or unexamined arguments to the light, without the means of defense for them, and yet will go from this post and say, "Said Achmiz is an unclean man—a man rewarded by just punishment," then to _you_ I say, and may the words ring deep within your ears _until you die_: go on! Drive your sheep to the shambles! Crush that old, uncouth man beneath your Juggernaut! In the name of Niceness, Community, and Civilization, do it! In the name of the Chicagoan who preached the twelve virtues, do it! In the name of Clear Thinking, Clear Communication, and Collaborative Truthseeking, do it! In the name of Epistemic Hygiene put yourself on the side of the concern troll in the comment sections, the censor in the moderation thread, the prevaricator in public fora, the whole brute force of the karma system, the mod team, and the banhammer, to persecute one honest man who stood alone against your licensed mendacity! Do it. And if Said Achmiz dies outside your "well-kept garden", be satisfied _when you have murdered him!_ Kill him! And you hasten the day when the Future shall bury you ten thousand fathoms deep beneath its curses. Kill him! And the stripes upon his prison clothes shall lash you like the knout! Kill him! And the insane shall glitter hate at you with their wild eyes, the unborn babes shall cry their blood upon you, and the graves that you have filled in the name of Discourse, shall yield food for a race that will pillory you, until the memory of your atrocity has become a nameless ghost, flitting with the shades of Meletus, Urban VIII, and Lysenko over the horizon of the World!
->
-> Would you smile to see him dead? Would you say, "We are rid of this obscenist"? Fools! The corpse would laugh at you from its cold eyelids! The motionless lips would mock, and the solemn hands, the pulseless, folded hands, in their quietness would write the last indictment, which neither Time nor you can efface. Kill him! And you write his glory and your shame! Said Achmiz in his felon stripes stands far above you now, and Said Achmiz _dead_ will live on, immortal in the race he died to free! Kill him!
 
 So that's my disdain, carried openly. That's what I think of you people.
 
@@ -305,4 +345,4 @@ asking for a favor of not conduct is itself egregious
 I can't imagine sending
 ]
 
-[TODO: You could just say oops. You won't, but I'll be watching you. Kill him!]
+[TODO: You could just say oops. You won't, but I'll be watching you.]
