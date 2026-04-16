@@ -1,4 +1,4 @@
-# Requiem for Less Wrong; Or, Comment on "Banning Said Achmiz"
+# Comment on "Banning Said Achmiz"
 
 ## "If I Can't Explain It to Said Achmiz, I Probably Don't Understand It"
 
@@ -97,7 +97,7 @@ In the comment in question, Achmiz is disputing Hoffman's claim that the explana
 
 But the merits matter! If someone believes that Achmiz is applying the wrong standard when he expects that an explanation of yeast adequate to make one competent at interacting with it should allow one to make good bread or cider, that could at least be argued, but Habryka shows no interest in arguing it. He concludes his summary of alleged commenting dynamics by noting that when other commenters ask by what standard Achmiz is invoking a negative judgement, Achmiz explains that he's talking on the object-level and not trying to assign someone low status.
 
-But the comments about the pedagogy of yeast are in fact on the object level about the pedagogy of yeast. One could perhaps infer that when Achmiz doesn't find an interlocutor's replies to be satisfactory, Achmiz is privately making a negative character judgement about the interlocutor as a person, even if Achmiz didn't say that. Such an inference may well be correct, but it's hard to see why it's a moderation issue. On a discussion forum that attempts to grapple with difficult topics at the frontiers of human knowledge, it should not be unusual for commenters to disagree with an author in a multi-comment exchange and not be convinced by the author's replies. ([Bayesian reasoners would never disagree to disagree](https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem), but humans are known to be far from the theoretical ideal.) Part of disagreeing is not finding the other's replies adequate. (If you did find them adequate, that would resolve the disagreement.) Punishing Achmiz and only Achmiz for frequently finding authors' replies insufficient (because people suspect, rightly or wrongly, that Achmiz is privately judging them) would be incoherent, and being coherent about it would amount to plunging full speed into the LinkedIn attractor. Avoiding the possibility that strangers on the internet might be judging you is simply not a realistic goal for a public discussion forum.
+But the comments about the pedagogy of yeast are in fact on the object level about the pedagogy of yeast. One could perhaps infer that when Achmiz doesn't find an interlocutor's replies to be satisfactory, Achmiz is privately making a negative character judgement about the interlocutor as a person, even if Achmiz didn't say that. Such an inference might well be correct, but it's hard to see why it's a moderation issue. On a discussion forum that attempts to grapple with difficult topics at the frontiers of human knowledge, it should not be unusual for commenters to disagree with an author in a multi-comment exchange and not be convinced by the author's replies. ([Bayesian reasoners would never disagree to disagree](https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem), but humans are known to be far from the theoretical ideal.) Part of disagreeing is not finding the other's replies adequate. (If you did find them adequate, that would resolve the disagreement.) Punishing Achmiz and only Achmiz for frequently finding authors' replies insufficient (because people suspect, rightly or wrongly, that Achmiz is privately judging them) would be incoherent, and being coherent about it would amount to plunging full speed into the LinkedIn attractor. Avoiding the possibility that strangers on the internet might be judging you is simply not a realistic goal for a public discussion forum.
 
 Habyrka also claims (in the previous section) that as far as he can tell, Achmiz "refuse[d] to do much cognitive labor in the rest of the thread" on "Zetetic Explanation", but this is at odds with [Habryka's own comment in that thread](https://www.lesswrong.com/posts/i2Dnu9n7T3ZCcQPxm/zetetic-explanation?commentId=jTNQ2KxDH8eAa7s2F) praising a 750-word comment from Achmiz as "a great comment" and saying that Habryka "would maybe like to see this broken out into its own post." Presumably one could not write such a comment while "refus[ing] to do much cognitive labor"! The discrepancy is again glaring.
 
@@ -125,6 +125,9 @@ Assuming for the sake of argument that a substantial minority of authors have a 
 
 
 [TODO—
+
+It's amazing how much the mods whine about that one comment from six years ago which he's already repeatedly clarified!!!
+
 The website already supported user-level bans!!! That solves the whole problem
 Unless you want to grant people a Said-free LW experience _without being made to feel guilty_
 "Said himself doesn't think ignoring him is an option" is a cheap gotcha that doesn't stand up to logical scrutiny; the whole point is that _you disagree with him on that_
@@ -346,3 +349,6 @@ I can't imagine sending
 ]
 
 [TODO: You could just say oops. You won't, but I'll be watching you.]
+
+
+[TODO— it's  kind of shocking, when Said said, "Of course people don't like being criticized", it's easy to think he was exaggerating, but it seems to be literally what's happening in the current dispute, where Habryka is citing that very description?!?! ]
