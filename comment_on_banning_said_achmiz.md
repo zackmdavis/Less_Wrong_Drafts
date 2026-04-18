@@ -102,40 +102,42 @@ But the comments about the pedagogy of yeast are in fact on the object level abo
 Habryka also claims (in the previous section) that as far as he can tell, Achmiz "refuse[d] to do much cognitive labor in the rest of the thread" on "Zetetic Explanation", but this is at odds with [Habryka's own comment in that thread](https://www.lesswrong.com/posts/i2Dnu9n7T3ZCcQPxm/zetetic-explanation?commentId=jTNQ2KxDH8eAa7s2F) praising a 750-word comment from Achmiz as "a great comment" and saying that Habryka "would maybe like to see this broken out into its own post." Presumably one could not write such a comment while "refus[ing] to do much cognitive labor"! The discrepancy is again glaring.
 
 
-## You Can Too Ignore Unwanted Comments
+## User-Level Bans Are a Sufficient and Less Intrusive Remedy
 
-Attempting to forestall the objection that people who don't like Achmiz's comments could simply ignore them, Habryka claims that ignoring Achmiz's comments is "not usually a socially viable option." However, since 2018, [existing site functionality already permits](https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines) users to ban commenters from their own [Personal Blog](https://www.lesswrong.com/posts/5conQhfa4rgb4SaWx/site-guide-personal-blogposts-vs-frontpage-posts) posts, and users with 2000 karma to ban users from their own Frontpage posts. If, _arguendo_, a minority of authors have a legitimate interest in preventing Achmiz from commenting on their own posts, those authors could already get what they want using existing site functionality, and indeed, were already doing so: [we're told that 8 users](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=wZDdMdnDunhKispf7) had banned Achmiz from their posts. Why doesn't that solve the problem without the need for a site-wide ban?
+Attempting to forestall the objection that people who don't like Achmiz's comments could simply ignore them, Habryka claims that ignoring Achmiz's comments is "not usually a socially viable option." However, since 2018, [existing site functionality already permits](https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines) users to ban commenters from their own [Personal Blog](https://www.lesswrong.com/posts/5conQhfa4rgb4SaWx/site-guide-personal-blogposts-vs-frontpage-posts) posts, and users with 2000 karma to ban users from their own Frontpage posts. If, _arguendo_, a minority of authors have a legitimate interest in preventing Achmiz from commenting on their own posts, then those authors[^modulo-karma] could already get what they want using existing site functionality, and indeed, were already doing so: [we're told that 8 users](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=wZDdMdnDunhKispf7) had banned Achmiz from their posts. Why doesn't that solve the problem without the need for a site-wide ban?
 
-Habryka claims that "Said himself does not think [ignoring his comments is] a valid option", [citing a 2020 comment by Achmiz on obligations to reply to comments asking for definitions or examples](https://www.lesswrong.com/posts/pC74aJyCRgns6atzu/meta-discussion-from-circling-as-cousin-to-rationality?commentId=umfT3A2Xc5C7uzjdQ), but this adds little to the case against simply ignoring Achmiz. It's weird to cite Achmiz's stance on obligations to reply to support the claim that ignoring him is not an option given that _you don't agree with him about obligations to reply_. Similar to blocking functionality on other websites, the user-level ban functionality works by preventing the banned user from commenting on the relevant posts; the consent of the blocked user is neither required nor relevant.
+[^modulo-karma]: _Modulo_ the karma limits, which could be adjusted.
 
-Additionally, quoting the 2020 comment out of context conveys a mistaken impression of Achmiz's views, which Achmiz [clarified in a subsequent comment the same day](https://www.lesswrong.com/posts/pC74aJyCRgns6atzu/meta-discussion-from-circling-as-cousin-to-rationality?commentId=kS4BfYJuZ8ZcwuwfB).
+[TODO: they don't want to feel guilty; Said's shortforms were reasonable, not vindictive]
 
-In [the clarifying comment from the 2020 thread](https://www.lesswrong.com/posts/pC74aJyCRgns6atzu/meta-discussion-from-circling-as-cousin-to-rationality?commentId=kS4BfYJuZ8ZcwuwfB), Achmiz states, "I'm not saying that there's a specific obligation for a post author to post a reply comment, using the Less Wrong forum software, directly to any given comment." Rather, Achmiz explains, the need for a clarifying question to be answered could be met in any number of other ways, such as being addressed in future work by the author, or by someone else other than the author answering the question or linking to an answer elsewhere. The point is not to impose a legalistic burden on the author, but for the question to actually get answered. The "obligation" to reply is meant in the same sense that one has an "obligation" to provide evidence, cite sources, or correct factual errors: it derives its normative force from its truth-tracking function, not mere social convention.
 
-The misunderstanding may owe to Achmiz's 2020 comments taking it as an implied premise that the question that demands an answer is a good or legitimate one. In a 2023 moderation discussion, Achmiz [clarified that he doesn't believe all comments must be answered regardless of merit](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=WA8is3tbyPkHtTEFX):
+## Misrepresentations in Habryka's Characterization of Achmiz on Obligations to Reply
+
+Habryka claims that "Said himself does not think [ignoring his comments is] a valid option", [citing a 2020 comment by Achmiz on obligations to reply to comments asking for definitions or examples](https://www.lesswrong.com/posts/pC74aJyCRgns6atzu/meta-discussion-from-circling-as-cousin-to-rationality?commentId=umfT3A2Xc5C7uzjdQ), but it's not clear what this adds to the case against simply ignoring Achmiz: it's weird to cite Achmiz's stance on obligations to reply to support the claim that ignoring him is not an option given that _you don't agree with him about obligations to reply_. Similar to blocking functionality on other websites, the user-level ban functionality works by preventing the banned user from commenting on the relevant posts; the consent of the blocked user is neither required nor relevant.
+
+Moreover, quoting the 2020 comment out of context conveys a mistaken impression of Achmiz's views, which Achmiz [clarified in a subsequent comment the same day](https://www.lesswrong.com/posts/pC74aJyCRgns6atzu/meta-discussion-from-circling-as-cousin-to-rationality?commentId=kS4BfYJuZ8ZcwuwfB). In [the clarifying comment from the 2020 thread](https://www.lesswrong.com/posts/pC74aJyCRgns6atzu/meta-discussion-from-circling-as-cousin-to-rationality?commentId=kS4BfYJuZ8ZcwuwfB), Achmiz states, "I'm not saying that there's a specific obligation for a post author to post a reply comment, using the Less Wrong forum software, directly to any given comment." Rather, Achmiz explains, the need for a clarifying question to be answered could be met in any number of other ways, such as being addressed in future work by the author, or by someone else other than the author answering the question or linking to an answer elsewhere. The point is not to impose a legalistic burden on the author, but for the question to actually get answered. The "obligation" to reply is meant in the same sense that one has an "obligation" to provide evidence, cite sources, or correct factual errors: it derives its normative force from its truth-tracking function, not mere social convention.
+
+The normativity of truth-tracking is likewise key to understanding the motivation for the 2020 comment's controversial claim that an author who ignores simple requests for clarification "_should_ be interpreted as ignorant." To be sure, there are any number of reasons why an author might not engage with a question other than being unable to answer it (maybe it wasn't worth their time, maybe they missed the notification, maybe they died, _&c._), but the relative likelihood of the "can't answer" and "could answer if they wanted to" hypotheses as an explanation for the observed non-response represents predictions about the real world and [can't be changed on a whim](https://www.lesswrong.com/posts/XhaKvQyHzeXdNnFKy/probability-is-subjectively-objective). A norm that forbid commenters from interpreting [the absence of an answer as probabilistic evidence of inability to answer](https://www.readthesequences.com/Absence-Of-Evidence-Is-Evidence-Of-Absence) would be requiring them to _believe something false_.[^believe-something-false]
+
+[^believe-something-false]: More precisely, to assign worse probability distributions.
+
+The popular misunderstanding of Achmiz's position may owe in part to Achmiz's 2020 comments taking it as an implied premise that the question that demands an answer is a good or legitimate one. In a 2023 moderation discussion, Achmiz [clarified that he doesn't believe all comments must be answered regardless of merit](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=WA8is3tbyPkHtTEFX):
 
 > I think that people should feel comfortable ignoring and/or downvoting _anyone's_ comments if they don't think engagement will be productive! Certainly I should not be any sort of exception to this. (Why in the world would I be? Of course you should engage only if you have some expectation that engaging will be productive, and not otherwise!)
 >
 > If I write a comment and you think it is a _bad_ comment (useless, obviously wrong, etc.), by all means downvote and ignore. Why not? And if I write _another_ comment that says "you have an _obligation_ to reply!"—I wouldn't say that, because I don't think that, but let's say that I did—downvote and ignore that comment, too! Do this no matter who the commenter is!
 
-The reason this 2023 comment is compatible with the controversial 2020 remarks is because Achmiz believes that (what he considers) simple requests for definitions and examples _are_ productive (such that evading them would be dodging an obligation), even if not all comments are productive. 
+The reason this 2023 comment is compatible with the controversial 2020 remarks is because Achmiz believes that (what he considers) simple requests for definitions and examples _are_ productive, even if not all comments are productive. A request for examples of a phenomenon should not be hard to satisfy if the phenomenon is real; a request for a definition of an niche term should not be hard to satify if term means anything. Ideally, the answers should have already been in the post; the fact that commenters have to ask is a manifestation of the post not being complete.
 
-Elsewhere, Achmiz [wrote in 2023 that](https://www.lesswrong.com/posts/FrR78Wy6s79keSuDe/actually-personal-attacks-after-object-level-arguments-is-a?commentId=QDaY64Su9jh2yLjau) "it's not necessarily (and, indeed, not likely to be) worth your time to engage with _all_ of your critics", and in 2025, [proposed "ignore" functionality as an alternative to user bans](https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=7jhPH5GBvkgG6zpq7).
+Elsewhere, Achmiz [wrote in 2023 that](https://www.lesswrong.com/posts/FrR78Wy6s79keSuDe/actually-personal-attacks-after-object-level-arguments-is-a?commentId=QDaY64Su9jh2yLjau) "it's not necessarily (and, indeed, not likely to be) worth your time to engage with _all_ of your critics", and in June 2025, [proposed "ignore" functionality as an alternative to user bans](https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=7jhPH5GBvkgG6zpq7).[^ignore]
 
-It is conspicuous that the announcement that Achmiz is being banned for his views mischaracterizes those views, despite clarifications in the weeks leading up to the ban: Achmiz [explained his position to Habryka in June 2025](https://www.lesswrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform?commentId=vF6GckcYf9FTc6MKA) (linking to the clarifying followup comment in the 2020 thread), and I highlighted the 2023 "by all means downvote and ignore" comment in a July 2025 message to _Less Wrong_ moderator Ben Pace.
+[^ignore]: The distinction being that auto-collapsing comments from an ignored user doesn't prevent other users reading the comments. Discord's block functionality in shared channels works similarly.
 
-The repeated misunderstandings in this matter may be due to differing intuitions on what it even means to be obligated to reply, and to what extent such obligations are recognized objectively _versus_ negotiated as social convention. The 2020 thread turns on the question of whether an author who ignores questions should be interpreted as ignorant. But whether the author is ignorant is a fact about reality. To be sure, there are any number of reasons why an author might not engage with a question other than being unable to answer it (maybe it wasn't worth their time, maybe they missed the notification, maybe they died, _&c._), but the relative likelihood of the "maybe they were busy" and "maybe they're ignorant" hypotheses as an explanation for the observation represents predictions about the real world and [can't be changed on a whim](https://www.lesswrong.com/posts/XhaKvQyHzeXdNnFKy/probability-is-subjectively-objective).
+[TODO
 
+being banned for his views mischaracterizes those views,
 
-[TODO—
-
-It's amazing how much the mods whine about that one comment from six years ago which he's already repeatedly clarified!!!
-
-Unless you want to grant people a Said-free LW experience _without being made to feel guilty_
-
-The implications of not replying happen in the heads of readers doing Bayesian reasoning
-
-You could just do nothing: https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/rwvEgbDKrcojyLTef
+despite clarifications in the weeks leading up to the ban: Achmiz [explained his position to Habryka in June 2025](https://www.lesswrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform?commentId=vF6GckcYf9FTc6MKA) (linking to the clarifying followup comment in the 2020 thread), and I highlighted the 2023 "by all means downvote and ignore" comment in a July 2025 message to _Less Wrong_ moderator Ben Pace.
 
 ]
 
@@ -222,6 +224,8 @@ This post is not "relitigating" in the sense of extraneously making new comments
 ]
 
 
+## Preventing "Fights of Attrition" Is a Pretext for Stonewalling
+
 
 ## Replies to Vaniver on the Ideological Turing Test and "Emotional Tallness"
 
@@ -254,98 +258,3 @@ I argue that the same goes for "emotional tallness." (It's a trait relevant to r
 
 ## We Don't Actually Respect You
 
-A recurring theme in the accusations against Achmiz is that Achmiz is allegedly being deceptive (or potentially even "gaslighting"[^g-word]) by disrespecting other users and then denying that disrespect was intended. _Less Wrong_ moderator Ben Pace, for example, [characterizes Achmiz as](https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/BJ2j8sQThHzDYNFo9) "holding extreme disdain and disrespect for interlocutors while being committed to never saying anything explicitly or even denying that it is the case."
-
-[^g-word]: In the comments, Habryka [writes that](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=uyobAZy5iYAAWzSSi) he "feel[s] some temptation to try to restore some of [his] sanity by providing compelling demonstrations of what has felt like gaslighting to me", although that that wasn't the primary motivation for the ban announcement post.
-
-I can't speak for Said (and he is no longer permitted to speak for himself), but if I may be permitted to speculate, I think what's going on here is that Said is _polite_. He's a polite person! He's not going to call you a phony, because personal insults like that are contrary to the etiquette of a civilized discussion forum.
-
-Rather, what he does do, and what provokes the accusations of dishonesty, is ask pointed questions such that some people will (rightly or wrongly) _infer that he's thinking_ that they're a phony. The complaint seems to be that this is worse, because passive-aggression is purportedly worse than overt aggression. Habryka [writes in the comments that](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=uyobAZy5iYAAWzSSi) he "think[s] [he] could handle disdain fine, if it was carried openly, and could be argued with."
-
-I really have to question whether openly carried disdain would be better. For myself, I often have negative-valenced judgements of people on this forum. I usually don't articulate them in my comments, partially because that would be rude, but more fundamentally because it would be _off-topic_. This is a website for discussing topics like probability theory, the philosophy of science, the psychology of decisionmaking, or artificial intelligence. "Which users of this website does Zack M. Davis think are phonies" doesn't make the cut. That's not what people are here to read.
-
-Am I ... somehow wrong about that? Have I been deceiving and gaslighting people this whole time by engaging with the substance of their ideas and trying to keep my thoughts about how stupid and dishonest they are to myself?
-
-Well, unlike my friend Said, I am not a polite person and am not committed to never saying anything publicly nor denying my personal feelings, so if it helps, I'm happy to clarify that I hold extreme disdain and disrespect for the entirety of the _Less Wrong_ mod team and a large fraction of the userbase (at a minimum, everyone who upvoted the ["Banning Said Achmiz" post](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation)). I think they are dishonest cowards who deserve the contempt of all serious intellectuals—and I want to be very clear about why, because I know many would think it absurd to apply such heated language to a mere forum moderation dispute, and it's going to take me at least a few sentences to cross the [inferential distance](https://www.readthesequences.com/Expecting-Short-Inferential-Distances).
-
-It's not that Achmiz's comments were such a large proportion of the value of the website that it's vastly worse without him. That's obviously just not true. If Said had found a new hobby and stopped commenting on his own accord, it would probably take a while for me to notice, and I wouldn't be particularly upset about it.
-
-Even more obviously, it's not that Achmiz is right about everything; I've had my [disagreements with him](https://www.lesswrong.com/posts/aofsjKJ8CZTHYkX7F/on-the-normativity-of-debate-a-discussion-with-said-achmiz), as I've had [with anyone](https://quoteinvestigator.com/2015/04/04/agree/).
-
-It's about a principle that I've spent the last decade of my life[^more-ways] fighting for, that truth matters, and specifically, that truth matters more than people's feelings. 
-
-[^more-ways]: Given the existential risk situation, potentially in more ways than one.
-
-[TODO: need to argue why Said represents "Truth" and not just noise given that I'm fine with censoring noise; I'm not claiming that Said's speech is gospel; I'm claiming that if you censor because it hurts your feelings, you're damaging the truth-seeking process, which is different from Said himself being right]
-
-[TODO: we don't want AI builders to behave like this]
-
-[TODO—three scenarios and DirectedEvolution's rebuttal. This is obviously, obviously the kind of content we want on Less Wrong. No one would read this and claim it's slush-pile noise. the selection effect for phonies and bullshitters who can't even coneive of the concept of independent judgement]
-
-Pace [writes disapprovingly](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=BJ2j8sQThHzDYNFo9) of "any commenter being able to demand answers to questions at the risk of the post-author's status".
-
-Well, _yes!_ How did Pace think status worked, exactly? "Status" is just other people's beliefs about you. People are going to update their beliefs about you based on their observations of your behavior.
-
-If someone asks you a question, and you don't answer, there are many hypotheses that could explain that observation. Maybe you were busy; maybe you died; maybe you missed the notification; maybe it was a stupid question that's not worth your time. Maybe.
-
-Another hypothesis is: maybe it was a good question and you know it, you don't have an answer and you know it, and you're hoping no one notices because you know the lack of an answer looks bad for your thesis.
-
-Which hypotheses gain probability-mass in the eyes of readers at the expense of which others is a complicated question, but clearly, "you don't have an answer and you know it" can't be ruled out _a priori_.
-
-_Your status is always at risk._ You wouldn't even want it not to be: by [conservation of expected evidence](https://www.readthesequences.com/Conservation-Of-Expected-Evidence), [gaining status requires the possibility of losing status](https://www.lesswrong.com/posts/G5TwJ9BGxcgh5DsmQ/yes-requires-the-possibility-of-no). If Pace [thinks this stance is](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=BJ2j8sQThHzDYNFo9) "good at sucking energy out of people with little intellectual productivity as a result", he's describing people whose energy is dependent on _unaccountability_—who will only work on a guarantee that their work _won't_ be judged on the merits. I can believe that such people exist; I have much more trouble believing that their work is good on the merits.
-
-What's is particularly striking about Habryka's persecution of Achmiz is Habryka's apparent inability to understand the concept of independent judgement, the idea of not being dependent on the approval of others.
-
-
-
-In the comments, Habryka [contrasts two views](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=uyobAZy5iYAAWzSSi). According to one view, which Habryka thinks is false:
-
-> Said is indeed really actually not intending to sneer at people all the time, is not intending to summon up lots of social judgement, does not carry emnity in his heart, and is just writing comments, usually with disagreement, sometimes with approval. Maybe he feels some things while writing, sometimes those feelings are negative, but it's not that there is some overarching complicated optimization process that tries to get most authors on LessWrong to leave and stop doing whatever they are doing. They are just comments, trying to point out flaws and correct the record. For reasons of local validity.
-
-Whereas in contrast, Habryka believes that:
-
-> Said is trying to unilaterally enforce social norms of his own choosing while denying any such thing is going on, by making lots of comments that imply the people he doesn't like are idiots, or are making elementary mistakes, or are being deceptive, or lack common sense, but shift and twist when pushed on
-
-I'm not even sure that I disagree with the second view as such. Rather, "unilaterally enforce social norms of his own choosing" is just such a bizarrely tendentious description of having stongly-held views that I don't understand why Habryka expects anyone to take him seriously.
-
-[TODO: explain]
-
-In a particularly telling disclosure earlier in the same comment, Habryka [writes](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=uyobAZy5iYAAWzSSi):
-
-> And then there is also a third thing, which makes me want to be particularly detailed and concrete and give lots of arguments and models here, which is more relevant for Said in-particular. And that thing is the feeling of being insane, of at the same time really feeling like something hurtful and harmful is happening, while tons of people around you are denying that any such thing is going on, is at the core of a lot of the complaints I have received over the years about Said, and is also at the core of my own bad experiences with Said. More specifically the thing where I read a top-level that I cannot help but read in a sneering voice, dripping with judgement, pointing a finger at me or the author in a way that summons judgement and punishment, but which as soon as its called out disappears, denies it ever existed, or keeps slipping away, redefining itself in endless circles.
->
-> And I don't know, maybe any attempt to disentangle the things that are going on and to try to make some kind of compelling demonstration that I and others are not insane is doomed.
-
-If you're worried that efforts to demonstrate that you are not insane are doomed, it's worth considering that it might be _because you are insane_.
-
-
-So that's my disdain, carried openly. That's what I think of you people.
-
-Is that ... better? I really have to question whether that's better.
-
-[TODO— I would have hoped to just stick to the facts, but if you're going to make this about persecuting secret feelings of disrespect, I will comply. There's a funny circularity to it. Misgivings about my drama budget]
-
-[TODO—
-my comment about "cry-bullying" abd "deranged censorship" &c. wasn't a strawman, because I meant what I said literally, and I can point to the actual behavior—I'm not saying they _self-identify_ as censors and cry-bullies; I mean that people who can't handle the "Hm" comment are in fact &c.
-I think Habryka is bluffing when he says he'll ban me for this; it would be really obvious to everyone how corrupt that is
-
-https://www.greaterwrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines/comment/5fmuwfkQGuZR4ze3A  
-
-> strawmanning all (or really any) authors who have preferences about people not being super aggro in their comment threads as “pathetic cry-bullying” and “calling for draconian and deranged censorship policies” is indeed one of the things that will get you banned from this site on other threads! You have been warned!
-
-footnote: does other threads include my own?
-]
-
-[TODO—
-> I would appreciate some courtesy[3] to keep discussion to the principles and decision-level instead of critiques of my personal behavior, as indeed much of the cost of moderation is measured in having any moderation-adjacent action be torn apart and be requested to be justified or defended.
-> [3] though of course in as much as something seems egregious, you and others should feel free to call it out
-
-asking for a favor of not conduct is itself egregious
-
-I can't imagine sending
-]
-
-[TODO: You could just say oops. You won't, but I'll be watching you.]
-
-
-[TODO— it's  kind of shocking, when Said said, "Of course people don't like being criticized", it's easy to think he was exaggerating, but it seems to be literally what's happening in the current dispute, where Habryka is citing that very description?!?! ]
