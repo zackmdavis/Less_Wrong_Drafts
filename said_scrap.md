@@ -5,8 +5,8 @@ sections—
 ✓ If "Every Individual Owns Their Own Judgment of You", Then the Ban Rationale Is Untenable
 ✓ Misrepresentations in Habryka's Analysis of Achmiz's Comments
 - User-Level Bans Are a Sufficient and Less Intrusive Remedy
-- Misrepresentations in Habryka's Characterization of Achmiz on Obligations to Reply
-_ The Ban Reneges on LW2's "Single Locus of Discussion" Mandate
+✓ Misrepresentations in Habryka's Characterization of Achmiz on Obligations to Reply
+_ The Ban Reneges on LW2's Single Locus of Discussion Mandate and Archipelago Doctrine
 - Effort Ratios Are Logically Irrelevant
 _ Misrepresentations in Habryka's Reports of Alleged Author Complaints About Achmiz
 _ Preventing "Relitigation" Is a Pretext for Suppressing Dissent
@@ -478,3 +478,13 @@ The repeated misunderstandings in this matter may be due to differing intuitions
 
 https://www.greaterwrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads/comment/3JAtEd3aF7oJNMivR
 > I currently model the extended rationality and AI Alignment community as a professional community
+
+
+
+https://www.greaterwrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform
+> If the criticism is valid but I ignore it, then readers would think less of me.
+>
+> They would be right to do so.
+
+
+I would find it troubling if Achmiz were being banned for his views on discourse norms. If someone thought, "Authors have an obligation to correct factual errors, and readers should think less of authors who refuse to do so," it doesn't seem like that should be grounds for being banned from _Less Wrong_: it's just an opinion that other users might agree or disagree with. I think the same should hold if the view is about "answering clarifying questions."
