@@ -112,15 +112,15 @@ The ban announcement claims that the moderators have told Achmiz "to please let 
 
 [^consent]: The point of a unilateral block feature is precisely that you shouldn't need someone's consent to get them to stop talking to you.
 
-The complaint about not "let[ting] authors moderate" seems to be _not_ be about attempts to evade the ban (_e.g._, by creating sockpuppet accounts), which have not occurred, but simply that Achmiz's comments elsewhere on the website (_e.g._, on his own shortform) may make users feel less comfortable banning him from their posts. Whether this constitutes not "let[ting] authors moderate" can't be assessed based on authors' feelings alone; the nature of the comments matters.
+The complaint about not "let[ting] authors moderate" seems to _not_ be about attempts to evade the ban (_e.g._, by creating sockpuppet accounts), which have not occurred, but simply that Achmiz's comments elsewhere on the website (_e.g._, on his own shortform) may make users feel less comfortable banning him from their posts. Whether this constitutes not "let[ting] authors moderate" can't be assessed based on authors' feelings alone; the nature of the comments matters.
 
 The offending comments seem to be that Achmiz has argued in moderation threads [that the existence of the user-ban functionality enables authors to abuse moderation tools to suppress their critics](https://www.lesswrong.com/posts/kyDsgQGHoLkXz6vKL/lw-team-is-adjusting-moderation-policy?commentId=mhTXYL5mjdvpmKxJv), noted on his own shortform [that he couldn't add further replies to a discussion that he had already participated in before being banned](https://www.lesswrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform?commentId=PS2qfuSz3BcqSDqhw), published on his own shortform [a comment that had failed to post because he didn't realize he had been banned](https://www.lesswrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform?commentId=CBnL4ZhxHpmso4yRi), responded on his own shortform [to a comment _about him_](https://www.lesswrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform?commentId=drtrD2ALnSvvWnXB8), and responded on his own shortform [to a comment stating that the author "was honestly curious what you [Achmiz] could mean here"](https://www.lesswrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform?commentId=oJMqAc3iq2Af9uGp7).
 
-These are all reasonable comments. It makes sense for users of a website to have opinions about the features that the website supports—and the complaint that the ban feature enables suppression of criticism is just straightforwardly true (even if one might think that [it has benefits that outweigh that cost](https://www.readthesequences.com/Policy-Debates-Should-Not-Appear-One-Sided)). It makes sense to want to state for the record that one is no longer able to reply to a discussion that one had been participating in, lest someone infer the weakness of one's position from one's non-response. (Indeed, as we've seen, Habyrka shares this concern deeply.) Having gone to the trouble of writing a comment and finding that it couldn't be posted, it makes sense to want to post it somewhere, for the effort to have not been a complete waste. If other people are _talking about you and your positions_ in a venue where you can't make corrections (as contrasted to them just ignoring your existence), it makes sense to want to post the corrections somewhere else.
+These are all reasonable comments. It makes sense for users of a website to have opinions about the features that the website supports—and the complaint that the ban feature enables suppression of criticism is just straightforwardly true (even if one might think that [it has benefits that outweigh that cost](https://www.readthesequences.com/Policy-Debates-Should-Not-Appear-One-Sided)). It makes sense to want to state for the record that one is no longer able to reply to a discussion that one had been participating in, lest someone infer the weakness of one's position from one's non-response. (Indeed, as we've seen, Habyrka shares this concern deeply.) Having gone to the trouble of writing a comment and finding that it couldn't be posted, it makes sense to want to post it somewhere, for the effort to have not been a complete waste. If other people are _talking about you and your positions_ in a venue where you can't make corrections (as contrasted to them silently ignoring your existence), it makes sense to want to post the corrections somewhere else.
 
 If Achmiz were using his shortform to harass authors simply for not wanting to talk to him, that would be a matter for moderator concern, but as I've just detailed, the record doesn't support that: every instance I can find of Achmiz supposedly not "let[tting] authors moderate as they desire" is a situation where a reasonable person would have an interest in speaking up. In the case where Achmiz scrutinized another user's ban history, [it was contextually relevant to the discussion of how the ban functionality is used in practice](https://www.lesswrong.com/posts/kyDsgQGHoLkXz6vKL/lw-team-is-adjusting-moderation-policy?commentId=tfyzoaDwti7GrSEKR); when instructed by a moderator to stop, Achmiz [complied](https://www.lesswrong.com/posts/kyDsgQGHoLkXz6vKL/lw-team-is-adjusting-moderation-policy?commentId=jzHxiHGvmw23ckJiF).
 
-The user ban functionality works as designed, to keep users from making comments on posts where they would be unwanted. Preventing banned users from writing on their own shortforms about things that a reasonable person would have an interest in writing about, is not desirable. No further moderator action was warranted.
+The user ban functionality works to prevent authors from receiving unwanted comments on their own posts. It's not desirable to prevent banned users from writing on their own shortforms about things that a reasonable person would have an interest in writing about. No further moderator action was warranted.
 
 
 ## Misrepresentations in Habryka's Characterization of Achmiz on Obligations to Reply
@@ -139,7 +139,7 @@ The popular misunderstanding of Achmiz's position may owe in part to Achmiz's 20
 >
 > If I write a comment and you think it is a _bad_ comment (useless, obviously wrong, etc.), by all means downvote and ignore. Why not? And if I write _another_ comment that says "you have an _obligation_ to reply!"—I wouldn't say that, because I don't think that, but let's say that I did—downvote and ignore that comment, too! Do this no matter who the commenter is!
 
-The reason this 2023 comment is compatible with the controversial 2020 remarks is because Achmiz believes that (what he considers) simple requests for definitions and examples _are_ productive, even if not all comments are productive. According to this view, a request for examples of a phenomenon should not be hard to satisfy if the phenomenon is real; a request for a definition of an niche term should not be hard to satify if term means anything. Ideally, the answers should have already been in the post; the fact that commenters have to ask is a manifestation of the post not being complete.
+The reason this 2023 comment is compatible with the controversial 2020 remarks is because Achmiz believes that (what he considers) simple requests for definitions and examples _are_ productive, even if not all comments are productive. According to this view, a request for examples of a phenomenon should not be hard to satisfy if the phenomenon is real; a request for a definition of an niche term should not be hard to satisfy if term means anything. Ideally, the answers should have already been in the post; the fact that commenters have to ask is a manifestation of the post not being complete.
 
 Elsewhere, Achmiz [wrote in 2023 that](https://www.lesswrong.com/posts/FrR78Wy6s79keSuDe/actually-personal-attacks-after-object-level-arguments-is-a?commentId=QDaY64Su9jh2yLjau) "it's not necessarily (and, indeed, not likely to be) worth your time to engage with _all_ of your critics", and in June 2025, [proposed "ignore" functionality as an alternative to user bans](https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=7jhPH5GBvkgG6zpq7).[^ignore]
 
@@ -194,7 +194,7 @@ And given that the market clears, there's no good reason to censor probing quest
 
 
 
-## Misrepresentations in Habryka's Reports of Alleged Author Complaints About Achmiz
+## Misrepresentations in Habryka's Claims of Alleged Author Complaints About Achmiz
 
 Footnote 1 of the ban post claims that "many top authors cit[e] [Achmiz] as a top reason for why they do not want to post on the site, or comment here". I find this claim very surprising.
 
@@ -264,3 +264,29 @@ I argue that the same goes for "emotional tallness." (It's a trait relevant to r
 
 ## We Don't Actually Respect You
 
+In the comments, Habryka [contrasts two theories](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=uyobAZy5iYAAWzSSi) of Achmiz's behavior. According to one theory, which Habryka thinks is false:
+
+> Said is indeed really actually not intending to sneer at people all the time, is not intending to summon up lots of social judgement, does not carry emnity in his heart, and is just writing comments, usually with disagreement, sometimes with approval. Maybe he feels some things while writing, sometimes those feelings are negative, but it's not that there is some overarching complicated optimization process that tries to get most authors on LessWrong to leave and stop doing whatever they are doing. They are just comments, trying to point out flaws and correct the record. For reasons of local validity.
+
+Whereas in contrast, Habryka believes that:
+
+> Said is trying to unilaterally enforce social norms of his own choosing while denying any such thing is going on, by making lots of comments that imply the people he doesn't like are idiots, or are making elementary mistakes, or are being deceptive, or lack common sense, but shift and twist when pushed on
+
+I find this supposed dichotomy baffling. It's not even that I disagree with the second theory, as such. Rather, I'm perplexed at the ontology implied by "unilaterally enforce social norms of his own choosing while denying any such thing is going on." The offered examples include implying that people are "being deceptive" or "making elementary mistakes"—but sometimes people really are being deceptive or making elementary mistakes.[^elementary]
+
+[^elementary]: With respect to some contextually salient standard of _elementary_. In the context of studying differential calculus, asserting that $(x + y)^2 = x^2 + y^2$ in a calculation step is an elementary mistake (even if it doesn't seem "elementary" to someone just learning algebra).
+
+
+https://benjaminrosshoffman.com/can-crimes-be-discussed-literally/
+https://www.lesswrong.com/posts/LyJNgxcNNSzmFxF3g/the-relationship-between-social-punishment-and-shared-maps
+
+ * It's not even that I _disagree_ with B; it's that this is such a _bizarre_ ontology. Yeah, you're right not notice that he thinks people are idiots. That's his opinion. You can't prevent people from making judgements!! What would that even look like?!
+ * Habryka says Achmiz is "summons judgement and punishment, but which as soon as its called out disappears" [...] "maybe any attempt to disentangle the things that are going on and to try to make some kind of compelling demonstration that I and others are not insane is doomed."
+ * If you're worried that efforts to demonstrate that you are not insane are doomed, it's worth considering that it might be _because you are insane_.
+ * The specific form of the insanity is being unable to intolerate someone with independent judgement and high standards. 
+ * The complaint is Achmiz is being deceptive by not making his judgements explicit, being passive aggressive
+ * That's because Said is being polite. Well, I'm not, and I'll be more explicit. We don't actually respect you! We just don't!
+ * There's actually a funny recursive angle to it: the very fact that you can't handle someone being unwilling to suck your dick without your minds breaking down is _why_ we don't respect you. If you just said, "Well, I disagree", without trying to jawbone everyone into sucking your dick, the disrespect would be much milder!
+
+ * in other venues, Habyrka has said, "yeah, of course people will judge each other", but it's hard to reconcile with his statements here—it seems like he doesn't actually have a coherent theory other than, "I'm the boss"—which Claude independently points out could be a governance model (Alicorn's "modularity"), but the dishonesty is that that's not what's being claimed.
+ * His "please don't critique my conduct" thing makes this much worse!!!

@@ -4,11 +4,11 @@ sections—
 ✓ An Inversion of Values
 ✓ If "Every Individual Owns Their Own Judgment of You", Then the Ban Rationale Is Untenable
 ✓ Misrepresentations in Habryka's Analysis of Achmiz's Comments
-- User-Level Bans Are a Sufficient and Less Intrusive Remedy
+✓ User-Level Bans Are a Sufficient and Less Intrusive Remedy
 ✓ Misrepresentations in Habryka's Characterization of Achmiz on Obligations to Reply
 _ The Ban Reneges on LW2's Single Locus of Discussion Mandate and Archipelago Doctrine
 - Effort Ratios Are Logically Irrelevant
-_ Misrepresentations in Habryka's Reports of Alleged Author Complaints About Achmiz
+_ Misrepresentations in Habryka's Claims of Alleged Author Complaints About Achmiz
 _ Preventing "Relitigation" Is a Pretext for Suppressing Dissent
 _ Preventing "Fights of Attrition" Is a Pretext for Stonewalling
 - Replies to Vaniver on the Ideological Turing Test and "Emotional Tallness"
@@ -376,17 +376,14 @@ You could just do nothing: https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/
 -----
 
 
-A recurring theme in the accusations against Achmiz is that Achmiz is allegedly being deceptive (or potentially even "gaslighting"[^g-word]) by disrespecting other users and then denying that disrespect was intended. _Less Wrong_ moderator Ben Pace, for example, [characterizes Achmiz as](https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/BJ2j8sQThHzDYNFo9) "holding extreme disdain and disrespect for interlocutors while being committed to never saying anything explicitly or even denying that it is the case."
 
-[^g-word]: In the comments, Habryka [writes that](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=uyobAZy5iYAAWzSSi) he "feel[s] some temptation to try to restore some of [his] sanity by providing compelling demonstrations of what has felt like gaslighting to me", although that that wasn't the primary motivation for the ban announcement post.
-
-I can't speak for Said (and he is no longer permitted to speak for himself), but if I may be permitted to speculate, I think what's going on here is that Said is _polite_. He's a polite person! He's not going to call you a phony, because personal insults like that are contrary to the etiquette of a civilized discussion forum.
-
-Rather, what he does do, and what provokes the accusations of dishonesty, is ask pointed questions such that some people will (rightly or wrongly) _infer that he's thinking_ that they're a phony. The complaint seems to be that this is worse, because passive-aggression is purportedly worse than overt aggression. Habryka [writes in the comments that](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=uyobAZy5iYAAWzSSi) he "think[s] [he] could handle disdain fine, if it was carried openly, and could be argued with."
 
 I really have to question whether openly carried disdain would be better. For myself, I often have negative-valenced judgements of people on this forum. I usually don't articulate them in my comments, partially because that would be rude, but more fundamentally because it would be _off-topic_. This is a website for discussing topics like probability theory, the philosophy of science, the psychology of decisionmaking, or artificial intelligence. "Which users of this website does Zack M. Davis think are phonies" doesn't make the cut. That's not what people are here to read.
 
 Am I ... somehow wrong about that? Have I been deceiving and gaslighting people this whole time by engaging with the substance of their ideas and trying to keep my thoughts about how stupid and dishonest they are to myself?
+
+
+
 
 Well, unlike my friend Said, I am not a polite person and am not committed to never saying anything publicly nor denying my personal feelings, so if it helps, I'm happy to clarify that I hold extreme disdain and disrespect for the entirety of the _Less Wrong_ mod team and a large fraction of the userbase (at a minimum, everyone who upvoted the ["Banning Said Achmiz" post](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation)). I think they are dishonest cowards who deserve the contempt of all serious intellectuals—and I want to be very clear about why, because I know many would think it absurd to apply such heated language to a mere forum moderation dispute, and it's going to take me at least a few sentences to cross the [inferential distance](https://www.readthesequences.com/Expecting-Short-Inferential-Distances).
 
@@ -420,13 +417,16 @@ What's is particularly striking about Habryka's persecution of Achmiz is Habryka
 
 
 
-In the comments, Habryka [contrasts two views](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=uyobAZy5iYAAWzSSi). According to one view, which Habryka thinks is false:
+A recurring theme in the accusations against Achmiz is that Achmiz is allegedly being deceptive (or potentially even "gaslighting"[^g-word]) by disrespecting other users and then denying that disrespect was intended. Pace, for example, [characterizes Achmiz as](https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/BJ2j8sQThHzDYNFo9) "holding extreme disdain and disrespect for interlocutors while being committed to never saying anything explicitly or even denying that it is the case."
 
-> Said is indeed really actually not intending to sneer at people all the time, is not intending to summon up lots of social judgement, does not carry emnity in his heart, and is just writing comments, usually with disagreement, sometimes with approval. Maybe he feels some things while writing, sometimes those feelings are negative, but it's not that there is some overarching complicated optimization process that tries to get most authors on LessWrong to leave and stop doing whatever they are doing. They are just comments, trying to point out flaws and correct the record. For reasons of local validity.
+[^g-word]: In the comments, Habryka [writes that](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=uyobAZy5iYAAWzSSi) he "feel[s] some temptation to try to restore some of [his] sanity by providing compelling demonstrations of what has felt like gaslighting to me", although that that wasn't the primary motivation for the ban announcement post.
 
-Whereas in contrast, Habryka believes that:
+I can't speak for Said (and he is no longer permitted to speak for himself), but if I may be permitted to speculate, I think what's going on here is that Said is _polite_. He's a polite person! He's not going to call you a phony, because personal insults like that are contrary to the etiquette of a civilized discussion forum.
 
-> Said is trying to unilaterally enforce social norms of his own choosing while denying any such thing is going on, by making lots of comments that imply the people he doesn't like are idiots, or are making elementary mistakes, or are being deceptive, or lack common sense, but shift and twist when pushed on
+Rather, what he does do, and what provokes the accusations of dishonesty, is ask pointed questions such that some people will (rightly or wrongly) _infer that he's thinking_ that they're a phony. The complaint seems to be that this is worse, because passive-aggression is purportedly worse than overt aggression. Habryka [writes in the comments that](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=uyobAZy5iYAAWzSSi) he "think[s] [he] could handle disdain fine, if it was carried openly, and could be argued with."
+
+
+
 
 I'm not even sure that I disagree with the second view as such. Rather, "unilaterally enforce social norms of his own choosing" is just such a bizarrely tendentious description of having stongly-held views that I don't understand why Habryka expects anyone to take him seriously.
 
