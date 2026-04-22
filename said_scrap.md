@@ -260,7 +260,7 @@ Yeah, and what's the reply?
 
 JDP on normal people—
 
->  Which, to give some insight into the character of normal people, the personality disorder most people have is the sort of thing where they are so sensitive to status and offense that they will intuitively pick up on the fact that not trying to flatter them means you don't actually care about them liking you very much and therefore be offended when you tell them they're wrong not just by whatever immediate status implications them being wrong might have but by the fact of you being willing to tell them that implying you are not so interested in having them like you as to try flattering their wrongness.
+> Which, to give some insight into the character of normal people, the personality disorder most people have is the sort of thing where they are so sensitive to status and offense that they will intuitively pick up on the fact that not trying to flatter them means you don't actually care about them liking you very much and therefore be offended when you tell them they're wrong not just by whatever immediate status implications them being wrong might have but by the fact of you being willing to tell them that implying you are not so interested in having them like you as to try flattering their wrongness.
 
 -----
 
@@ -467,6 +467,8 @@ asking for a favor of not conduct is itself egregious
 I can't imagine sending
 ]
 
+Habryka has no problem criticizing other people's conduct: https://x.com/ohabryka/status/2046670463846498464
+
 [TODO: You could just say oops. You won't, but I'll be watching you.]
 
 
@@ -475,10 +477,8 @@ I can't imagine sending
 
 The repeated misunderstandings in this matter may be due to differing intuitions on what it even means to be obligated to reply, and to what extent such obligations are recognized objectively _versus_ negotiated as social convention. The 2020 thread turns on the question of whether an author who ignores questions should be "interpreted to be ignorant." But whether the author is ignorant is a fact about reality.
 
-
 https://www.greaterwrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads/comment/3JAtEd3aF7oJNMivR
 > I currently model the extended rationality and AI Alignment community as a professional community
-
 
 
 https://www.greaterwrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform
@@ -486,5 +486,9 @@ https://www.greaterwrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform
 >
 > They would be right to do so.
 
-
 I would find it troubling if Achmiz were being banned for his views on discourse norms. If someone thought, "Authors have an obligation to correct factual errors, and readers should think less of authors who refuse to do so," it doesn't seem like that should be grounds for being banned from _Less Wrong_: it's just an opinion that other users might agree or disagree with. I think the same should hold if the view is about "answering clarifying questions."
+
+https://benjaminrosshoffman.com/can-crimes-be-discussed-literally/
+https://www.lesswrong.com/posts/LyJNgxcNNSzmFxF3g/the-relationship-between-social-punishment-and-shared-maps
+
+It is completely unreasonable to demand that strangers on an internet forum pretend that they like you! The world's purportedly (perhaps formerly) elite forum on the art of human rationality is not your therapy session!

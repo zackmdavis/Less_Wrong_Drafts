@@ -16,7 +16,7 @@ A few years ago, I was disappointed when the conclusion of a post that I had lab
 
 To help me figure out how revise it, I emailed Said, explaining what I meant. He had some criticisms. I proposed a rewrite. He said the rewrite was still confusing. I wrote some additional explanation, particularly of an analogy in the passage in question which I was quite fond of. Said was unmoved and pointed out some relevant disanalogies. I cut the analogy from the rewrite entirely, which met with Said's tentative approval.
 
-The revised passage is less engaging writing than the original. (It was a really clever analogy.) But it's _clear_, and for that I have Said to thank—not just for his generosity with his time, but for his steadfastness. A lot of people in that situation wouldn't have stuck to their position over such a long back-and-forth (and back-and-forth-and-back-and-forth): their acute social perception would have noticed that I was fond of the analogy and "mercifully" told me what I wanted to hear—at the cost of making the post worse. In contast, Said, no less socially perceptive, has the strength of will to not make sociality his master. The plea of a friend and the threat of an enemy are equally ineffective at budging him from calling it as he sees it (and a true friend wouldn't ask him to lie to them).
+The revised passage is less engaging writing than the original. (It was a really clever analogy.) But it's _clear_, and for that I have Said to thank—not just for his generosity with his time, but for his steadfastness. A lot of people in that situation wouldn't have stuck to their position over such a long back-and-forth (and back-and-forth-and-back-and-forth): their acute social perception would have noticed that I was fond of the analogy and "mercifully" told me what I wanted to hear—at the cost of making the post worse. In contrast, Said, no less socially perceptive, has the strength of will to not make sociality his master. The plea of a friend and the threat of an enemy are equally ineffective at budging him from calling it as he sees it (and a true friend wouldn't ask him to lie to them).
 
 I've been blessed with many friends and collaborators in this life, each with their own unique skillset. Some of them are prolifically generative, gushing with a dozen theories and metaphors and frames at the slightest prompt. Some of them know extremely advanced mathematics and can prove in minutes what would take me hours just to understand the theorem statement. Some of them are kind and empathetic, ready to lend a sympathetic ear to anyone when the world's cruelties seem too much to bear.
 
@@ -272,17 +272,26 @@ Whereas in contrast, Habryka believes that:
 
 > Said is trying to unilaterally enforce social norms of his own choosing while denying any such thing is going on, by making lots of comments that imply the people he doesn't like are idiots, or are making elementary mistakes, or are being deceptive, or lack common sense, but shift and twist when pushed on
 
-I find this supposed dichotomy baffling. It's not even that I disagree with the second theory, as such. Rather, I'm perplexed at the ontology implied by "unilaterally enforce social norms of his own choosing while denying any such thing is going on." The offered examples include implying that people are "being deceptive" or "making elementary mistakes"—but sometimes people really are being deceptive or making elementary mistakes.[^elementary]
+This is a curious dichotomy. It's not even that I disagree with the second theory, as such. Rather, I'm perplexed at the ontology implied by "unilaterally enforce social norms of his own choosing while denying any such thing is going on." The offered examples include implying that people are "being deceptive" or "making elementary mistakes"—but sometimes people really are being deceptive or making elementary mistakes.[^elementary] Is there any way to [articulate those as literal hypotheses about the world](https://www.lesswrong.com/posts/LyJNgxcNNSzmFxF3g/the-relationship-between-social-punishment-and-shared-maps) without [the thought itself being an attempt to enforce norms](https://www.lesswrong.com/posts/N9oKuQKuf7yvCCtfq/can-crimes-be-discussed-literally/)? What, exactly, is the difference supposed to be between "trying to point out flaws and correct the record" (permissible, in Habryka's view) and "trying to unilaterally enforce social norms of his own choosing" (apparently grounds for banning, at least if you deny it)?
 
-[^elementary]: With respect to some contextually salient standard of _elementary_. In the context of studying differential calculus, asserting that $(x + y)^2 = x^2 + y^2$ in a calculation step is an elementary mistake (even if it doesn't seem "elementary" to someone just learning algebra).
+[^elementary]: With respect to some contextually salient standard of _elementary_. In the context of studying differential calculus, asserting that $(x + y)^2 = x^2 + y^2$ in a calculation step is an elementary mistake (even if it doesn't seem "elementary" to someone just learning algebra). In the context of a rationality website, if someone points out that one of your purported examples of a phenomenon is actually not an example, it would be an elementary mistake to deny that that's [evidence against the phenomenon](https://www.readthesequences.com/Conservation-Of-Expected-Evidence).
+
+I won't say there's no difference; I think Habryka is pointing to a real distinction, even if it's not the most intuitive for me to describe. If I had to guess, I'd venture that it has something to do with the warmth and respect one has for an interlocutor. Even when pointing out flaws, there's a way to convey that warmth and respect through subtle wording choices—as if to put a hand on the other's shoulder and say: hey, buddy, while I'm disagreeing with the literal thing you said, you shouldn't feel bad about it; I'm still on your side; I still care about you.
+
+Said doesn't send those signals. Said doesn't make people feel like he cares about them. People can tell. That's why he has to be destroyed.
+
+Habryka struggles to explain what he was trying to accomplish with the ban announcement:
+
+> And then there is also a third thing, which makes me want to be particularly detailed and concrete and give lots of arguments and models here, which is more relevant for Said in-particular. And that thing is the feeling of being insane, of at the same time really feeling like something hurtful and harmful is happening, while tons of people around you are denying that any such thing is going on, is at the core of a lot of the complaints I have received over the years about Said, and is also at the core of my own bad experiences with Said. More specifically the thing where I read a top-level that I cannot help but read in a sneering voice, dripping with judgement, pointing a finger at me or the author in a way that summons judgement and punishment, but which as soon as its called out disappears, denies it ever existed, or keeps slipping away, redefining itself in endless circles.
+>
+> And I don't know, maybe any attempt to disentangle the things that are going on and to try to make some kind of compelling demonstration that I and others are not insane is doomed.
+
+I submit that if you're worried that any attempt to compellingly explain why you're not insane is doomed, that might be _because you are insane_.
 
 
-https://benjaminrosshoffman.com/can-crimes-be-discussed-literally/
-https://www.lesswrong.com/posts/LyJNgxcNNSzmFxF3g/the-relationship-between-social-punishment-and-shared-maps
 
- * It's not even that I _disagree_ with B; it's that this is such a _bizarre_ ontology. Yeah, you're right not notice that he thinks people are idiots. That's his opinion. You can't prevent people from making judgements!! What would that even look like?!
- * Habryka says Achmiz is "summons judgement and punishment, but which as soon as its called out disappears" [...] "maybe any attempt to disentangle the things that are going on and to try to make some kind of compelling demonstration that I and others are not insane is doomed."
- * If you're worried that efforts to demonstrate that you are not insane are doomed, it's worth considering that it might be _because you are insane_.
+
+
  * The specific form of the insanity is being unable to intolerate someone with independent judgement and high standards. 
  * The complaint is Achmiz is being deceptive by not making his judgements explicit, being passive aggressive
  * That's because Said is being polite. Well, I'm not, and I'll be more explicit. We don't actually respect you! We just don't!
@@ -290,3 +299,5 @@ https://www.lesswrong.com/posts/LyJNgxcNNSzmFxF3g/the-relationship-between-socia
 
  * in other venues, Habyrka has said, "yeah, of course people will judge each other", but it's hard to reconcile with his statements here—it seems like he doesn't actually have a coherent theory other than, "I'm the boss"—which Claude independently points out could be a governance model (Alicorn's "modularity"), but the dishonesty is that that's not what's being claimed.
  * His "please don't critique my conduct" thing makes this much worse!!!
+
+ * then get into Pace's "questions at cost of status", Habryka's strawman ban threat
