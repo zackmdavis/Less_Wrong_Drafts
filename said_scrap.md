@@ -378,32 +378,25 @@ You could just do nothing: https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/
 
 
 
-I really have to question whether openly carried disdain would be better. For myself, I often have negative-valenced judgements of people on this forum. I usually don't articulate them in my comments, partially because that would be rude, but more fundamentally because it would be _off-topic_. This is a website for discussing topics like probability theory, the philosophy of science, the psychology of decisionmaking, or artificial intelligence. "Which users of this website does Zack M. Davis think are phonies" doesn't make the cut. That's not what people are here to read.
-
-Am I ... somehow wrong about that? Have I been deceiving and gaslighting people this whole time by engaging with the substance of their ideas and trying to keep my thoughts about how stupid and dishonest they are to myself?
 
 
+Does the collective just want to express disapproval of people the collective has 
 
 
-Well, unlike my friend Said, I am not a polite person and am not committed to never saying anything publicly nor denying my personal feelings, so if it helps, I'm happy to clarify that I hold extreme disdain and disrespect for the entirety of the _Less Wrong_ mod team and a large fraction of the userbase (at a minimum, everyone who upvoted the ["Banning Said Achmiz" post](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation)). I think they are dishonest cowards who deserve the contempt of all serious intellectuals—and I want to be very clear about why, because I know many would think it absurd to apply such heated language to a mere forum moderation dispute, and it's going to take me at least a few sentences to cross the [inferential distance](https://www.readthesequences.com/Expecting-Short-Inferential-Distances).
 
-It's not that Achmiz's comments were such a large proportion of the value of the website that it's vastly worse without him. That's obviously just not true. If Said had found a new hobby and stopped commenting on his own accord, it would probably take a while for me to notice, and I wouldn't be particularly upset about it.
+https://www.lesswrong.com/posts/cekDpXqjugt5Q3JnC/community-misconduct-disputes-are-not-about-facts
 
-Even more obviously, it's not that Achmiz is right about everything; I've had my [disagreements with him](https://www.lesswrong.com/posts/aofsjKJ8CZTHYkX7F/on-the-normativity-of-debate-a-discussion-with-said-achmiz), as I've had [with anyone](https://quoteinvestigator.com/2015/04/04/agree/).
 
-It's about a principle that I've spent the last decade of my life[^more-ways] fighting for, that truth matters, and specifically, that truth matters more than people's feelings. 
 
-[^more-ways]: Given the existential risk situation, potentially in more ways than one.
+
+
 
 [TODO: need to argue why Said represents "Truth" and not just noise given that I'm fine with censoring noise; I'm not claiming that Said's speech is gospel; I'm claiming that if you censor because it hurts your feelings, you're damaging the truth-seeking process, which is different from Said himself being right]
 
 [TODO: we don't want AI builders to behave like this]
 
-[TODO—three scenarios and DirectedEvolution's rebuttal. This is obviously, obviously the kind of content we want on Less Wrong. No one would read this and claim it's slush-pile noise. the selection effect for phonies and bullshitters who can't even coneive of the concept of independent judgement]
 
-Pace [writes disapprovingly](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=BJ2j8sQThHzDYNFo9) of "any commenter being able to demand answers to questions at the risk of the post-author's status".
 
-Well, _yes!_ How did Pace think status worked, exactly? "Status" is just other people's beliefs about you. People are going to update their beliefs about you based on their observations of your behavior.
 
 If someone asks you a question, and you don't answer, there are many hypotheses that could explain that observation. Maybe you were busy; maybe you died; maybe you missed the notification; maybe it was a stupid question that's not worth your time. Maybe.
 
@@ -411,61 +404,16 @@ Another hypothesis is: maybe it was a good question and you know it, you don't h
 
 Which hypotheses gain probability-mass in the eyes of readers at the expense of which others is a complicated question, but clearly, "you don't have an answer and you know it" can't be ruled out _a priori_.
 
-_Your status is always at risk._ You wouldn't even want it not to be: by [conservation of expected evidence](https://www.readthesequences.com/Conservation-Of-Expected-Evidence), [gaining status requires the possibility of losing status](https://www.lesswrong.com/posts/G5TwJ9BGxcgh5DsmQ/yes-requires-the-possibility-of-no). If Pace [thinks this stance is](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=BJ2j8sQThHzDYNFo9) "good at sucking energy out of people with little intellectual productivity as a result", he's describing people whose energy is dependent on _unaccountability_—who will only work on a guarantee that their work _won't_ be judged on the merits. I can believe that such people exist; I have much more trouble believing that their work is good on the merits.
+
+
+
+You wouldn't even want it not to be: by [conservation of expected evidence](https://www.readthesequences.com/Conservation-Of-Expected-Evidence), [gaining status requires the possibility of losing status](https://www.lesswrong.com/posts/G5TwJ9BGxcgh5DsmQ/yes-requires-the-possibility-of-no). If Pace [thinks this stance is](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=BJ2j8sQThHzDYNFo9) "good at sucking energy out of people with little intellectual productivity as a result", he's describing people whose energy is dependent on _unaccountability_—who will only work on a guarantee that their work _won't_ be judged on the merits. I can believe that such people exist; I have much more trouble believing that their work is good on the merits.
 
 What's is particularly striking about Habryka's persecution of Achmiz is Habryka's apparent inability to understand the concept of independent judgement, the idea of not being dependent on the approval of others.
 
 
-
-A recurring theme in the accusations against Achmiz is that Achmiz is allegedly being deceptive (or potentially even "gaslighting"[^g-word]) by disrespecting other users and then denying that disrespect was intended. Pace, for example, [characterizes Achmiz as](https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/BJ2j8sQThHzDYNFo9) "holding extreme disdain and disrespect for interlocutors while being committed to never saying anything explicitly or even denying that it is the case."
-
-[^g-word]: In the comments, Habryka [writes that](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=uyobAZy5iYAAWzSSi) he "feel[s] some temptation to try to restore some of [his] sanity by providing compelling demonstrations of what has felt like gaslighting to me", although that that wasn't the primary motivation for the ban announcement post.
-
-I can't speak for Said (and he is no longer permitted to speak for himself), but if I may be permitted to speculate, I think what's going on here is that Said is _polite_. He's a polite person! He's not going to call you a phony, because personal insults like that are contrary to the etiquette of a civilized discussion forum.
-
-Rather, what he does do, and what provokes the accusations of dishonesty, is ask pointed questions such that some people will (rightly or wrongly) _infer that he's thinking_ that they're a phony. The complaint seems to be that this is worse, because passive-aggression is purportedly worse than overt aggression. Habryka [writes in the comments that](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=uyobAZy5iYAAWzSSi) he "think[s] [he] could handle disdain fine, if it was carried openly, and could be argued with."
-
-
-
-
-I'm not even sure that I disagree with the second view as such. Rather, "unilaterally enforce social norms of his own choosing" is just such a bizarrely tendentious description of having stongly-held views that I don't understand why Habryka expects anyone to take him seriously.
-
-[TODO: explain]
-
-In a particularly telling disclosure earlier in the same comment, Habryka [writes](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=uyobAZy5iYAAWzSSi):
-
-> And then there is also a third thing, which makes me want to be particularly detailed and concrete and give lots of arguments and models here, which is more relevant for Said in-particular. And that thing is the feeling of being insane, of at the same time really feeling like something hurtful and harmful is happening, while tons of people around you are denying that any such thing is going on, is at the core of a lot of the complaints I have received over the years about Said, and is also at the core of my own bad experiences with Said. More specifically the thing where I read a top-level that I cannot help but read in a sneering voice, dripping with judgement, pointing a finger at me or the author in a way that summons judgement and punishment, but which as soon as its called out disappears, denies it ever existed, or keeps slipping away, redefining itself in endless circles.
->
-> And I don't know, maybe any attempt to disentangle the things that are going on and to try to make some kind of compelling demonstration that I and others are not insane is doomed.
-
-If you're worried that efforts to demonstrate that you are not insane are doomed, it's worth considering that it might be _because you are insane_.
-
-
-So that's my disdain, carried openly. That's what I think of you people.
-
-Is that ... better? I really have to question whether that's better.
-
 [TODO— I would have hoped to just stick to the facts, but if you're going to make this about persecuting secret feelings of disrespect, I will comply. There's a funny circularity to it. Misgivings about my drama budget]
 
-[TODO—
-my comment about "cry-bullying" abd "deranged censorship" &c. wasn't a strawman, because I meant what I said literally, and I can point to the actual behavior—I'm not saying they _self-identify_ as censors and cry-bullies; I mean that people who can't handle the "Hm" comment are in fact &c.
-I think Habryka is bluffing when he says he'll ban me for this; it would be really obvious to everyone how corrupt that is
-
-https://www.greaterwrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines/comment/5fmuwfkQGuZR4ze3A  
-
-> strawmanning all (or really any) authors who have preferences about people not being super aggro in their comment threads as “pathetic cry-bullying” and “calling for draconian and deranged censorship policies” is indeed one of the things that will get you banned from this site on other threads! You have been warned!
-
-footnote: does other threads include my own?
-]
-
-[TODO—
-> I would appreciate some courtesy[3] to keep discussion to the principles and decision-level instead of critiques of my personal behavior, as indeed much of the cost of moderation is measured in having any moderation-adjacent action be torn apart and be requested to be justified or defended.
-> [3] though of course in as much as something seems egregious, you and others should feel free to call it out
-
-asking for a favor of not conduct is itself egregious
-
-I can't imagine sending
-]
 
 Habryka has no problem criticizing other people's conduct: https://x.com/ohabryka/status/2046670463846498464
 
@@ -492,3 +440,14 @@ https://benjaminrosshoffman.com/can-crimes-be-discussed-literally/
 https://www.lesswrong.com/posts/LyJNgxcNNSzmFxF3g/the-relationship-between-social-punishment-and-shared-maps
 
 It is completely unreasonable to demand that strangers on an internet forum pretend that they like you! The world's purportedly (perhaps formerly) elite forum on the art of human rationality is not your therapy session!
+
+
+
+ * His "please don't critique my conduct" thing makes this much worse!!!
+ * Habryka's strawman ban threat, but I meant what I said
+
+ * The complaint is Achmiz is being deceptive by not making his judgements explicit, being passive aggressive
+ * That's because Said is being polite. Well, I'm not, and I'll be more explicit. We don't actually respect you! We just don't!
+ * There's actually a funny recursive angle to it: the very fact that you can't handle someone being unwilling to suck your dick without your minds breaking down is _why_ we don't respect you. If you just said, "Well, I disagree", without trying to jawbone everyone into sucking your dick, the disrespect would be much milder!
+
+ * in other venues, Habyrka has said, "yeah, of course people will judge each other", but it's hard to reconcile with his statements here—it seems like he doesn't actually have a coherent theory other than, "I'm the boss"—which Claude independently points out could be a governance model (Alicorn's "modularity"), but the dishonesty is that that's not what's being claimed.
