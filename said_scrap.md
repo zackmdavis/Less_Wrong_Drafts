@@ -7,11 +7,10 @@ sections—
 ✓ User-Level Bans Are a Sufficient and Less Intrusive Remedy
 ✓ Misrepresentations in Habryka's Characterization of Achmiz on Obligations to Reply
 _ The Ban Reneges on LW2's Single Locus of Discussion Mandate and Archipelago Doctrine
-- Effort Ratios Are Logically Irrelevant
+✓ Effort Ratios Are Logically Irrelevant
 _ Misrepresentations in Habryka's Claims of Alleged Author Complaints About Achmiz
 _ Preventing "Relitigation" Is a Pretext for Suppressing Dissent
-_ Preventing "Fights of Attrition" Is a Pretext for Stonewalling
-- Replies to Vaniver on the Ideological Turing Test and "Emotional Tallness"
+✓ Replies to Vaniver on the Ideological Turing Test and "Emotional Tallness"
 - We Don't Actually Respect You
 
 
@@ -451,3 +450,7 @@ It is completely unreasonable to demand that strangers on an internet forum pret
  * There's actually a funny recursive angle to it: the very fact that you can't handle someone being unwilling to suck your dick without your minds breaking down is _why_ we don't respect you. If you just said, "Well, I disagree", without trying to jawbone everyone into sucking your dick, the disrespect would be much milder!
 
  * in other venues, Habyrka has said, "yeah, of course people will judge each other", but it's hard to reconcile with his statements here—it seems like he doesn't actually have a coherent theory other than, "I'm the boss"—which Claude independently points out could be a governance model (Alicorn's "modularity"), but the dishonesty is that that's not what's being claimed.
+
+
+
+I have to cut this: In the presence of such weaponization being endorsed by leaders who have sworn to uphold the ideals of truthseeking in the face of the apocalypse, I feel the emotion that fits the facts—specifically, incandescent rage.
