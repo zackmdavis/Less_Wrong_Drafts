@@ -127,7 +127,12 @@ The user ban functionality works to prevent authors from receiving unwanted comm
 
 Habryka claims that "Said himself does not think [ignoring his comments is] a valid option", [citing a 2020 comment by Achmiz on obligations to reply to comments asking for definitions or examples](https://www.lesswrong.com/posts/pC74aJyCRgns6atzu/meta-discussion-from-circling-as-cousin-to-rationality?commentId=umfT3A2Xc5C7uzjdQ), but it's not clear what this adds to the case against users simply banning Achmiz from their own posts: it's weird to cite Achmiz's stance on obligations to reply to support the claim that ignoring him is not an option given that _you don't agree with him about obligations to reply_. 
 
-Moreover, quoting the 2020 comment out of context conveys a mistaken impression of Achmiz's views, which Achmiz [clarified in a subsequent comment the same day](https://www.lesswrong.com/posts/pC74aJyCRgns6atzu/meta-discussion-from-circling-as-cousin-to-rationality?commentId=kS4BfYJuZ8ZcwuwfB). In [the clarifying comment from the 2020 thread](https://www.lesswrong.com/posts/pC74aJyCRgns6atzu/meta-discussion-from-circling-as-cousin-to-rationality?commentId=kS4BfYJuZ8ZcwuwfB), Achmiz states, "I'm not saying that there's a specific obligation for a post author to post a reply comment, using the Less Wrong forum software, directly to any given comment." Rather, Achmiz explains, the need for a clarifying question to be answered could be met in any number of other ways, such as being addressed in future work by the author, or by someone else other than the author answering the question or linking to an answer elsewhere. The point is not to impose a legalistic burden on the author, but for the question to actually get answered. The "obligation" to reply is meant in the same sense that one has an "obligation" to provide evidence, cite sources, or correct factual errors: it derives its normative force from its truth-tracking function, not mere social convention.
+Moreover, quoting the 2020 comment out of context conveys a mistaken impression of Achmiz's views, which Achmiz [clarified in a subsequent comment the same day](https://www.lesswrong.com/posts/pC74aJyCRgns6atzu/meta-discussion-from-circling-as-cousin-to-rationality?commentId=kS4BfYJuZ8ZcwuwfB). In [the clarifying comment from the 2020 thread](https://www.lesswrong.com/posts/pC74aJyCRgns6atzu/meta-discussion-from-circling-as-cousin-to-rationality?commentId=kS4BfYJuZ8ZcwuwfB), Achmiz states, "I'm not saying that there's a specific obligation for a post author to post a reply comment, using the Less Wrong forum software, directly to any given comment." Rather, Achmiz explains, the need for a clarifying question to be answered could be met in any number of other ways, such as being addressed in future work by the author, or by someone else other than the author answering the question or linking to an answer elsewhere. The point is not to impose a legalistic burden on the author, but for the question to actually get answered. The "obligation" to reply is meant in the same sense that one has an "obligation" to provide evidence, cite sources, or correct factual errors: it derives its normative force from its truth-tracking function, not mere social convention.[^obligation]
+
+[^obligation]: In personal correspondence with the present author, Achmiz again re-states his position:
+
+    > To put it concisely: one has an obligation to reply to questions/criticisms/etc. in the same way, and to the same extent, as one has an obligation to do any of the other things that we consider to characterize good writing, good thinking, and good communication. If you write a post on LessWrong, you have an obligation to reply to criticism and questions ... and an obligation not to mischaracterize your opponents' views, and an obligation not to lie about the facts, and obligation to acknowledge evidence against your position, and an obligation to avoid blatantly misleading claims or descriptions ... and so on in this vein. And if you fail to do any of these things, especially if this failure is habitual and/or persistent in the face of un-rebutted criticism, then readers of your writings will judge you negatively for it, and rightly so.
+
 
 The normativity of truth-tracking is likewise key to understanding the motivation for the 2020 comment's controversial claim that an author who ignores simple requests for clarification "_should_ be interpreted as ignorant." To be sure, there are any number of reasons why an author might not engage with a question other than being unable to answer it (maybe it wasn't worth their time, maybe they missed the notification, maybe they died, _&c._), but the relative likelihood of the "can't answer" and "could answer if they wanted to" hypotheses as an explanation for the observed non-response represents predictions about the real world and [can't be changed on a whim](https://www.lesswrong.com/posts/XhaKvQyHzeXdNnFKy/probability-is-subjectively-objective). A norm that forbid commenters from interpreting [the absence of an answer as probabilistic evidence of inability to answer](https://www.readthesequences.com/Absence-Of-Evidence-Is-Evidence-Of-Absence) would be requiring them to _believe something false_.[^believe-something-false]
 
@@ -150,29 +155,8 @@ It is troubling that the announcement that Achmiz is being banned for his views 
 
 ## The Ban Reneges on LW2's Single Locus of Discussion Mandate and Archipelago Doctrine
 
-[TODO:
-Betrayal of the mandate—the premise of LW2 was to reverse the diaspora and create a single locus of disucssion; "It's fine to be a dictator because you can leave" contradicts "the importance of a single central node"
-Habryka claims to care about Archipelago; if he did, then user bans and user moderation would be sufficient
-In the lead-up discussion, Habryka denied there being a list of banned ideas 
-
-> the LinkedIn attractor appears to be the memetically most successful way groups relate to their ingroup members, while the sneer attractor governs how they relate to their outgroups.
-
-Habryka proposed loudly giving up on Less Wrong, but he's squatting on the namespace, which is a key irreplaceable resource. It's like saying "go make your own payment processor"
-
-Anna Salamon asked if she could offer anything to not ban Said, and Haybrka said no, but what Anna should have said it's not his property to do what he likes with—the _reason_ can exploit the website for his own ends is downstream of Anna's "a single locus of dicussion"
-
-exactly—LW is a place where people suck up to Habryka's friends
-
-the mod's shameless bullying of sunwillrise, who was one of the best new commenters, and who I had originally noticed in the context of him taking the other side of this (although he changed his mind)
-
-So much of my life is inexctricably bound up in the "rationalist" memeplex; I can't escape, because the words themselves point to this locus of discourse in the physical world and can't be detached; 
-
-]
-
-[TODO:
-Ben Hoffman articulated a model extending "Geeks, MOPs, and Sociopaths", where the geeks create a culture, and then it ends up getting steered by sociopaths who are willing to corrupt the signal in order to make it popular.
-The prophetic line: from the sociopaths' perspective, they are fixing errors, not introducing them.
-This is an exact match to what we see in Habryka's behavior: an obsession with what will make people use the website, and not about what's logically correct
+[TODO
+https://www.lesswrong.com/posts/rEHLk9nC5TtrNoAKT/lw-2-0-strategic-overview
 ]
 
 
@@ -193,9 +177,17 @@ And given that the market clears, there's no good reason to censor probing quest
 
 ## Misrepresentations in Habryka's Claims of Alleged Author Complaints About Achmiz
 
-Footnote 1 of the ban post claims that "many top authors cit[e] [Achmiz] as a top reason for why they do not want to post on the site, or comment here". I find this claim very surprising.
+Footnote 1 of the ban announcement claims that "many top authors cit[e] [Achmiz] as a top reason for why they do not want to post on the site, or comment here." This is a surprising claim.[^surprising-claim] Is it true? In some sense, it depends on what's meant by "many" and "top", but we can investigate what is known about author sentiments towards Achmiz without immediately pinning down an operationalization.
 
-Top authors for a 
+[^surprising-claim]: "Top authors" receive lots of comments by virtue of being "top", and not all comments are good; it would be strange if one commenter merely asking pointed questions—not being abusive or insulting—was somehow so offensive that "many top authors" found him in particular a "top reason" to not use the site at all, particularly given the existence of the user-level ban functionality.
+
+We do have some direct testimony from some authors. Most prominently, Duncan Sabien (14K+ karma, 16 Curated posts) [reported in 2023 that he withheld an post](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=p8kGBwHpegptXuFAq) from _Less Wrong_ because of Achmiz, and has written a [post denouncing Achmiz's[^socrates] commenting style as amounting to "the willful destruction of gardens of collaborative inquiry."](https://www.lesswrong.com/posts/JcgtKunqmELefxksx/killing-socrates) DirectedEvolution (12.5K karma, 144 total posts, zero Curated) [wrote in 2023 that](https://www.lesswrong.com/posts/JcgtKunqmELefxksx/killing-socrates?commentId=tGj3q5t3mMLhSBYde) Achmiz is "one of three people who are readily top of mind at having a net negative impact on my LW experience"—but, notably, that "personally I do not favor banning people sitewide for making me feel uncomfortable." Lucas Gloor (4K karma, 5 total posts, zero Curated) [wrote in 2023](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=8m3rpzW59SqQiTdvb) that Achmiz's questions are "one of the most off-putting things [he] associate[s] with LW"—but, notably, that the user-level ban functionality "seems like a good solution to [him]", and in 2024 added that in the subsequent year he had liked several of Achmiz's comments and didn't remember any that bothered him.
+
+[^socrates]: Not by name, but the discussion in the comments section is quite clear about the inspiration.
+
+Troublingly, however, Habyrka has made claims about author sentiments towards Achmiz that are directly contradicted by those authors own statements. In a moderation discussion leading up to the ban, [Habryka cited](https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=kL8pqSsd5cogjpTBA) a list of authors allegedly discouraged by Achmiz's comments:
+
+> My guess is something like more than half of the authors to this site who have posted more than 10 posts that you commented on, about you, in particular. Eliezer, Scott Alexander, Jacob Falkovich, Elizabeth Van Nostrand, me, dozens of others.
 
 
 [TODO
@@ -203,9 +195,7 @@ Investigation with Scott and Falkovich
 "Just trust me bro" isn't adequate
 (the 8 bans vs. 3 are evidnece, but really? You're going to kick someone off the site
 Lies in the comment section about how central complaints were to the post
-
 maybe footnote about author complaint telling Alicorn
-
 ]
 
 
@@ -237,9 +227,11 @@ Suppose the _Less Wrong_ moderators wrote a post taking the "thirder" position o
 
 
 
-## Replies to Vaniver on the Ideological Turing Test and "Emotional Tallness"
+## Replies to Vaniver
 
 Lightcone Infrastructure board member and _Less Wrong_ BDFL Vaniver [commented on the ban announcement](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=j57cuznkZBXqSn7sr).
+
+### On the Ideological Turing Test
 
 Vaniver characterizes the dispute over Achmiz as a cultural clash between the values of an older culture of _Less Wrong_ (as represented by Achmiz and the present author) and a newer one (as represented by the mod team). Vaniver concedes that by the standards of the old culture, "pointing out that something is impeding the flow of information is almost enough to end the conversation on its own." He makes an analogy to the development of evidential, causal, and functional decision theories (henceforth EDT, CDT, and FDT, respectively): CDT improves on EDT by ruling out non-causal decision influences that CDT considers illegitimate, while FDT further improves on CDT by ruling in some kinds of non-causal influences as legitimate after all.
 
@@ -256,6 +248,25 @@ Vaniver cites my ["Critic Contributions are Logically Irrelevant"](https://www.l
 I have to question whether Vaniver read past the title of "Critic Contributions Are Logically Irrelevant": I think I adequately handled the case of objections not intended as logical criticisms in the final section, ["A Caveat: Critic Contributions Can Be Relevant If You Don't Care About Maximizing Correctness"](https://www.lesswrong.com/posts/bsKHthyhB7DNBxERQ/critic-contributions-are-logically-irrelevant#A_Caveat__Critic_Contributions_Can_Be_Relevant_If_You_Don_t_Care_About_Maximizing_Correctness). The relevance of people having objections about commenters that don't make sense as logical criticisms is that if the objectors have their way, that establishes a precedent of the forum being a place where logical criticism is dimissed in favor of other concerns, which might be desirable for a social or hobby group whose only mission is for its members to have a fun time, but is contrary to the mission of an intellectual forum like _Less Wrong_ purports to be.
 
 Vaniver's suggestion that I reread "Feeling Rational" is a _non sequitur_. In that post, Yudkowsky argues against the popular misconception that rationality demands suppression of emotions; on the contrary, Yudkowsky argues, it's rational to fully feel the emotion that fits the facts. But I don't argue for the suppression of emotions. Rather, I advocate specifically against the [weaponization of emotional harm](http://unremediatedgender.space/2018/Jan/dont-negotiate-with-terrorist-memeplexes/) as a pretext to censor intellectually substantive criticism in a purportedly intellectual venue. If those who find Achmiz's comments hurtful agreed that their pain was not cause for moderator action, there would be no dispute.
+
+### On Adverse Inference
+
+Vaniver writes:
+
+> I think we should keep as a live hypothesis "this person finds Said's comments annoying because they are directing attention at the hole in their argument." As someone who likes finding the hole in their argument and then developing the argument further, this never annoyed me. But this isn't the only hypothesis and I think often Said or Zack acted as tho it was.
+
+I agree that it's not the only hypothesis, because [there's](https://www.readthesequences.com/Infinite-Certainty) [never](https://www.readthesequences.com/Zero-And-One-Are-Not-Probabilities) only one hypothesis, but there are strong reasons to consider it the dominant hypothesis.
+
+Consider that the justice system has a concept called [_adverse inference_](https://en.wikipedia.org/wiki/Adverse_inference). If the plantiff in a court case wants to cite a document that turns out to have been shredded by the defendant, the judge can instruct the jury to assume that the document was unfavorable to the defendant's case.
+
+Is that unfair? The document could have been shredded for any number of perfectly innocent reasons!
+
+Well, it _could_ have. But—really? In Bayesian terms, the probability of the document being shredded given that it hurts the defendant's case is reasonably high, but the probability of the document being shredded given that it doesn't affect the defendant's case is low. Why destroy that _particular_ document?
+
+A similar skepticism should apply to censorship of criticism. Why not just downvote it and let it sit largely unheeded by readers at the bottom of the page—unless you're worried that readers _will_ heed it? The phrasing of Vaniver's comment seems to suggest that at some level, this is also his model: he writes, "As someone who _likes_ finding the hole in their argument and then developing the argument further, this never annoyed me," attributing his lack of annoyance to his wanting to find the holes.
+
+
+### On "Emotional Tallness"
 
 Vaniver cites [Duncan Sabien's concept of "emotional tallness"](https://homosabiens.substack.com/p/reflections-on-one-1-abuser#:~:text=Emotionally%20Tall), saying that he used to think of his own psychological fortitude as a rationalist virtue, but now considers it an incidental fact about himself: similarly, IQ is relevant to rationality, but isn't a virtue _per se_.
 
@@ -292,11 +303,13 @@ Whereas in contrast, Habryka believes that:
 
 This is a curious dichotomy. It's not even that I disagree with the second theory, as such. Rather, I'm perplexed at the ontology implied by "unilaterally enforce social norms of his own choosing while denying any such thing is going on." The offered examples include implying that people are "being deceptive" or "making elementary mistakes"—but sometimes people really are being deceptive or making elementary mistakes.[^elementary] Is there any way to [articulate those as literal hypotheses about the world](https://www.lesswrong.com/posts/LyJNgxcNNSzmFxF3g/the-relationship-between-social-punishment-and-shared-maps) without [the thought itself being an attempt to enforce norms](https://www.lesswrong.com/posts/N9oKuQKuf7yvCCtfq/can-crimes-be-discussed-literally/)? What, exactly, is the difference supposed to be between "trying to point out flaws and correct the record" (permissible, in Habryka's view) and "trying to unilaterally enforce social norms of his own choosing" (apparently grounds for banning, at least if you deny it)?
 
-[^elementary]: With respect to some contextually salient standard of _elementary_. In the context of studying differential calculus, asserting that $(x + y)^2 = x^2 + y^2$ in a calculation step is an elementary mistake (even if it doesn't seem "elementary" to someone just learning algebra). In the context of a rationality website, if someone points out that one of your purported examples of a phenomenon is actually not an example, it would be an elementary mistake to deny that that's [evidence against the phenomenon](https://www.readthesequences.com/Conservation-Of-Expected-Evidence).
+[^elementary]: With respect to some contextually salient standard of _elementary_. In the context of studying differential calculus, asserting that $(x + y)^2 = x^2 + y^2$ in a calculation step is an elementary mistake (even if it doesn't seem "elementary" to someone just learning algebra). In the context of a rationality website, [if someone points out that](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=fXDPKtspGhwBauXtH) [one of your purported examples of a phenomenon is actually not an example](https://www.lesswrong.com/posts/pWc6ZA6mcjXKvKwPd/discourse-norms-moderators-must-not-bully?commentId=umELK75yshpZmug2D), it would be an elementary mistake to deny that that's evidence against the phenomenon.
 
 I won't say there's no difference; I think Habryka is pointing to a real distinction, even if it's not the most intuitive for me to describe. If I had to try, I'd venture that it has something to do with the warmth and respect one has for an interlocutor. Even when pointing out flaws, there's a way to convey that warmth and respect through subtle wording choices—as if to put a hand on the other's shoulder and say: hey, buddy, while I'm disagreeing with the literal thing you said, you didn't do anything wrong; I'm still on your side; I still care about you.
 
 Said doesn't send those signals. Said doesn't make people feel like he cares about them and isn't committed to believing that they didn't do anything wrong. People can tell. That's why he has to be destroyed.
+
+----
 
 A recurring theme in the accusations against Achmiz is that Achmiz is allegedly being deceptive (or potentially even "gaslighting"[^g-word]) by disrespecting other users and then denying that disrespect was intended. Pace, for example, [characterizes Achmiz as](https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/BJ2j8sQThHzDYNFo9) "holding extreme disdain and disrespect for interlocutors while being committed to never saying anything explicitly or even denying that it is the case."
 
@@ -318,13 +331,14 @@ Even more obviously, it's not that Achmiz is right about everything; I've had my
 
 It's about a principle that I've spent the last decade of my life[^more-ways] fighting for, that speaking the truth matters, and specifically, that speaking the truth matters more than people's feelings.
 
-[^more-ways]: Given the existential risk situation, potentially in more ways than one.
+[^more-ways]: Given the existential risk situation, perhaps in more ways than one.
 
 [TODO—three scenarios and DirectedEvolution's rebuttal. This is obviously, obviously the kind of content we want on Less Wrong. No one would read this and claim it's slush-pile noise. the selection effect for phonies and bullshitters who can't even coneive of the concept of independent judgement ... phonies including the mod team ]
 
+
 Pace [writes disapprovingly](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=BJ2j8sQThHzDYNFo9) of "any commenter being able to demand answers to questions at the risk of the post-author's status".
 
-Well, _yes!_ How did Pace think status worked, exactly? "Status" is just other people's beliefs about you. People are going to update their beliefs about you based on their observations of your behavior. _Your status is always at risk._
+Well, _yes!_ How did Pace think status worked, exactly? "Status" is just other people's beliefs about you. People are going to update their beliefs about you based on their observations of your behavior. _Your status is always at risk._ It has to, in order to mean anything: in order to gain status when you do good things, it needs to be possible to lose status when you do bad things.
 
 Habryka struggles to explain why he wrote such a detailed ban announcement, rather than just admitting[^admitting] that he's personally fed up with Achmiz without trying to justify that further:
 
@@ -334,14 +348,15 @@ Habryka struggles to explain why he wrote such a detailed ban announcement, rath
 
 [^admitting]: Habryka writes that he "do[es] think a huge fraction of this announcement should be seen as 'look, it's been too long, I've spent a lot of energy on this, I am not dealing with this anymore, let's part ways'."
 
-I submit that if you're worried that any attempt to compellingly explain why you're not insane is doomed, that might be _because you are insane_. It's insane to purport to run an elite intellectual forum and then be reduced to pearl-clutching on a fainting couch over a private vision of pointing fingers summoning punishment the moment you're confronted by someone with independent judgement and high standards. Habryka [hopes that](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=J46KejinEpz3dLvSo) "maybe [he]'ll be a better writer in a few years and can get it across more easily." He won't. No amount of writing skill will make your personality disorder sound reasonable to people who don't share it.
+I submit that if you're worried that any attempt to compellingly explain why you're not insane is doomed, that might be _because you are insane_. It's insane to purport to run an elite intellectual forum and then be reduced to pearl-clutching on a fainting couch over a private vision of pointing fingers summoning punishment upon being confronted by someone with independent judgement and high standards. Habryka [hopes that](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=J46KejinEpz3dLvSo) "maybe [he]'ll be a better writer in a few years and can get it across more easily." He won't. No amount of writing skill will make your personality disorder sound reasonable to people who don't share it.
 
 So that's my disdain, carried openly. That's what I think of you people.
 
-Is that ... better? I really have to question whether that's better.
+Is that ... better? I really have to question whether that's better!
 
 [TODO— I would have prefered to talk at the object level or the meta level, but you're the one making everything about status _and then_ claiming that passive-aggression is worse. You asked for it!]
 
+------
 
 [TODO—
 > I would appreciate some courtesy[3] to keep discussion to the principles and decision-level instead of critiques of my personal behavior, as indeed much of the cost of moderation is measured in having any moderation-adjacent action be torn apart and be requested to be justified or defended.
@@ -350,6 +365,8 @@ Is that ... better? I really have to question whether that's better.
 asking for a favor of not conduct is itself egregious
 
 I can't imagine sending
+
+Sam Bankman-Fried 
 ]
 
 [TODO—

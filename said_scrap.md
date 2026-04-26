@@ -454,3 +454,50 @@ It is completely unreasonable to demand that strangers on an internet forum pret
 
 
 I have to cut this: In the presence of such weaponization being endorsed by leaders who have sworn to uphold the ideals of truthseeking in the face of the apocalypse, I feel the emotion that fits the facts—specifically, incandescent rage.
+
+
+
+
+[TODO:
+Betrayal of the mandate—the premise of LW2 was to reverse the diaspora and create a single locus of disucssion; "It's fine to be a dictator because you can leave" contradicts "the importance of a single central node"
+Habryka claims to care about Archipelago; if he did, then user bans and user moderation would be sufficient
+In the lead-up discussion, Habryka denied there being a list of banned ideas 
+
+> the LinkedIn attractor appears to be the memetically most successful way groups relate to their ingroup members, while the sneer attractor governs how they relate to their outgroups.
+
+Habryka proposed loudly giving up on Less Wrong, but he's squatting on the namespace, which is a key irreplaceable resource. It's like saying "go make your own payment processor"
+
+Anna Salamon asked if she could offer anything to not ban Said, and Haybrka said no, but what Anna should have said it's not his property to do what he likes with—the _reason_ can exploit the website for his own ends is downstream of Anna's "a single locus of dicussion"
+
+exactly—LW is a place where people suck up to Habryka's friends
+
+the mod's shameless bullying of sunwillrise, who was one of the best new commenters, and who I had originally noticed in the context of him taking the other side of this (although he changed his mind)
+
+So much of my life is inexctricably bound up in the "rationalist" memeplex; I can't escape, because the words themselves point to this locus of discourse in the physical world and can't be detached; 
+
+]
+
+[TODO:
+Ben Hoffman articulated a model extending "Geeks, MOPs, and Sociopaths", where the geeks create a culture, and then it ends up getting steered by sociopaths who are willing to corrupt the signal in order to make it popular.
+The prophetic line: from the sociopaths' perspective, they are fixing errors, not introducing them.
+This is an exact match to what we see in Habryka's behavior: an obsession with what will make people use the website, and not about what's logically correct
+]
+
+
+Habryka's bitchy comment—
+https://www.greaterwrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines/comment/KqtPsTP8TdWQnhjtD
+
+
+More generally, as a long-time user of Less Wrong (original join date 26 February 2009, author of five Curated posts) and preceding community (first Overcoming Bias comment 22 December 2007, attendee of the first Overcoming Bias meetup on 21 February 2008), I do not want Said Achmiz to be a second-class citizen in my garden
+
+First Overcoming Bias comment (December 2007): https://www.lesswrong.com/posts/etBrzxdfNop3DqJvA/guardians-of-the-truth?commentId=MPCaD7WZp4rrT2JAD
+joined on site launch Feb. 2009: https://www.greaterwrong.com/users/z_m_davis?sort=old
+https://www.greaterwrong.com/posts/i47JiJwNQ2q7bWf4L/ob-meetup-millbrae-thu-21-feb-7pm
+
+
+Vladimir Nesov on endangered species: https://www.greaterwrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads/comment/LpEnGEmgrAXK5joLG
+
+
+> I try really hard to not build an ideological echo chamber
+> it’s always at the top of my mind whether I am tempted to make a decision one way or another because they disagree with me on some object-level issue
+https://www.lesswrong.com/posts/GSSHcAoSChaKxjNDZ/what-s-with-all-the-bans-recently?commentId=LiDqh3tXJaHe2bXXh

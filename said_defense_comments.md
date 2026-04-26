@@ -52,3 +52,11 @@ In contrast, the reason people wanted Achmiz to write words that convey a differ
 
 ----
 
+
+Ben Pace claims "admits a slight imprecision" instead of admitting he was wrong— how can he expect to get away with this?!
+
+https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/TDw7XhDyfytNe7C6Y
+
+
+https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/GjtZY7pg9LRB2mwMi
+> There are selection effects on who stays in the community under these conditions.
