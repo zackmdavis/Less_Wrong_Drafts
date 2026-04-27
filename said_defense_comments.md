@@ -10,17 +10,20 @@ attack Ruby's praise of Ray— https://www.lesswrong.com/posts/thc4RemfLcM5AdJDa
 
 [reply to Vaniver: https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=j57cuznkZBXqSn7sr]
 
-> I think we should keep as a live hypothesis "this person finds Said's comments annoying because they are directing attention at the hole in their argument." As someone who likes finding the hole in their argument and then developing the argument further, this never annoyed me. But this isn't the only hypothesis and I think often Said or Zack acted as tho it was.
 
-I agree that it's not the only hypothesis, because there's never only one hypothesis! But I do think it should usually be the dominant hypothesis. By way of illustration, consider that the justice system has a concept called [_adverse inference_](https://en.wikipedia.org/wiki/Adverse_inference). If the plantiff in a court case wants to cite a document that turns out to have been shredded by the defendant, the judge can instruct the jury to assume that the document was unfavorable to the defendant's case.
+I agree that it's not the only hypothesis, because there's never only one hypothesis! But I do think it should usually be the dominant hypothesis. By way of illustration,
 
-Is that unfair? The document could have been shredded for any number of perfectly innocent reasons!
 
-Well, it _could_ have. But—really? Really? In Bayesian terms, the probability of the document being shredded given that it hurts the defendant's case is reasonably high, but the probability of the document being shredded given that it doesn't affect the defendant's case is low. Why destroy that _particular_ document?
 
-I think a similar skepticism should apply to censorship of criticism. Why not just downvote it and let it sit largely unheeded by readers at the bottom of the page—unless you're worried that readers _will_ heed it?
 
-The phrasing of your comment seems to suggest that at some level, this is also your model: you write, "As someone who _likes_ finding the hole in their argument and then developing the argument further, this never annoyed me," attributing your lack of annoyance to your rationality. You then disclaim that "this isn't the only hypothesis." No doubt—but out of the infinitude of possible alternate explanations, which ones do you find the most plausible, and why? If you're not just saying "this isn't the only hypothesis" as a vacuous platitude, you must have something specific in mind. What is it? _Reply!_
+
+
+
+
+
+
+
+You then disclaim that "this isn't the only hypothesis." No doubt—but out of the infinitude of possible alternate explanations, which ones do you find the most plausible, and why? If you're not just saying "this isn't the only hypothesis" as a vacuous platitude, you must have something specific in mind. What is it? _Reply!_
 
 -------
 

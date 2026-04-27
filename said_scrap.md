@@ -21,6 +21,7 @@ _ lobby Ben for amicus curiæ comment
 _ lobby Anna for amicus curiæ comment
 _ lobby Jessica for amicus curiæ comment
 _ lobby JD for amicus curiæ comment
+_ lobby Nesov for amicus curiæ comment
 _ ask Robert M. about traffic stats, and de-listing stats, and major versions
 _ offer to meet with Ray
 _ assurance from Vaniver
@@ -501,3 +502,11 @@ Vladimir Nesov on endangered species: https://www.greaterwrong.com/posts/9DhneE5
 > I try really hard to not build an ideological echo chamber
 > it’s always at the top of my mind whether I am tempted to make a decision one way or another because they disagree with me on some object-level issue
 https://www.lesswrong.com/posts/GSSHcAoSChaKxjNDZ/what-s-with-all-the-bans-recently?commentId=LiDqh3tXJaHe2bXXh
+
+
+We have seniority on them
+https://standardresume.co/r/OliverHabryka
+https://www.lesswrong.com/posts/aG74jJkiPccqdkK3c/the-lesswrong-team-page-under-construction
+
+https://www.lesswrong.com/posts/yr4pSJweTnF6QDHHC/comment-on-four-layers-of-intellectual-conversation
+
