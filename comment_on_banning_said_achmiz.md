@@ -168,7 +168,9 @@ Habryka acknowledges that there's no problem "in an environment with lots of mut
 
 It would seem that some dubious implicit assumptions are being made about participants' motives. The DDoS attack analogy would carry if we construe intellectual discouse as a zero-sum game in which every unanswered criticism results in the critic winning and the author losing the same number of "points".
 
-But that construal fails on two counts. Firstly, it's not a zero-sum game. An intellectually honest author (who wants the truth to prevail, rather than wanting their own ideas to prevail regardless of whether they're true) should welcome probing questions. If any of the questions reveals a real flaw in the author's thesis, an honest author would count that as a benefit (because they learned something), not a cost. Dumb questions that aren't worth answering or reading can simply be downvoted. As it is [written of the fifth virtue](https://www.readthesequences.com/The-Twelve-Virtues-Of-Rationality), "Do not believe you do others a favor if you accept their arguments; the favor is to you."
+But that construal fails on two counts. Firstly, it's not a zero-sum game. An intellectually honest author (who wants the truth to prevail, rather than wanting their own ideas to prevail regardless of whether they're true) should welcome probing questions. If any of the questions reveals a real flaw in the author's thesis, an honest author would count that as a benefit (because they learned something), not a cost. At the same time, dumb questions that aren't worth answering or reading can simply be downvoted. That is, _to the extent that the community can distinguish between good and bad criticisms on the merits_,[^determined-critics] determined critics of a particular author are just providing free verification labor, not conducting a DDoS attack: as it is [written of the fifth virtue](https://www.readthesequences.com/The-Twelve-Virtues-Of-Rationality), "Do not believe you do others a favor if you accept their arguments; the favor is to you." (And to the extent that the community can't distinguish between good and bad criticisms on the merits, we have bigger problems.)
+
+[^determined-critics]: And to the extent that readers are [taking into account the selection effect](https://www.lesswrong.com/posts/DoPo4PDjgSySquHX8/heads-i-win-tails-never-heard-of-her-or-selective-reporting) of who the determined critics target.
 
 Secondly, even if we [suppose that authors are not intellectually honest](https://www.lesswrong.com/posts/e4GBj6jxRZcsHFSvP/assume-bad-faith) and just want their own ideas to win, no one should be thinking that an unanswered criticism represents a zero-sum transfer of status from author to critic. Insofar as we model people's discursive behavior as being governed by implied status rewards, clearly the reward for asking a probing question should be less than the reward for answering it (because the answer is more expensive and therefore requires a larger reward to elicit it). Moreover, people are pretty smart about status games and can figure this out. Probing questions rarely get high karma; thorough answers often do. No one thinks that a famous author must be worse than an unknown one because the former attracts many critics and the latter few or none. The market clears.
 
@@ -185,18 +187,48 @@ We do have some direct testimony from some authors. Most prominently, Duncan Sab
 
 [^socrates]: Not by name, but the discussion in the comments section is quite clear about the inspiration.
 
-Troublingly, however, Habyrka has made claims about author sentiments towards Achmiz that are directly contradicted by those authors own statements. In a moderation discussion leading up to the ban, [Habryka cited](https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=kL8pqSsd5cogjpTBA) a list of authors allegedly discouraged by Achmiz's comments:
+Beyond direct testimony from authors, we have reports from the mod team about private complaints—but, troublingly, as I explain below, [previous investigation](https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=b8cCyG5CGQtRFDdFs) has shown such reports to be false in their claims about the opinions of at least two authors, which casts some doubt on their overall veracity.
 
-> My guess is something like more than half of the authors to this site who have posted more than 10 posts that you commented on, about you, in particular. Eliezer, Scott Alexander, Jacob Falkovich, Elizabeth Van Nostrand, me, dozens of others.
+In a June 2025 moderation discussion, Achmiz [expressed doubt that](https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=7cd3WdqdBGqRkH3ME) authors "capable of making useful contributions to the site" would be discouraged from using the site by the presence of a commenter deemed "'unpleasant'" despite not posting "vulgarity, or personal insults, or anything bad or crazy like that." Achmiz asked for examples of such discouraged authors.
+
+[Habryka gave a list of allegedly discouraged authors](https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=kL8pqSsd5cogjpTBA) (bolding added):
+
+> My guess is something like more than half of the authors to this site who have posted more than 10 posts that you commented on, about you, in particular. Eliezer, **Scott Alexander**, **Jacob Falkovich**, Elizabeth Van Nostrand, me, dozens of others.
+
+I reached out to Scott Alexander via Discord in July 2025 to ask if he had "any specific feelings about Said Achmiz and whether he should be allowed to post on _Less Wrong_." Alexander issued this statement:
+
+> I have no direct opinion on him. I have heard his name as someone who's very confrontational, and I agree that this can make a website less pleasant, but I can't remember having any personal experience.
+
+In response to being presented with Alexander's statement contradicting his claim about Alexander's opinion, Habyrka [replied](https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=DA5S7D3DgFcGChD35):
+
+> I talked with Scott about LW moderation a long time ago (my guess is around 2019) and Said's name came up then. My guess is he doesn't remember. It wasn't an incredibly intense mention, but we were talking about what makes LW comment sections good or bad, and he was a commenter we discussed in that conversation in 2019 or so.
+
+This is a puzzling response. Habryka had cited Alexander as an example of an author discouraged from using the site  whose discouragement is "about [Achmiz], in particular." This is contradicted by Alexander's statement that he has "no direct opinion on [Achmiz]". Rather than retracting the claim, Habyrka asserts, "My guess is [Alexander] doesn't remember."
+
+Is the idea supposed to be that Alexander was discouraged from using the site because of Achmiz in particular "around 2019"—albeit not in a way that would elicit "an incredibly intense mention"—but then forgot about it so thoroughly that in 2025, he had "no direct opinion" on Achmiz? Even if we attribute such poor memory capacity to Alexander, the only evidence we have [locating that hypothesis](https://www.readthesequences.com/Einsteins-Arrogance) is Habryka's word against Alexander's.
+
+But if it's plausible that Alexander doesn't remember what he believed seven years ago, is it not also plausible that _Habryka_ doesn't remember what Alexander said? It's conspicuous that Habryka's elaboration does not claim that Alexander volunteered Achmiz's name, only that the "name came up" and that Achmiz "was a commenter we discussed." Given that neither party can recall the details of a conversation that might have happened in 2019 or possibly some other year, which participant is more likely to have first brought up Achmiz: the one who now has "no direct opinion" on Achmiz, or the one who writes [1800-word comments about how he "do[es] just think [it's] false" that Achmiz "does not carry emnity in his heart"](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=uyobAZy5iYAAWzSSi)?
+
+Separately, the inclusion of Jacob Falkovich in the list of authors allegedly discouraged by Achmiz is contradicted by [an October 2018 comment by Falkovich](https://www.lesswrong.com/posts/tW6nXrxsAKQmGSGgP/on-insecurity-as-a-friend?commentId=oj2iGrzLg7hTesBQn) (bolding added):
+
+> Said, I hope take comment below as positive, because that is how I mean it. I am trying to honestly communicate my own experience, not pass judgment. This is 100% sincere and unironic.
+>
+> Said, I have seen a lot of your comments on LW, on my posts and the posts of others. They are, by my standards, high on criticism and low on niceness. I personally formed an impression of you as _disagreeable_. Even though I have argued myself that LW should optimize for honesty over niceness, still the impression of you _disagreeableness_ was colored negatively in my mind.
+>
+> But now that you've stated that you're disagreeable on purpose, **the negative [a]ffect flipped entirely to become positive**. Instead of you being disagreeable by accident, it's intentional. **I like diversity, and I support people who are on a mission to bring a new flavor to the community**. Knowing this also makes it easier to take criticism from you—it's not that you hate me or what I write, it's just that you don't care if someone thinks you hate them and their writing. The Bayesian update in the two cases is very different!
+>
+> This isn't to say that Kaj is wrong in being more cautious, or that you are wrong in not being cautious. **Do your own thing**, and own it.
+
+In response to being presented with Falkovich's comment contradicting his claim about Falkovich's opinion, Habyrka [replied](https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=DA5S7D3DgFcGChD35):
+
+> I think you can clearly see how the Jacob Falkovich one is complicated. He basically says "I used to be frustrated by you, but this thing made that a lot better". I don't remember the exact time I talked to Jacob about it, but it had come up sometime some context where we discussed LW comment sections. It's plausible to me it was before he made this comment, though it would be a bit surprising to me, since that's pretty early into LW's history.
+
+In fact, I do not see how the Jacob Falkovich one is "clearly" complicated. Indeed, I strongly dispute Habyrka's characterization of what Falkovich "basically says": it is tendentious to paraphrase "negative [...] flipped entirely to become positive" as "made that a lot better." The latter is compatible with the claim that Falkovich is discouraged from using the website by Achmiz, but the former directly contradicts it![^a-lot-better]
+
+[^a-lot-better]: If something that's bothering you is "made [...] a lot better", the implication is that it's still bothering you a little bit (although not as much as before); if your attitude towards something "become[s] positive", that implies that it's not bothering you.
 
 
-[TODO
-Investigation with Scott and Falkovich
-"Just trust me bro" isn't adequate
-(the 8 bans vs. 3 are evidnece, but really? You're going to kick someone off the site
-Lies in the comment section about how central complaints were to the post
-maybe footnote about author complaint telling Alicorn
-]
+
 
 
 ## Preventing "Relitigation" Is a Pretext for Suppressing Dissent
@@ -221,6 +253,7 @@ This post is not "relitigating" in the sense of extraneously making new comments
 
 Suppose the _Less Wrong_ moderators wrote a post taking the "thirder" position on [the Sleeping Beauty problem](https://en.wikipedia.org/wiki/Sleeping_Beauty_problem). 
 
+"some reasonable limit around 3000 words or so" (it's not a reasonable limit, if you get to talk more than the people you're arguing against!)
 
 [TODO: Preventing "Fights of Attrition" Is a Pretext for Stonewalling]
 
