@@ -150,7 +150,7 @@ Elsewhere, Achmiz [wrote in 2023 that](https://www.lesswrong.com/posts/FrR78Wy6s
 
 [^ignore]: The distinction being that auto-collapsing comments from an ignored user doesn't prevent other users reading the comments. Discord's block functionality in shared channels works similarly.
 
-It is troubling that the announcement that Achmiz is being banned for his views on discourse norms mischaracterizes those views, despite clarifications in the weeks leading up to the ban: Achmiz [explained his position to Habryka in June 2025](https://www.lesswrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform?commentId=vF6GckcYf9FTc6MKA) (linking to the clarifying followup comment in the 2020 thread), and I highlighted the 2023 "by all means downvote and ignore" comment in a July 2025 message to _Less Wrong_ moderator Ben Pace.
+It is troubling that the announcement that Achmiz is being banned in part for his views on discourse norms mischaracterizes those views, despite clarifications in the weeks leading up to the ban: Achmiz [explained his position to Habryka in June 2025](https://www.lesswrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform?commentId=vF6GckcYf9FTc6MKA) (linking to the clarifying followup comment in the 2020 thread), and I highlighted the 2023 "by all means downvote and ignore" comment in a July 2025 message to _Less Wrong_ moderator Ben Pace.
 
 
 ## The Ban Reneges on LW2's Single Locus of Discussion Mandate and Archipelago Doctrine
@@ -205,7 +205,7 @@ In response to being presented with Alexander's statement contradicting his clai
 
 This is a puzzling response. Habryka had cited Alexander as an example of an author discouraged from using the site  whose discouragement is "about [Achmiz], in particular." This is contradicted by Alexander's statement that he has "no direct opinion on [Achmiz]". Rather than retracting the claim, Habyrka asserts, "My guess is [Alexander] doesn't remember."
 
-Is the idea supposed to be that Alexander was discouraged from using the site because of Achmiz in particular "around 2019"—albeit not in a way that would elicit "an incredibly intense mention"—but then forgot about it so thoroughly that in 2025, he had "no direct opinion" on Achmiz? Even if we attribute such poor memory capacity to Alexander, the only evidence we have [locating that hypothesis](https://www.readthesequences.com/Einsteins-Arrogance) is Habryka's word against Alexander's.
+Is the idea supposed to be that Alexander was discouraged from using the site because of Achmiz in particular "around 2019"—albeit not in a way that would elicit "an incredibly intense mention"—but then forgot about it so thoroughly that in 2025, he had "no direct opinion" on Achmiz? Even if we attribute such poor memory to Alexander, the only evidence we have [locating that hypothesis](https://www.readthesequences.com/Einsteins-Arrogance) is Habryka's word against Alexander's.
 
 But if it's plausible that Alexander doesn't remember what he believed seven years ago, is it not also plausible that _Habryka_ doesn't remember what Alexander said? It's conspicuous that Habryka's elaboration does not claim that Alexander volunteered Achmiz's name, only that the "name came up" and that Achmiz "was a commenter we discussed." Given that neither party can recall the details of a conversation that might have happened in 2019 or possibly some other year, which participant is more likely to have first brought up Achmiz: the one who now has "no direct opinion" on Achmiz, or the one who writes [1800-word comments about how he "do[es] just think [it's] false" that Achmiz "does not carry emnity in his heart"](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=uyobAZy5iYAAWzSSi)?
 
@@ -221,25 +221,27 @@ Separately, the inclusion of Jacob Falkovich in the list of authors allegedly di
 
 In response to being presented with Falkovich's comment contradicting his claim about Falkovich's opinion, Habyrka [replied](https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=DA5S7D3DgFcGChD35):
 
-> I think you can clearly see how the Jacob Falkovich one is complicated. He basically says "I used to be frustrated by you, but this thing made that a lot better". I don't remember the exact time I talked to Jacob about it, but it had come up sometime some context where we discussed LW comment sections. It's plausible to me it was before he made this comment, though it would be a bit surprising to me, since that's pretty early into LW's history.
+> I think you can clearly see how the Jacob Falkovich one is complicated. He basically says "I used to be frustrated by you, but this thing made that a lot better". I don't remember the exact time I talked to Jacob about it, but it had come up sometime some context where we discussed LW comment sections. It's plausible to me it was before he made this comment, though it would be a bit surprising to me, since that's pretty early into LW's history.[^history]
 
-In fact, I do not see how the Jacob Falkovich one is "clearly" complicated. Indeed, I strongly dispute Habyrka's characterization of what Falkovich "basically says": it is tendentious to paraphrase "negative [...] flipped entirely to become positive" as "made that a lot better." The latter is compatible with the claim that Falkovich is discouraged from using the website by Achmiz, but the former directly contradicts it![^a-lot-better]
+[^history]: Presumably Habryka meant the history of the _Less Wrong_ 2.0 reboot. _Less Wrong_ launched in February 2009.
 
-[^a-lot-better]: If something that's bothering you is "made [...] a lot better", the implication is that it's still bothering you a little bit (although not as much as before); if your attitude towards something "become[s] positive", that implies that it's not bothering you.
+In fact, I do not see how the Jacob Falkovich one is "clearly" complicated. Indeed, I strongly dispute Habyrka's characterization of what Falkovich "basically says": it is tendentious to paraphrase "negative [...] flipped entirely to become positive" as "made that a lot better." The latter is compatible with Habyrka's original claim that Falkovich is discouraged from using the website by Achmiz, but the former directly contradicts it: if something that's bothering you is "made [...] a lot better", the implication is that it's still bothering you a little bit (although not as much as before); if your attitude towards something "become[s] positive", that implies that it's not bothering you.
 
+The significance of Alexander and Falkovich turning out (in their own accounts) not to have been discouraged by Achmiz extends beyond removing them from our list of discouraged authors. It also calls into question the veracity of Habyrka's reports of discouraged authors: if two of the names Habyrka gave as examples turned out to be non-examples when checked, that suggests that Habryka's reports do not reliably distinguish examples from non-examples and therefore that his claim that there exist unnamed "dozens of others" cannot be taken as reliable.[^not-necessarily-dishonesty]
 
+Overall, while it's clear that some users have some negative sentiment about Achmiz (as we can see from the testimony from Sabien, DirectedEvolution, and Gloor quoted above, and the 8 user-level bans in place), the support for the more specific and much stronger claim that "many top authors cit[e] [Achmiz] as a top reason for why they do not want to post on the site, or comment here" seems questionable: the only unambiguous example I'm aware of is Sabien.
 
+[^not-necessarily-dishonesty]: This is not necessarily to accuse Habryka of dishonesty. When someone makes false claims, we need not posit conscious deceit as the explanation when poor memory or weak reading comprehension explains the data equally well.
 
 
 ## Preventing "Relitigation" Is a Pretext for Suppressing Dissent
 
-[TODO:
+In the ban announcement, Habryka writes that users who disagree with the moderators can "make a post about how you disagree with some decision we made."
 
-
-> or make a post about how you disagree with some decision we made.
 
 > I think I should very rarely prevent whoever is being affected by a moderation decision from defending themselves on LessWrong. For practical reasons, I need to limit the time I personally spend replying and engaging with their defense, but I think it makes sense to allow the opposing side in basically all cases like this to publish a defense on the site, and do at least some to signal-boost it together with any moderation decisions.
 
+the sheer social metaphysics of "if you don't give up, you can eke out a concession." That's actually not true when you're trying to reasoning instead of monkey politics! If someone keeps writing thousands of words about the Halfer position being correct in Sleeping Beauty, people _don't_ say, well, he's been so polite, maybe he has a point
 
 https://www.greaterwrong.com/posts/FLJ9B4pHzjKmPPxd5/which-top-authors-did-said-achmiz-drive-away
 
@@ -322,6 +324,17 @@ I, too, have grown and changed a lot in my years of life on Earth, but in the ma
 In terms of Vaniver's decision theory metaphor, as a convert from CDT to FDT, I expect to be able to give my CDT-adhering ex-comrades a hard time challenging them to explain why they don't get the big money in Newcomb's problem. If I just said, well, the culture has moved on, people used to believe in CDT, but everyone who's anyone is into FDT now, that would not be compelling.
 
 The fact that Vaniver, while claiming to have transcended the childish concerns of the old culture of _Less Wrong_, shows so little interest in arguing his views to those who do not already share them is not to his credit, nor to the new culture.
+
+
+## Leadership Is for Coordinating Action, Not Public Discourse
+
+[TODO— what's with the praise
+public forums are different than companies; the need for a coordinating leader is much weaker
+"but you need moderators or you'll have chaos" fails because I'm NOT AT ALL objecting to the slop; I'm specifically objecting to the ban of Said Achmiz, who Gets It (and old timers ZMD and Wei Dai can tell that he gets it)
+Habryka's bitchy comment was strawmanning me on this point
+Maybe Eliezer just got this one wrong?!
+"citizenship" in previous mod discussions
+]
 
 
 ## We Don't Actually Respect You
