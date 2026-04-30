@@ -8,13 +8,19 @@ sections—
 ✓ Misrepresentations in Habryka's Characterization of Achmiz on Obligations to Reply
 _ The Ban Reneges on LW2's Single Locus of Discussion Mandate and Archipelago Doctrine
 ✓ Effort Ratios Are Logically Irrelevant
-_ Misrepresentations in Habryka's Claims of Alleged Author Complaints About Achmiz
-_ Preventing "Relitigation" Is a Pretext for Suppressing Dissent
+✓ Misrepresentations in Habryka's Claims of Alleged Author Complaints About Achmiz
+- Preventing "Relitigation" Is a Pretext for Suppressing Dissent
 ✓ Replies to Vaniver on the Ideological Turing Test and "Emotional Tallness"
+_ Leadership Is for Coordinating Action, Not Public Discourse
 - We Don't Actually Respect You
+
+edit pass—
+_ Scott's memory footnote
+_ additional negative testimony from Sting's post
 
 
 tasks to publication—
+_ reach out to Falkovich
 _ finish draft
 _ confer with Said
 _ lobby Ben for amicus curiæ comment
@@ -22,6 +28,8 @@ _ lobby Anna for amicus curiæ comment
 _ lobby Jessica for amicus curiæ comment
 _ lobby JD for amicus curiæ comment
 _ lobby Nesov for amicus curiæ comment
+_ lobby Wei Dai for amicus curiæ comment
+_ lobby niplav
 _ ask Robert M. about traffic stats, and de-listing stats, and major versions
 _ offer to meet with Ray
 _ assurance from Vaniver
@@ -30,10 +38,8 @@ _ poke Ben Pace??
 _ Twitter capsule thread
 
 
-
 questions to ask Said—
-_ especially check whether I got the "You Can Too" § right because I'm speaking for him
-_ the story of ignore functionality in GreaterWrong
+_ Scott's memory footnote
 
 
 New direction: remember: we're going for contempt, not fury! Cut the Yudkowsky footnote graf, cut the de Cleyre epigraph, retitle to "Comment on 'Banning Said Achmiz'"
@@ -509,4 +515,11 @@ https://standardresume.co/r/OliverHabryka
 https://www.lesswrong.com/posts/aG74jJkiPccqdkK3c/the-lesswrong-team-page-under-construction
 
 https://www.lesswrong.com/posts/yr4pSJweTnF6QDHHC/comment-on-four-layers-of-intellectual-conversation
+
+
+kindness and curiosity: https://www.greaterwrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform/comment/wmTdbTZJyudWAmNkz
+
+
+When someone presents you with evidence that a claim you made is false, it is dishonest to misparaphrase the evidence in a way that portrays it as compatible with your claim. (It's still dishonest [in a functionalist sense even if there was no conscious intent](https://www.lesswrong.com/posts/sXHQ9R5tahiaXEZhR/algorithmic-intent-a-hansonian-generalized-anti-zombie) to decieve.) It's a particularly bizarre form of dishonesty, because it's so easily checkable: the text is right there;
+
 

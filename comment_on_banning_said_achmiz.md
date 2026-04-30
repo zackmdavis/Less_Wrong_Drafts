@@ -168,7 +168,7 @@ Habryka acknowledges that there's no problem "in an environment with lots of mut
 
 It would seem that some dubious implicit assumptions are being made about participants' motives. The DDoS attack analogy would carry if we construe intellectual discouse as a zero-sum game in which every unanswered criticism results in the critic winning and the author losing the same number of "points".
 
-But that construal fails on two counts. Firstly, it's not a zero-sum game. An intellectually honest author (who wants the truth to prevail, rather than wanting their own ideas to prevail regardless of whether they're true) should welcome probing questions. If any of the questions reveals a real flaw in the author's thesis, an honest author would count that as a benefit (because they learned something), not a cost. At the same time, dumb questions that aren't worth answering or reading can simply be downvoted. That is, _to the extent that the community can distinguish between good and bad criticisms on the merits_,[^determined-critics] determined critics of a particular author are just providing free verification labor, not conducting a DDoS attack: as it is [written of the fifth virtue](https://www.readthesequences.com/The-Twelve-Virtues-Of-Rationality), "Do not believe you do others a favor if you accept their arguments; the favor is to you." (And to the extent that the community can't distinguish between good and bad criticisms on the merits, we have bigger problems.)
+But that construal fails on two counts. Firstly, it's not a zero-sum game. An intellectually honest author (who wants the truth to prevail, rather than wanting their own ideas to prevail regardless of whether they're true) should welcome probing questions. If any of the questions reveals a real flaw in the author's thesis, an honest author would count that as a benefit (because they learned something), not a cost. At the same time, dumb questions that aren't worth answering or reading can simply be downvoted. That is, to the extent that the community can distinguish between good and bad criticisms on the merits,[^determined-critics] determined critics of a particular author are just providing free verification labor, not conducting a DDoS attack: as it is [written of the fifth virtue](https://www.readthesequences.com/The-Twelve-Virtues-Of-Rationality), "Do not believe you do others a favor if you accept their arguments; the favor is to you." (And to the extent that the community can't distinguish between good and bad criticisms on the merits, we have bigger problems.)
 
 [^determined-critics]: And to the extent that readers are [taking into account the selection effect](https://www.lesswrong.com/posts/DoPo4PDjgSySquHX8/heads-i-win-tails-never-heard-of-her-or-selective-reporting) of who the determined critics target.
 
@@ -205,7 +205,7 @@ In response to being presented with Alexander's statement contradicting his clai
 
 This is a puzzling response. Habryka had cited Alexander as an example of an author discouraged from using the site  whose discouragement is "about [Achmiz], in particular." This is contradicted by Alexander's statement that he has "no direct opinion on [Achmiz]". Rather than retracting the claim, Habyrka asserts, "My guess is [Alexander] doesn't remember."
 
-Is the idea supposed to be that Alexander was discouraged from using the site because of Achmiz in particular "around 2019"—albeit not in a way that would elicit "an incredibly intense mention"—but then forgot about it so thoroughly that in 2025, he had "no direct opinion" on Achmiz? Even if we attribute such poor memory to Alexander, the only evidence we have [locating that hypothesis](https://www.readthesequences.com/Einsteins-Arrogance) is Habryka's word against Alexander's.
+Is the idea supposed to be that Alexander was discouraged from using the site because of Achmiz in particular "around 2019"—albeit not in a way that would elicit "an incredibly intense mention"—but then forgot about it so thoroughly that in 2025, he "[couldn't] remember having any personal experience" on Achmiz? Even if we attribute such poor memory to Alexander, the only evidence we have [locating that hypothesis](https://www.readthesequences.com/Einsteins-Arrogance) is Habryka's word against Alexander's.
 
 But if it's plausible that Alexander doesn't remember what he believed seven years ago, is it not also plausible that _Habryka_ doesn't remember what Alexander said? It's conspicuous that Habryka's elaboration does not claim that Alexander volunteered Achmiz's name, only that the "name came up" and that Achmiz "was a commenter we discussed." Given that neither party can recall the details of a conversation that might have happened in 2019 or possibly some other year, which participant is more likely to have first brought up Achmiz: the one who now has "no direct opinion" on Achmiz, or the one who writes [1800-word comments about how he "do[es] just think [it's] false" that Achmiz "does not carry emnity in his heart"](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=uyobAZy5iYAAWzSSi)?
 
@@ -227,19 +227,47 @@ In response to being presented with Falkovich's comment contradicting his claim 
 
 In fact, I do not see how the Jacob Falkovich one is "clearly" complicated. Indeed, I strongly dispute Habyrka's characterization of what Falkovich "basically says": it is tendentious to paraphrase "negative [...] flipped entirely to become positive" as "made that a lot better." The latter is compatible with Habyrka's original claim that Falkovich is discouraged from using the website by Achmiz, but the former directly contradicts it: if something that's bothering you is "made [...] a lot better", the implication is that it's still bothering you a little bit (although not as much as before); if your attitude towards something "become[s] positive", that implies that it's not bothering you.
 
-The significance of Alexander and Falkovich turning out (in their own accounts) not to have been discouraged by Achmiz extends beyond removing them from our list of discouraged authors. It also calls into question the veracity of Habyrka's reports of discouraged authors: if two of the names Habyrka gave as examples turned out to be non-examples when checked, that suggests that Habryka's reports do not reliably distinguish examples from non-examples and therefore that his claim that there exist unnamed "dozens of others" cannot be taken as reliable.[^not-necessarily-dishonesty]
+The significance of Alexander and Falkovich turning out (in their own accounts) not to have been discouraged by Achmiz extends beyond removing them from our list of discouraged authors. It also calls into question the veracity of Habyrka's reports of discouraged authors: if two of the names Habyrka gave as examples turned out to be non-examples when checked, that suggests that Habryka's reports do not reliably distinguish examples from non-examples and therefore that his claim that there exist unnamed "dozens of others" cannot be taken as reliable.
+
+This is not necessarily to accuse Habryka of dishonesty. When someone makes false claims, we need not posit conscious deceit as the explanation when poor memory or weak reading comprehension explains the data equally well. But the claims are still false.
 
 Overall, while it's clear that some users have some negative sentiment about Achmiz (as we can see from the testimony from Sabien, DirectedEvolution, and Gloor quoted above, and the 8 user-level bans in place), the support for the more specific and much stronger claim that "many top authors cit[e] [Achmiz] as a top reason for why they do not want to post on the site, or comment here" seems questionable: the only unambiguous example I'm aware of is Sabien.
-
-[^not-necessarily-dishonesty]: This is not necessarily to accuse Habryka of dishonesty. When someone makes false claims, we need not posit conscious deceit as the explanation when poor memory or weak reading comprehension explains the data equally well.
 
 
 ## Preventing "Relitigation" Is a Pretext for Suppressing Dissent
 
-In the ban announcement, Habryka writes that users who disagree with the moderators can "make a post about how you disagree with some decision we made."
-
+In the ban announcement, Habryka writes that users who disagree with the moderators can "make a post about how you disagree with some decision we made." He also writes:
 
 > I think I should very rarely prevent whoever is being affected by a moderation decision from defending themselves on LessWrong. For practical reasons, I need to limit the time I personally spend replying and engaging with their defense, but I think it makes sense to allow the opposing side in basically all cases like this to publish a defense on the site, and do at least some to signal-boost it together with any moderation decisions.
+
+This would be great if Habryka were telling the truth that users would in fact be permitted to "make a post about how [they] disagree with some decision [the moderators] made."
+
+However, when user Sting made a question post, ["Which top authors did Said Achmiz drive away?"](https://www.lesswrong.com/posts/FLJ9B4pHzjKmPPxd5/which-top-authors-did-said-achmiz-drive-away), Habryka unlisted it (making it only available by direct link) and demoted it to a comment on the ban announcement post, [stating](https://www.lesswrong.com/posts/FLJ9B4pHzjKmPPxd5/which-top-authors-did-said-achmiz-drive-away?commentId=wpy7ZW4xLjbGJk8CS), "I do really want to avoid this becoming a recurring topic with lots of disconnected top-level posts doing relitigation", and "I think this is the right choice for stuff like this".
+
+When Sting [pointed out that their question met the Personal Blogpost criteria](https://www.lesswrong.com/posts/FLJ9B4pHzjKmPPxd5/which-top-authors-did-said-achmiz-drive-away?commentId=GNN9cpbHHopNFtZG6), Habryka replied, "To be clear, we relatively routinely merge and move comment threads (as is common practice on most internet forums)."
+
+Although it depends on the meaning of "relatively routinely", this claim is questionable: while I'm aware of [two](https://www.lesswrong.com/posts/WwTPSkNwC89g3Afnd/comment-section-from-05-19-2019) [cases](https://www.lesswrong.com/posts/pC74aJyCRgns6atzu/meta-discussion-from-circling-as-cousin-to-rationality) where a derailed comment thread was split onto its own post, I'm not aware of any other cases where a Personal post from an established user was manually delisted; the question had achieved 48 karma in 19 votes, suggesting that the voting userbase thought it was an appropriate and high-quality post for the site.[^non-slush] In the same comment, Habyrka also states that "[t]he visibility of the comments on this post will be very weird and kind of jank, since unlisted posts aren't designed to have active discussion under them", which casts further doubt on the claim that his action was "relatively routine[ ]".[^relatively-routine]
+
+[^non-slush]: Moderators routinely prevent inappropriate or low-quality posts from being published on the site, as can be seen in the rejected posts slushpile on [the moderation page](https://www.lesswrong.com/moderation). Sting's question is clearly not in the slushpile reference class.
+
+[^relatively-routine]: One would naïvely expect the codebase to support relatively routine operations in a non-weird, non-jank manner.
+
+[I pointed out that](https://www.lesswrong.com/posts/FLJ9B4pHzjKmPPxd5/which-top-authors-did-said-achmiz-drive-away?commentId=HqXwb2vWdb4pYiLtZ) when users make posts on topics that have already discussed before, the moderators do not demote subsequent posts to comments.[^forecasting] What made this topic different?
+
+[^forecasting]: For example, ["Forecasting is Way Overrated, and We Should Stop Funding It"](https://www.lesswrong.com/posts/WCutvyr9rr3cpF6hx/forecasting-is-way-overrated-and-we-should-stop-funding-it) prompted the reply posts ["Forecasting is Not Overrated and It's Probably Funded Appropriately"](https://www.lesswrong.com/posts/P9EdMqTscmcsorret/forecasting-is-not-overrated-and-it-s-probably-funded) and ["Comment on 'Forecasting is Way Overrated, and We Should Stop Funding It'"](https://www.lesswrong.com/posts/kA2pf6DFqZCxomp7i/comment-on-forecasting-is-way-overrated-and-we-should-stop).
+
+Habryka [replied, in part](https://www.lesswrong.com/posts/FLJ9B4pHzjKmPPxd5/which-top-authors-did-said-achmiz-drive-away?commentId=Y3ND7nnxqhBtptPLj):
+
+> The default equilibrium of internet discussion like this is that stuff gets eternally relitigated because people show up who don't want to read the previous context and are looking for some kind of drama, or get drawn in by someone else presenting some isolated facet of the context. The whole reason why I spent 60+ hours writing the previous post is to avoid that exact dynamic. Allowing lots of top-level posts will inevitably then cause me to have to spend another 100+ hours on this, which I do not want to do. Indeed, in this case there are a lot of comments on the banning post that directly address questions in this post, and I strongly expect any discussion situated in that context to go a lot better.
+
+At the time, I [pointed out](https://www.lesswrong.com/posts/FLJ9B4pHzjKmPPxd5/which-top-authors-did-said-achmiz-drive-away?commentId=6dr8uZfKfEaFtjLdb) that "have to" isn't warranted: other people have an interest in discussing the ban announcement amongst themselves independently of whether Habryka thinks its worth his time to reply.
+
+Separately from the semantics of "having to" respond, however, it's not clear to me that Habryka understands what a stunning admission the phrase "which I do not want to do" is.
+
+The _personal convenience_ of moderators is not a legitimate reason to limit the visibility of content! This should be quite clear if we consider any other topic. It would be obviously corrupt if the moderators wrote a post announcing that the "halfer" position on [the Sleeping Beauty problem](https://en.wikipedia.org/wiki/Sleeping_Beauty_problem) is correct and demoted any subsequent posts taking the "thirder" position to comments on the halferism-is-correct announcement. If the moderators in this hypothetical scenario were to defend their actions on the grounds of their "strongly expect[ing] any discussion situated in that context to go a lot better," one would hope users would ask the obvious question: better for whom?
+
+
+
 
 the sheer social metaphysics of "if you don't give up, you can eke out a concession." That's actually not true when you're trying to reasoning instead of monkey politics! If someone keeps writing thousands of words about the Halfer position being correct in Sleeping Beauty, people _don't_ say, well, he's been so polite, maybe he has a point
 
@@ -253,7 +281,7 @@ This post is not "relitigating" in the sense of extraneously making new comments
 
 ]
 
-Suppose the _Less Wrong_ moderators wrote a post taking the "thirder" position on [the Sleeping Beauty problem](https://en.wikipedia.org/wiki/Sleeping_Beauty_problem). 
+Suppose the _Less Wrong_ moderators wrote a post taking the "thirder" position on
 
 "some reasonable limit around 3000 words or so" (it's not a reasonable limit, if you get to talk more than the people you're arguing against!)
 
