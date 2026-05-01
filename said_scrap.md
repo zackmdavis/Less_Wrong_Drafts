@@ -9,7 +9,7 @@ sections—
 _ The Ban Reneges on LW2's Single Locus of Discussion Mandate and Archipelago Doctrine
 ✓ Effort Ratios Are Logically Irrelevant
 ✓ Misrepresentations in Habryka's Claims of Alleged Author Complaints About Achmiz
-- Preventing "Relitigation" Is a Pretext for Suppressing Dissent
+- Preventing "Relitigation" or "Fights of Attrition" Is a Pretext for Suppressing Dissent
 ✓ Replies to Vaniver on the Ideological Turing Test and "Emotional Tallness"
 _ Leadership Is for Coordinating Action, Not Public Discourse
 - We Don't Actually Respect You
@@ -17,7 +17,7 @@ _ Leadership Is for Coordinating Action, Not Public Discourse
 edit pass—
 _ Scott's memory footnote
 _ additional negative testimony from Sting's post
-
+_ work in sunwillrise censorship somewhere
 
 tasks to publication—
 _ reach out to Falkovich

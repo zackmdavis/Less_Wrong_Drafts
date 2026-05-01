@@ -234,7 +234,7 @@ This is not necessarily to accuse Habryka of dishonesty. When someone makes fals
 Overall, while it's clear that some users have some negative sentiment about Achmiz (as we can see from the testimony from Sabien, DirectedEvolution, and Gloor quoted above, and the 8 user-level bans in place), the support for the more specific and much stronger claim that "many top authors cit[e] [Achmiz] as a top reason for why they do not want to post on the site, or comment here" seems questionable: the only unambiguous example I'm aware of is Sabien.
 
 
-## Preventing "Relitigation" Is a Pretext for Suppressing Dissent
+## Preventing "Relitigation" or "Fights of Attrition" Is a Pretext for Suppressing Dissent
 
 In the ban announcement, Habryka writes that users who disagree with the moderators can "make a post about how you disagree with some decision we made." He also writes:
 
@@ -248,7 +248,7 @@ When Sting [pointed out that their question met the Personal Blogpost criteria](
 
 Although it depends on the meaning of "relatively routinely", this claim is questionable: while I'm aware of [two](https://www.lesswrong.com/posts/WwTPSkNwC89g3Afnd/comment-section-from-05-19-2019) [cases](https://www.lesswrong.com/posts/pC74aJyCRgns6atzu/meta-discussion-from-circling-as-cousin-to-rationality) where a derailed comment thread was split onto its own post, I'm not aware of any other cases where a Personal post from an established user was manually delisted; the question had achieved 48 karma in 19 votes, suggesting that the voting userbase thought it was an appropriate and high-quality post for the site.[^non-slush] In the same comment, Habyrka also states that "[t]he visibility of the comments on this post will be very weird and kind of jank, since unlisted posts aren't designed to have active discussion under them", which casts further doubt on the claim that his action was "relatively routine[ ]".[^relatively-routine]
 
-[^non-slush]: Moderators routinely prevent inappropriate or low-quality posts from being published on the site, as can be seen in the rejected posts slushpile on [the moderation page](https://www.lesswrong.com/moderation). Sting's question is clearly not in the slushpile reference class.
+[^non-slush]: Moderators do routinely prevent inappropriate or low-quality posts from being published on the site, as can be seen in the rejected posts slushpile on [the moderation page](https://www.lesswrong.com/moderation), but Sting's question is clearly not in the slushpile reference class.
 
 [^relatively-routine]: One would naïvely expect the codebase to support relatively routine operations in a non-weird, non-jank manner.
 
@@ -260,14 +260,34 @@ Habryka [replied, in part](https://www.lesswrong.com/posts/FLJ9B4pHzjKmPPxd5/whi
 
 > The default equilibrium of internet discussion like this is that stuff gets eternally relitigated because people show up who don't want to read the previous context and are looking for some kind of drama, or get drawn in by someone else presenting some isolated facet of the context. The whole reason why I spent 60+ hours writing the previous post is to avoid that exact dynamic. Allowing lots of top-level posts will inevitably then cause me to have to spend another 100+ hours on this, which I do not want to do. Indeed, in this case there are a lot of comments on the banning post that directly address questions in this post, and I strongly expect any discussion situated in that context to go a lot better.
 
-At the time, I [pointed out](https://www.lesswrong.com/posts/FLJ9B4pHzjKmPPxd5/which-top-authors-did-said-achmiz-drive-away?commentId=6dr8uZfKfEaFtjLdb) that "have to" isn't warranted: other people have an interest in discussing the ban announcement amongst themselves independently of whether Habryka thinks its worth his time to reply.
+At the time, I [pointed out](https://www.lesswrong.com/posts/FLJ9B4pHzjKmPPxd5/which-top-authors-did-said-achmiz-drive-away?commentId=6dr8uZfKfEaFtjLdb) that "have to" isn't warranted: other people have an interest in discussing the ban amongst themselves independently of whether Habryka thinks its worth his time to reply (to which Habryka agreed).
 
 Separately from the semantics of "having to" respond, however, it's not clear to me that Habryka understands what a stunning admission the phrase "which I do not want to do" is.
 
-The _personal convenience_ of moderators is not a legitimate reason to limit the visibility of content! This should be quite clear if we consider any other topic. It would be obviously corrupt if the moderators wrote a post announcing that the "halfer" position on [the Sleeping Beauty problem](https://en.wikipedia.org/wiki/Sleeping_Beauty_problem) is correct and demoted any subsequent posts taking the "thirder" position to comments on the halferism-is-correct announcement. If the moderators in this hypothetical scenario were to defend their actions on the grounds of their "strongly expect[ing] any discussion situated in that context to go a lot better," one would hope users would ask the obvious question: better for whom?
+The _personal convenience_ of moderators is not a legitimate reason to limit the visibility of content! This should be quite clear if we consider any other topic. It would be obviously corrupt if the moderators wrote a post announcing that the "halfer" position on [the Sleeping Beauty problem](https://en.wikipedia.org/wiki/Sleeping_Beauty_problem) is correct and demoted any subsequent posts taking the "thirder" position to comments on the halferism-is-correct announcement.
+
+If the moderators in this hypothetical scenario were to defend their actions on the grounds of their "strongly expect[ing] any discussion situated in that context to go a lot better," one would hope users would ask the obvious question: better for whom? As a matter of human psychology rather than rationality, it makes sense that someone who had sunk 60+ hours arguing that halferism is correct might feel personally annoyed if someone else were allowed to make a top-level post arguing for thirderism which emphasized different facets of the context: if readers found the second post persuasive, that might be embarrassing for the halferist and even subject them to social incentives to spend even more time replying, which they might not want to do.
+
+But there's little reason to think the halferist moderator's personal annoyance has anything to do with what would make the discussion go better _in terms of readers having accurate beliefs about the Sleeping Beauty problem_. For readers who haven't yet made up their mind on whether halferism or thirderism is correct, the obviously fair policy is that both sides should be allowed to post under the same rules, rather than one side's arguments only being allowed in a context chosen by the other. Indeed, if one side insists on asymmetric rules, that's itself suspicious.[^censorhip-suspicion]
+
+[^censorhip-suspicion]: If the thirderists are in fact wrong, wouldn't you expect readers to find your post more convincing on the merits? Crushing them with your mod powers only invites doubt that you couldn't win on the merits.
+
+In the comments on Sting's question, [I asked](https://www.lesswrong.com/posts/FLJ9B4pHzjKmPPxd5/which-top-authors-did-said-achmiz-drive-away?commentId=6dr8uZfKfEaFtjLdb) if I would be allowed to make a top-level post commenting on the ban decision. In his reply, Habryka [wrote that](https://www.lesswrong.com/posts/FLJ9B4pHzjKmPPxd5/which-top-authors-did-said-achmiz-drive-away?commentId=QkmqTmfdkhpvcNSKL) it's "quite important to provide context as to the efforts already exerted on the topic and associated lack of response, as the norms by which many, if not most, readers will interpret the lack of a response is as some kind of admission of wrongness", such that it's "bad form to not provide it in the top-level post".
+
+I have no idea what kind of "context" Habryka is expecting me to provide. He wrote a post justifying his ban decision; I'm writing a post explaining why both the ban and its justification are bad. In doing so, of course I've [linked to the ban announcement](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation) and extensively quoted its language: I had to in order to argue against it!
+
+If it helps, I'm happy to clarify that I don't think readers should think I'm right _because_ Habryka might not reply. (He's been very clear that [he didn't want to spend more than 10 hours of his time](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation#So_with_all_that_Said) responding to comments on the ban, and I'm happy to provide that context.) I think readers should think I'm right _because_ I've successfully argued in the preceding sections that the ban justification is riddled with logical errors and factual misrepresentations. Whether Habryka chooses to reply or not is his prerogative; in either case, readers will judge on the basis of whatever information is available to them. Similarly, that I chose to write this critique was _my_ prerogative. If the things I have to say are personally inconvenient for Habryka or anyone else, that's not my problem.
+
+If it helps, I'm happy to acknowledge that Habryka already spent 60+ hours on the ban announcement, which evokes sympathy for him not wanting to spend any more time on this affair—but I actually think that context that helps my case, not his. If he spent so much time trying to craft a convincing ban announcement, and ended up with such a poor result (such that I _could_ write so many words credibly critiquing it), I think that speaks to the underlying weakness of his case.
+
+In the ban announcement, Habyrka 
 
 
 
+
+https://www.lesswrong.com/posts/FLJ9B4pHzjKmPPxd5/which-top-authors-did-said-achmiz-drive-away?commentId=QkmqTmfdkhpvcNSKL
+
+Habryka claimed that his behavior would have been the same, but that's not the point—it was String's crux for the ban being justified, even if it wasn't Habryka's!
 
 the sheer social metaphysics of "if you don't give up, you can eke out a concession." That's actually not true when you're trying to reasoning instead of monkey politics! If someone keeps writing thousands of words about the Halfer position being correct in Sleeping Beauty, people _don't_ say, well, he's been so polite, maybe he has a point
 
@@ -280,8 +300,6 @@ Sting came in 8 days later with a question
 This post is not "relitigating" in the sense of extraneously making new comments to wear people out; I never commented on the ban decision at all; these arguments are appearing for the first time     
 
 ]
-
-Suppose the _Less Wrong_ moderators wrote a post taking the "thirder" position on
 
 "some reasonable limit around 3000 words or so" (it's not a reasonable limit, if you get to talk more than the people you're arguing against!)
 
