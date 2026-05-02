@@ -9,7 +9,7 @@ sections—
 _ The Ban Reneges on LW2's Single Locus of Discussion Mandate and Archipelago Doctrine
 ✓ Effort Ratios Are Logically Irrelevant
 ✓ Misrepresentations in Habryka's Claims of Alleged Author Complaints About Achmiz
-- Preventing "Relitigation" or "Fights of Attrition" Is a Pretext for Suppressing Dissent
+✓ Preventing "Relitigation" or "Fights of Attrition" Is a Pretext for Suppressing Dissent
 ✓ Replies to Vaniver on the Ideological Turing Test and "Emotional Tallness"
 _ Leadership Is for Coordinating Action, Not Public Discourse
 - We Don't Actually Respect You
@@ -23,19 +23,22 @@ tasks to publication—
 _ reach out to Falkovich
 _ finish draft
 _ confer with Said
-_ lobby Ben for amicus curiæ comment
-_ lobby Anna for amicus curiæ comment
-_ lobby Jessica for amicus curiæ comment
-_ lobby JD for amicus curiæ comment
-_ lobby Nesov for amicus curiæ comment
-_ lobby Wei Dai for amicus curiæ comment
-_ lobby niplav
+_ amicus curiæ comments
 _ ask Robert M. about traffic stats, and de-listing stats, and major versions
-_ offer to meet with Ray
 _ assurance from Vaniver
 _ assurance from D. Kokotajlo
 _ poke Ben Pace??
 _ Twitter capsule thread
+
+amicus curiae lobbying—
+_ Ben 
+_ Anna
+_ Jessica
+_ JD
+_ Nesov
+_ Wei Dai
+_ niplav
+
 
 
 questions to ask Said—
@@ -523,3 +526,25 @@ kindness and curiosity: https://www.greaterwrong.com/posts/y7AcBDWsBsbojQufK/sai
 When someone presents you with evidence that a claim you made is false, it is dishonest to misparaphrase the evidence in a way that portrays it as compatible with your claim. (It's still dishonest [in a functionalist sense even if there was no conscious intent](https://www.lesswrong.com/posts/sXHQ9R5tahiaXEZhR/algorithmic-intent-a-hansonian-generalized-anti-zombie) to decieve.) It's a particularly bizarre form of dishonesty, because it's so easily checkable: the text is right there;
 
 
+
+"vastly underestimating the cost of banning a long-time contributor": https://www.lesswrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform?commentId=RzSpDCL4qBfPPqc4j
+
+
+
+https://www.lesswrong.com/posts/FLJ9B4pHzjKmPPxd5/which-top-authors-did-said-achmiz-drive-away?commentId=QkmqTmfdkhpvcNSKL
+
+Habryka claimed that his behavior would have been the same, but that's not the point—it was String's crux for the ban being justified, even if it wasn't Habryka's!
+
+the sheer social metaphysics of "if you don't give up, you can eke out a concession." That's actually not true when you're trying to reasoning instead of monkey politics! If someone keeps writing thousands of words about the Halfer position being correct in Sleeping Beauty, people _don't_ say, well, he's been so polite, maybe he has a point
+
+https://www.greaterwrong.com/posts/FLJ9B4pHzjKmPPxd5/which-top-authors-did-said-achmiz-drive-away
+
+But short-run visibility was directly relevant to Sting's purpose (of crowd-sourcing an answer)
+
+Sting came in 8 days later with a question
+
+This post is not "relitigating" in the sense of extraneously making new comments to wear people out; I never commented on the ban decision at all; these arguments are appearing for the first time     
+
+]
+
+"some reasonable limit around 3000 words or so" (it's not a reasonable limit, if you get to talk more than the people you're arguing against!)
