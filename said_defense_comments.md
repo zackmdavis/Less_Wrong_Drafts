@@ -3,6 +3,11 @@ TODO— Ngo and Wentworth
 
 attack Ruby's praise of Ray— https://www.lesswrong.com/posts/thc4RemfLcM5AdJDa/skills-from-a-year-of-purposeful-rationality-practice?commentId=AbqcJn5FpquZvZY5b
 
+
+(Note to readers: Habryka has [stated that](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=Cz8nB3kJwdmqacwDf) he doesn't want to spend any more time on this topic. I am writing this comment for the benefit of the public record. I unequivocally deny that readers should judge Habyrka negatively simply _because_ he may not reply. However, I do think readers should judge negatively on the basis of considering what has been said on both sides.)
+
+
+
 ----
 
 
@@ -63,3 +68,7 @@ https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-bro
 
 https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/GjtZY7pg9LRB2mwMi
 > There are selection effects on who stays in the community under these conditions.
+
+
+https://www.lesswrong.com/posts/KuZaW3c5AGSMLAbks/axelcore-s-shortform?commentId=Da9g3sTEPkvvFWddB
+I still call it _Less Wrong_, but as far as betrayals of the founding vision go, orthography is the least of our problems. In the beginning, there was a grandiose [vision of discovering new general-purpose methods of systematically correct reasoning](https://www.readthesequences.com/A-Sense-That-More-Is-Possible), but 

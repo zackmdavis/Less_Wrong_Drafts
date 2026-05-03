@@ -18,6 +18,7 @@ edit pass—
 _ Scott's memory footnote
 _ additional negative testimony from Sting's post
 _ work in sunwillrise censorship somewhere
+_ British vs. American punctuation in quotes conventions
 
 tasks to publication—
 _ reach out to Falkovich
@@ -43,6 +44,7 @@ _ niplav
 
 questions to ask Said—
 _ Scott's memory footnote
+
 
 
 New direction: remember: we're going for contempt, not fury! Cut the Yudkowsky footnote graf, cut the de Cleyre epigraph, retitle to "Comment on 'Banning Said Achmiz'"
@@ -548,3 +550,9 @@ This post is not "relitigating" in the sense of extraneously making new comments
 ]
 
 "some reasonable limit around 3000 words or so" (it's not a reasonable limit, if you get to talk more than the people you're arguing against!)
+
+
+"Contempt of court" is about specific actions!! Not the judge's feelings!!
+
+
+Gloor also positive: https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/iBKppmWTpgDwYivri
