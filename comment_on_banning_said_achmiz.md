@@ -168,11 +168,27 @@ That is, in Salamon's telling, apparently endorsed by Habryka in 2017, the reaso
 
 Reversing a diaspora only works if the diverse elements of the diaspora are allowed to participate in the repatriation. For example, the State of Israel's legitimacy as a homeland for the Jews depends on its including all Jewish people as the concept has been historically and publicly understood. If a faction of [Ashkenazi](https://en.wikipedia.org/wiki/Ashkenazi_Jews) Jews siezed power and arbitrarily decided that [Sephardic](https://en.wikipedia.org/wiki/Sephardic_Jews) Jews can't be Israeli, that would seriously undermine the foundations of why many people supported the Zionist project in the first place.
 
-Said Achmiz and his collaborators (such as the present author) are undisputedly part of the rationalist tradition. In 2023, _Less Wrong_ moderator Ben Pace [wrote](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=mLJCumgJqJwFMruKx), and moderator Raymond Arnold [concurred](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=uffyAbystKYkei9GJ), that "Said is the person independent of MIRI (including Vaniver) and Lightcone who contributes the most counterfactual bits to the sequences and LW still being alive in the world." In 2023, Arnold [told me](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=Zd6sPyumY6Di4Qicz) that "there's an important spirit of early LessWrong that [I] keep alive[.]" In fact, we were here first: as far as I can tell, Achmiz and I were part of the community before any of the current moderators[^tenure]—the relevance of seniority being that, insofar as Habryka agrees that _Less Wrong_ is ["less straightforwardly [his] personal fiefdom" because he "inherited what [he] consider[s] a really important cultural institution"](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=uyobAZy5iYAAWzSSi), one would expect him to agree that [TODO: finish]
+Said Achmiz and his collaborators (such as the present author) are undisputedly part of the rationalist tradition. In 2023, _Less Wrong_ moderator Ben Pace [wrote](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=mLJCumgJqJwFMruKx), and moderator Raymond Arnold [concurred](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=uffyAbystKYkei9GJ), that "Said is the person independent of MIRI (including Vaniver) and Lightcone who contributes the most counterfactual bits to the sequences and LW still being alive in the world." In 2023, Arnold [told me](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=Zd6sPyumY6Di4Qicz) that "there's an important spirit of early LessWrong that [I] keep alive[.]" In fact, we were here first: as far as I can tell, Achmiz and I were part of the community before any of the current moderators.[^tenure]
 
 [^tenure]: Achmiz's first comment [dates to May 2010](https://www.lesswrong.com/posts/kjArXFinD3deRZNRu/blue-and-yellow-tinted-choices?commentId=NPdBntED7Yvdc9dGX). My first comment—while the original Sequences were being written on _Overcoming Bias_, more than a year before _Less Wrong_ was founded—[dates to December 2007](https://www.lesswrong.com/posts/etBrzxdfNop3DqJvA/guardians-of-the-truth?commentId=MPCaD7WZp4rrT2JAD); I [attended](https://www.lesswrong.com/posts/i47JiJwNQ2q7bWf4L/ob-meetup-millbrae-thu-21-feb-7pm?commentId=bPQtJ4AdpPcJDQ2m9) the first _Overcoming Bias_ meetup in February 2008.
 
     In contrast, Pace ["read The Sequences [...] in 2011"](https://www.lesswrong.com/posts/aG74jJkiPccqdkK3c/the-lesswrong-team#Ben_Pace___Benito), Arnold's account [dates to September 2010](https://www.lesswrong.com/posts/fyQZr4K8kAymubv3P/less-wrong-open-thread-september-2010?commentId=zhtvQMwTHXgfGEctT), Ruby Bloom ["found LessWrong in 2012"](https://www.lesswrong.com/posts/aG74jJkiPccqdkK3c/the-lesswrong-team), Ronny Fernandez's account [dates to 2011](https://www.lesswrong.com/posts/a7n8GdKiAZRX86T5A/making-beliefs-pay-rent-in-anticipated-experiences?commentId=DGfsdDd86BL9LYtPt), Vaniver's account dates to [October 2010](https://www.lesswrong.com/posts/hSeqgnc5CBJ643x9k/luminosity-twilight-fanfic-discussion-thread?commentId=ihKEMu48ZNSqJwuTS) after he ["found [_Less Wrong_] through a link to HPMOR on the xkcd forums"](https://www.lesswrong.com/posts/aG74jJkiPccqdkK3c/the-lesswrong-team#Matthew_Graves___Vaniver), Habryka's account [dates to 2015](https://www.greaterwrong.com/users/habryka4?sort=old) and Vaniver says that Achmiz has ["been here longer"](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=qpetELsqD4oCujfgG) than Habryka.
+
+The relevance of seniority is that, insofar as Habryka agrees that _Less Wrong_ is ["less straightforwardly [his] personal fiefdom" because he "inherited what [he] consider[s] a really important cultural institution"](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=uyobAZy5iYAAWzSSi), one would expect him to agree that we're rationalists just as much as he is, that the cultural institution is supposed to serve us just as much as the people who dislike our writing styles,
+
+
+
+
+
+
+
+and that he shouldn't kick us off the website we've been using for sixteen years just because he and some other people don't like our writing style. 
+
+
+[TODO: we're just as much rationalists as he is, even if he doesn't like the way we talk, for the same reason that]
+
+https://www.lesswrong.com/posts/Nws6ivJigxLm3gGEY/leaving-beta-voting-on-moving-to-lesswrong-com
+
 
 
 ## Effort Ratios Are Logically Irrelevant
@@ -425,7 +441,9 @@ I really have to question whether openly carried disdain would be better. For my
 
 Am I ... somehow wrong about that? Have I been deceiving and gaslighting people this whole time by engaging with the substance of their ideas and trying to keep my thoughts about how stupid and dishonest they are to myself?
 
-Well, unlike my friend Said, I am not a polite person and am not committed to never saying anything publicly nor denying my personal feelings, so if it helps, I'm happy to clarify that I hold extreme disdain and disrespect for the entirety of the _Less Wrong_ mod team and a decent fraction of the userbase, specifically because of their persecution of Said Achmiz.
+Well, unlike my friend Said, I am not a polite person and am not committed to never saying anything publicly nor denying my personal feelings, so if it helps, I'm happy to clarify that I hold extreme disdain and disrespect for the entirety of the _Less Wrong_ mod team and a decent fraction of the userbase—for a number of reasons, really, but particularly because of their relentless persecution of Said Achmiz.
+
+[TODO: for a reason that's causally upstream of and particularly exemplified by their persecution?]
 
 I want to be very clear about why, because I think the _reasons_ for my disdain and disrespect matter: if I hold extreme disdain and disrespect towards someone for bad reasons, then they should probably disregard my opinion, but if it's for good reasons, then maybe they should be ashmed of themselves.
 
@@ -477,8 +495,17 @@ asking for a favor of not conduct is itself egregious
 
 I can't imagine sending
 
-Sam Bankman-Fried 
+Sam Bankman-Fried
+
+You didn't offer Said that courtesy!!
 ]
+
+
+> The cost of someone being a dick to moderators is indeed very high, both in terms of the general ability of the site to have any norms and principles, and because moderator energy is often the limiting factor for a functional forum. [...] 
+
+
+
+
 
 [TODO—
 my comment about "cry-bullying" abd "deranged censorship" &c. wasn't a strawman, because I meant what I said literally, and I can point to the actual behavior—I'm not saying they _self-identify_ as censors and cry-bullies; I mean that people who can't handle the "Hm" comment are in fact &c.

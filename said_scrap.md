@@ -6,34 +6,42 @@ sections—
 ✓ Misrepresentations in Habryka's Analysis of Achmiz's Comments
 ✓ User-Level Bans Are a Sufficient and Less Intrusive Remedy
 ✓ Misrepresentations in Habryka's Characterization of Achmiz on Obligations to Reply
-_ The Ban Reneges on LW2's Single Locus of Discussion Mandate and Archipelago Doctrine
+- The Ban Reneges on LW2's Single Locus of Discussion Mandate and Archipelago Doctrine
 ✓ Effort Ratios Are Logically Irrelevant
 ✓ Misrepresentations in Habryka's Claims of Alleged Author Complaints About Achmiz
 ✓ Preventing "Relitigation" or "Fights of Attrition" Is a Pretext for Suppressing Dissent
-✓ Replies to Vaniver on the Ideological Turing Test and "Emotional Tallness"
+✓ Replies to Vaniver
 _ Leadership Is for Coordinating Action, Not Public Discourse
 - We Don't Actually Respect You
 
 edit pass—
-_ Scott's memory footnote
+_ explain LW2 reboot more clearly
+_ Yudkowsky testimony?
+_ Scott's memory footnote?
 _ additional negative testimony from Sting's post
 _ work in sunwillrise censorship somewhere
 _ British vs. American punctuation in quotes conventions
+_ adverse infernece—interest in distinguishing themselves from phonies
+_ footnote compare to "object level, meta level, meta-meta level"
+_ if it matters what was said, that dissolves attrition because it's the args that matter, not the conclusion (give example)
+_ re complaints about time usage, you could have done nothing
+_ "case law" does not mean whimsy
+_ quote his "so sick of we're not insulting you, idiot"
 
 tasks to publication—
 _ reach out to Falkovich
+_ reach out to Alexander
+_ reach out to Yudkowsky
 _ finish draft
-_ confer with Said
 _ amicus curiæ comments
 _ ask Robert M. about traffic stats, and de-listing stats, and major versions
-_ assurance from Vaniver
-_ assurance from D. Kokotajlo
-_ poke Ben Pace??
+_ assurance from Vaniver and D. Kokotajlo
 _ Twitter capsule thread
 
 amicus curiae lobbying—
 _ Ben 
 _ Anna
+_ Steven Kaas?
 _ Jessica
 _ JD
 _ Nesov
@@ -556,3 +564,55 @@ This post is not "relitigating" in the sense of extraneously making new comments
 
 
 Gloor also positive: https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/iBKppmWTpgDwYivri
+
+
+
+-----
+
+11 July 2025
+
+The last time I saw Scott IRL, at a meetup here in NYC (3 years ago, I think? or was it 2?), after I walked up to him and said hi, he looked at my name tag and immediately said that he appreciated all my comments, on SSC and on Less Wrong. I was pretty surprised by this—I’d met him once before (at a previous meetup some years back), but I genuinely did not expect him to remember me, or recognize my name, or pay attention to anything I wrote, etc. But apparently he did! (He also thanked me for running Data Secrets Lox, which I found less surprising.)
+
+… and now he “can’t remember having any person experience”? He’s “heard my name”???
+
+wat.jpg
+
+I mean, this is the reaction I would’ve expected to begin with! I would’ve been completely unsurprised if Scott had originally said “I don’t think we’ve talked much, but nice to meet you”, or whatever. But… uh… man, what a bewilderingly inconsistent memory.
+
+
+----
+
+https://www.greaterwrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines/comment/skHeDP97vJ8RkNbE2
+
+(To be clear, my take on all of this is that it is often appropriate to be rude and offensive, and often inappropriate. What has made these discussions so frustrating is that Said continues to insist that no rudeness or offensiveness is present in any of his writing, which makes it impossible to have a conversation about whether the rudeness of offensiveness is appropriate in the relevant context.
+
+Like, yeah, LessWrong has a culture, a lot of which is determined by what things people are rude and offensive towards. One of my jobs as a moderator is to steer where that goes. If someone keeps being rude and offensive towards things I really want to cultivate on the site, I will tell them to stop, or at least provide arguments for why this thing that I do not think is worth scorn, deserves scorn.
+
+But if that person then insists that no rudeness or offensiveness was present in any of their writing, despite an overwhelming fraction of readers reading it as such, then they are either a writer so bad at communication as to not belong on the site, or trying to avoid accountability for the content of their messages, both of which leave little room but to take moderation action that limits their contributions to the site)
+
+----
+
+https://www.greaterwrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines/comment/oP6SFheYka5jnabNz
+In case this wasn’t already clear, this is not an argument against moderators ever doing anything.
+
+
+
+https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/imTdsf5Rb8nAYgFxQ
+> There is a whole post I would like to write about trying to somehow grapple with the concept of "contempt of court". A hugely common experience of any moderator on the internet is that you write some moderation message trying to pretty gently enforce some principle or rule, and are met with extreme contempt and aggression. Having some ability for moderators to enforce some level of cooperativeness in moderation discussion is important. The cost of someone being a dick to moderators is indeed very high, both in terms of the general ability of the site to have any norms and principles, and because moderator energy is often the limiting factor for a functional forum. I currently consider downvoting people who are dicks to moderators really important. Like, if I didn’t do it, a lot of my moderators would quickly quit, I would probably quit moderating myself, and the consequences for the site would be enormous.
+
+> I think Said is a huge outlier in how much he was contemptuous of any attempts to moderate him, so it might just be less of an issue in the future.
+
+
+
+
+
+
+> If, beyond these, there are those here tonight who have ever forced intellectual deference from a peer, those who have prostituted themselves in the name of Charity, those who have brought confused, immoral, or unexamined arguments to the light, without the means of defense for them, and yet will go from this post and say, "Said Achmiz is an unclean man—a man rewarded by just punishment," then to _you_ I say, and may the words ring deep within your ears _until you die_: go on! Drive your sheep to the shambles! Crush that old, uncouth man beneath your Juggernaut! In the name of Niceness, Community, and Civilization, do it! In the name of the Chicagoan who preached the twelve virtues, do it! In the name of Clear Thinking, Clear Communication, and Collaborative Truthseeking, do it! In the name of Epistemic Hygiene put yourself on the side of the concern troll in the comment sections, the censor in the moderation thread, the prevaricator in public fora, the whole brute force of the karma system, the mod team, and the banhammer, to persecute one honest man who stood alone against your licensed mendacity! Do it. And if Said Achmiz dies outside your "well-kept garden", be satisfied _when you have murdered him!_ Kill him! And you hasten the day when the Future shall bury you ten thousand fathoms deep beneath its curses. Kill him! And the stripes upon his prison clothes shall lash you like the knout! Kill him! And the insane shall glitter hate at you with their wild eyes, the unborn babes shall cry their blood upon you, and the graves that you have filled in the name of Discourse, shall yield food for a race that will pillory you, until the memory of your atrocity has become a nameless ghost, flitting with the shades of Meletus, Urban VIII, and Lysenko over the horizon of the World!
+>
+> Would you smile to see him dead? Would you say, "We are rid of this obscenist"? Fools! The corpse would laugh at you from its cold eyelids! The motionless lips would mock, and the solemn hands, the pulseless, folded hands, in their quietness would write the last indictment, which neither Time nor you can efface. Kill him! And you write his glory and your shame! Said Achmiz in his felon stripes stands far above you now, and Said Achmiz _dead_ will live on, immortal in the race he died to free! Kill him!
+
+
+https://x.com/slatestarcodex/status/2042909812401340601
+
+
+contempt: https://chatgpt.com/c/69f91322-a040-8326-ada5-8e4d63f45343
