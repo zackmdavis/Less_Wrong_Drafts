@@ -27,6 +27,7 @@ _ if it matters what was said, that dissolves attrition because it's the args th
 _ re complaints about time usage, you could have done nothing
 _ "case law" does not mean whimsy
 _ quote his "so sick of we're not insulting you, idiot"
+_ Raemon's citizenship dealie
 
 tasks to publication—
 _ reach out to Falkovich
@@ -616,3 +617,17 @@ https://x.com/slatestarcodex/status/2042909812401340601
 
 
 contempt: https://chatgpt.com/c/69f91322-a040-8326-ada5-8e4d63f45343
+
+
+https://www.greaterwrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines/comment/yzbgmRDmhDoJGgKMz
+> “if not X, LessWrong would have been completely destroyed” is rarely the case for almost any X that is in dispute.
+
+Yes, exactly!
+
+
+> Here’s what confuses me about this stance: do an author’s posts on Less Wrong (especially non-frontpage posts) constitute “the author’s private space”, or do they constitute “public space”?
+https://www.greaterwrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines/comment/hXnLxb9dddKxQsmdf
+
+
+https://www.greaterwrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines/comment/oP6SFheYka5jnabNz
+> (In case this wasn’t already clear, this is not an argument against moderators ever doing anything. It’s a reason to be extra conservative about controversial and uncertain “culture-shaping” mod actions that would be very costly to get wrong, as contrasted to removing spam or uncontroversially low-value content.)
