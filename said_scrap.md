@@ -6,34 +6,35 @@ sections—
 ✓ Misrepresentations in Habryka's Analysis of Achmiz's Comments
 ✓ User-Level Bans Are a Sufficient and Less Intrusive Remedy
 ✓ Misrepresentations in Habryka's Characterization of Achmiz on Obligations to Reply
-- The Ban Reneges on LW2's Single Locus of Discussion Mandate and Archipelago Doctrine
+✓ The Ban Reneges on LW2's Single Locus of Discussion Mandate and Archipelago Doctrine
 ✓ Effort Ratios Are Logically Irrelevant
 ✓ Misrepresentations in Habryka's Claims of Alleged Author Complaints About Achmiz
 ✓ Preventing "Relitigation" or "Fights of Attrition" Is a Pretext for Suppressing Dissent
 ✓ Replies to Vaniver
-_ Leadership Is for Coordinating Action, Not Public Discourse
 - We Don't Actually Respect You
 
 edit pass—
-_ explain LW2 reboot more clearly
+_ explain LW2 reboot more clearly?
 _ Yudkowsky testimony?
 _ Scott's memory footnote?
 _ additional negative testimony from Sting's post
 _ work in sunwillrise censorship somewhere
 _ British vs. American punctuation in quotes conventions
-_ adverse infernece—interest in distinguishing themselves from phonies
 _ footnote compare to "object level, meta level, meta-meta level"
-_ if it matters what was said, that dissolves attrition because it's the args that matter, not the conclusion (give example)
 _ re complaints about time usage, you could have done nothing
 _ "case law" does not mean whimsy
 _ quote his "so sick of we're not insulting you, idiot"
 _ Raemon's citizenship dealie
+_ sunwillrise was originally on the other side: https://www.greaterwrong.com/posts/sCWe5RRvSHQMccd2Q/i-would-have-shit-in-that-alley-too/comment/tyZiGNA29rBiqfRPw and https://www.greaterwrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform/comment/ygYcErShDo6Bvn5bN
+_ relitigation and https://www.lesswrong.com/posts/9M3ynNuBsRCDfmEsZ/less-wrong-poetry-corner-coventry-patmore-s-magna-est
+_ adverse inference is about policy, if you can't distinguish the rare people who really do just hate style
+
 
 tasks to publication—
+_ finish draft
 _ reach out to Falkovich
 _ reach out to Alexander
 _ reach out to Yudkowsky
-_ finish draft
 _ amicus curiæ comments
 _ ask Robert M. about traffic stats, and de-listing stats, and major versions
 _ assurance from Vaniver and D. Kokotajlo
@@ -604,6 +605,51 @@ https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-bro
 > I think Said is a huge outlier in how much he was contemptuous of any attempts to moderate him, so it might just be less of an issue in the future.
 
 
+This is a cartoonish misunderstanding of the concept of _contempt of court_. It's a term of art that refers to behavior that interferes with judicial proceedings, not literally feeling the emotion of contempt towards the court. It's certainly not about protecting judges' _morale_, such that they don't quit their jobs!
+
+The fact that "contempt" in the judicial sense is not about judges' or perpetrators' feelings is immediately clear from a cursory examination of famous "contempt" cases. In [_United States v. Shipp_](https://en.wikipedia.org/wiki/United_States_v._Shipp) (1906), a local sheriff was found guilty of contempt of court for allowing a lynch mob to murder a death row prisoner despite a court order granting an appeal. In [_Miller v. Davis_](https://en.wikipedia.org/wiki/Miller_v._Davis) (2015), a county clerk was found guilty of contempt for refusing to issue same-sex marriage licenses. In [_Illinois v. Allen_](https://supreme.justia.com/cases/federal/us/397/337/) (1970), a defendant was found guilty of contempt for persistently interrupting proceedings, threatening the judge and declaring, "There is going to be no proceeding. I'm going to start talking and I'm going to keep on talking all through the trial"—the point was that he was actively disrupting the trial, not merely "being a dick" in the judge's subjective opinion.
+
+The analogy to forum moderation is straightforward: a user who actively defies clear moderator orders would be guilty of contempt in the judicial sense, but Achmiz clearly hasn't done any such thing: indeed, Habryka reports that he ["decided to not actually check the 'ban' flag on Said's account, on account of trusting him to not post and vote under his account"](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=oRwaJ4GwXAnvrmGgw)! (If technical limitations prevented a software-imposed ban, posting and voting in defiance of moderator orders _would_ be contempt, and Habryka trusts Achmiz not to do that.)
+
+
+
+## Leadership Is for Coordinating Action, Not Public Discourse
+
+
+[TODO— what's with the praise
+public forums are different than companies; the need for a coordinating leader is much weaker
+"but you need moderators or you'll have chaos" fails because I'm NOT AT ALL objecting to the slop; I'm specifically objecting to the ban of Said Achmiz, who Gets It (and old timers ZMD and Wei Dai can tell that he gets it)
+Habryka's bitchy comment was strawmanning me on this point
+Maybe Eliezer just got this one wrong?!
+"citizenship" in previous mod discussions
+]
+
+
+### On Adverse Inference
+
+Vaniver writes:
+
+> I think we should keep as a live hypothesis "this person finds Said's comments annoying because they are directing attention at the hole in their argument." As someone who likes finding the hole in their argument and then developing the argument further, this never annoyed me. But this isn't the only hypothesis and I think often Said or Zack acted as tho it was.
+
+I agree that it's not the only hypothesis, because [there's](https://www.readthesequences.com/Infinite-Certainty) [never](https://www.readthesequences.com/Zero-And-One-Are-Not-Probabilities) only one hypothesis, but the uncertainty is compatible with acting as if it were the dominant hypothesis. Decision theory admits no "presumption of innocence": if there's an 80% probability an author is trying to conceal holes in their argument, it makes sense for readers to be suspicious of that author's honesty even though 80% is not 100%—
+
+particularly given that resolving the uncert
+
+dishonesty 
+
+
+Consider that the justice system has a concept called [_adverse inference_](https://en.wikipedia.org/wiki/Adverse_inference). If the plantiff in a court case wants to cite a document that turns out to have been shredded by the defendant, the judge can instruct the jury to assume that the document was unfavorable to the defendant's case.
+
+Is that unfair? The document could have been shredded for any number of perfectly innocent reasons!
+
+Well, it _could_ have. But—really? In Bayesian terms, the probability of the document being shredded given that it hurts the defendant's case is reasonably high, but the probability of the document being shredded given that it doesn't affect the defendant's case is low. Why destroy that _particular_ document?
+
+A similar skepticism applies to censorship of criticism.
+
+
+
+Why not just downvote it and let it sit largely unheeded by readers at the bottom of the page—unless you're worried that readers _will_ heed it? The phrasing of Vaniver's comment seems to suggest that at some level, this is also his model: he writes, "As someone who _likes_ finding the hole in their argument and then developing the argument further, this never annoyed me," attributing his lack of annoyance to his wanting to find the holes.
+
 
 
 
@@ -631,3 +677,30 @@ https://www.greaterwrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-a
 
 https://www.greaterwrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines/comment/oP6SFheYka5jnabNz
 > (In case this wasn’t already clear, this is not an argument against moderators ever doing anything. It’s a reason to be extra conservative about controversial and uncertain “culture-shaping” mod actions that would be very costly to get wrong, as contrasted to removing spam or uncontroversially low-value content.)
+
+
+https://x.com/ohabryka/status/2051339638678380732
+> Generally I think trying to force every description of every organization to pass their ITT is bad. This is not a particularly uncharitable description and clearly directionally helpful
+
+
+------
+
+next email—
+
+> I haven't been keeping track.
+
+I'm going to need to reference this in a footnote in the last section. I just asked Said Achmiz for examples, and he _admitted that he didn't have any on hand_. And it was fine! Because you knew it was just a question, and not a disguised "social punishment"!
+
+> Now, one could make the reply here
+
+Thanks, it's important that I address that. I added a paragraph:
+
+> One could argue that it's ungrateful nonsense to complain about influence someone obtains via administering a website that they created. The LessWrong 2.0 team built and maintained the current version of the website (albeit seeded with the database of posts and comments from its predecessor), and it was a lot of hard work at great personal expense: of course they're going to run it as they see fit. This "our website, our rules" view may have merit, but it's important to notice that it's a _different_ view than the "inherited [...] a really important cultural institution" view. This section is only arguing that the Achmiz ban is unjustified with respect to the cultural institution view, which may not hold—but if it doesn't, it would be dishonest to [motte-and-bailey](https://slatestarcodex.com/2014/11/03/all-in-all-another-brick-in-the-motte/) between the two views, claiming when convenient that LW 2.0 is the fulfillment of Salamon's call for a single locus of discussion for the rationalist community, but insisting when challenged that it's just Habryka's personally curated forum, one of many in the diaspora.
+
+> But my prediction is that they’ll be met with a shrug and the usual retreat to “we have the power because we have the power, and if you don’t like it, that’s just too bad”.
+
+Sure, but then I point to the new paragraph about how that's the motte, and then they say, "I don't have time for this", and then I say, "Yes, of course, I absolutely agree that you don't need to reply if it's not worth your time; I'm just pointing out to third parties that I addressed that point", and then they look bad to third parties (and banning me would look even worse).
+
+> Typo (“Habyrka”).
+
+Not sure why I keep repeatedly mistyping this.
