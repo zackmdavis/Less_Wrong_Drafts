@@ -129,7 +129,7 @@ Habryka claims that "Said himself does not think [ignoring his comments is] a va
 
 Moreover, quoting the 2020 comment out of context conveys a mistaken impression of Achmiz's views, which Achmiz [clarified in a subsequent comment the same day](https://www.lesswrong.com/posts/pC74aJyCRgns6atzu/meta-discussion-from-circling-as-cousin-to-rationality?commentId=kS4BfYJuZ8ZcwuwfB).[^footnote-link] In [the clarifying comment from the 2020 thread](https://www.lesswrong.com/posts/pC74aJyCRgns6atzu/meta-discussion-from-circling-as-cousin-to-rationality?commentId=kS4BfYJuZ8ZcwuwfB), Achmiz states, "I'm not saying that there's a specific obligation for a post author to post a reply comment, using the Less Wrong forum software, directly to any given comment." Rather, Achmiz explains, the need for a clarifying question to be answered could be met in any number of other ways, such as being addressed in future work by the author, or by someone else other than the author answering the question or linking to an answer elsewhere. The point is not to impose a legalistic burden on the author, but for the question to actually get answered. The "obligation" to reply is meant in the same sense that one has an "obligation" to provide evidence, cite sources, or correct factual errors: it derives its normative force from its truth-tracking function, not mere social convention.[^obligation]
 
-[^footnote-link] Habryka links to the clarifying comment [in footnote 11](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation#fnkljn7wnj2ki) as "further details on what Said means by 'responding'", but I don't think this suffices to not mislead readers about Achmiz's true views.
+[^footnote-link]: Habryka links to the clarifying comment [in footnote 11](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation#fnkljn7wnj2ki) as "further details on what Said means by 'responding'", but I don't think this suffices to not mislead readers about Achmiz's true views.
 
 [^obligation]: In personal correspondence with the present author, Achmiz re-stated his position again:
 
@@ -186,7 +186,7 @@ The moderation team also used to believe in sharing the website, [in the form of
 
 One could argue that it's ungrateful nonsense to complain about influence someone obtains via administering a website that they created. The LessWrong 2.0 team led by Habryka built and maintained the current version of the website (albeit seeded with the database of posts and comments from its predecessor), and it was a lot of hard work at great personal expense: of course they're going to run it as they see fit. This "our website, our rules" view may have merit, but it's important to notice that it's a _different_ view than the "inherited [...] a really important cultural institution" view. This section is only arguing that the Achmiz ban is unjustified with respect to the cultural institution view, which may not hold—but if it doesn't, it would be dishonest to [motte-and-bailey](https://slatestarcodex.com/2014/11/03/all-in-all-another-brick-in-the-motte/) between the two views, claiming when convenient that LW 2.0 is the fulfillment of Salamon's call for a single locus of discussion for the rationalist community, but insisting when challenged that it's just Habryka's personally curated forum, one of many in the diaspora.
 
-In an [insightful post about the perils of delegation](https://www.lesswrong.com/posts/rSCxviHtiWrG5pudv/do-not-hand-off-what-you-cannot-pick-up), Habryka warns that when you delegate work to someone, that puts them in "a position of leverage over you and the rest of the organization." In retrospect, this would appear to be the devil's bargain the community made when [it voted to hand the _lesswrong.com_ domain name to the LessWrong 2.0 reboot](https://www.lesswrong.com/posts/Nws6ivJigxLm3gGEY/leaving-beta-voting-on-moving-to-lesswrong-com). We got a shiny new website as a single locus of discussion—at the cost of the website maintainers seeking to usurp cultural authority [on the basis of database creds rather than persuasive writing](https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=oP6SFheYka5jnabNz). Was the trade worth it, or would it have better to accept the diaspora as a _fait accompli_ and convert _lesswrong.com_ into a static archive? Given that I'm still here, I can't say with a straight face that it would have been better for LW 2.0 never to have existed. What I can say is that [policy debates should not appear one-sided](https://www.readthesequences.com/Policy-Debates-Should-Not-Appear-One-Sided).
+In an [insightful post about the perils of delegation](https://www.lesswrong.com/posts/rSCxviHtiWrG5pudv/do-not-hand-off-what-you-cannot-pick-up), Habryka warns that when you delegate work to someone, that puts them in "a position of leverage over you and the rest of the organization." In retrospect, this would appear to be the devil's bargain the community made when [it voted to hand the _lesswrong.com_ domain name to the LessWrong 2.0 reboot](https://www.lesswrong.com/posts/Nws6ivJigxLm3gGEY/leaving-beta-voting-on-moving-to-lesswrong-com). We got a shiny new website as a single locus of discussion—at the cost of the website maintainers usurping cultural authority [on the basis of database creds rather than persuasive writing](https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=oP6SFheYka5jnabNz). Was the trade worth it, or would it have better to accept the diaspora as a _fait accompli_ and convert _lesswrong.com_ into a static archive? Given that I'm still here, I can't say with a straight face that it would have been better for LW 2.0 never to have existed. What I can say is that [policy debates should not appear one-sided](https://www.readthesequences.com/Policy-Debates-Should-Not-Appear-One-Sided).
 
 
 ## Effort Ratios Are Logically Irrelevant
@@ -197,7 +197,7 @@ Habryka acknowledges that there's no problem "in an environment with lots of mut
 
 It would seem that some dubious implicit assumptions are being made about participants' motives. The DDoS attack analogy would carry if we construe intellectual discouse as a zero-sum game in which every unanswered criticism results in the critic winning and the author losing the same number of "points".
 
-But that construal fails on two counts. Firstly, it's not a zero-sum game. An intellectually honest author (who wants the truth to prevail, rather than wanting their own ideas to prevail regardless of whether they're true) should welcome probing questions. If any of the questions reveals a real flaw in the author's thesis, an honest author would count that as a benefit (because they learned something), not a cost. At the same time, dumb questions that aren't worth answering or reading can simply be downvoted. That is, to the extent that the community can distinguish between good and bad criticisms on the merits,[^determined-critics] determined critics of a particular author are just providing free verification labor, not conducting a DDoS attack: as it is [written of the fifth virtue](https://www.readthesequences.com/The-Twelve-Virtues-Of-Rationality), "Do not believe you do others a favor if you accept their arguments; the favor is to you." (And to the extent that the community can't distinguish between good and bad criticisms on the merits, we have bigger problems.)
+But that construal fails on two counts. Firstly, it shouldn't be an adversarial situation. An intellectually honest author (who wants the truth to prevail, rather than wanting their own ideas to prevail regardless of whether they're true) should welcome probing questions. If any of the questions reveals a real flaw in the author's thesis, an honest author would count that as a benefit (because they learned something), not a cost. At the same time, dumb questions that aren't worth answering or reading can simply be downvoted. That is, to the extent that the community can distinguish between good and bad criticisms on the merits,[^determined-critics] determined critics of a particular author are just providing free verification labor, not conducting a DDoS attack: as it is [written of the fifth virtue](https://www.readthesequences.com/The-Twelve-Virtues-Of-Rationality), "Do not believe you do others a favor if you accept their arguments; the favor is to you." (And to the extent that the community can't distinguish between good and bad criticisms on the merits, we have bigger problems.)
 
 [^determined-critics]: And to the extent that readers are [taking into account the selection effect](https://www.lesswrong.com/posts/DoPo4PDjgSySquHX8/heads-i-win-tails-never-heard-of-her-or-selective-reporting) of who the determined critics target.
 
@@ -401,7 +401,7 @@ A recurring theme in the accusations against Achmiz is that Achmiz is allegedly 
 
 [^g-word]: In the comments, Habryka [writes that](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=uyobAZy5iYAAWzSSi) he "feel[s] some temptation to try to restore some of [his] sanity by providing compelling demonstrations of what has felt like gaslighting to me", although that that wasn't the primary motivation for the ban announcement post.
 
-I can't speak for Said (and he is no longer permitted to speak for himself), but if I may be permitted to speculate, I think what's going on here is that Said is _polite_. He's a polite person! He's "committed to never saying anything explicitly" because personal insults would be contrary to the etiquette of a civilized discussion forum.
+I can't speak for Said (and he is no longer permitted to speak for himself), but if I may be permitted to speculate, I think what's going on here is that Said is _polite_. He's a polite person! The reason he's "committed to never saying anything explicitly" is because he believes that personal insults would be contrary to the etiquette of a civilized discussion forum.
 
 Rather, what he does do, and what provokes the accusations of dishonesty, is ask pointed questions such that some people will (rightly or wrongly) _infer_ that he's thinking negatively of someone. The complaint seems to be that this is worse, because passive-aggression is [purportedly worse than overt aggression](https://www.lesswrong.com/posts/MqgwHJ93pJpaeHXs6/posts-i-don-t-have-time-to-write#1__Blatant_conflicts_are_the_best_kind). Habryka [writes in the comments that](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=uyobAZy5iYAAWzSSi) he "think[s] [he] could handle disdain fine, if it was carried openly, and could be argued with."
 
@@ -417,12 +417,17 @@ The reason I hold such extreme disdain and disrespect towards Achmiz's persecuto
 
 Even more obviously, it's not that Achmiz is right about everything; I've had my [disagreements with him](https://www.lesswrong.com/posts/aofsjKJ8CZTHYkX7F/on-the-normativity-of-debate-a-discussion-with-said-achmiz), as I've had [with anyone](https://quoteinvestigator.com/2015/04/04/agree/).
 
-It's about a principle that I've spent the last decade of my life[^more-ways] fighting for, that the truth matters, and specifically, that the truth matters more than people's feelings. If someone makes an intellectually substantive comment on an intellectual discussion forum, it makes sense to object if it's false or off-topic. It does not make sense to object that the intellectually substantive comment makes you feel bad.
-
-https://www.greaterwrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads/comment/KsoyFHZv5FYMTNz5J
+It's about a principle that I've spent the last decade of my life[^more-ways] fighting for, that the truth matters, and specifically, that the truth matters more than people's feelings. If someone makes an intellectually substantive comment on an intellectual discussion forum, it makes sense to object if it's false or off-topic. It does not make sense to object that the intellectually substantive comment makes you feel bad, because as a grown-up on an intellectual discussion forum, 
 
 [^more-ways]: Given the existential risk situation, perhaps in more ways than one.
 
+I'm not expecting people to endure arbitrary abuse, just on-topic, intellectually substantive comments.
+
+I'm not expecting people to not have feelings. As people who know me will attest, I have lots of feelings and tend to wear my heart on my sleeve. I often procrastinate on checking my email or this website when I anticipate receiving a reply that I find emotionally aversive, 
+
+
+
+https://www.greaterwrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads/comment/KsoyFHZv5FYMTNz5J
 
 [TODO—three scenarios and DirectedEvolution's rebuttal. This is obviously, obviously the kind of content we want on Less Wrong. No one would read this and claim it's slush-pile noise. the selection effect for phonies and bullshitters who can't even coneive of the concept of independent judgement ... phonies including the mod team ]
 
@@ -431,7 +436,9 @@ https://www.greaterwrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-
 
 Pace [writes disapprovingly](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=BJ2j8sQThHzDYNFo9) of "any commenter being able to demand answers to questions at the risk of the post-author's status".
 
-Well, _yes!_ How did Pace think status worked, exactly? "Status" is just other people's beliefs about you. People are going to update their beliefs about you based on their observations of your behavior. _Your status is always at risk._ It has to, [in order to mean anything](https://www.lesswrong.com/posts/G5TwJ9BGxcgh5DsmQ/yes-requires-the-possibility-of-no): in order to gain status when you do good things, it needs to be possible to lose status when you do bad things.
+Well, _yes!_ How did Pace think status worked, exactly? "Status" is just other people's beliefs about you. People are going to update their beliefs about you based on their observations of your behavior. _Your status is always at risk._[^status-risk]
+
+[^status-risk]: It has to, [in order to mean anything](https://www.lesswrong.com/posts/G5TwJ9BGxcgh5DsmQ/yes-requires-the-possibility-of-no): in order to gain status when you do good things, it needs to be possible to lose status when you do bad things.
 
 Habryka struggles to explain why he wrote such a detailed ban announcement, rather than just admitting[^admitting] that he's personally fed up with Achmiz without trying to justify that further:
 
@@ -441,9 +448,9 @@ Habryka struggles to explain why he wrote such a detailed ban announcement, rath
 
 [^admitting]: Habryka writes that he "do[es] think a huge fraction of this announcement should be seen as 'look, it's been too long, I've spent a lot of energy on this, I am not dealing with this anymore, let's part ways'."
 
-I submit that if you're worried that any attempt to compellingly explain why you're not insane is doomed, that might be _because you are insane_.[^name-calling] It doesn't make sense to purport to run an elite intellectual forum if you're going to be overcome by a private vision of pointing fingers summoning punishment upon being confronted by someone with independent judgement and high standards. Habryka [hopes that](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=J46KejinEpz3dLvSo) "maybe [he]'ll be a better writer in a few years and can get it across more easily." He won't. Habryka is already a decent enough writer to explain what he means; the problem is that the thing that he means is unreasonable.
+I submit that if you're worried that any attempt to compellingly explain why you're not insane is doomed, that might be _because you are insane_.[^insane] It doesn't make sense to purport to run an elite intellectual forum if you're going to be overcome by a private vision of pointing fingers summoning punishment upon being confronted by someone with independent judgement and high standards. Habryka [hopes that](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=J46KejinEpz3dLvSo) "maybe [he]'ll be a better writer in a few years and can get it across more easily." He won't. Habryka is already a decent enough writer to explain what he means; the problem is that the thing that he means is unreasonable.
 
-[^name-calling]: Lest I be accused of stooping to mere name-calling, note that Habryka used the word _insane_, and I'm echoing his language. More generally, I'm claiming that for all X, if any attempt to compellingly explain that not-X is doomed, that might be because X is true.
+[^insane]: Note that Habryka used the word _insane_, and I'm echoing his language. More generally, I'm claiming that for all X, if any attempt to compellingly explain that not-X is doomed, that might be because X is true.
 
 So that's my disdain, carried openly. That's what I think of you people.
 
@@ -473,7 +480,7 @@ You didn't offer Said that courtesy!!
 
 
 
-
+well-kept gardens goes both ways
 
 [TODO—
 my comment about "cry-bullying" abd "deranged censorship" &c. wasn't a strawman, because I meant what I said literally, and I can point to the actual behavior—I'm not saying they _self-identify_ as censors and cry-bullies; I mean that people who can't handle the "Hm" comment are in fact &c.
