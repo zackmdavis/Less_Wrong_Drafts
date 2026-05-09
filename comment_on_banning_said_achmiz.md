@@ -409,7 +409,7 @@ I really have to question whether openly carried disdain would be better. For my
 
 Am I ... somehow wrong about that? Have I been deceiving and gaslighting people this whole time by engaging with the substance of their ideas and trying to keep my thoughts about how stupid and dishonest they are to myself?
 
-Well, unlike my friend Said, I am not a polite person and am not committed to never saying anything publicly nor denying my personal feelings, so if it helps, I'm happy to clarify that I hold extreme disdain and disrespect for the entirety of the _Less Wrong_ moderation team and a decent fraction of the userbase for general reasons that are neatly exemplified in the concrete case of their relentless persecution of Said Achmiz. I think they are being profoundly dishonest in a way that makes them functionally stupid despite their above-average IQs.
+Well, unlike my friend Said, I am not a polite person and am not committed to never saying anything explicitly nor denying that it is the case, so if it helps, I'm happy to clarify that I hold extreme disdain and disrespect for the entirety of the _Less Wrong_ moderation team and a decent fraction of the userbase for general reasons that are neatly exemplified by the concrete case of their relentless persecution of Said Achmiz. I think they are being profoundly dishonest in a way that makes them functionally stupid despite their above-average IQs, and I think they are perpetrating a form of moral fraud against the world by appropriating the mantle of "rationality" as the brand name for their insular Bay Area party-and-AI-discussion scene while deceiving the public about what rationality even is.
 
 I want to be very clear about why I think that, because I think the _reasons_ for my disdain and disrespect matter: if I hold extreme disdain and disrespect towards someone for bad reasons, then they should probably disregard my opinion, but if it's for good reasons, then maybe they should be ashamed of themselves.
 
@@ -417,19 +417,34 @@ The reason I hold such extreme disdain and disrespect towards Achmiz's persecuto
 
 Even more obviously, it's not that Achmiz is right about everything; I've had my [disagreements with him](https://www.lesswrong.com/posts/aofsjKJ8CZTHYkX7F/on-the-normativity-of-debate-a-discussion-with-said-achmiz), as I've had [with anyone](https://quoteinvestigator.com/2015/04/04/agree/).
 
-It's about a principle that I've spent the last decade of my life[^more-ways] fighting for, that the truth matters, and specifically, that the truth matters more than people's feelings. If someone makes an intellectually substantive comment on an intellectual discussion forum, it makes sense to object if it's false or off-topic. It does not make sense to object that the intellectually substantive comment makes you feel bad, because as a grown-up on an intellectual discussion forum, 
+It's about a principle that I've spent the last decade of my life[^more-ways] fighting for, that the truth matters, and specifically, that the truth matters more than people's feelings. If someone makes an intellectually substantive comment on an intellectual discussion forum, it makes sense to object if it's false or irrelevant. It does not make sense to object that the intellectually substantive comment makes you feel bad, because whether the comment makes you feel bad has no bearing on whether the comment is true or relevant. As a grown-up on an intellectual discussion forum, it's not other people's job to manage your feelings.
 
 [^more-ways]: Given the existential risk situation, perhaps in more ways than one.
 
-I'm not expecting people to endure arbitrary abuse, just on-topic, intellectually substantive comments.
+To be clear, I'm not expecting people to endure arbitrary abuse—just on-topic, intellectually substantive comments.
 
-I'm not expecting people to not have feelings. As people who know me will attest, I have lots of feelings and tend to wear my heart on my sleeve. I often procrastinate on checking my email or this website when I anticipate receiving a reply that I find emotionally aversive, 
+To be clear, I'm not expecting people to not have feelings. As people who know me will attest, I have lots of feelings and tend to wear my heart on my sleeve. I sometimes procrastinate checking my email or this website for hours or days when I anticipate receiving a reply that I'll find emotionally aversive. It's just that, as a grown-up, I understand that to be _my_ problem. Expecting everyone else to censor themselves for my personal comfort would be making it everyone else's problem.
 
+This website was founded from [a sense that more is possible](https://www.readthesequences.com/A-Sense-That-More-Is-Possible)—that a sufficiently detailed understanding of [the laws](https://www.readthesequences.com/No-One-Can-Exempt-You-From-Rationalitys-Laws) of systematically correct reasoning would enable cognitive feats that would both [improve lives today](https://www.lesswrong.com/posts/jP583FwKepjiWbeoQ/epistle-to-the-new-york-less-wrongians) and help humanity confront the machine intelligence transition.
+
+It was understood, at the time, that this was an unnatural ambition that would require effort and possibly psychological discomfort.
+
+
+https://www.readthesequences.com/Crisis-Of-Faith
+
+> Better to think of such rules as, "Imagine what a skeptic would say—and then imagine what they would say to your response—and then imagine what else they might say, that would be harder to answer."
+>
+> Or, "Try to think the thought that hurts the most."
 
 
 https://www.greaterwrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads/comment/KsoyFHZv5FYMTNz5J
 
-[TODO—three scenarios and DirectedEvolution's rebuttal. This is obviously, obviously the kind of content we want on Less Wrong. No one would read this and claim it's slush-pile noise. the selection effect for phonies and bullshitters who can't even coneive of the concept of independent judgement ... phonies including the mod team ]
+[TODO—three scenarios and DirectedEvolution's rebuttal. This is obviously, obviously the kind of content we want on Less Wrong. No one would read this and claim it's slush-pile noise. the selection effect for phonies and bullshitters who can't even coneive of the concept of independent judgement ... phonies including the mod team
+
+> punishments of the virtues and values that are good and should be supported and are the lifeblood of the site by my lights.
+
+well-kept gardens goes both ways
+]
 
 
 
@@ -438,7 +453,7 @@ Pace [writes disapprovingly](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/b
 
 Well, _yes!_ How did Pace think status worked, exactly? "Status" is just other people's beliefs about you. People are going to update their beliefs about you based on their observations of your behavior. _Your status is always at risk._[^status-risk]
 
-[^status-risk]: It has to, [in order to mean anything](https://www.lesswrong.com/posts/G5TwJ9BGxcgh5DsmQ/yes-requires-the-possibility-of-no): in order to gain status when you do good things, it needs to be possible to lose status when you do bad things.
+[^status-risk]: It has to be, [in order to mean anything](https://www.lesswrong.com/posts/G5TwJ9BGxcgh5DsmQ/yes-requires-the-possibility-of-no): in order to gain status when you do good things, it needs to be possible to lose status when you do bad things.
 
 Habryka struggles to explain why he wrote such a detailed ban announcement, rather than just admitting[^admitting] that he's personally fed up with Achmiz without trying to justify that further:
 
@@ -448,14 +463,20 @@ Habryka struggles to explain why he wrote such a detailed ban announcement, rath
 
 [^admitting]: Habryka writes that he "do[es] think a huge fraction of this announcement should be seen as 'look, it's been too long, I've spent a lot of energy on this, I am not dealing with this anymore, let's part ways'."
 
-I submit that if you're worried that any attempt to compellingly explain why you're not insane is doomed, that might be _because you are insane_.[^insane] It doesn't make sense to purport to run an elite intellectual forum if you're going to be overcome by a private vision of pointing fingers summoning punishment upon being confronted by someone with independent judgement and high standards. Habryka [hopes that](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=J46KejinEpz3dLvSo) "maybe [he]'ll be a better writer in a few years and can get it across more easily." He won't. Habryka is already a decent enough writer to explain what he means; the problem is that the thing that he means is unreasonable.
+I submit that if you're worried that any attempt to compellingly explain why you're not insane is doomed, that might be _because you are insane_.[^insane] It doesn't make sense to purport to run an elite intellectual forum if you're going to be overcome by a private vision of pointing fingers summoning punishment upon being confronted by someone with independent judgement and high standards. Habryka [hopes that](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=J46KejinEpz3dLvSo) "maybe [he]'ll be a better writer in a few years and can get it across more easily." He won't. Habryka is already a decent enough writer to explain what he means; the problem is that the thing that he means is completely unreasonable.
 
 [^insane]: Note that Habryka used the word _insane_, and I'm echoing his language. More generally, I'm claiming that for all X, if any attempt to compellingly explain that not-X is doomed, that might be because X is true.
 
-So that's my disdain, carried openly. That's what I think of you people.
+
+
+
+So that's my disdain, carried openly.
+
+
+You deserve it!
+
 
 Is that ... better? I really have to question whether that's better!
-
 
 
 [TODO— I would have prefered to talk at the object level or the meta level, but you're the one making everything about status _and then_ claiming that passive-aggression is worse. You asked for it!]
@@ -480,7 +501,6 @@ You didn't offer Said that courtesy!!
 
 
 
-well-kept gardens goes both ways
 
 [TODO—
 my comment about "cry-bullying" abd "deranged censorship" &c. wasn't a strawman, because I meant what I said literally, and I can point to the actual behavior—I'm not saying they _self-identify_ as censors and cry-bullies; I mean that people who can't handle the "Hm" comment are in fact &c.
