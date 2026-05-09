@@ -309,7 +309,7 @@ If it helps, I'm happy to clarify that I don't think readers should think I'm ri
 
 If it helps, I'm happy to acknowledge that Habryka already spent 60+ hours on the ban announcement, which evokes sympathy for him not wanting to spend any more time on this affair—but I actually think that context that helps my case, not his. If he spent so much time trying to craft a convincing ban announcement, and ended up with such a poor result (such that I _could_ write so many words credibly critiquing it),[^no-filibuster] I think that speaks to the underlying weakness of his case.
 
-[^no-filibuster]: If someone made a policy decision I strongly disliked but did a solid job of explaining why the decision made sense according to their goals (which are _ex hypothesi_ not mine), I wouldn't be able to write 20,000 words about it, because "I strongly disapprove of your rational decision because I have different goals" just doesn't take that long to say.
+[^no-filibuster]: I think some readers may be wary that a long post such as this one represents an effort to "filibuster": that the mod team did something I disliked, so I'm trying to delegitimize them throwing up a impressive-looking flood of verbiage. I'm denying this on the grounds that I can't fabricate wordcount without having something to say. (That would be bad writing, and my readers would notice in the comment section.) The reason this post is long is because the ban announcement is just that terrible. If someone made a policy decision I strongly disliked but did a solid job of explaining why the decision made sense according to their goals (which are _ex hypothesi_ not mine), I wouldn't be able to write 20,000 words about it, because "I strongly disapprove of your rational decision because I have different goals" just doesn't take that long to say.
 
 ----
 
@@ -317,15 +317,19 @@ In the ban announcement, Habryka lists as one of the implications for other user
 
 While it's true that people who have time to burn writing comments have a structural advantage in internet discussions, analogous to how people with money for the best lawyers have an advantage in courts, it's odd to frame it as a matter of extracting "concessions" or "establishing [...] norm[s]", as if discussions were a form of negotiation or psychic warfare in which one achieves better results by threatening to withhold benefits from or inflict mental damage on one's counterparty.
 
-The difference between a court case or an internet argument on the one hand, _versus_ a negotiation or a psychic war on the other, is that arguments can be decided on the merits. Expensive lawyers or time to argue are helpful insofar as they help you marshal better arguments and evidence for your case, but you do have to have a case. It's not generally true that people who don't have a case can prevail by dint of an overwhelming resource advantage. Someone fanatically devoted to the belief that one-half is the correct answer to the Sleeping Beauty problem could write a Sequence of a dozen posts and tens and thousands of words covering the problem from every possible angle, and it would not cause people to say, "Well, he wrote so many words, I guess he must have a point," let alone, "Well, the thirderists didn't comment on the tenth post of the Sequence, that's a norm violation!"
+The difference between a court case or an internet argument on the one hand, _versus_ a negotiation or a psychic war on the other, is that arguments can be decided on the merits. Expensive lawyers or time to argue are helpful insofar as they help you marshal better arguments and evidence for your case, but you do have to have a case. It's not generally true that people who don't have a case can prevail by dint of an overwhelming resource advantage. Someone fanatically devoted to the belief that one-half is the correct answer to the Sleeping Beauty problem could write a Sequence of a dozen posts and tens and thousands of words covering the problem from every possible angle, and it would not cause people to say, "Well, he wrote so many words, I guess he must have a point," let alone, "Well, the thirderists didn't comment on the tenth post of the Sequence, that's a norm violation!"[^filibuster-sequence]
 
-If there _is_ such a thing as merits—and it would be surprising if the _Less Wrong_ moderators disagreed with me on that—then the case for preventing so-called "fights of attrition" dissolves. If arguments were a zero-sum contest of psychic warfare in which it doesn't matter what was said, only who wins, then it might make sense to impose the same wordcount limit on both sides, to make it a fair fight that measures who can inflict more damage per word, rather than who has time to write more.
+[^filibuster-sequence]: And if the Sequence became boring and repetitive as it dragged on, subsequent entries would get downvoted with few comments.
+
+If there _is_ such a thing as merits—and it would be surprising if the _Less Wrong_ moderators disagreed with me on that—then the case for preventing so-called "fights of attrition" dissolves. Who decides when an argument has become a "fight of attrition", that everything that could be said, has been said? The dual of "Do not try to win arguments by fights of attrition" is "Do not try to win arguments by stonewalling and censoring your opponent." If arguments were a zero-sum contest of psychic warfare in which it doesn't matter what was said, only who wins, then it might make sense to impose the same wordcount limit on both sides, to make it a fair fight that measures who can inflict more damage per word, rather than who has time to write more.
 
 But if it _does_ matter what was said (right?), and since we have a karma system to help readers prioritize their attention, there's no good reason to artificially limit how much the losers of the conflict are allowed to talk[^losers] for fear that they might eke out some concessions and let them lose less hard rather than being totally annhilated. The point of discussing the Sleeping Beauty problem is not in order to advise a woman how to bet on a coinflip one Monday or maybe Tuesday morning, such that, if it's now Wednesday, all subsequent discussion should be banned to prevent "relitigating" the question. While the discussion's [bottom line](https://www.readthesequences.com/The-Bottom-Line) could have told her how to bet, its main value is in elucidating the nature of anthropic reasoning.
 
 [^losers]: I'm assuming that the side with the hard power to limit speech is the one that wins.
 
-It's the same thing here. I have no illusions that the present post will result in the moderators changing their mind and reversing the Achmiz ban. That doesn't license censoring me to prevent "relitigating" "fights of attrition", because reversing the ban isn't the point. I know that I lost the social contest nine months ago. The point is that _I have a lot to say_ about why the ban was wrong on the merits, and the things that I have to say could have a lot of decision-relevant implications[^merit-implications] to any remaining listeners in 2026 who still [believe in](https://www.lesswrong.com/posts/duvzdffTzL3dWJcxn/believing-in-1) merits even while the ban itself remains in place.
+It's the same thing here. I have no illusions that the present post will result in the moderators changing their mind and reversing the Achmiz ban. That doesn't license censoring me to prevent "relitigating" "fights of attrition", because reversing the ban isn't the point. I know that I lost the social contest nine months ago.
+
+The point is that _I have a lot to say_ about why the ban was wrong on the merits, and the things that I have to say could have a lot of decision-relevant implications[^merit-implications] to any remaining listeners in 2026 who still [believe in](https://www.lesswrong.com/posts/duvzdffTzL3dWJcxn/believing-in-1) merits even while the ban itself remains in place.
 
 [^merit-implications]: _E.g._, about whether to contribute to _Less Wrong_, how much to believe highly-upvoted content on _Less Wrong_ relative to other sources, whether to donate to [Mox](https://moxsf.com/) _vs._ Lightcone Infrastructure, _&c._
 
@@ -364,9 +368,9 @@ It's not clear why Vaniver (or Sabien) uses a height metaphor instead of a word 
 
 [^metaphor-choice]: Thanks to Said Achmiz for this observation.
 
-Vaniver concludes by linking to [a 2013 comment thread](https://www.lesswrong.com/posts/qrA2e4n6JqqAoBYzE/ritual-report-schelling-day?commentId=S6zEi2yw8HL6WX8g7) in which he criticizes Yudkowsky's advocacy of deleting comments that negatively reinforce contributor efforts. Vaniver writes that he "was missing the concept of emotional tallness, then" and that he "can see the younger me levelling a similar criticism at the mod team now."
+Vaniver concludes by linking to [a 2013 comment thread](https://www.lesswrong.com/posts/qrA2e4n6JqqAoBYzE/ritual-report-schelling-day?commentId=S6zEi2yw8HL6WX8g7) in which he criticizes Yudkowsky's advocacy of deleting comments that negatively reinforce contributor efforts. The present-day Vaniver writes that he "was missing the concept of emotional tallness, then" and that he "can see the younger me levelling a similar criticism at the mod team now."
 
-But possessing "the concept of emotional tallness" doesn't explain what the younger Vaniver was allegedly wrong about![^indirect-effects] In the 2013 thread, the younger Vaniver [testifies that](https://www.lesswrong.com/posts/qrA2e4n6JqqAoBYzE/ritual-report-schelling-day?commentId=geiMZp5ocaxnFoMPE) "responding appropriately to criticism is a skill that takes development" and that he was "pleased with how far [he had] gotten." Adopting the novel metaphor of "emotional tallness" rather than just saying _fortitude_ doesn't refute the younger Vaniver's claim that it's possible and desirable to learn to respond appropriately to criticism. (Alternatively, if the claim is that it was possible for the younger Vaniver to learn because he was "emotionally tall", but that "emotionally short" people can't learn, it remains to be argued for why _Less Wrong_ should accomodate emotionally short people more than it currently accomodates low-IQ people.)
+But the mere observation that present-day Vaniver possesses "the concept of emotional tallness" doesn't explain what the younger Vaniver was allegedly wrong about![^indirect-effects] In the 2013 thread, the younger Vaniver [testifies that](https://www.lesswrong.com/posts/qrA2e4n6JqqAoBYzE/ritual-report-schelling-day?commentId=geiMZp5ocaxnFoMPE) "responding appropriately to criticism is a skill that takes development" and that he was "pleased with how far [he had] gotten." Adopting the novel metaphor of "emotional tallness" rather than just saying _fortitude_ doesn't refute the younger Vaniver's claim that it's possible and desirable to learn to respond appropriately to criticism. (Alternatively, if the claim is that it was possible for the younger Vaniver to learn because he was "emotionally tall", but that "emotionally short" people can't learn, it remains to be argued for why _Less Wrong_ should accomodate emotionally short people more than it currently accomodates low-IQ people.)
 
 [^indirect-effects]: Vaniver also writes that his younger self was "missing the point about the conversation quality being worse because of indirect effects." This is too vague for me to address without further explanation; I don't know what purported indirect effects Vaniver is referring to.
 
@@ -427,14 +431,35 @@ To be clear, I'm not expecting people to not have feelings. As people who know m
 
 This website was founded from [a sense that more is possible](https://www.readthesequences.com/A-Sense-That-More-Is-Possible)—that a sufficiently detailed understanding of [the laws](https://www.readthesequences.com/No-One-Can-Exempt-You-From-Rationalitys-Laws) of systematically correct reasoning would enable cognitive feats that would both [improve lives today](https://www.lesswrong.com/posts/jP583FwKepjiWbeoQ/epistle-to-the-new-york-less-wrongians) and help humanity confront the machine intelligence transition.
 
-It was understood, at the time, that this was an unnatural ambition that would require effort and possibly psychological discomfort.
-
-
-https://www.readthesequences.com/Crisis-Of-Faith
+It was understood, at the time, that this was an unnatural ambition that would require effort and probably psychological discomfort. That's why [the founding texts contained advice like](https://www.readthesequences.com/Crisis-Of-Faith):
 
 > Better to think of such rules as, "Imagine what a skeptic would say—and then imagine what they would say to your response—and then imagine what else they might say, that would be harder to answer."
 >
 > Or, "Try to think the thought that hurts the most."
+
+That is, in the Sequences era, it was understood that even if you don't have any persistent and demanding critics in real life, you should try to simulate them. It was understood that the process would be unpleasant, but that's it's unpleasant _because_ it involves fighting the human instinct to rationalize, and that the reason to do it anyway is because you care more about being [less wrong](https://tvtropes.org/pmwiki/pmwiki.php/Main/TitleDrop) than about having pleasant emotional experiences.
+
+In the current era, deep into eternal September, Achmiz's detractors are quite explicit that they don't care very much about being less wrong. We are told that there's ["a general trade off between authors' experience and improving correctness"](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=jYt7Mwj2xx6oeqtNA) such that Achmiz's style is more suitable for the yearly Review rather than daily comments. 
+
+In reply, Achmiz [draws on the concepts of formative and summative evaluations in the field of usability engineering to explain the problem with this stance](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=baJei2fAf3y24tvc4): the best time to catch simple errors is immediately, when they're still cheap to correct. Delaying serious criticism to the yearly Review 12 to 24 months later (!) would just be giving bad ideas time to spread and accumulate unchecked.
+
+Another one of Achmiz's detractors replies that ["[t]here is little-no hope of most people overcoming their tendency to feel insulted and attacked, and that when you talk in a way that provokes these feelings, you destroy the opportunity to do a useful formative evaluation[.]"](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=BAi4Lbf6jdGyk7F6i)
+
+In reply, Achmiz [patiently explains why asking for examples isn't an insult or an attack](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=KsoyFHZv5FYMTNz5J). The question can _become_ a demerit to an author if an answer could be reasonably expected[^email-anecdote] and the author doesn't have one, but it's wrong to interpret the question itself as an attack when it can often be easily answered.
+
+[^email-anecdote]: As the comment's "Scenario I" makes clear, it's possible that examples might be lacking in early-stage work, but that's okay as long as the incompleteness of the work is clearly indicated. In a recent email exchange with Achmiz, he
+
+"I didnt notice this. Examples?"
+
+Achmiz replied, 
+
+
+
+
+
+
+
+
 
 
 https://www.greaterwrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads/comment/KsoyFHZv5FYMTNz5J
@@ -443,7 +468,7 @@ https://www.greaterwrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-
 
 > punishments of the virtues and values that are good and should be supported and are the lifeblood of the site by my lights.
 
-well-kept gardens goes both ways
+well-kept gardens goes both ways https://www.lesswrong.com/posts/tscc3e5eujrsEeFN4/well-kept-gardens-die-by-pacifism
 ]
 
 
@@ -469,17 +494,26 @@ I submit that if you're worried that any attempt to compellingly explain why you
 
 
 
-
-So that's my disdain, carried openly.
-
-
 You deserve it!
+
+So that's my disdain, carried openly. 
+
+
 
 
 Is that ... better? I really have to question whether that's better!
 
+[TODO— I would have prefered to talk at the object level or the meta level, but you're the one making everything about status _and then_ claiming that passive-aggression is worse. You asked for it!
 
-[TODO— I would have prefered to talk at the object level or the meta level, but you're the one making everything about status _and then_ claiming that passive-aggression is worse. You asked for it!]
+a last-last resort after years
+
+https://www.lesswrong.com/posts/6CM7rcnTBjoeE9M8S/thoughts-on-lesswrong-norms-the-art-of-discourse-and?commentId=bfnKLYiCJLwTiNqas
+
+
+
+I guess we'll find out if it's better, but it's hard not to suspect that the "deception" complaint was a catch-22 persecution, given Habryka's behavior elsewhere
+
+]
 
 ------
 
@@ -489,9 +523,11 @@ Is that ... better? I really have to question whether that's better!
 
 asking for a favor of not conduct is itself egregious
 
+lèse-majesté
+
 I can't imagine sending
 
-Habyrka has written about EA should have been more suspicious of Sam Bankman-Fried, so it's bizarre that he doesn't recongize that his own behavior is red flag
+Habyrka has written about EA should have been more suspicious of Sam Bankman-Fried, so it's bizarre that he doesn't recongize that his own behavior is red flag; SBF also had a difficult job that would have been made harder by scrutiny
 
 You didn't offer Said that courtesy!!
 ]
