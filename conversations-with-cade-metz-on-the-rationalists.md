@@ -1565,7 +1565,7 @@ End quote.
 
 **CM**: It's a great point. It's a tricky thing to describe.
 
-**ZMD**: So that's why—you've told me that like the book will be able to capture more nuance than the _New York Times_ articles. I hope you're telling the truth about that, because the conversations that we have here are actually good. In these conversations here, you seem you seem pretty perceptive. I want to trust you.
+**ZMD**: So that's why—you've told me that like the book will be able to capture more nuance than the _New York Times_ articles. I hope you're telling the truth about that, because the conversations that we have here are actually good. In these conversations here, you seem pretty perceptive. I want to trust you.
 
 **CM**: Good to hear.
 

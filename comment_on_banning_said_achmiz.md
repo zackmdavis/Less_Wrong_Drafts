@@ -445,7 +445,7 @@ In reply, Achmiz [draws on the concepts of formative and summative evaluations i
 
 Another one of Achmiz's detractors replies that ["[t]here is little-no hope of most people overcoming their tendency to feel insulted and attacked, and that when you talk in a way that provokes these feelings, you destroy the opportunity to do a useful formative evaluation[.]"](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=BAi4Lbf6jdGyk7F6i)
 
-In reply, Achmiz [patiently explains why asking for examples isn't an insult or an attack](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=KsoyFHZv5FYMTNz5J). The question can _become_ a demerit to an author if an answer could be reasonably expected[^email-anecdote] and the author doesn't have one, but it's wrong to interpret the question itself as an attack when it can often be easily answered.
+In reply, Achmiz [patiently explains why asking for examples isn't an insult or an attack](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=KsoyFHZv5FYMTNz5J). The question can _become_ a demerit to an author if an answer would be expected[^email-anecdote] and the author doesn't have one, but it's wrong to interpret the question itself as an attack when it can often be easily answered.
 
 [^email-anecdote]: As the comment's "Scenario I" makes clear, it's possible that examples might be lacking in early-stage work, but that's okay as long as the incompleteness of the work is clearly indicated. In a recent email exchange with Achmiz, he
 
@@ -467,6 +467,8 @@ https://www.greaterwrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-
 [TODO—three scenarios and DirectedEvolution's rebuttal. This is obviously, obviously the kind of content we want on Less Wrong. No one would read this and claim it's slush-pile noise. the selection effect for phonies and bullshitters who can't even coneive of the concept of independent judgement ... phonies including the mod team
 
 > punishments of the virtues and values that are good and should be supported and are the lifeblood of the site by my lights.
+
+why would you say, "by my lights", unless you knew at some level that you couldn't ground it in something other than personal preference?
 
 well-kept gardens goes both ways https://www.lesswrong.com/posts/tscc3e5eujrsEeFN4/well-kept-gardens-die-by-pacifism
 ]
@@ -548,3 +550,5 @@ https://www.greaterwrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-a
 
 footnote: does other threads include my own?
 ]
+
+my perscription: don't let people use "being a dick" accusations to silence you (which is not the same thing as actively targeting "being a dick")

@@ -28,6 +28,7 @@ _ Raemon's citizenship dealie
 _ sunwillrise was originally on the other side: https://www.greaterwrong.com/posts/sCWe5RRvSHQMccd2Q/i-would-have-shit-in-that-alley-too/comment/tyZiGNA29rBiqfRPw and https://www.greaterwrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform/comment/ygYcErShDo6Bvn5bN
 _ relitigation and https://www.lesswrong.com/posts/9M3ynNuBsRCDfmEsZ/less-wrong-poetry-corner-coventry-patmore-s-magna-est
 _ adverse inference is about policy, if you can't distinguish the rare people who really do just hate style
+_ the forces of blandness: https://www.lesswrong.com/posts/KHunHoNd2fckwaRxz/the-forces-of-blandness-and-the-disagreeable-majority
 
 
 tasks to publication—
@@ -36,6 +37,7 @@ _ reach out to Falkovich
 _ reach out to Alexander
 _ reach out to Yudkowsky
 _ amicus curiæ comments
+_ war comments (include David Hornbein)
 _ ask Robert M. about traffic stats, and de-listing stats, and major versions
 _ assurance from Vaniver and D. Kokotajlo
 _ Twitter capsule thread
@@ -693,7 +695,7 @@ I'm going to need to reference this in a footnote in the last section. I just as
 
 > Now, one could make the reply here
 
-Thanks, it's important that I address that. I added a paragraph:
+Thanks, it's important that I address that! I added a paragraph:
 
 > One could argue that it's ungrateful nonsense to complain about influence someone obtains via administering a website that they created. The LessWrong 2.0 team built and maintained the current version of the website (albeit seeded with the database of posts and comments from its predecessor), and it was a lot of hard work at great personal expense: of course they're going to run it as they see fit. This "our website, our rules" view may have merit, but it's important to notice that it's a _different_ view than the "inherited [...] a really important cultural institution" view. This section is only arguing that the Achmiz ban is unjustified with respect to the cultural institution view, which may not hold—but if it doesn't, it would be dishonest to [motte-and-bailey](https://slatestarcodex.com/2014/11/03/all-in-all-another-brick-in-the-motte/) between the two views, claiming when convenient that LW 2.0 is the fulfillment of Salamon's call for a single locus of discussion for the rationalist community, but insisting when challenged that it's just Habryka's personally curated forum, one of many in the diaspora.
 
@@ -704,3 +706,19 @@ Sure, but then I point to the new paragraph about how that's the motte, and then
 > Typo (“Habyrka”).
 
 Not sure why I keep repeatedly mistyping this.
+
+
+
+
+http://unremediatedgender.space/2024/Mar/agreeing-with-stalin-in-ways-that-exhibit-generally-rationalist-principles/#an-adversarial-game
+
+> Accordingly, I tried the object-level good-faith argument thing first. I tried it for years. But at some point, I think I should be allowed to notice the nearest-unblocked-strategy game which is obviously happening. I think there's some number of years and some number of thousands of words of litigating the object level (about gender) and the meta level (about the philosophy of categorization) after which there's nothing left to do but jump up to the meta-meta level of politics and explain, to anyone capable of hearing it, why I think I've accumulated enough evidence for the assumption of good faith to have been empirically falsified.16
+
+
+comment to Ray on "what people should do"
+
+https://en.wiktionary.org/wiki/selfawarewolf
+
+remember to include the softening note, that you could choose to stop being frauds
+
+https://www.lesswrong.com/posts/xG9Y2Mct7uZyt98yb/annoyingly-principled-people-and-what-befalls-them
