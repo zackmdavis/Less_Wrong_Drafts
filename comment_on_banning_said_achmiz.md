@@ -431,7 +431,11 @@ To be clear, I'm not expecting people to not have feelings. As people who know m
 
 This website was founded from [a sense that more is possible](https://www.readthesequences.com/A-Sense-That-More-Is-Possible)—that a sufficiently detailed understanding of [the laws](https://www.readthesequences.com/No-One-Can-Exempt-You-From-Rationalitys-Laws) of systematically correct reasoning would enable cognitive feats that would both [improve lives today](https://www.lesswrong.com/posts/jP583FwKepjiWbeoQ/epistle-to-the-new-york-less-wrongians) and help humanity confront the machine intelligence transition.
 
-It was understood, at the time, that this was an unnatural ambition that would require effort and probably psychological discomfort. That's why [the founding texts contained advice like](https://www.readthesequences.com/Crisis-Of-Faith):
+It was understood, at the time, that aspiring to systematically correct reasoning was an unnatural ambition that would require effort and probably psychological discomfort. As it [was written in the founding texts](https://www.readthesequences.com/Avoiding-Your-Beliefs-Real-Weak-Points):
+
+> People don't think about the real weak points of their beliefs for the same reason they don't touch an oven's red-hot burners; it's _painful_.
+
+Correspondingly, the founding texts advised [confronting the pain rather than fleeing from it](https://www.readthesequences.com/Crisis-Of-Faith):
 
 > Better to think of such rules as, "Imagine what a skeptic would say—and then imagine what they would say to your response—and then imagine what else they might say, that would be harder to answer."
 >
@@ -447,36 +451,25 @@ Another one of Achmiz's detractors replies that ["[t]here is little-no hope of m
 
 In reply, Achmiz [patiently explains why asking for examples isn't an insult or an attack](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=KsoyFHZv5FYMTNz5J). The question can _become_ a demerit to an author if an answer would be expected[^email-anecdote] and the author doesn't have one, but it's wrong to interpret the question itself as an attack when it can often be easily answered.
 
-[^email-anecdote]: As the comment's "Scenario I" makes clear, it's possible that examples might be lacking in early-stage work, but that's okay as long as the incompleteness of the work is clearly indicated. In a recent email exchange with Achmiz, he
+[^email-anecdote]: As the comment's "Scenario I" makes clear, it's possible that examples might be lacking in early-stage work, but that can be acceptable if the incompleteness of the work is clearly indicated.
 
-"I didnt notice this. Examples?"
+    In a recent email exchange with Achmiz, he tentatively claimed to notice a social trend while expressing uncertainty "that it's a real trend and not just motivated perception." I said, "I didn't notice this. Examples?" Achmiz replied that he "[had]n't been keeping track" because he "hadn't anticipate[d] this conversation" but that he'd "be on the lookout for it henceforth, though." So my request for examples went unanswered—but for a casual email exchange, this was fine! We both knew that the question wasn't an attack. It was just that, if I hadn't independently noticed the same thing and he hadn't cached examples, that meant we should both put more weight on the motivated perception hypothesis until examples could be found.
 
-Achmiz replied, 
+To be clear, if someone _disagreed_ with Achmiz _on the intellectual merits_ about the usefulness of formative evaluations or requests for examples for reaching correct conclusions, that would be really interesting. I'm sure Achmiz would be happy to discuss it (if he were still allowed to talk).
 
+The thing that's so morally disgusting about Achmiz's detractors is that they don't even pretend to care about the intellectual merits! The complaints aren't about Achmiz being wrong, only about him causing people to feel insulted and attacked and discouraged.
 
+What can one even say to such people? [One simply despairs](https://www.readthesequences.com/Created-Already-In-Motion) of [explaining the obvious problem with shutting out information that makes you feel bad](https://www.lesswrong.com/posts/MjutwGzoLrTTodeTf/hazards-of-selection-effects-on-approved-information-1), when the explanation itself would make them feel bad.
 
+On the banning post, the same user who claimed it's impossible for people to overcome their feelings of hurt and attack [pleads for less prominent posts to not be criticized](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=GjtZY7pg9LRB2mwMi), only "engaged with by a charitable volunteer as a teacher might respond to a student", because "There are selection effects on who stays in the community under these conditions."
 
+Indeed, selection effects are important. For example, a _Less Wrong_ that persecutes Said Achmiz is selecting for _bullshitters who don't care whether what they say is true or false_. Because people who care about whether they're telling the truth want to be held accountable! They want to be criticized![^want-criticism] They want people to ask questions about their work! Probably, they want people to ask questions about their work even if they personally won't have time to respond, because they understand the concept of a public comment section in which other people might be able to answer!
 
+[^want-criticism]: Because if they can't answer the criticisms, they learn something, and if they can, they gain more justified confidence in their ideas. An idea is more likely to be right if someone tried to prove it wrong and failed—but for that to happen, critics have to be allowed to try.
 
+One would have hoped that the moderation team and high-karma voting userbase would care about maintaining a culture that either reforms or ejects bullshitters and valorizes people who care whether what they say is true, as contrasted to persecuting the people who care about whether what they say is true in order to protect the fragile emotions of bullshitters.
 
-
-
-
-https://www.greaterwrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads/comment/KsoyFHZv5FYMTNz5J
-
-[TODO—three scenarios and DirectedEvolution's rebuttal. This is obviously, obviously the kind of content we want on Less Wrong. No one would read this and claim it's slush-pile noise. the selection effect for phonies and bullshitters who can't even coneive of the concept of independent judgement ... phonies including the mod team
-
-> punishments of the virtues and values that are good and should be supported and are the lifeblood of the site by my lights.
-
-why would you say, "by my lights", unless you knew at some level that you couldn't ground it in something other than personal preference?
-
-well-kept gardens goes both ways https://www.lesswrong.com/posts/tscc3e5eujrsEeFN4/well-kept-gardens-die-by-pacifism
-]
-
-
-
-
-Pace [writes disapprovingly](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=BJ2j8sQThHzDYNFo9) of "any commenter being able to demand answers to questions at the risk of the post-author's status".
+And yet Pace [writes disapprovingly](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=BJ2j8sQThHzDYNFo9) and somehow with a straight face of "any commenter being able to demand answers to questions at the risk of the post-author's status".
 
 Well, _yes!_ How did Pace think status worked, exactly? "Status" is just other people's beliefs about you. People are going to update their beliefs about you based on their observations of your behavior. _Your status is always at risk._[^status-risk]
 
@@ -494,16 +487,25 @@ I submit that if you're worried that any attempt to compellingly explain why you
 
 [^insane]: Note that Habryka used the word _insane_, and I'm echoing his language. More generally, I'm claiming that for all X, if any attempt to compellingly explain that not-X is doomed, that might be because X is true.
 
+Habryka [had clarified in July 2025](https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=KqtPsTP8TdWQnhjtD) that he doesn't want to censor all social punishment, only "punishments of the virtues and values that are good and should be supported and are the lifeblood of the site by my lights."[^by-my-lights] He frequently cites ["Well-Kept Gardens Die By Pacificism"](https://www.lesswrong.com/posts/tscc3e5eujrsEeFN4/well-kept-gardens-die-by-pacifism) to justify his actions.
+
+Well, yes, exactly! I'm standing up for Said Achmiz and against the bullshitters because [I grew up in this garden eighteen years ago](https://www.lesswrong.com/posts/etBrzxdfNop3DqJvA/guardians-of-the-truth?commentId=MPCaD7WZp4rrT2JAD) and I'm not going to let it die by pacifistically deferring to the narcissistic lunatics who now claim to own it. I'm standing up for Said Achmiz in defense of the virtues and values that are good and should be supported and are the lifeblood of the site—not "by my lights", but rather according to _what enables the site create maps that reflect the territory_. Because "my lights" could be wrong!
+
+
+
+
+well-kept gardens goes both ways https://www.lesswrong.com/posts/tscc3e5eujrsEeFN4/well-kept-gardens-die-by-pacifism
+]
 
 
 You deserve it!
 
 So that's my disdain, carried openly. 
 
+Is that ... better?
 
 
-
-Is that ... better? I really have to question whether that's better!
+I really have to question whether that's better!
 
 [TODO— I would have prefered to talk at the object level or the meta level, but you're the one making everything about status _and then_ claiming that passive-aggression is worse. You asked for it!
 
