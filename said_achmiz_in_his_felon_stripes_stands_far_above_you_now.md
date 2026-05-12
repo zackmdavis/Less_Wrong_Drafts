@@ -499,7 +499,7 @@ I mean all of this literally, but also, supporters of the ban should make sure t
 
 So that's my disdain, carried openly. Is that ... better? Again, a core component of the complaints against Achmiz is that he was disrespectful while being "committed to never saying anything explicitly or even denying that it is the case", that his judgment when called out "disappears, denies it ever existed, or keeps slipping away, redefining itself in endless circles." So here I am, saying the things Said was too polite to ever say but you must have suspected he was thinking, so that it's easier for you to take it as an object and argue with it. Is this what you wanted from him? Are we good?
 
-Or were you not expecting me to call your bluff?
+Or were you not expecting anyone to call your bluff?
 
 That is, I think the complaints about about Achmiz being supposedly deceptive or passive-aggressive are fake. I think what's actually going on is that Achmiz's persecutors want to crush all speech that threatens their status or that of their allies, and that Achmiz was sufficiently consistently polite in his on-topic, intellectually substantive criticisms that they had to come up with the "passive-aggression" complaint as a rationalization. Being less "deceptive" (more radically transparent, like me) wouldn't have helped Achmiz, because the actual rule is: kiss the ring.
 
