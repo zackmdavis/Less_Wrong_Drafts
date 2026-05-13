@@ -1,19 +1,40 @@
-sections—
 
-✓ "If I Can't Explain It to Said Achmiz, I Probably Don't Understand It"
-✓ An Inversion of Values
-✓ If "Every Individual Owns Their Own Judgment of You", Then the Ban Rationale Is Untenable
-✓ Misrepresentations in Habryka's Analysis of Achmiz's Comments
-✓ User-Level Bans Are a Sufficient and Less Intrusive Remedy
-✓ Misrepresentations in Habryka's Characterization of Achmiz on Obligations to Reply
-✓ The Ban Reneges on LW2's Single Locus of Discussion Mandate and Archipelago Doctrine
-✓ Effort Ratios Are Logically Irrelevant
-✓ Misrepresentations in Habryka's Claims of Alleged Author Complaints About Achmiz
-✓ Preventing "Relitigation" or "Fights of Attrition" Is a Pretext for Suppressing Dissent
-✓ Replies to Vaniver
-- We Don't Actually Respect You
+section 2nd editing pass needs—
+
+• "If I Can't Explain It to Said Achmiz, I Probably Don't Understand It"
+• An Inversion of Values
+• If "Every Individual Owns Their Own Judgment of You", Then the Ban Rationale Is Untenable
+• Misrepresentations in Habryka's Analysis of Achmiz's Comments
+• User-Level Bans Are a Sufficient and Less Intrusive Remedy
+• Misrepresentations in Habryka's Characterization of Achmiz on Obligations to Reply
+_ The Ban Reneges on LW2's Single Locus of Discussion Mandate and Archipelago Doctrine
+• Effort Ratios Are Logically Irrelevant
+_ Misrepresentations in Habryka's Claims of Alleged Author Complaints About Achmiz
+_ Preventing "Relitigation" and "Fights of Attrition" Is a Pretext for Suppressing Dissent
+• Replies to Vaniver
+_ We Don't Actually Respect You
+_ Coda
 
 edit pass—
+_ please don't critique my personal conduct?!?
+_ just disagreeing would be fine; the punishment is specifically for evading critcism on the grounds of social punishment, the engineer who only relates to 
+_ more on Misrepresentations—contradicting author self-reports to their face!! Hoffman (on Missing Cakes, Alicorn in the ban thread)
+_ resurrect "hey, buddy", "Said doesn't send those signals" part somewhere, more briefly
+_ the fact that it's impossible to talk about the opinion being wrong without this obsession about social consequences is the whole problem Davis is complaining about: making a mistake as an engineer is OK and doesn't get punished, but relating to mistakes only in terms of social punishment does _itself_ get punished
+_ explain "kiss the ring"
+_ competing access needs
+_ "you pathetic little egos couldn't handle a few simple questions" in his own voice — which he does earlier — reads as a guy losing his temper. The de Cleyre adaptation reads as literature
+_ CEV, you can just not do controversial things
+_ cite Gordon as another example of the bad guys
+_ cite Gordon on "and my actions have no effect on your ability to use every part of the site that is not one of my posts"
+_ work in "On the Construction of Beacons"
+_ accusation that the rationale is to kiss the ring needs a lot more work
+_ you should demand satisfaction if you're actually offended: https://www.greaterwrong.com/posts/xqAnKW46FqzPLnGmH/causal-reality-vs-social-reality/comment/J7SzFE4cKYyTFwDrF
+_ Said is not slushpile, signal-to-noise objection doesn't count (worth a section??), best-of comments
+_ cite Spiracular interaction: https://www.lesswrong.com/posts/rFv2YRiNEYGivC5JM/spiracular-s-shortform-feed?commentId=n5FvpbzQB5GzRzN9q
+_ concede that it's empirical whether people can handle Said, but normatively, that's a problem for the rationality project!!!
+_ People are right to notice that he asks because he _suspects_ it's not real, but it's better to "passive aggressively" ask because they might surprise you with evidence 
+_ footnote about me being drama-seeking
 _ explain LW2 reboot more clearly?
 _ Yudkowsky testimony?
 _ Scott's memory footnote?
@@ -31,13 +52,18 @@ _ adverse inference is about policy, if you can't distinguish the rare people wh
 _ the forces of blandness: https://www.lesswrong.com/posts/KHunHoNd2fckwaRxz/the-forces-of-blandness-and-the-disagreeable-majority
 
 
+> I do think it's more likely than not that a decent chunk of your reduced engagement with the site is downstream of your engagement with Said," directly contradicting Hoffman's self-report to his face
+
+
 tasks to publication—
-_ finish draft
+_ edit draft
 _ reach out to Falkovich
 _ reach out to Alexander
 _ reach out to Yudkowsky
+_ Justis feedback
 _ amicus curiæ comments
-_ war comments (include David Hornbein)
+_ war comments
+_ pt. 2 section edits
 _ ask Robert M. about traffic stats, and de-listing stats, and major versions
 _ assurance from Vaniver and D. Kokotajlo
 _ Twitter capsule thread
@@ -53,10 +79,8 @@ _ Wei Dai
 _ niplav
 
 
-
 questions to ask Said—
 _ Scott's memory footnote
-
 
 
 New direction: remember: we're going for contempt, not fury! Cut the Yudkowsky footnote graf, cut the de Cleyre epigraph, retitle to "Comment on 'Banning Said Achmiz'"
@@ -601,17 +625,21 @@ In case this wasn’t already clear, this is not an argument against moderators 
 
 
 
+so if merely possessing the emotion of contempt is grounds for banning—
+
+
+
 https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/imTdsf5Rb8nAYgFxQ
-> There is a whole post I would like to write about trying to somehow grapple with the concept of "contempt of court". A hugely common experience of any moderator on the internet is that you write some moderation message trying to pretty gently enforce some principle or rule, and are met with extreme contempt and aggression. Having some ability for moderators to enforce some level of cooperativeness in moderation discussion is important. The cost of someone being a dick to moderators is indeed very high, both in terms of the general ability of the site to have any norms and principles, and because moderator energy is often the limiting factor for a functional forum. I currently consider downvoting people who are dicks to moderators really important. Like, if I didn’t do it, a lot of my moderators would quickly quit, I would probably quit moderating myself, and the consequences for the site would be enormous.
+> There is a whole post I would like to write about trying to somehow grapple with the concept of "contempt of court". A hugely common experience of any moderator on the internet is that you write some moderation message trying to pretty gently enforce some principle or rule, and are met with extreme contempt and aggression.
+
+
+Having some ability for moderators to enforce some level of cooperativeness in moderation discussion is important. The cost of someone being a dick to moderators is indeed very high, both in terms of the general ability of the site to have any norms and principles, and because moderator energy is often the limiting factor for a functional forum. I currently consider downvoting people who are dicks to moderators really important. Like, if I didn’t do it, a lot of my moderators would quickly quit, I would probably quit moderating myself, and the consequences for the site would be enormous.
 
 > I think Said is a huge outlier in how much he was contemptuous of any attempts to moderate him, so it might just be less of an issue in the future.
 
 
-This is a cartoonish misunderstanding of the concept of _contempt of court_. It's a term of art that refers to behavior that interferes with judicial proceedings, not literally feeling the emotion of contempt towards the court. It's certainly not about protecting judges' _morale_, such that they don't quit their jobs!
+----
 
-The fact that "contempt" in the judicial sense is not about judges' or perpetrators' feelings is immediately clear from a cursory examination of famous "contempt" cases. In [_United States v. Shipp_](https://en.wikipedia.org/wiki/United_States_v._Shipp) (1906), a local sheriff was found guilty of contempt of court for allowing a lynch mob to murder a death row prisoner despite a court order granting an appeal. In [_Miller v. Davis_](https://en.wikipedia.org/wiki/Miller_v._Davis) (2015), a county clerk was found guilty of contempt for refusing to issue same-sex marriage licenses. In [_Illinois v. Allen_](https://supreme.justia.com/cases/federal/us/397/337/) (1970), a defendant was found guilty of contempt for persistently interrupting proceedings, threatening the judge and declaring, "There is going to be no proceeding. I'm going to start talking and I'm going to keep on talking all through the trial"—the point was that he was actively disrupting the trial, not merely "being a dick" in the judge's subjective opinion.
-
-The analogy to forum moderation is straightforward: a user who actively defies clear moderator orders would be guilty of contempt in the judicial sense, but Achmiz clearly hasn't done any such thing: indeed, Habryka reports that he ["decided to not actually check the 'ban' flag on Said's account, on account of trusting him to not post and vote under his account"](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=oRwaJ4GwXAnvrmGgw)! (If technical limitations prevented a software-imposed ban, posting and voting in defiance of moderator orders _would_ be contempt, and Habryka trusts Achmiz not to do that.)
 
 
 
@@ -656,9 +684,6 @@ Why not just downvote it and let it sit largely unheeded by readers at the botto
 
 
 
-> If, beyond these, there are those here tonight who have ever forced intellectual deference from a peer, those who have prostituted themselves in the name of Charity, those who have brought confused, immoral, or unexamined arguments to the light, without the means of defense for them, and yet will go from this post and say, "Said Achmiz is an unclean man—a man rewarded by just punishment," then to _you_ I say, and may the words ring deep within your ears _until you die_: go on! Drive your sheep to the shambles! Crush that old, uncouth man beneath your Juggernaut! In the name of Niceness, Community, and Civilization, do it! In the name of the Chicagoan who preached the twelve virtues, do it! In the name of Clear Thinking, Clear Communication, and Collaborative Truthseeking, do it! In the name of Epistemic Hygiene put yourself on the side of the concern troll in the comment sections, the censor in the moderation thread, the prevaricator in public fora, the whole brute force of the karma system, the mod team, and the banhammer, to persecute one honest man who stood alone against your licensed mendacity! Do it. And if Said Achmiz dies outside your "well-kept garden", be satisfied _when you have murdered him!_ Kill him! And you hasten the day when the Future shall bury you ten thousand fathoms deep beneath its curses. Kill him! And the stripes upon his prison clothes shall lash you like the knout! Kill him! And the insane shall glitter hate at you with their wild eyes, the unborn babes shall cry their blood upon you, and the graves that you have filled in the name of Discourse, shall yield food for a race that will pillory you, until the memory of your atrocity has become a nameless ghost, flitting with the shades of Meletus, Urban VIII, and Lysenko over the horizon of the World!
->
-> Would you smile to see him dead? Would you say, "We are rid of this obscenist"? Fools! The corpse would laugh at you from its cold eyelids! The motionless lips would mock, and the solemn hands, the pulseless, folded hands, in their quietness would write the last indictment, which neither Time nor you can efface. Kill him! And you write his glory and your shame! Said Achmiz in his felon stripes stands far above you now, and Said Achmiz _dead_ will live on, immortal in the race he died to free! Kill him!
 
 
 https://x.com/slatestarcodex/status/2042909812401340601
@@ -691,21 +716,20 @@ next email—
 
 > I haven't been keeping track.
 
-I'm going to need to reference this in a footnote in the last section. I just asked Said Achmiz for examples, and he _admitted that he didn't have any on hand_. And it was fine! Because you knew it was just a question, and not a disguised "social punishment"!
+This made for a very humanizing footnote 30.
 
 > Now, one could make the reply here
 
-Thanks, it's important that I address that! I added a paragraph:
+Thanks, it's really important that I address that. I added a paragraph:
 
 > One could argue that it's ungrateful nonsense to complain about influence someone obtains via administering a website that they created. The LessWrong 2.0 team built and maintained the current version of the website (albeit seeded with the database of posts and comments from its predecessor), and it was a lot of hard work at great personal expense: of course they're going to run it as they see fit. This "our website, our rules" view may have merit, but it's important to notice that it's a _different_ view than the "inherited [...] a really important cultural institution" view. This section is only arguing that the Achmiz ban is unjustified with respect to the cultural institution view, which may not hold—but if it doesn't, it would be dishonest to [motte-and-bailey](https://slatestarcodex.com/2014/11/03/all-in-all-another-brick-in-the-motte/) between the two views, claiming when convenient that LW 2.0 is the fulfillment of Salamon's call for a single locus of discussion for the rationalist community, but insisting when challenged that it's just Habryka's personally curated forum, one of many in the diaspora.
-
-> But my prediction is that they’ll be met with a shrug and the usual retreat to “we have the power because we have the power, and if you don’t like it, that’s just too bad”.
-
-Sure, but then I point to the new paragraph about how that's the motte, and then they say, "I don't have time for this", and then I say, "Yes, of course, I absolutely agree that you don't need to reply if it's not worth your time; I'm just pointing out to third parties that I addressed that point", and then they look bad to third parties (and banning me would look even worse).
 
 > Typo (“Habyrka”).
 
 Not sure why I keep repeatedly mistyping this.
+
+
+
 
 
 
@@ -722,3 +746,91 @@ https://en.wiktionary.org/wiki/selfawarewolf
 remember to include the softening note, that you could choose to stop being frauds
 
 https://www.lesswrong.com/posts/xG9Y2Mct7uZyt98yb/annoyingly-principled-people-and-what-befalls-them
+
+
+my last three posts—
+https://www.lesswrong.com/posts/o7e5C2Ev8JyyxHKNk/prologue-to-terrified-comments-on-claude-s-constitution
+https://www.lesswrong.com/posts/K2Ae2vmAKwhiwKEo5/terrified-comments-on-corrigibility-in-claude-s-constitution
+https://www.lesswrong.com/posts/CCDQ7PdYHXsJAE5bi/dispatch-from-anthropic-v-department-of-war-preliminary
+
+
+
+
+[TODO— I would have prefered to talk at the object level or the meta level, but you're the one making everything about status _and then_ claiming that passive-aggression is worse. You asked for it!
+
+a last-last resort after years
+
+https://www.lesswrong.com/posts/6CM7rcnTBjoeE9M8S/thoughts-on-lesswrong-norms-the-art-of-discourse-and?commentId=bfnKLYiCJLwTiNqas
+
+
+I guess we'll find out if it's better, but it's hard not to suspect that the "deception" complaint was a catch-22 persecution, given Habryka's behavior elsewhere
+
+]
+
+------
+
+[TODO—
+> I would appreciate some courtesy[3] to keep discussion to the principles and decision-level instead of critiques of my personal behavior, as indeed much of the cost of moderation is measured in having any moderation-adjacent action be torn apart and be requested to be justified or defended.
+> [3] though of course in as much as something seems egregious, you and others should feel free to call it out
+
+asking for a favor of not conduct is itself egregious
+
+lèse-majesté
+
+I can't imagine sending
+
+Habyrka has written about EA should have been more suspicious of Sam Bankman-Fried, so it's bizarre that he doesn't recongize that his own behavior is red flag; SBF also had a difficult job that would have been made harder by scrutiny
+
+You didn't offer Said that courtesy!! (or Gabe)
+]
+
+
+> The cost of someone being a dick to moderators is indeed very high, both in terms of the general ability of the site to have any norms and principles, and because moderator energy is often the limiting factor for a functional forum. [...] 
+
+
+
+[TODO—
+my comment about "cry-bullying" abd "deranged censorship" &c. wasn't a strawman, because I meant what I said literally, and I can point to the actual behavior—I'm not saying they _self-identify_ as censors and cry-bullies; I mean that people who can't handle the "Hm" comment are in fact &c.
+I think Habryka is bluffing when he says he'll ban me for this; it would be really obvious to everyone how corrupt that is
+
+https://www.greaterwrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines/comment/5fmuwfkQGuZR4ze3A  
+
+> strawmanning all (or really any) authors who have preferences about people not being super aggro in their comment threads as “pathetic cry-bullying” and “calling for draconian and deranged censorship policies” is indeed one of the things that will get you banned from this site on other threads! You have been warned!
+
+footnote: does other threads include my own?
+]
+
+my perscription: don't let people use "being a dick" accusations to silence you (which is not the same thing as actively targeting "being a dick")
+
+
+
+
+-----
+
+https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=e84Ed4s3PrhWJ8xyC
+
+> (like, let’s say Scott Alexander and Ryan Greenblatt and Buck and Nate and John Wentworth and Gwern all roughly agree on me messing up really badly)
+
+
+Best-of comments— https://www.datasecretslox.com/index.php/topic,15801.0.html
+
+------
+
+In the comments, Habryka [contrasts two theories](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=uyobAZy5iYAAWzSSi) of Achmiz's behavior. According to one theory, which Habryka thinks is false:
+
+> Said is indeed really actually not intending to sneer at people all the time, is not intending to summon up lots of social judgement, does not carry emnity in his heart, and is just writing comments, usually with disagreement, sometimes with approval. Maybe he feels some things while writing, sometimes those feelings are negative, but it's not that there is some overarching complicated optimization process that tries to get most authors on LessWrong to leave and stop doing whatever they are doing. They are just comments, trying to point out flaws and correct the record. For reasons of local validity.
+
+Whereas in contrast, Habryka believes that:
+
+> Said is trying to unilaterally enforce social norms of his own choosing while denying any such thing is going on, by making lots of comments that imply the people he doesn't like are idiots, or are making elementary mistakes, or are being deceptive, or lack common sense, but shift and twist when pushed on
+
+This is a curious dichotomy. It's not even that I disagree with the second theory, as such. Rather, I'm perplexed at the ontology implied by "unilaterally enforce social norms of his own choosing while denying any such thing is going on." The offered examples include implying that people are "being deceptive" or "making elementary mistakes"—but sometimes people really are being deceptive or making elementary mistakes.[^elementary] Is there any way to [articulate those as literal hypotheses about the world](https://www.lesswrong.com/posts/LyJNgxcNNSzmFxF3g/the-relationship-between-social-punishment-and-shared-maps) without [the idea itself being an attempt to enforce norms](https://www.lesswrong.com/posts/N9oKuQKuf7yvCCtfq/can-crimes-be-discussed-literally/)? What, exactly, is the difference supposed to be between "trying to point out flaws and correct the record" (permissible, in Habryka's view) and "trying to unilaterally enforce social norms of his own choosing" (apparently grounds for banning, at least if you deny it)?
+
+[^elementary]: With respect to some contextually salient standard of _elementary_. In the context of studying differential calculus, asserting that $(x + y)^2 = x^2 + y^2$ in a calculation step is an elementary mistake (even if it doesn't seem "elementary" to someone just learning algebra). In the context of a rationality website, [if someone points out that](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=fXDPKtspGhwBauXtH) [one of your purported examples of a phenomenon is actually not an example](https://www.lesswrong.com/posts/pWc6ZA6mcjXKvKwPd/discourse-norms-moderators-must-not-bully?commentId=umELK75yshpZmug2D), it would be an elementary mistake to deny that that's [probabilistic](https://www.readthesequences.com/Update-Yourself-Incrementally) evidence against the phenomenon.
+
+I won't say there's no difference; I think Habryka is pointing to a real distinction, even if it's not the most intuitive for me to describe. If I had to try, I'd venture that it has something to do with the warmth and respect one has for an interlocutor. Even when pointing out flaws, there's a way to convey warmth and respect through subtle wording choices—as if to put a hand on the other's shoulder and say: hey, buddy, while I'm disagreeing with the literal thing you said, you didn't do anything wrong; I'm still on your side; I still care about you.
+
+Said doesn't send those signals. Said doesn't make people feel like he cares about them and isn't committed to believing that they didn't do anything wrong. People can tell. That's why he has to be destroyed.
+
+
+the thing where "my critics are strawmanning me" accusations subtly straw

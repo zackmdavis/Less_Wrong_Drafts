@@ -267,7 +267,7 @@ Habryka [claims that](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-
 This position has strange tensions which highlight the dangers of declaring part of a post to be exempt from fruitful criticism on the grounds of being allegedly "non-load-bearing." Models—especially "detailed models"—are [supposed to make predictions](https://www.readthesequences.com/Making-Beliefs-Pay-Rent-In-Anticipated-Experiences)! If your model says that the consequences of Achmiz's commenting style are site-threateningly bad, one would naïvely expect that model to predict that prominent authors would complain—such that if authors hadn't complained, or if reports of author complaints turned out to be bogus, that would be [probabilistic](https://www.readthesequences.com/Update-Yourself-Incrementally) evidence against the model. If evidence from user complaints is excluded, it's hard to see what consequences of Achmiz's comments Habryka could have observed "first-hand", other than his own personal feelings towards Achmiz.
 
 
-## Preventing "Relitigation" or "Fights of Attrition" Is a Pretext for Suppressing Dissent
+## Preventing "Relitigation" and "Fights of Attrition" Is a Pretext for Suppressing Dissent
 
 In the ban announcement, Habryka writes that users who disagree with the moderators can "make a post about how you disagree with some decision we made." He also writes:
 
@@ -382,24 +382,6 @@ The fact that Vaniver, while claiming to have transcended the childish concerns 
 
 
 ## We Don't Actually Respect You
-
-In the comments, Habryka [contrasts two theories](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=uyobAZy5iYAAWzSSi) of Achmiz's behavior. According to one theory, which Habryka thinks is false:
-
-> Said is indeed really actually not intending to sneer at people all the time, is not intending to summon up lots of social judgement, does not carry emnity in his heart, and is just writing comments, usually with disagreement, sometimes with approval. Maybe he feels some things while writing, sometimes those feelings are negative, but it's not that there is some overarching complicated optimization process that tries to get most authors on LessWrong to leave and stop doing whatever they are doing. They are just comments, trying to point out flaws and correct the record. For reasons of local validity.
-
-Whereas in contrast, Habryka believes that:
-
-> Said is trying to unilaterally enforce social norms of his own choosing while denying any such thing is going on, by making lots of comments that imply the people he doesn't like are idiots, or are making elementary mistakes, or are being deceptive, or lack common sense, but shift and twist when pushed on
-
-This is a curious dichotomy. It's not even that I disagree with the second theory, as such. Rather, I'm perplexed at the ontology implied by "unilaterally enforce social norms of his own choosing while denying any such thing is going on." The offered examples include implying that people are "being deceptive" or "making elementary mistakes"—but sometimes people really are being deceptive or making elementary mistakes.[^elementary] Is there any way to [articulate those as literal hypotheses about the world](https://www.lesswrong.com/posts/LyJNgxcNNSzmFxF3g/the-relationship-between-social-punishment-and-shared-maps) without [the idea itself being an attempt to enforce norms](https://www.lesswrong.com/posts/N9oKuQKuf7yvCCtfq/can-crimes-be-discussed-literally/)? What, exactly, is the difference supposed to be between "trying to point out flaws and correct the record" (permissible, in Habryka's view) and "trying to unilaterally enforce social norms of his own choosing" (apparently grounds for banning, at least if you deny it)?
-
-[^elementary]: With respect to some contextually salient standard of _elementary_. In the context of studying differential calculus, asserting that $(x + y)^2 = x^2 + y^2$ in a calculation step is an elementary mistake (even if it doesn't seem "elementary" to someone just learning algebra). In the context of a rationality website, [if someone points out that](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=fXDPKtspGhwBauXtH) [one of your purported examples of a phenomenon is actually not an example](https://www.lesswrong.com/posts/pWc6ZA6mcjXKvKwPd/discourse-norms-moderators-must-not-bully?commentId=umELK75yshpZmug2D), it would be an elementary mistake to deny that that's [probabilistic](https://www.readthesequences.com/Update-Yourself-Incrementally) evidence against the phenomenon.
-
-I won't say there's no difference; I think Habryka is pointing to a real distinction, even if it's not the most intuitive for me to describe. If I had to try, I'd venture that it has something to do with the warmth and respect one has for an interlocutor. Even when pointing out flaws, there's a way to convey warmth and respect through subtle wording choices—as if to put a hand on the other's shoulder and say: hey, buddy, while I'm disagreeing with the literal thing you said, you didn't do anything wrong; I'm still on your side; I still care about you.
-
-Said doesn't send those signals. Said doesn't make people feel like he cares about them and isn't committed to believing that they didn't do anything wrong. People can tell. That's why he has to be destroyed.
-
-----
 
 A recurring theme in the accusations against Achmiz is that Achmiz is allegedly being deceptive (or potentially even "gaslighting"[^g-word]) by disrespecting other users and then denying that disrespect was intended. Pace, for example, [characterizes Achmiz as](https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/BJ2j8sQThHzDYNFo9) "holding extreme disdain and disrespect for interlocutors while being committed to never saying anything explicitly or even denying that it is the case."
 
@@ -537,7 +519,9 @@ Now that I've rephrased it, is that still a _banned opinion_? Is that a thought 
 
 Well, as Habryka [doesn't hesitate to remind us, he holds the database keys](https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=DcqqZJHaibzsnkhkd). If what I have said in this post aren't things that people are allowed to believe and remain a _Less Wrong_ user in good standing, then he has the power to ban me.
 
-I don't think it would be a good look for him, though? Achmiz had some features (a low-interpretive labor style, [not as many top-level posts](https://www.lesswrong.com/posts/bsKHthyhB7DNBxERQ/critic-contributions-are-logically-irrelevant)) that made him easy for the bullshitters to martyr without third parties noticing what was really happening. I don't think Habryka can afford to try that again without taking a hit in user loyalty or fundraising, especially now I've explained it.
+I don't think it would be a good look for him, though? Achmiz had some features (a low-interpretive labor style, [not as many top-level posts](https://www.lesswrong.com/posts/bsKHthyhB7DNBxERQ/critic-contributions-are-logically-irrelevant)) that made him easy for the bullshitters to martyr without third parties noticing what was really happening. I don't think the moderators can afford to try that again without taking a serious hit in user loyalty or fundraising, especially now I've explained it.
+
+# Coda
 
 So to the people who care about whether what they say is true, I advise courage. Speak the truth, even if your voice trembles. Call out bullshit when you see it, on this website as much as anywhere else. If a website administrator or hotel manager proclaims themselves an expert on human rationality by virtue of being a website administrator or a hotel manager and tries to intimidate you into silence, they're probably bluffing. You don't have to kiss the ring.
 
