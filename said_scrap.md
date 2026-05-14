@@ -13,13 +13,15 @@ _ Misrepresentations in Habryka's Claims of Alleged Author Complaints About Achm
 _ Preventing "Relitigation" and "Fights of Attrition" Is a Pretext for Suppressing Dissent
 • Replies to Vaniver
 _ We Don't Actually Respect You
-_ Coda
+
 
 
 "Single Locus of Discussion"—
 
 
 edit pass—
+_ in the comments of the ban announcement, Vaniver said we should "part ways", but—look, it should be possible to _read_ people you disagree with, and therefore share the website
+_ "ppl will stop contributing" has the structure of blackmail
 _ not just they don't care—they don't even seem to understand the concept!—the Citadel of truth, https://www.greaterwrong.com/posts/bwkZD6uskCQBJDCeC/self-consciousness-wants-to-make-everything-about-itself
 _ "Should they be exiled, rate-limited, punished, forced to apologize or celebrated? Your tone and words will communicate some distribution over those!" ... he seems unable to conceive of the concept of independent judgement
 _ please don't critique my personal conduct?!?
@@ -58,9 +60,9 @@ _ the forces of blandness: https://www.lesswrong.com/posts/KHunHoNd2fckwaRxz/the
 _ wiser than me: https://www.lesswrong.com/posts/FLq2J9KwEuecYmaSx/ritual-report-2012-life-death-light-darkness-and-love?commentId=PQxz5n85TZJArrQma
 _ "Am I to take this as a statement of a moderation decision, or merely your personal opinion? If the former—then, of course, I hear and obey." https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=gvFCd95gjQNHtxN95
 _ pulling sponsorship from ACX meetups isn't punishment: https://x.com/ohabryka/status/2043543756977430593
+_ 
 
-> I do think it's more likely than not that a decent chunk of your reduced engagement with the site is downstream of your engagement with Said," directly contradicting Hoffman's self-report to his face
-
+https://www.readthesequences.com/Go-Forth-And-Create-The-Art
 
 tasks to publication—
 _ edit draft!
@@ -846,12 +848,6 @@ I won't say there's no difference; I think Habryka is pointing to a real distinc
 ---
 
 the thing where "my critics are strawmanning me" accusations subtly straw
-
-
-
-
-
-
 
 [^contempt-of-court]
 
