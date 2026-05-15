@@ -15,12 +15,9 @@ attack Ruby's praise of Ray— https://www.lesswrong.com/posts/thc4RemfLcM5AdJDa
 
 [reply to Vaniver: https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=j57cuznkZBXqSn7sr]
 
+_ adverse inference is about policy, if you can't distinguish the rare people who really do just hate style
 
 I agree that it's not the only hypothesis, because there's never only one hypothesis! But I do think it should usually be the dominant hypothesis. By way of illustration,
-
-
-
-
 
 
 
@@ -71,4 +68,4 @@ https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-bro
 
 
 https://www.lesswrong.com/posts/KuZaW3c5AGSMLAbks/axelcore-s-shortform?commentId=Da9g3sTEPkvvFWddB
-I still call it _Less Wrong_, but as far as betrayals of the founding vision go, orthography is the least of our problems. In the beginning, there was a grandiose [vision of discovering new general-purpose methods of systematically correct reasoning](https://www.readthesequences.com/A-Sense-That-More-Is-Possible), but 
+I still call it _Less Wrong_, but as far as betrayals of the founding vision go, orthography is the least of our problems. In the beginning, there was a grandiose [vision of discovering new general-purpose methods of systematically correct reasoning](https://www.readthesequences.com/A-Sense-That-More-Is-Possible), but

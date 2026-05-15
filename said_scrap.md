@@ -7,7 +7,7 @@ section 2nd editing pass needs—
 • Misrepresentations in Habryka's Analysis of Achmiz's Comments
 • User-Level Bans Are a Sufficient and Less Intrusive Remedy
 • Misrepresentations in Habryka's Characterization of Achmiz on Obligations to Reply
-_ The Ban Reneges on LW2's Single Locus of Discussion Mandate and Archipelago Doctrine
+• The Ban Reneges on LW2's Single Locus of Discussion Mandate and Archipelago Doctrine
 • Effort Ratios Are Logically Irrelevant
 _ Misrepresentations in Habryka's Claims of Alleged Author Complaints About Achmiz
 _ Preventing "Relitigation" and "Fights of Attrition" Is a Pretext for Suppressing Dissent
@@ -15,57 +15,47 @@ _ Preventing "Relitigation" and "Fights of Attrition" Is a Pretext for Suppressi
 _ We Don't Actually Respect You
 
 
+"Author Complaints"—
+_ additional negative testimony from Sting's post
+_ more on author complaints—contradicting author self-reports to their face!! Hoffman (on Missing Cakes, Alicorn in the ban thread)
+_ sunwillrise was originally on the other side: https://www.greaterwrong.com/posts/sCWe5RRvSHQMccd2Q/i-would-have-shit-in-that-alley-too/comment/tyZiGNA29rBiqfRPw and https://www.greaterwrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform/comment/ygYcErShDo6Bvn5bN
 
-"Single Locus of Discussion"—
 
-
-edit pass—
-_ in the comments of the ban announcement, Vaniver said we should "part ways", but—look, it should be possible to _read_ people you disagree with, and therefore share the website
-_ "ppl will stop contributing" has the structure of blackmail
+"We Don't Actually Respect You"—
 _ not just they don't care—they don't even seem to understand the concept!—the Citadel of truth, https://www.greaterwrong.com/posts/bwkZD6uskCQBJDCeC/self-consciousness-wants-to-make-everything-about-itself
 _ "Should they be exiled, rate-limited, punished, forced to apologize or celebrated? Your tone and words will communicate some distribution over those!" ... he seems unable to conceive of the concept of independent judgement
-_ please don't critique my personal conduct?!?
-_ just disagreeing would be fine; the punishment is specifically for evading critcism on the grounds of social punishment, the engineer who only relates to 
-_ more on Misrepresentations—contradicting author self-reports to their face!! Hoffman (on Missing Cakes, Alicorn in the ban thread)
-_ resurrect "hey, buddy", "Said doesn't send those signals" part somewhere, more briefly
-_ the fact that it's impossible to talk about the opinion being wrong without this obsession about social consequences is the whole problem Davis is complaining about: making a mistake as an engineer is OK and doesn't get punished, but relating to mistakes only in terms of social punishment does _itself_ get punished
-_ explain "kiss the ring"
+_ "can often be easily answered." People are right to notice that he asks because he _suspects_ it's not real, but it's better to "passive aggressively" ask because they might surprise you with evidence, Spiracular https://www.lesswrong.com/posts/rFv2YRiNEYGivC5JM/spiracular-s-shortform-feed?commentId=n5FvpbzQB5GzRzN9q
+_ law school
+_ witchy username analogy: some user complaints are invalid
+_ concede that it's empirical whether people can handle Said, but normatively, that's a problem for the rationality project; "ppl will stop contributing" has the structure of blackmail
+_ Sunshine Regiment shows that it's not even about authors; it's the ingroup: https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation#comment-5zEiQzH5qGoZNppCy
+_ we don't owe you respect like how pulling sponsorship from ACX meetups isn't punishment: https://x.com/ohabryka/status/2043543756977430593
+_ why is Said being persecuted specically? If done consistently, the site would be a total hugbox
 _ competing access needs
-_ "you pathetic little egos couldn't handle a few simple questions" in his own voice — which he does earlier — reads as a guy losing his temper. The de Cleyre adaptation reads as literature
-_ CEV, you can just not do controversial things
-_ cite Gordon as another example of the bad guys
-_ cite Gordon on "and my actions have no effect on your ability to use every part of the site that is not one of my posts"
+_ please don't critique my personal conduct?!?
+_ just disagreeing would be fine; the punishment is specifically for evading critcism on the grounds of social punishment, the engineer who only relates to social punishment
+_ cite Gordon's kindness and curiosity as another example of the bad guys
 _ work in "On the Construction of Beacons"
 _ accusation that the rationale is to kiss the ring needs a lot more work
 _ you should demand satisfaction if you're actually offended: https://www.greaterwrong.com/posts/xqAnKW46FqzPLnGmH/causal-reality-vs-social-reality/comment/J7SzFE4cKYyTFwDrF
-_ Said is not slushpile, signal-to-noise objection doesn't count (worth a section??), best-of comments
-_ cite Spiracular interaction: https://www.lesswrong.com/posts/rFv2YRiNEYGivC5JM/spiracular-s-shortform-feed?commentId=n5FvpbzQB5GzRzN9q
-_ concede that it's empirical whether people can handle Said, but normatively, that's a problem for the rationality project!!!
-_ People are right to notice that he asks because he _suspects_ it's not real, but it's better to "passive aggressively" ask because they might surprise you with evidence 
-_ footnote about me being drama-seeking
-_ explain LW2 reboot more clearly?
-_ Yudkowsky testimony?
-_ Scott's memory footnote?
-_ additional negative testimony from Sting's post
-_ work in sunwillrise censorship somewhere
-_ British vs. American punctuation in quotes conventions
-_ footnote compare to "object level, meta level, meta-meta level"
-_ re complaints about time usage, you could have done nothing
-_ "case law" does not mean whimsy
 _ Raemon's citizenship dealie
-_ sunwillrise was originally on the other side: https://www.greaterwrong.com/posts/sCWe5RRvSHQMccd2Q/i-would-have-shit-in-that-alley-too/comment/tyZiGNA29rBiqfRPw and https://www.greaterwrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform/comment/ygYcErShDo6Bvn5bN
-_ relitigation and https://www.lesswrong.com/posts/9M3ynNuBsRCDfmEsZ/less-wrong-poetry-corner-coventry-patmore-s-magna-est
-_ adverse inference is about policy, if you can't distinguish the rare people who really do just hate style
 _ the forces of blandness: https://www.lesswrong.com/posts/KHunHoNd2fckwaRxz/the-forces-of-blandness-and-the-disagreeable-majority
-_ wiser than me: https://www.lesswrong.com/posts/FLq2J9KwEuecYmaSx/ritual-report-2012-life-death-light-darkness-and-love?commentId=PQxz5n85TZJArrQma
-_ "Am I to take this as a statement of a moderation decision, or merely your personal opinion? If the former—then, of course, I hear and obey." https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=gvFCd95gjQNHtxN95
-_ pulling sponsorship from ACX meetups isn't punishment: https://x.com/ohabryka/status/2043543756977430593
-_ 
+_ wiser than me re community: https://www.lesswrong.com/posts/FLq2J9KwEuecYmaSx/ritual-report-2012-life-death-light-darkness-and-love?commentId=PQxz5n85TZJArrQma
+_ contempt of court footnote, include "I hear and obey." https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=gvFCd95gjQNHtxN95
+
+not sure where these would go—
+_ Said specifically gets blamed for things other people can get away with: https://www.lesswrong.com/posts/5zSbwSDgefTvmWzHZ/affordance-widths
+_ Four Layers of Intellectual Conversation https://www.lesswrong.com/posts/yr4pSJweTnF6QDHHC/comment-on-four-layers-of-intellectual-conversation
+_ Said is not slushpile, signal-to-noise objection doesn't count (worth a section??), best-of comments, "show me the cake"
+_ re complaints about Said being expensive to moderate, you could have done nothing: https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=rwvEgbDKrcojyLTef
+
+
+
 
 https://www.readthesequences.com/Go-Forth-And-Create-The-Art
 
 tasks to publication—
-_ edit draft!
+_ edit draft!!
 _ reach out to Falkovich
 _ reach out to Alexander
 _ reach out to Yudkowsky
@@ -74,6 +64,7 @@ _ amicus curiæ comments
 _ war comments
 _ pt. 2 section edits
 _ ask Robert M. about traffic stats, and de-listing stats, and major versions
+_ last edit pass
 _ assurance from Vaniver and D. Kokotajlo
 _ Twitter capsule thread
 
@@ -840,10 +831,6 @@ This is a curious dichotomy. It's not even that I disagree with the second theor
 I won't say there's no difference; I think Habryka is pointing to a real distinction, even if it's not the most intuitive for me to describe. If I had to try, I'd venture that it has something to do with the warmth and respect one has for an interlocutor.
 
 -----
-
-
-
-
 
 ---
 
