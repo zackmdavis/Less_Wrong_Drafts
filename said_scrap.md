@@ -15,39 +15,44 @@ _ Preventing "Relitigation" and "Fights of Attrition" Is a Pretext for Suppressi
 _ We Don't Actually Respect You
 
 
-"Author Complaints"—
-_ additional negative testimony from Sting's post
-_ more on author complaints—contradicting author self-reports to their face!! Hoffman (on Missing Cakes, Alicorn in the ban thread)
-_ sunwillrise was originally on the other side: https://www.greaterwrong.com/posts/sCWe5RRvSHQMccd2Q/i-would-have-shit-in-that-alley-too/comment/tyZiGNA29rBiqfRPw and https://www.greaterwrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform/comment/ygYcErShDo6Bvn5bN
-
-
 "We Don't Actually Respect You"—
-_ not just they don't care—they don't even seem to understand the concept!—the Citadel of truth, https://www.greaterwrong.com/posts/bwkZD6uskCQBJDCeC/self-consciousness-wants-to-make-everything-about-itself
-_ "Should they be exiled, rate-limited, punished, forced to apologize or celebrated? Your tone and words will communicate some distribution over those!" ... he seems unable to conceive of the concept of independent judgement
-_ "can often be easily answered." People are right to notice that he asks because he _suspects_ it's not real, but it's better to "passive aggressively" ask because they might surprise you with evidence, Spiracular https://www.lesswrong.com/posts/rFv2YRiNEYGivC5JM/spiracular-s-shortform-feed?commentId=n5FvpbzQB5GzRzN9q
+
+_ concede that it's empirical whether people can handle Said, but normatively, that's a problem for the rationality project; "ppl will stop contributing" has the structure of blackmail
+_ we don't owe you respect like how pulling sponsorship from ACX meetups isn't punishment: https://x.com/ohabryka/status/2043543756977430593
+_ work in "On the Construction of Beacons"
+_ please don't critique my personal conduct?!?
 _ law school
 _ witchy username analogy: some user complaints are invalid
-_ concede that it's empirical whether people can handle Said, but normatively, that's a problem for the rationality project; "ppl will stop contributing" has the structure of blackmail
-_ Sunshine Regiment shows that it's not even about authors; it's the ingroup: https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation#comment-5zEiQzH5qGoZNppCy
-_ we don't owe you respect like how pulling sponsorship from ACX meetups isn't punishment: https://x.com/ohabryka/status/2043543756977430593
 _ why is Said being persecuted specically? If done consistently, the site would be a total hugbox
 _ competing access needs
-_ please don't critique my personal conduct?!?
 _ just disagreeing would be fine; the punishment is specifically for evading critcism on the grounds of social punishment, the engineer who only relates to social punishment
 _ cite Gordon's kindness and curiosity as another example of the bad guys
-_ work in "On the Construction of Beacons"
-_ accusation that the rationale is to kiss the ring needs a lot more work
+_ contempt of court footnote, include "I hear and obey." https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=gvFCd95gjQNHtxN95
+_ sunwillrise was originally on the other side: https://www.greaterwrong.com/posts/sCWe5RRvSHQMccd2Q/i-would-have-shit-in-that-alley-too/comment/tyZiGNA29rBiqfRPw and https://www.greaterwrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform/comment/ygYcErShDo6Bvn5bN
+
+----
+
+_ "Should they be exiled, rate-limited, punished, forced to apologize or celebrated? Your tone and words will communicate some distribution over those!" ... he seems unable to conceive of the concept of independent judgement
+
 _ you should demand satisfaction if you're actually offended: https://www.greaterwrong.com/posts/xqAnKW46FqzPLnGmH/causal-reality-vs-social-reality/comment/J7SzFE4cKYyTFwDrF
 _ Raemon's citizenship dealie
-_ the forces of blandness: https://www.lesswrong.com/posts/KHunHoNd2fckwaRxz/the-forces-of-blandness-and-the-disagreeable-majority
-_ wiser than me re community: https://www.lesswrong.com/posts/FLq2J9KwEuecYmaSx/ritual-report-2012-life-death-light-darkness-and-love?commentId=PQxz5n85TZJArrQma
-_ contempt of court footnote, include "I hear and obey." https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=gvFCd95gjQNHtxN95
+
 
 not sure where these would go—
+
 _ Said specifically gets blamed for things other people can get away with: https://www.lesswrong.com/posts/5zSbwSDgefTvmWzHZ/affordance-widths
 _ Four Layers of Intellectual Conversation https://www.lesswrong.com/posts/yr4pSJweTnF6QDHHC/comment-on-four-layers-of-intellectual-conversation
 _ Said is not slushpile, signal-to-noise objection doesn't count (worth a section??), best-of comments, "show me the cake"
 _ re complaints about Said being expensive to moderate, you could have done nothing: https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=rwvEgbDKrcojyLTef
+
+
+_ ellipses use by Habryka: https://www.lesswrong.com/posts/CtRNmAQXmSotpAi9j/announcing-the-center-for-shared-ai-prosperity?commentId=mcFp4s6F6X2Ld4udJ contrast to "stop strawmaning these people repeatedly by inserting random ellipses and question marks and random snide remarks implying the absurdity of their position" https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=kL8pqSsd5cogjpTBA
+
+
+
+
+_ wiser than me re community: https://www.lesswrong.com/posts/FLq2J9KwEuecYmaSx/ritual-report-2012-life-death-light-darkness-and-love?commentId=PQxz5n85TZJArrQma
+
 
 
 
@@ -73,7 +78,6 @@ _ Ben
 _ Anna
 _ Steven Kaas?
 _ Jessica
-_ JD
 _ Nesov
 _ Wei Dai
 _ niplav
@@ -851,3 +855,8 @@ the thing where "my critics are strawmanning me" accusations subtly straw
     The fact that "contempt" in the judicial sense is not about judges' or perpetrators' feelings is immediately clear from a cursory examination of famous "contempt" cases. In [_United States v. Shipp_](https://en.wikipedia.org/wiki/United_States_v._Shipp) (1906), a local sheriff was found guilty of contempt of court for allowing a lynch mob to murder a death row prisoner despite a court order granting an appeal. In [_Miller v. Davis_](https://en.wikipedia.org/wiki/Miller_v._Davis) (2015), a county clerk was found guilty of contempt for refusing to issue same-sex marriage licenses. In [_Illinois v. Allen_](https://supreme.justia.com/cases/federal/us/397/337/) (1970), a defendant was found guilty of contempt for persistently interrupting proceedings, threatening the judge, and declaring, "There is going to be no proceeding. I'm going to start talking and I'm going to keep on talking all through the trial"—that is, the point was that he was actively disrupting the trial, not merely "being a dick" in the judge's subjective opinion.
 
     The analogy to forum moderation is straightforward: a user who actively defies clear moderator orders would be guilty of contempt in the judicial sense, but Achmiz clearly hasn't done any such thing: indeed, Habryka reports that he ["decided to not actually check the 'ban' flag on Said's account, on account of trusting him to not post and vote under his account"](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=oRwaJ4GwXAnvrmGgw)! (If technical limitations prevented a software-imposed ban, posting and voting in defiance of moderator orders _would_ be contempt, and Habryka trusts Achmiz not to do that.)
+
+
+https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=ZhuDCoEkpxgfpFLzn
+> The other reason I am participating in this is to avoid a passive aggressive culture take hold on LessWrong. The combination of obvious passive aggression combined with denial of any such aggression taking place is one of the things that people have most consistently complained about from you and a few other commenters, and one way to push back on that is to point out the dynamic and enforce norms of reasonable discourse.
+
