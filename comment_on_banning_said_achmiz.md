@@ -1,4 +1,4 @@
-# Comment on "Banning Said Achmiz"
+# Less Wrong Betrayed; Or, Comment on "Banning Said Achmiz"
 
 ## I. Prologue
 
@@ -282,7 +282,7 @@ Secondly, even if we [suppose that authors are not intellectually honest](https:
 And given that the market clears, there's no good reason to censor probing questions: whether the questions get answered or not, discerning users will make up their own minds and vote accordingly. The only reason you would want to censor probing questions is to prevent people from noticing flaws in need of probing.
 
 
-## V. What's Really Going On
+## V. Further Replies
 
 ### Preventing "Relitigation" and "Fights of Attrition" Is a Pretext for Suppressing Dissent
 
@@ -395,6 +395,7 @@ In terms of Vaniver's decision theory metaphor, as a convert from CDT to FDT, I 
 
 The fact that Vaniver, while claiming to have transcended the childish concerns of the old culture of _Less Wrong_, shows so little interest in arguing his views to those who do not already share them is not to his credit, nor to the new culture.
 
+## VI. What's Actually Going On
 
 ### We Don't Actually Respect You
 

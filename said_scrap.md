@@ -1,18 +1,29 @@
 
+
 section 2nd editing pass needs—
 
-• "If I Can't Explain It to Said Achmiz, I Probably Don't Understand It"
-• An Inversion of Values
-• If "Every Individual Owns Their Own Judgment of You", Then the Ban Rationale Is Untenable
-• Misrepresentations in Habryka's Analysis of Achmiz's Comments
-• User-Level Bans Are a Sufficient and Less Intrusive Remedy
-• Misrepresentations in Habryka's Characterization of Achmiz on Obligations to Reply
-• The Ban Reneges on LW2's Single Locus of Discussion Mandate and Archipelago Doctrine
-• Effort Ratios Are Logically Irrelevant
-_ Misrepresentations in Habryka's Claims of Alleged Author Complaints About Achmiz
-_ Preventing "Relitigation" and "Fights of Attrition" Is a Pretext for Suppressing Dissent
-• Replies to Vaniver
-_ We Don't Actually Respect You
+Less Wrong Betrayed; Or, C
+
+## I. Prologue
+### "If I Can't Explain It to Said Achmiz, I Probably Don't Understand It"
+## II. The Ban Contradicts Less Wrong's Stated Values
+### An Inversion of Values
+### If "Every Individual Owns Their Own Judgment of You", Then the Ban Rationale Is Untenable
+### The Ban Reneges on LessWrong 2.0's Single Locus of Discussion Mandate and Archipelago Doctrine
+## III. The Case for the Ban Rests on Misrepresentations
+### Misrepresentations in Habryka's Analysis of Achmiz's Comments
+### Misrepresentations in Habryka's Claims of Alleged Author Complaints About Achmiz
+### Misrepresentations in Habryka's Characterization of Achmiz on Obligations to Reply
+## IV. The Ban Was Unnecessary
+### User-Level Bans Are a Sufficient and Less Intrusive Remedy
+### Effort Ratios Are Logically Irrelevant
+## V. Further Replies
+### Preventing "Relitigation" and "Fights of Attrition" Is a Pretext for Suppressing Dissent
+### Replies to Vaniver
+#### On the Ideological Turing Test
+#### On "Emotional Tallness"
+## IV. What's Acutally Going On
+### We Don't Actually Respect You
 
 
 
