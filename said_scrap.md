@@ -15,7 +15,7 @@ _ Preventing "Relitigation" and "Fights of Attrition" Is a Pretext for Suppressi
 _ We Don't Actually Respect You
 
 
-"We Don't Actually Respect You"—
+
 
 _ concede that it's empirical whether people can handle Said, but normatively, that's a problem for the rationality project; "ppl will stop contributing" has the structure of blackmail
 _ we don't owe you respect like how pulling sponsorship from ACX meetups isn't punishment: https://x.com/ohabryka/status/2043543756977430593
