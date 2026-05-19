@@ -6,9 +6,41 @@ attack Ruby's praise of Ray— https://www.lesswrong.com/posts/thc4RemfLcM5AdJDa
 
 (Note to readers: Habryka has [stated that](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=Cz8nB3kJwdmqacwDf) he doesn't want to spend any more time on this topic. I am writing this comment for the benefit of the public record. I unequivocally deny that readers should judge Habyrka negatively simply _because_ he may not reply. However, I do think readers should judge negatively on the basis of considering what has been said on both sides.)
 
+----
 
+Ben Pace claims, "I also reject your characterization that we're intentionally sacrificing epistemic standards to get back good authors." https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=sx6AKQ9fNceTFS42F
 
 ----
+
+
+[reply to DirectedEvolution: https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/GjtZY7pg9LRB2mwMi]
+
+> delivering valid and empathetic criticism
+
+What is the word _empathetic_ doing in this phrase? Why should I care about whether criticism is "empathetic"? _Reply!_
+
+> Do you not care about developing community? Do you simply have better things to do and want to freeload on the community that others build?
+
+What do you mean by "community"? I care about arguring about ideas on the internet. That doesn't necessarily put me in a "community" with the people I'm arguing with in any meaningful sense.
+
+To me, the prototypical referent of the word "community" is religious or neighborhood communities who collectively invest in each other's lives. But I don't expect other _Less Wrong_ users to help me move or bring me food when I'm sick or watch my hypothetical children, or for me to do those things for them. And there _are_ in-person "rationalist" communities (_e.g._, in Berkeley/Oakland) that do these things, and there _is_ such a thing as freeloading on the efforts of people who build those communities, and a lot of those people also have accounts on this website. But it's not clear how arguing about ideas on the website makes one a member of a "community" that extends beyond those arguments. _Reply!_
+
+> You took the time to read the post, but you won't write a "quick" clarifying question because you're worried about wasting your time, and you think you have little to gain by understanding the content, so you’re depending on commenters like Said to do the job?
+
+Is this not itself an expression of implied contempt for Dai's reluctance to ask clarifying questions? _Reply!_
+
+> How do you know [that if you "discourage low-effort criticism, you’ll just get less criticism not better criticism"]? Have you gathered data on this topic?
+
+I find it implausible that there are people able and willing to contribute high-effort criticism, who don't do so because of the presence of low-effort criticism. As a frequent high-effort critic myself, I just can't empathize with that at all. I don't have data on this, but [you probably don't, either](https://slatestarcodex.com/2014/08/14/beware-isolated-demands-for-rigor/). If you have data to share, I'd be happy to discuss it. _Reply!_
+
+> why can't weak and uninteresting posts can be ignored or engaged with by a charitable volunteer as a teacher might respond to a student in order to develop their capabilities?
+
+Because, as an author, I don't _want_ my readers to patronizingly volunteer to be my teacher in order to develop my capabilities. I want to know what my readers _actually think about my work_. _Reply!_
+
+
+https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/GjtZY7pg9LRB2mwMi
+> There are selection effects on who stays in the community under these conditions.
+Indeed. For example, if a community selects for phonies who want people to lie to them in order to protect their feelings, and selects against people who want to have real, honest conversations, then you end up with a community full of phonies. 
 
 
 ----
