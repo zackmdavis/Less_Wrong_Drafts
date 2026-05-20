@@ -44,10 +44,6 @@ In reply, Achmiz [patiently explains why asking for examples isn't an insult or 
 
 
 
-particularly since they might not be bluffing!
-
-
-
 
 
 [^email-anecdote]: As the comment's "Scenario I" makes clear, it's possible that examples might be lacking in early-stage work, but that can be acceptable if the incompleteness of the work is clearly indicated.
@@ -66,23 +62,41 @@ Indeed, selection effects are important. For example, a _Less Wrong_ that persec
 
 One would have hoped that the moderation team would care about maintaining a culture that valorizes people who care whether what they say is true and either reforms or ejects bullshitters, as contrasted to persecuting the people who care about whether what they say is true in order to protect the delicate emotions of bullshitters.
 
-And yet Pace [writes disapprovingly](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=BJ2j8sQThHzDYNFo9) and somehow with a straight face of "any commenter being able to demand answers to questions at the risk of the post-author's status[.]"
 
-Well, _yes!_ How did Pace think status worked, exactly? "Status" is just other people's beliefs about you. People are going to update their beliefs about you based on their observations of your behavior. _Your status is always at risk._[^status-risk]
 
-[^status-risk]: It has to be, [in order to mean anything](https://www.lesswrong.com/posts/G5TwJ9BGxcgh5DsmQ/yes-requires-the-possibility-of-no): in order to gain status when you do good things, it needs to be possible to lose status when you do bad things.
 
-Habryka struggles to explain why he wrote such a detailed ban announcement, rather than just admitting[^admitting] that he's personally fed up with Achmiz without trying to justify that further:
 
-> And then there is also a third thing, which makes me want to be particularly detailed and concrete and give lots of arguments and models here, which is more relevant for Said in-particular. And that thing is the feeling of being insane, of at the same time really feeling like something hurtful and harmful is happening, while tons of people around you are denying that any such thing is going on, is at the core of a lot of the complaints I have received over the years about Said, and is also at the core of my own bad experiences with Said. More specifically the thing where I read a top-level that I cannot help but read in a sneering voice, dripping with judgement, pointing a finger at me or the author in a way that summons judgement and punishment, but which as soon as its [_sic_] called out disappears, denies it ever existed, or keeps slipping away, redefining itself in endless circles.
->
-> And I don't know, maybe any attempt to disentangle the things that are going on and to try to make some kind of compelling demonstration that I and others are not insane is doomed.
 
-[^admitting]: Habryka writes that he "do[es] think a huge fraction of this announcement should be seen as 'look, it's been too long, I've spent a lot of energy on this, I am not dealing with this anymore, let's part ways'."
 
-I submit that if you're worried that any attempt to compellingly explain why you're not insane is doomed, that might be _because you are insane_.[^insane] It doesn't make sense to purport to run an elite intellectual forum if you're going to be overcome by a private vision of pointing fingers summoning punishment upon being confronted by someone with independent judgement and high standards. Habryka [hopes that](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=J46KejinEpz3dLvSo) "maybe [he]'ll be a better writer in a few years and can get it across more easily." He won't. Habryka is already a decent enough writer to explain what he means; the problem is that the thing that he means is completely unreasonable.
+
+
+In a similar vein,
+
+
+
+
+
+
+I submit that
+
+
+
+
+
+It doesn't make sense to purport to run an elite intellectual forum if you're going to be overcome by a private vision of pointing fingers summoning punishment upon being confronted by someone with independent judgement and high standards.
+
+
+
+
+If you're worried that any attempt to compellingly explain why you're not insane is doomed, that might be _because you are insane_.[^insane]
 
 [^insane]: Note that Habryka used the word _insane_, and I'm echoing his language. More generally, I'm claiming that for all X, if any attempt to compellingly explain that not-X is doomed, that might be because X is true.
+
+
+
+
+
+
 
 Habryka [had clarified in July 2025](https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=KqtPsTP8TdWQnhjtD) that he doesn't want to censor all social punishment, only "punishments of the virtues and values that are good and should be supported and are the lifeblood of the site by my lights."[^virtues-and-values] He frequently cites ["Well-Kept Gardens Die By Pacificism"](https://www.lesswrong.com/posts/tscc3e5eujrsEeFN4/well-kept-gardens-die-by-pacifism) to justify his actions.
 
@@ -101,15 +115,6 @@ Or were you not expecting anyone to call your bluff?
 
 That is, I think the complaints about about Achmiz being supposedly deceptive or passive-aggressive are fake. I think what's actually going on is that Achmiz's persecutors want to crush speech that threatens their status or that of their allies, and that Achmiz was sufficiently consistently polite in his on-topic, intellectually substantive criticisms that they had to come up with the "passive-aggression" complaint as a rationalization. Being less "deceptive" (less polite, more transparent, like me) wouldn't have helped Achmiz, because the actual rule is: [kiss the ring](https://en.wiktionary.org/wiki/kiss_someone%27s_ring). Criticism is permitted, but only when delivered in a form that placates ingroup members' egos—as if to put a hand on the other's shoulder and say: hey, buddy, while I'm disagreeing with the literal thing you said, you didn't do anything wrong; I'm still on your side; I still care about you.
 
-Said doesn't send those signals. Said doesn't make people feel like he cares about them and isn't committed to believing that they did nothing wrong. People can tell. That's why he had to be destroyed.[^had-to-be-destroyed]
-
-[^had-to-be-destroyed]: In 2018, Benjamin Hoffman [wrote that](https://www.lesswrong.com/posts/45oMPv7cjp9FRkyKy/why-should-ea-care-about-rationality-and-vice-versa?commentId=gm7J3ZbAGMu3GtG6T) Achmiz was "one of the few people to consistently call out" "a tendency to conflate the _stated ambitions_ and _actual behavior_ of ingroups like Rationalists and EAs, when we wouldn't extend this courtesy to the outgroup, in a way that subtly shades corrective objections as failures to get with the program."
-
-    Achmiz's [first moderator warning](https://www.lesswrong.com/posts/T3nb24aZf7d5S2Lnm/musings-on-double-crux-and-productive-disagreement?commentId=4qc4XeTPRJfPkaC2L) on LessWrong 2.0 was for [a comment](https://www.lesswrong.com/posts/T3nb24aZf7d5S2Lnm/musings-on-double-crux-and-productive-disagreement?commentId=SMMjQYQTXwSnNrxxh) answering [the original post](https://www.lesswrong.com/posts/T3nb24aZf7d5S2Lnm/musings-on-double-crux-and-productive-disagreement)'s question about the lack of popularity of the Center for Applied Rationality's "Double Crux" technique, in which Achmiz stated that the technique's origin at CfAR was "an anti-endorsement."
-
-    The warning stated that "A simple 'I think that...' or '...for me' would have done a great deal to resolve" the problem of Achmiz's answer "generat[ing] a lot of unnecessary friction"—but as Achmiz [points out](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=5zEiQzH5qGoZNppCy), the comment in question already begins with "My take". Was that not enough of a personal-opinion-only indicator, such that Achmiz should have somehow known to also append "for me" to the "anti-endorsement" claim? In the comments on the ban announcement, Habryka [cites the fact](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=mMJYM6ZdCmtrgbTkM) that the original post had a "Thinking out loud" epistemic status line as evidence that Achmiz would ignore author requests to not criticize an undeveloped idea. But the comment in question wasn't critical _of the post_, but rather of Double Crux and CfAR—unless one construes criticism of Double Crux to imply criticism of the post insofar as the author writes that Double Crux "failed to take root as well as it should"?
-
-    Looking at the pattern of moderator behavior, it's hard to believe that the problem is Achmiz's conduct, rather than him refusing to conceal his negative opinion of CfAR.
 
 A couple of non-exhaustive reasons why I think the actual rule is to kiss the ring is, firstly, because avoiding "passive aggression" by being radically transparent about whom one respects is obviously so much more unpleasant and anti-social that I can't entertain it as a serious suggestion, and secondly, from observing what happens when I let my own mask slip.
 
@@ -117,11 +122,7 @@ A couple of non-exhaustive reasons why I think the actual rule is to kiss the ri
 
 
 
-
-
 It's hard for me to tell given Habryka's [distaste for articulating clear rules](https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=kQaQAnnWenXG6zbrR)
-
-
 
 
 

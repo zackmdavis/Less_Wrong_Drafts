@@ -1,8 +1,3 @@
-
-Okay, what about this: [link]
-
-The new table of contents is—
-
 Title: "Less Wrong Corrupted; or, Comment on 'Banning Said Achmiz'"
 
 I. Prologue
@@ -31,6 +26,27 @@ VII. Recommendations to Readers
  • LessWrong 2.0 Is a Website, Not a Culture or an Authority
  • Speak the Truth, Even if Your Voice Trembles
 
+tasks to publication—
+_ edit draft!!
+_ Justis feedback
+_ amicus curiæ comments
+_ war comments
+_ pt. 2 section edits
+_ ask Robert M. about traffic stats, and de-listing stats, and major versions
+_ last edit pass
+_ assurance from Vaniver and D. Kokotajlo
+_ Twitter capsule thread
+
+amicus curiae lobbying—
+_ Ben 
+_ Anna
+_ Steven Kaas?
+_ Jessica
+_ Nesov
+_ Wei Dai
+_ niplav
+
+
 -----
 
 
@@ -48,10 +64,8 @@ https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-
 > I am not interested in answering this question (as I don’t see any compelling reason given for why it would be worth my time, or why it would benefit others), though maybe someone else is!
 
 
-
-
 _ concede that it's empirical whether people can handle Said, but normatively, that's a problem for the rationality project; "ppl will stop contributing" has the structure of blackmail
-_ we don't owe you respect like how pulling sponsorship from ACX meetups isn't punishment: https://x.com/ohabryka/status/2043543756977430593
+
 _ work in "On the Construction of Beacons"
 _ please don't critique my personal conduct?!?
 _ law school
@@ -90,30 +104,7 @@ _ ellipses use by Habryka: https://www.lesswrong.com/posts/CtRNmAQXmSotpAi9j/ann
 _ wiser than me re community: https://www.lesswrong.com/posts/FLq2J9KwEuecYmaSx/ritual-report-2012-life-death-light-darkness-and-love?commentId=PQxz5n85TZJArrQma
 
 
-
-
-
 https://www.readthesequences.com/Go-Forth-And-Create-The-Art
-
-tasks to publication—
-_ edit draft!!
-_ Justis feedback
-_ amicus curiæ comments
-_ war comments
-_ pt. 2 section edits
-_ ask Robert M. about traffic stats, and de-listing stats, and major versions
-_ last edit pass
-_ assurance from Vaniver and D. Kokotajlo
-_ Twitter capsule thread
-
-amicus curiae lobbying—
-_ Ben 
-_ Anna
-_ Steven Kaas?
-_ Jessica
-_ Nesov
-_ Wei Dai
-_ niplav
 
 
 questions to ask Said—
@@ -845,26 +836,19 @@ the thing where "my critics are strawmanning me" accusations subtly straw
 
 [^contempt-of-court]
 
-[^contempt-of-court]: For example, in a comment on "grappl[ing] with the concept of 'contempt of court'", Habryka [writes that](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=imTdsf5Rb8nAYgFxQ):
+[^contempt-of-court]: For example,
 
-    > Having some ability for moderators to enforce some level of cooperativeness in moderation discussion is important. The cost of someone being a dick to moderators is indeed very high, both in terms of the general ability of the site to have any norms and principles, and because moderator energy is often the limiting factor for a functional forum. I currently consider downvoting people who are dicks to moderators really important. Like, if I didn't do it, a lot of my moderators would quickly quit, I would probably quit moderating myself, and the consequences for the site would be enormous.
 
-    and that "Said is a huge outlier in how much he was contemptuous of any attempts to moderate him, so it might just be less of an issue in the future."
+    > Having some ability for moderators to enforce some level of cooperativeness in moderation discussion is important. , both in terms of the general ability of the site to have any norms and principles, and . I currently consider downvoting people who are dicks to moderators really important. Like, if I didn't do it, a lot of my moderators would quickly quit, I would probably quit moderating myself, and the consequences for the site would be enormous.
+
+    and that 
 
     But apparently Achmiz wasn't a total outlier, as I am also expressing contempt towards being moderated.
 
-    Although it is perhaps worth noting that Habryka's apparent interpretation of the phrase "contempt of court" as referring to the _emotion_ of contempt is a cartoonish misunderstanding of the legal concept. It's a term of art that refers to behavior that interferes with judicial proceedings, not literally feeling the emotion of contempt towards the court. It's certainly not about protecting judges' _morale_, such that they don't quit their jobs!
-
-    The fact that "contempt" in the judicial sense is not about judges' or perpetrators' feelings is immediately clear from a cursory examination of famous "contempt" cases. In [_United States v. Shipp_](https://en.wikipedia.org/wiki/United_States_v._Shipp) (1906), a local sheriff was found guilty of contempt of court for allowing a lynch mob to murder a death row prisoner despite a court order granting an appeal. In [_Miller v. Davis_](https://en.wikipedia.org/wiki/Miller_v._Davis) (2015), a county clerk was found guilty of contempt for refusing to issue same-sex marriage licenses. In [_Illinois v. Allen_](https://supreme.justia.com/cases/federal/us/397/337/) (1970), a defendant was found guilty of contempt for persistently interrupting proceedings, threatening the judge, and declaring, "There is going to be no proceeding. I'm going to start talking and I'm going to keep on talking all through the trial"—that is, the point was that he was actively disrupting the trial, not merely "being a dick" in the judge's subjective opinion.
-
-    The analogy to forum moderation is straightforward: a user who actively defies clear moderator orders would be guilty of contempt in the judicial sense, but Achmiz clearly hasn't done any such thing: indeed, Habryka reports that he ["decided to not actually check the 'ban' flag on Said's account, on account of trusting him to not post and vote under his account"](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=oRwaJ4GwXAnvrmGgw)! (If technical limitations prevented a software-imposed ban, posting and voting in defiance of moderator orders _would_ be contempt, and Habryka trusts Achmiz not to do that.)
-
+    Although it is perhaps worth noting that Habryka's
 
 https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=ZhuDCoEkpxgfpFLzn
 > The other reason I am participating in this is to avoid a passive aggressive culture take hold on LessWrong. The combination of obvious passive aggression combined with denial of any such aggression taking place is one of the things that people have most consistently complained about from you and a few other commenters, and one way to push back on that is to point out the dynamic and enforce norms of reasonable discourse.
-
-
-
 
 ----
 
@@ -894,3 +878,4 @@ I mean all of this literally, but also, supporters of the ban should make sure t
 
 -----
 
+[^disdain-elaboration]: _E.g._, I think they are being profoundly dishonest in a way that makes them functionally stupid despite their above-average IQs, and I think they are perpetrating a form of moral fraud against the world by appropriating the mantle of "rationality" as the brand name for their insular Bay Area party-and-AI-discussion scene while deceiving the public about what rationality even is, _&c._
