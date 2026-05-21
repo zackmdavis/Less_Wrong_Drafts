@@ -7,27 +7,8 @@ is not that Achmiz's comments were such a large proportion of the value of the w
 
 Even more obviously, it's not that Achmiz is right about everything; I've had my [disagreements with him](https://www.lesswrong.com/posts/aofsjKJ8CZTHYkX7F/on-the-normativity-of-debate-a-discussion-with-said-achmiz), as I've had [with anyone](https://quoteinvestigator.com/2015/04/04/agree/).
 
-It's about a principle that I've spent the last decade of my life[^more-ways] fighting for, that the truth matters, and specifically, that the truth matters more than people's feelings. If someone makes an intellectually substantive comment on an intellectual discussion forum, it makes sense to object if it's false or irrelevant. It does not make sense to object that the intellectually substantive comment makes you feel bad, because whether the comment makes you feel bad has no bearing on whether the comment is true or relevant. As a grown-up on an intellectual discussion forum, it's not other people's job to manage your feelings.
 
-[^more-ways]: Given the existential risk situation, perhaps in more ways than one.
 
-To be clear, I'm not expecting people to endure arbitrary abuse—just on-topic, intellectually substantive comments.
-
-I'm also not expecting people to not have feelings. As people who know me will attest, I have lots of feelings and tend to wear my heart on my sleeve. I sometimes procrastinate checking my email or this website for hours or days when I anticipate receiving a reply that I'll find emotionally aversive. It's just that, as a grown-up, I understand that to be _my_ problem. Expecting everyone else to censor themselves for my personal comfort would be making it everyone else's problem.
-
-This website was founded from [a sense that more is possible](https://www.readthesequences.com/A-Sense-That-More-Is-Possible)—that a sufficiently detailed understanding of [the laws](https://www.readthesequences.com/No-One-Can-Exempt-You-From-Rationalitys-Laws) of systematically correct reasoning would enable cognitive feats that would both [improve lives today](https://www.lesswrong.com/posts/jP583FwKepjiWbeoQ/epistle-to-the-new-york-less-wrongians) and help humanity confront the machine intelligence transition.
-
-It was understood, at the time, that aspiring to systematically correct reasoning was an unnatural ambition that would require effort and probably psychological discomfort. As it [was written in the founding texts](https://www.readthesequences.com/Avoiding-Your-Beliefs-Real-Weak-Points):
-
-> People don't think about the real weak points of their beliefs for the same reason they don't touch an oven's red-hot burners; it's _painful_.
-
-Correspondingly, the founding texts advised [confronting the pain rather than fleeing from it](https://www.readthesequences.com/Crisis-Of-Faith):
-
-> Better to think of such rules as, "Imagine what a skeptic would say—and then imagine what they would say to your response—and then imagine what else they might say, that would be harder to answer."
->
-> Or, "Try to think the thought that hurts the most."
-
-That is, in the Sequences era, it was understood that even if you don't have any persistent and demanding critics in real life, you should try to simulate them. It was understood that the process would be unpleasant, but that's it's unpleasant _because_ it involves fighting the human instinct to rationalize, and that the reason to do it anyway is because you care more about being [less wrong](https://tvtropes.org/pmwiki/pmwiki.php/Main/TitleDrop) than about having pleasant emotional experiences.
 
 In the current era, deep into eternal September, Achmiz's detractors are quite explicit that they don't care that much about being less wrong. We are told that there's ["a general trade off between authors' experience and improving correctness"](https://www.lesswrong.com/posts/9DhneE5BRGaCS2Cja/moderation-notes-re-recent-said-duncan-threads?commentId=jYt7Mwj2xx6oeqtNA) such that Achmiz's style is more suitable for the yearly Review rather than daily comments. 
 
@@ -54,13 +35,10 @@ To be clear, if someone _disagreed_ with Achmiz _on the intellectual merits_ abo
 
 The thing that's so morally disgusting about Achmiz's detractors is that they don't even pretend to care about the intellectual merits! The complaints aren't about Achmiz being wrong, only about him causing people to feel insulted and attacked and discouraged. What can one even say to such people? [One simply despairs](https://www.readthesequences.com/Created-Already-In-Motion) of [explaining the obvious problems with shutting out information that makes you feel bad](https://www.lesswrong.com/posts/MjutwGzoLrTTodeTf/hazards-of-selection-effects-on-approved-information-1), when the explanation itself would no doubt make them feel bad.
 
-In the comments on the ban announcement, the same user who claimed it's impossible for people to overcome their feelings of hurt and attack [pleads for posts from less prominent authors to not be criticized](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=GjtZY7pg9LRB2mwMi), only "engaged with by a charitable volunteer as a teacher might respond to a student", because "[t]here are selection effects on who stays in the community under these conditions."
+In the comments on the ban announcement, the same user who claimed it's impossible for people to overcome their feelings of hurt and attack
 
-Indeed, selection effects are important. For example, a _Less Wrong_ that persecutes Said Achmiz is selecting for _bullshitters who don't care whether what they say is true or false_. Because people who care about whether they're telling the truth want to be held accountable! They want to be criticized![^want-criticism] They want people to ask questions about their work! Probably, they want people to ask questions about their work even if they personally won't have time to answer, because they understand the concept of a public comment section in which other people might be able to answer!
 
-[^want-criticism]: Because if they can't answer the criticisms, they learn something, and if they can, they gain more justified confidence in their ideas. An idea is more likely to be right if someone tried to prove it wrong and failed—but for that to happen, critics have to be allowed to try.
 
-One would have hoped that the moderation team would care about maintaining a culture that valorizes people who care whether what they say is true and either reforms or ejects bullshitters, as contrasted to persecuting the people who care about whether what they say is true in order to protect the delicate emotions of bullshitters.
 
 
 

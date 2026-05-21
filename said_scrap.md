@@ -98,13 +98,9 @@ _ re complaints about Said being expensive to moderate, you could have done noth
 
 _ ellipses use by Habryka: https://www.lesswrong.com/posts/CtRNmAQXmSotpAi9j/announcing-the-center-for-shared-ai-prosperity?commentId=mcFp4s6F6X2Ld4udJ contrast to "stop strawmaning these people repeatedly by inserting random ellipses and question marks and random snide remarks implying the absurdity of their position" https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=kL8pqSsd5cogjpTBA
 
-
-
-
 _ wiser than me re community: https://www.lesswrong.com/posts/FLq2J9KwEuecYmaSx/ritual-report-2012-life-death-light-darkness-and-love?commentId=PQxz5n85TZJArrQma
 
 
-https://www.readthesequences.com/Go-Forth-And-Create-The-Art
 
 
 questions to ask Said—
@@ -878,4 +874,10 @@ I mean all of this literally, but also, supporters of the ban should make sure t
 
 -----
 
-[^disdain-elaboration]: _E.g._, I think they are being profoundly dishonest in a way that makes them functionally stupid despite their above-average IQs, and I think they are perpetrating a form of moral fraud against the world by appropriating the mantle of "rationality" as the brand name for their insular Bay Area party-and-AI-discussion scene while deceiving the public about what rationality even is, _&c._
+[^disdain-elaboration]: _E.g._, I think they are being profoundly dishonest in a way that makes them functionally stupid despite their above-average IQs, and I think they are perpetrating a form of moral fraud against the world by appropriating the mantle of "rationality" as the brand name for their
+
+while deceiving the public about what rationality even is, _&c._
+
+
+
+
