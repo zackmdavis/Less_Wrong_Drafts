@@ -67,6 +67,14 @@ You then disclaim that "this isn't the only hypothesis." No doubt—but out of t
 
 Why? If you think Achmiz's posts are clear, crisp, and valuable and that the examples in the post don't seem compelling, then that would seem to imply that Habyrka is making a terrible decision and that you should therefore disapprove of his conduct. Is the idea that it's critical for coordination purposes to have a dictator, any dictator, such that it doesn't actually matter whether the dictator makes good decisions?
 
+
+----
+
+OK, but does it matter if the thing he wrote down actually made sense?
+
+If the meta-level process you followed brought you to this, of what use what the meta-level process?
+
+
 ----
 
 [reply to DrShiny: https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation?commentId=aKMkAqKT3ZAAYBgHe]

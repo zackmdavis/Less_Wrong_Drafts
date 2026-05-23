@@ -1,4 +1,4 @@
-Title: "Less Wrong Corrupted; or, Comment on 'Banning Said Achmiz'"
+Title: "Comment on 'Banning Said Achmiz'"
 
 I. Prologue
  • "If I Can't Explain It to Said Achmiz, I Probably Don't Understand It"
@@ -13,11 +13,9 @@ III. The Case for the Ban Rests on Misrepresentations
 IV. The Ban Was Unnecessary
  • User-Level Bans Are a Sufficient and Less Intrusive Remedy
  • Effort Ratios Are Logically Irrelevant
-V. Further Replies
- • Preventing "Relitigation" Is a Pretext for Suppressing Dissent
- • Replies to Vaniver
-     - On the Ideological Turing Test
-     - On "Emotional Tallness"
+V. The Founding Values Have Not Been Refuted
+ • Ideological Turing Test–Passing Is Not an Argument
+ • Fortitude Is a Rationalist Skill 
 VI. What I Think Is Actually Going On
  • Achmiz's Persecutors Accuse Him of Passive-Aggression
  • ... But It's Hard to Believe That Open Disdain Would Be Better
@@ -29,30 +27,35 @@ VII. Recommendations to Readers
 tasks to publication—
 _ edit draft!!
 _ Justis feedback
-_ amicus curiæ comments
+_ ask Robert M. about de-listing stats and major versions
+_ solicit amicus curiæ comments
 _ war comments
-_ pt. 2 section edits
-_ ask Robert M. about traffic stats, and de-listing stats, and major versions
-_ last edit pass
 _ assurance from Vaniver and D. Kokotajlo
 _ Twitter capsule thread
 
 amicus curiae lobbying—
 _ Ben 
 _ Anna
-_ Steven Kaas?
 _ Jessica
+_ Steven Kaas?
+_ jimmy
 _ Nesov
+-----
 _ Wei Dai
 _ niplav
 
+angles to work in—
+_ mention reptuation management more
+_ pre-empt "Well would you prefer no moderation" strawman: I approved of https://www.greaterwrong.com/posts/wmkgRsz6MaZsZqLLZ/this-is-a-dating-ad/comment/9Cj6r2Ndnw7cmggKa
+_ the recursive angle
+_ cite Gordon's kindness and curiosity as another example of the bad guys
+_ just disagreeing would be fine; the punishment is specifically for evading critcism on the grounds of social punishment, the engineer who only relates to social punishment
+_ law school
+_ sunwillrise was originally on the other side: https://www.greaterwrong.com/posts/sCWe5RRvSHQMccd2Q/i-would-have-shit-in-that-alley-too/comment/tyZiGNA29rBiqfRPw and https://www.greaterwrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform/comment/ygYcErShDo6Bvn5bN
+_ "preferred epistemological style"
+_ http://archive.today/2026.05.22-224936/https://x.com/Mihonarium/status/2056879103450509379
 
 -----
-
-
-
-
-
 
 https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=p4KfKHyFiBop4cSJf
 > It is indeed not a norm on LessWrong to not express negative feelings and judgements! There are bounds to it, of course, but the issue of contention is passive-aggression, not straightforward aggression.
@@ -66,19 +69,17 @@ https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-
 
 _ concede that it's empirical whether people can handle Said, but normatively, that's a problem for the rationality project; "ppl will stop contributing" has the structure of blackmail
 
-_ work in "On the Construction of Beacons"
-_ please don't critique my personal conduct?!?
-_ law school
+
+
 _ witchy username analogy: some user complaints are invalid
-_ why is Said being persecuted specically? If done consistently, the site would be a total hugbox
 _ competing access needs
-_ just disagreeing would be fine; the punishment is specifically for evading critcism on the grounds of social punishment, the engineer who only relates to social punishment
-_ cite Gordon's kindness and curiosity as another example of the bad guys
+
+
 _ contempt of court footnote, include "I hear and obey." https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=gvFCd95gjQNHtxN95
-_ sunwillrise was originally on the other side: https://www.greaterwrong.com/posts/sCWe5RRvSHQMccd2Q/i-would-have-shit-in-that-alley-too/comment/tyZiGNA29rBiqfRPw and https://www.greaterwrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform/comment/ygYcErShDo6Bvn5bN
-_ https://www.greaterwrong.com/posts/2n6jbaJfnHgYTuxtX/linkposts-now-live
-_ de Cleyre footnote
-_ "preferred epistemological style"
+
+
+
+
 
 ----
 
