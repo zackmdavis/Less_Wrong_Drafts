@@ -25,30 +25,32 @@ VII. Recommendations to Readers
  • Speak the Truth, Even if Your Voice Trembles
 
 tasks to publication—
-_ edit draft!!
+- edit draft!!
 _ Justis feedback
 _ ask Robert M. about de-listing stats and major versions
+_ recusal request to Vaniver and D. Kokotajlo
 _ solicit amicus curiæ comments
 _ war comments
-_ assurance from Vaniver and D. Kokotajlo
 _ Twitter capsule thread
 
 amicus curiae lobbying—
-_ Ben 
-_ Anna
-_ Jessica
-_ Steven Kaas?
 _ jimmy
-_ Nesov
+_ Anna
+_ Ben 
+_ Jessica
 -----
+_ Sting
+_ Steven Kaas
+_ Nesov
 _ Wei Dai
 _ niplav
 
 angles to work in—
-_ mention reptuation management more
+_ people who are driven off by criticism are game theoretic blackmail (fits in "Fortitude is a rationalist skill")
 _ pre-empt "Well would you prefer no moderation" strawman: I approved of https://www.greaterwrong.com/posts/wmkgRsz6MaZsZqLLZ/this-is-a-dating-ad/comment/9Cj6r2Ndnw7cmggKa
+_ the complaint was about not performing enough kindness and curiosity (https://www.lesswrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform?commentId=wmTdbTZJyudWAmNkz), but the reason he asks so many questions is precisely because he doesn't think being more curious works (https://www.greaterwrong.com/posts/i2Dnu9n7T3ZCcQPxm/zetetic-explanation/comment/3FQAZCRgw762fPctZ)
+_ mention reptuation management more
 _ the recursive angle
-_ cite Gordon's kindness and curiosity as another example of the bad guys
 _ just disagreeing would be fine; the punishment is specifically for evading critcism on the grounds of social punishment, the engineer who only relates to social punishment
 _ law school
 _ sunwillrise was originally on the other side: https://www.greaterwrong.com/posts/sCWe5RRvSHQMccd2Q/i-would-have-shit-in-that-alley-too/comment/tyZiGNA29rBiqfRPw and https://www.greaterwrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform/comment/ygYcErShDo6Bvn5bN
