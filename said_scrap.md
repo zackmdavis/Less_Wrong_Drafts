@@ -27,15 +27,15 @@ VII. Recommendations to Readers
 tasks to publication—
 - edit draft!!
 _ Justis feedback
-_ ask Robert M. about de-listing stats and major versions
-_ recusal request to Vaniver and D. Kokotajlo
+✓ ask Robert M. about de-listing stats and major versions
+✓ recusal request to Vaniver and D. Kokotajlo
 _ solicit amicus curiæ comments
 _ war comments
 _ Twitter capsule thread
 
 amicus curiae lobbying—
+✓ Anna
 _ jimmy
-_ Anna
 _ Ben 
 _ Jessica
 -----
@@ -49,6 +49,7 @@ angles to work in—
 _ people who are driven off by criticism are game theoretic blackmail (fits in "Fortitude is a rationalist skill")
 _ pre-empt "Well would you prefer no moderation" strawman: I approved of https://www.greaterwrong.com/posts/wmkgRsz6MaZsZqLLZ/this-is-a-dating-ad/comment/9Cj6r2Ndnw7cmggKa
 _ the complaint was about not performing enough kindness and curiosity (https://www.lesswrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform?commentId=wmTdbTZJyudWAmNkz), but the reason he asks so many questions is precisely because he doesn't think being more curious works (https://www.greaterwrong.com/posts/i2Dnu9n7T3ZCcQPxm/zetetic-explanation/comment/3FQAZCRgw762fPctZ)
+_ maybe kindness and curiosity in the ending?
 _ mention reptuation management more
 _ the recursive angle
 _ just disagreeing would be fine; the punishment is specifically for evading critcism on the grounds of social punishment, the engineer who only relates to social punishment

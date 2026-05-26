@@ -109,3 +109,14 @@ https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-bro
 
 https://www.lesswrong.com/posts/KuZaW3c5AGSMLAbks/axelcore-s-shortform?commentId=Da9g3sTEPkvvFWddB
 I still call it _Less Wrong_, but as far as betrayals of the founding vision go, orthography is the least of our problems. In the beginning, there was a grandiose [vision of discovering new general-purpose methods of systematically correct reasoning](https://www.readthesequences.com/A-Sense-That-More-Is-Possible), but
+
+
+----
+
+https://www.lesswrong.com/posts/Pmw4cDLDz7D6S2C5p/there-should-be-a-discussion-about-lw-s-policy-to-allow#fn97gdfscz5ff
+
+> resulting in Oliver banning me from everything he can, except LW
+
+When you say things like this, you need to directly quote or [link to](https://x.com/Mihonarium/status/2056879103450509379) the evidence, because otherwise people don't have reason to trust that you're paraphrasing accurately.
+
+(According to a DM screenshot that Samin posted elsewhere, Habryka [actually said](https://x.com/Mihonarium/status/2056879103450509379) "You are banned from everything I can ban you absolute fucking moron", which I found shockingly brazen in its sheer self-serving vindictiveness.)
