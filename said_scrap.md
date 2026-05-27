@@ -47,7 +47,7 @@ _ niplav
 
 angles to work in—
 _ people who are driven off by criticism are game theoretic blackmail (fits in "Fortitude is a rationalist skill")
-_ pre-empt "Well would you prefer no moderation" strawman: I approved of https://www.greaterwrong.com/posts/wmkgRsz6MaZsZqLLZ/this-is-a-dating-ad/comment/9Cj6r2Ndnw7cmggKa
+
 _ the complaint was about not performing enough kindness and curiosity (https://www.lesswrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform?commentId=wmTdbTZJyudWAmNkz), but the reason he asks so many questions is precisely because he doesn't think being more curious works (https://www.greaterwrong.com/posts/i2Dnu9n7T3ZCcQPxm/zetetic-explanation/comment/3FQAZCRgw762fPctZ)
 _ maybe kindness and curiosity in the ending?
 _ mention reptuation management more
@@ -60,14 +60,6 @@ _ http://archive.today/2026.05.22-224936/https://x.com/Mihonarium/status/2056879
 
 -----
 
-https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=p4KfKHyFiBop4cSJf
-> It is indeed not a norm on LessWrong to not express negative feelings and judgements! There are bounds to it, of course, but the issue of contention is passive-aggression, not straightforward aggression.
-
-
-https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=CGAsc2EAw2xw5f7kd
-> What would be some examples of permissible “straightforward aggression”?
-
-> I am not interested in answering this question (as I don’t see any compelling reason given for why it would be worth my time, or why it would benefit others), though maybe someone else is!
 
 
 _ concede that it's empirical whether people can handle Said, but normatively, that's a problem for the rationality project; "ppl will stop contributing" has the structure of blackmail
@@ -79,9 +71,6 @@ _ competing access needs
 
 
 _ contempt of court footnote, include "I hear and obey." https://www.lesswrong.com/posts/adk5xv5Q4hjvpEhhh/meta-new-moderation-tools-and-moderation-guidelines?commentId=gvFCd95gjQNHtxN95
-
-
-
 
 
 ----
