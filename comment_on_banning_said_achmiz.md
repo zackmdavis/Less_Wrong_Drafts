@@ -499,7 +499,7 @@ If it helps, I'm happy to acknowledge that Habryka already spent 60+ hours on th
 [^no-filibuster]: I think some readers may be wary that a long post such as this one represents an effort to "filibuster": that the mod team did something I disliked, so I'm trying to delegitimize them by throwing up an impressive-looking flood of verbiage. I'm denying this on the grounds that it wouldn't work: that would be bad writing, and the comment section would notice. The reason this post is long is because the reasoning offered for the ban is so terrible in so many different ways that I actually have this much to say about it.
 
 
-## VI. Conclusions and Recommendations for Readers
+## VII. Conclusions and Recommendations for Readers
 
 ### LessWrong 2.0 Has Forfeited Its Intellectual Legitimacy
 
