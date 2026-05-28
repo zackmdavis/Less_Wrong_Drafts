@@ -26,7 +26,7 @@ VII. Recommendations to Readers
 
 tasks to publication—
 - edit draft!!
-_ Justis feedback
+✓ Justis feedback
 ✓ ask Robert M. about de-listing stats and major versions
 ✓ recusal request to Vaniver and D. Kokotajlo
 _ solicit amicus curiæ comments
