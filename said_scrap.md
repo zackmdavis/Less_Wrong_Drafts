@@ -48,6 +48,8 @@ _ niplav
 angles to work in—
 _ people who are driven off by criticism are game theoretic blackmail (fits in "Fortitude is a rationalist skill")
 
+https://www.datasecretslox.com/index.php/topic,15801.0.html
+
 _ the complaint was about not performing enough kindness and curiosity (https://www.lesswrong.com/posts/y7AcBDWsBsbojQufK/said-achmiz-s-shortform?commentId=wmTdbTZJyudWAmNkz), but the reason he asks so many questions is precisely because he doesn't think being more curious works (https://www.greaterwrong.com/posts/i2Dnu9n7T3ZCcQPxm/zetetic-explanation/comment/3FQAZCRgw762fPctZ)
 _ maybe kindness and curiosity in the ending?
 _ mention reptuation management more
