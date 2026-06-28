@@ -100,9 +100,11 @@ Cade
 
 ### 2 October 2025
 
+[(audio)](http://zackmdavis.net/media/metz-vassar-taylor-davis-2025-10-02.ogg)
+
 **MV**: You might say the market, or the rise in the market for apocalyptic warnings is more rapid than the accumulation of credit through correct prediction. Because Kurzweil was the big name, and he was saying completely implausible things that turned out to be true, and Eliezer was this weirdo, and now Eliezer is the big name. We don't hear much about Kurzweil even though his predictions have been just incredibly vindicated.
 
-**CM**: How do you argue that? Tell me how you argue that, that his predictions have been vindicated.
+**CM**: How do you argue that? Tell me how you argue that his predictions have been vindicated.
 
 **MV**: Kurzweil?
 
@@ -162,7 +164,7 @@ _[The participants get their beverages and sit down.]_
 
 **CM**: I'm joking, you can use whatever you want.
 
-**MV**: I mean, I normally use a bunch in parallel, but Gemini loses its chain of thought much more often than the others when you do it in parallel. Like, you kind of need to keep the app open or you don't get responses.
+**MV**: I mean, I normally use a bunch in parallel, but Gemini loses its chain of thought much more often than the others when you do it in parallel. You kind of need to keep the app open or you don't get responses.
 
 **CM**: What are we doing with Gemini?
 
@@ -216,7 +218,7 @@ _[The participants get their beverages and sit down.]_
 
 **MV**: We're treating it as a neutral third party that prevents people from pretending to be ignorant about what everybody knows by creating a neutral objective standard about what everybody knows.
 
-**ZMD**: Oftentimes there will be a point in the conversation where you're disputing part of the text, and saying, you know, where like, your article said one thing, I'm saying that's unfair, that's not what Kelsey said, and you're saying it was fair. When I point to the transcript of, here's Claude and ChatGPT explaining the problem, I feel like that should leave some sort of impression that, wow, even the chatbot can see that there's a problem. When I say that, it's not about the chatbot is a higher authority. It's that it processed the text and can explain in the dialect of educated English, here's how the text explains the thing that Zack is saying.
+**ZMD**: Oftentimes there will be a point in the conversation where you're disputing part of the text, and saying, you know, where your article said one thing, I'm saying that's unfair, that's not what Kelsey said, and you're saying it was fair. When I point to the transcript of, here's Claude and ChatGPT explaining the problem, I feel like that should leave some sort of impression that, wow, even the chatbot can see that there's a problem. When I say that, it's not about the chatbot is a higher authority. It's that it processed the text and can explain in the dialect of educated English, here's how the text explains the thing that Zack is saying.
 
 **CM**: But, unlike the chatbot, I was there in the moment, I had several conversations with Kelsey. I fact-checked my information with her before I published. I have all this information that the chatbot doesn't have, and that you don't have.
 
@@ -226,9 +228,9 @@ _[The participants get their beverages and sit down.]_
 
 **CM**: Let's put it this way. I told her exactly what the story would say in that sentence, and to fact check it with her. She said yes. After the fact, where she was clearly under pressure, for some reason—
 
-**ZMD**: So there's this thing where, this is why I want to do my fact checking with you over email, because there's this thing where in-person conversations can be good in the heat of the moment, but then sometimes it takes more processing time to realize, wait, that's not actually what I meant.
+**ZMD**: This is why I want to do my fact checking with you over email, because there's this thing where in-person conversations can be good in the heat of the moment, but then sometimes it takes more processing time to realize, wait, that's not actually what I meant.
 
-**CM**: So, it was really what you said, that from the very beginning it was about this, right? I've talked to Zack about this. You're at an _Overcoming Bias_ meetup. So those  _Overcoming Bias_ essays are in the process of being rolled out. And those are very much focused on rational thinking. But as is clear, even from his diary, when you guys all sort of convene at a group house later that night, what is on people's minds is this, meaning is it going to kill us?  How do you explain that? Why is that the thing that is on everybody's minds amidst this effort to think more rationally? Is it because that, you say it wasn't a community yet, but is it because that group of people was already thinking about that? That Yudkowsky was already thinking about that? That he had attracted a group who was who was already thinking about that, as he's been sort of laying down these essays?
+**CM**: So, it was really what you said, that from the very beginning it was about this, right? I've talked to Zack about this. You're at an _Overcoming Bias_ meetup. So those  _Overcoming Bias_ essays are in the process of being rolled out. And those are very much focused on rational thinking. But as is clear, even from his diary, when you guys all sort of convene at a group house later that night, what is on people's minds is this, meaning is it going to kill us?  How do you explain that? Why is that the thing that is on everybody's minds amidst this effort to think more rationally? Is it because that, you say it wasn't a community yet, but is it because that group of people was already thinking about that? That Yudkowsky was already thinking about that? That he had attracted a group who was already thinking about that, as he's been sort of laying down these essays?
 
 **MV**: Every single question you ask is vexing, because they all contain an implied rejection of any understanding of the human condition as it was universally understood at the time in question.
 
@@ -248,7 +250,7 @@ _[The participants get their beverages and sit down.]_
 
 **CM**: I think it's implied by what he just said. It's a different way of looking at the world. I look at the world through the lens of someone who works for _The New York Times_. I value _The New York Times_. You look at the world through a different lens.
 
-**MV**: To be clear, I look through the lens that _The New York Times_ did at the time we're talking about, 2008. To be clear, the New York Times has unambiguously changed the lens that it looks at the world in, in the intervening time.
+**MV**: To be clear, I look through the lens that _The New York Times_ did at the time we're talking about, 2008. To be clear, the New York Times has unambiguously changed the lens that it looks at the world in the intervening time.
 
 **CM**: Explain that to me.
 
@@ -278,7 +280,7 @@ _[continuing to read]_ "2024 election revealed some extraordinary internal tensi
 
 **MV**: No, but that's the key point. That was always the case and is not now the case. There is a concept of objectivity that includes selective attention. And the concept of objectivity which includes selective attention but also includes making comparisons is what was thrown out and explicitly, objectively thrown out. Not hypothetical. This is not a speculative question. This is an extremely well-documented claim. _[inaudible]_ The thing is, no amount of documentation could make this claim as credible as a conversation with you does. Everybody who is a believer in objectivity understands that objectivity is objectivity between perspectives. Everybody has always believed this. There has never been any uncertainty in anyone's mind. It is intrinsic to the idea. This is just a strawman that people who oppose objectivity invoke as if the people who didn't oppose objectivity were idiots.
 
-_[The coffeeshop's back area is closing earlier than we expected; participants have gotten up to find a new location.]_
+_[The coffeeshop's back area is closing earlier than expected; participants have gotten up to find a new location.]_
 
 **CM**: You have made your point. Tell me again, how does this relate to your thinking?
 
@@ -324,7 +326,7 @@ _[The coffeeshop's back area is closing earlier than we expected; participants h
 
 **MV**: Maybe we want to go in here because it's better for yelling. I feel like Gorilla Coffee would be better for having a conversation. I mean, it would be better for food, but I don't really want food, and I really want to yell. _[laughing]_
 
-_[Participants order and find a new table at Crepevine.]_
+_[Participants order and find a table at the new location.]_
 
 **MV**: There was an enormous but concealed rot in all of our systems.
 
@@ -396,7 +398,7 @@ _[Jessica Taylor arrives.]_
 
 **JT**: Okay. _[reading]_ Hm. Okay, this is a lot of history I didn't know about.
 
-**MV**: Yeah, but you knew the gestalt. Everyone knew the gestalt. The gestalt is what we're talking about. We're talking about, what does it mean to try to explain a thing once you have discarded aspirational objectivity? The critical question here is that the target audience for Cade's writing is people for whom it is a matter of existential anxiety that they not be aware of what things are and are not obvious to normal people. The whole point of this book _[If Anyone Builds It, Everyone Dies]_ is it's saying something that is obvious to normal people in ancient Greece when they made The Sorcerer's Apprentice, and is obvious to people in romantic England when they wrote Frankenstein, and is obvious to people in authoritarian Czech Republic when they invented the word _robot_ and is obvious, you know, to von Neumann and Einstein but also to all the kids who've ever seen any of the rip-offs of the robot story, all of which are the same and all are obvious enough that you don't need to spell it out. You can have it implied by a _New Yorker_ comic strip.
+**MV**: Yeah, but you knew the gestalt. Everyone knew the gestalt. The gestalt is what we're talking about. We're talking about, what does it mean to try to explain a thing once you have discarded aspirational objectivity? The critical question here is that the target audience for Cade's writing is people for whom it is a matter of existential anxiety that they not be aware of what things are and are not obvious to normal people. The whole point of this book _[If Anyone Builds It, Everyone Dies]_ is it's saying something that is obvious to normal people in ancient Greece when they made The Sorcerer's Apprentice, and is obvious to people in romantic England when they wrote Frankenstein, and is obvious to people in authoritarian Czech Republic when they invented the word _robot_ and is obvious to von Neumann and Einstein but also to all the kids who've ever seen any of the rip-offs of the robot story, all of which are the same and all are obvious enough that you don't need to spell it out. You can have it implied by a _New Yorker_ comic strip.
 
 **CM**: That's true. The analogy I was going to make, I'd love to get your opinion on this, is just like it is obvious that a machine that we create can do harm and can do great harm. It's obvious that when I wake up in the morning, that if I walk outside my house, a brick could fall on my head and kill me.
 
@@ -408,7 +410,7 @@ _[Jessica Taylor arrives.]_
 
 **CM**: Let me try Jessica.
 
-**JT**: Okay, so how would I say these are different? Have you ever seen _Ex Machina_?
+**JT**: Okay, so how would I say these are different? Have you ever seen [_Ex Machina_](https://en.wikipedia.org/wiki/Ex_Machina_(film))?
 
 **CM**: Yes.
 
@@ -470,7 +472,7 @@ _[Jessica Taylor arrives.]_
 
 **CM**: What does that mean?
 
-**ZMD**: So I think I think the idea—we don't know everything. Part of the reason _The New York Times_ is necessary is because we don't know that everything that's going on in the world. Hypothetically, you could imagine—I think this is a pretty low probability—but like you could imagine some secret lab somewhere is doing AI work that we don't know about.
+**ZMD**: So I think the idea—we don't know everything. Part of the reason _The New York Times_ is necessary is because we don't know that everything that's going on in the world. Hypothetically, you could imagine—I think this is a pretty low probability—but like you could imagine some secret lab somewhere is doing AI work that we don't know about.
 
 **CM**: This is where we differ. Because you're doing a hypothetical. A brick falling on my head is not hypothetical.
 
@@ -490,7 +492,7 @@ _[Jessica Taylor arrives.]_
 
 **MV**: So is the particular brick.
 
-**ZMD**: Again, there's this idea of subjective probability where, where there's a lot of things we think we know about the world. Some of them we're more confident, some of them we're less confident. Some things sound really, really wild, and so we'll assign those a really low probability. But there's a continuous gradient between certainties. It seems like you're operating in a mode of thought where this AI thing is in a different magisterium of hypothetical things that don't actually exist yet, therefore, I shouldn't use the same kind of subjective probability reasoning about it that I would for a brick.
+**ZMD**: Again, there's this idea of subjective probability where there's a lot of things we think we know about the world. Some of them we're more confident, some of them we're less confident. Some things sound really, really wild, and so we'll assign those a really low probability. But there's a continuous gradient between certainties. It seems like you're operating in a mode of thought where this AI thing is in a different magisterium of hypothetical things that don't actually exist yet, therefore, I shouldn't use the same kind of subjective probability reasoning about it that I would for a brick.
 
 **CM**: You're reading into what I'm saying. I'm just asking the question. You know, I could live my life by saying I'm never going to leave my house because a brick might fall.
 
@@ -506,7 +508,7 @@ _[Jessica Taylor arrives.]_
 
 **MV**: But the living your whole life thing is weird. That's just making stuff up.
 
-**CM**: Well, I think one of the things I think about is that, basically you said it, what is being said here is the same thing that was being said back in 2008. It's the same thinking applied to each technology. Maybe we're really, really far and we're applying this type of thinking to something that's really, really far away.
+**CM**: Well, one of the things I think about is that, basically you said it, what is being said here is the same thing that was being said back in 2008. It's the same thinking applied to each technology. Maybe we're really, really far and we're applying this type of thinking to something that's really, really far away.
 
 **MV**: Yes, that's what we think.
 
@@ -514,7 +516,7 @@ _[Jessica Taylor arrives.]_
 
 [...]
 
-**JT**: I think [trying to see what kind of agency LLMs and reinforcement learning have] is overall a more productive approach than taking this very general model and just assuming that the technology has it. It should be an open question. It's an empirical thing. I think the stronger argument is that, hypothetically, like future AI algorithms. We don't know what those will be, right? But we can imagine, you know, people do come up with things and they test them, and some of them work better than others. So we can assume that there's some selection that people will be more likely to use the techniques that create AIs that have larger effects as a general rule. And an AI that has sufficiently large effects would like, yeah, take over the universe and stuff. I would say it's just very important to distinguish these things, because we can talk about these specific technologies, like LLMs or RLVR for which, first of all, cat's out of the bag, you can't really do anything about it, and second, you can just go empirically study them, versus AI could have any number of future innovations in the future that we just don't know about.
+**JT**: I think [trying to see what kind of agency LLMs and reinforcement learning have] is overall a more productive approach than taking this very general model and just assuming that the technology has it. It should be an open question. It's an empirical thing. I think the stronger argument is that, hypothetically, like future AI algorithms. We don't know what those will be, right? But we can imagine, you know, people do come up with things and they test them, and some of them work better than others. So we can assume that there's some selection that people will be more likely to use the techniques that create AIs that have larger effects as a general rule. And an AI that has sufficiently large effects would take over the universe and stuff. I would say it's just very important to distinguish these things, because we can talk about these specific technologies, like LLMs or RLVR for which, first of all, cat's out of the bag, you can't really do anything about it, and second, you can just go empirically study them, versus AI could have any number of future innovations in the future that we just don't know about.
 
 **MV**: Okay, so we've got a fair amount recorded now, and I feel like one thing that we could do right now is talk to the AI that is going to read the recording, and talk to each other and see what everyone says they think the AI is going to say. Because right now, from my perspective, the central obvious fact is that when you tell your story about a brick could fall on your head, you know already how to use predictive processing, like the AI's predictive processing, to predict what someone can say in response to that story. You already know the argument you're making, and you know the counterarguments, and you know the counter-counterarguments. You already know that whole chain. And yet you're doing it anyway, which is a really weird thing to do from the perspective that assumes that objectivity is being sought from the first place. From the perspective that assumes that objectivity is being sought in the first place, the great mystery, the really important question is not AI. The really important question is, what the hell is the non-objectivity-assuming perspective doing and how do we keep it from killing us? The AI is hypothetical. It doesn't exist yet. You are real. I know that you might kill me.
 
@@ -570,7 +572,7 @@ _[laughter]_
 
 **MV**: Very obviously. But the point is that it is a rejection of the objective stance to think that we might think that the beliefs were necessarily correct.
 
-**CM**: Hold on. Let's backtrack a little bit. Some people would argue that Yudkowsky was proselytizing his own beliefs. You said, this would make it look like he's not. What if he was? What if it his? Just proselytizing his own beliefs, and not the absolute truth.
+**CM**: Hold on. Let's backtrack a little bit. Some people would argue that Yudkowsky was proselytizing his own beliefs. You said, this would make it look like he's not. What if he was? What if it is just proselytizing his own beliefs, and not the absolute truth.
 
 **MV**: Wait, what do you mean again by absolute truth? As far as I can tell, the absolute truth thing is a pure strawman. It is a phrase that has no meaning at all from a perspective that does not reject it. There's a perspective that has truth, and there is a perspective that rejects truth and invents the strawman "absolute truth", a thing that nobody who believed in truth has ever believed in, or ever hinted they believed in.
 
@@ -612,9 +614,9 @@ _[laughter]_
 
 **CM**: Take your time.
 
-**ZMD**: More than affirming or denying some canonical truth, what matters is like processes that converge on truth. One thing that matters is if you know you wrote something in 2009 that implies one thing, and you write something in 2016 that implies another thing, there should be a way for someone to say, "hey there's this apparent contradiction here; how do you account for this?" You can just change your mind. Maybe the new beliefs are actually correct, but you should actually be able to argue, if you believe in the objectivity frame, you should be able to have an account for, actually, I changed my mind because of X, Y, and Z reasons. These days, it seems like a lot of people, including Yudkowsky himself, have this ethos that expecting someone to do that is somehow naïve.
+**ZMD**: More than affirming or denying some canonical truth, what matters is processes that converge on truth. One thing that matters is if you know you wrote something in 2009 that implies one thing, and you write something in 2016 that implies another thing, there should be a way for someone to say, "hey there's this apparent contradiction here; how do you account for this?" You can just change your mind. Maybe the new beliefs are actually correct, but you should actually be able to argue, if you believe in the objectivity frame, you should be able to have an account for, actually, I changed my mind because of X, Y, and Z reasons. These days, it seems like a lot of people, including Yudkowsky himself, have this ethos that expecting someone to do that is somehow naïve.
 
-**JT**: I think he did do this once recently because he was saying, someone called him out on like, hey, it looks like AI is hovering around human level for a while. It doesn't look like, you know, it just zooms past village idiot to Einstein, which you said were very close. And he was like, well, that's actually correct. I was just wrong about that. And I was like, something, something, youthful idealism. I was underestimating intelligence differences between humans. That was nice to see.
+**JT**: I think he did do this once recently because he was saying, someone called him out on like, hey, it looks like AI is hovering around human level for a while. It doesn't look like it just zooms past village idiot to Einstein, which you said were very close. And he was like, well, that's actually correct. I was just wrong about that. And I was like, something, something, youthful idealism. I was underestimating intelligence differences between humans. That was nice to see.
 
 **CM**: Well, you know, one of the other things that I think sparked this conversation was whether or not this community was like a religion or had religious aspects. One of the things I struggle with is that so many people in the community today, in the past, you know, you see it in your diary, sort of make the analogy. But then people get very upset if I write a story where someone outside the community makes the analogy. The analogy's there. Can you see the similarities?
 
@@ -648,7 +650,7 @@ _[laughter]_
 
 **CM**: It's definitely true. The other thing I think a lot about is we have multiple examples where a lot of these beliefs have been taken to extremes, whether it's the Zizians, Sam Bankman-Fried, Black Lotus. We have a lot of examples of this. What do you make of that? What is it about this community that pushes people to extremes, and can cause problems because of those mistakes?
 
-**JT**: I'm trying to think of when this applied the most. I think my experience around like 2016 and 2017 was kind of like this, where there were a lot of people talking as if these things are very important, we need high dedication, we need to modify our minds to accomplish this special mission to save the world, and it's really important. It seems like like why would that happen is one question, and I think part of it is that these people think they found something that is really important that most people are ignoring, and therefore people are wrong about a lot of important stuff, and there is something we can do. They believe this more like ten years ago than now. They believe there is something we can do that is almost something only we can do. I even asked Anna or Nate, I think it was either Anna or Nate said, humanity would not have a chance without Eliezer Yudkowsky personally. There was this kind of idea and then there were organizations like MIRI and CfAR founded on this, and there's also EAs who are essentially utilitarians coming into it. It's kind of this confluence of factors, and there's this really important thing, and also consequentialism is approximately true, so you should really try to have a big impact or do something big, and the stuff is really important and other people don't know about it, and some other people think we're cranks. I think there's a way that people who are maybe looking for something really important to be doing can take those things and be like, oh, wow, this is really important. I should dedicate my life to this and I should take actions on the basis of these beliefs that might be pretty bad actions or look really weird if these beliefs were not true.
+**JT**: I'm trying to think of when this applied the most. I think my experience around like 2016 and 2017 was kind of like this, where there were a lot of people talking as if these things are very important, we need high dedication, we need to modify our minds to accomplish this special mission to save the world, and it's really important. It seems like why would that happen is one question, and I think part of it is that these people think they found something that is really important that most people are ignoring, and therefore people are wrong about a lot of important stuff, and there is something we can do. They believe this more like ten years ago than now. They believe there is something we can do that is almost something only we can do. I even asked Anna or Nate, I think it was either Anna or Nate said, humanity would not have a chance without Eliezer Yudkowsky personally. There was this kind of idea and then there were organizations like MIRI and CfAR founded on this, and there's also EAs who are essentially utilitarians coming into it. It's kind of this confluence of factors, and there's this really important thing, and also consequentialism is approximately true, so you should really try to have a big impact or do something big, and the stuff is really important and other people don't know about it, and some other people think we're cranks. I think there's a way that people who are maybe looking for something really important to be doing can take those things and be like, oh, wow, this is really important. I should dedicate my life to this and I should take actions on the basis of these beliefs that might be pretty bad actions or look really weird if these beliefs were not true.
 
 **CM**: Why does the community attract people like that?
 
@@ -762,7 +764,7 @@ _[laughter]_
 
 **ZMD**: I did want to mention, there was something I really admired in _Genius Makers_, not in the text itself, but on the acknowledgements page. You wrote about a literary agent who gave you feedback, quote, "after he read the proposal I had written, he told me very politely that it was garbage," end quote. Just that whole ethos that someone can be doing you a favor by telling you that your ideas are bad, is at the core of rationality, of seeking out the best ideas rather than trying to protect your current beliefs and plans.
 
-In that respect, I would say you are more rational than Oliver Habryka and the moderators of _lesswrong.com_, who just banned one of their sharpest commenters, not even for politely telling people that their ideas are garbage, but just asking questions in a way that Habryka says that he, quote, ["cannot help but read in a sneering voice, dripping with judgement, pointing a finger at me or the author in a way that summons judgement and punishment"](https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/uyobAZy5iYAAWzSSi), end quote.
+[In that respect, I would say you are more rational than Oliver Habryka and the moderators of _lesswrong.com_](https://www.lesswrong.com/posts/HaH9mTdKt8pcNAtYn/comment-on-banning-said-achmiz), who [just banned one of their sharpest commenters](https://www.lesswrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation), not even for politely telling people that their ideas are garbage, but just asking questions in a way that Habryka says that he, quote, ["cannot help but read in a sneering voice, dripping with judgement, pointing a finger at me or the author in a way that summons judgement and punishment"](https://www.greaterwrong.com/posts/98sCTsGJZ77WgQ6nE/banning-said-achmiz-and-broader-thoughts-on-moderation/comment/uyobAZy5iYAAWzSSi), end quote.
 
 **CM**: Who did he ban?
 
@@ -774,7 +776,7 @@ In that respect, I would say you are more rational than Oliver Habryka and the m
 
 **JT**: Oh, weird.
 
-**ZMD**: From your acknowledgments page, it seems like you at least have the concept that when someone tells you your book proposal is bad, it's not summoning judgment and punishment. They just mean it's a bad book idea and you should maybe write a different book. The sanity and maturity to recognize that is apparently a large amount of rationality in today's world. I think the thing that the thing that Michael was trying to do in 2009 was to create more sane and rational people, rather than the doomsday cult it turned into. Separately from the fact that doomsday is still real, sane and mature people would be helpful for confronting the impending doom.
+**ZMD**: From your acknowledgments page, it seems like you at least have the concept that when someone tells you your book proposal is bad, it's not summoning judgment and punishment. They just mean it's a bad book idea and you should maybe write a different book. The sanity and maturity to recognize that is apparently a large amount of rationality in today's world. I think the thing that Michael was trying to do in 2009 was to create more sane and rational people, rather than the doomsday cult it turned into. Separately from the fact that doomsday is still real, sane and mature people would be helpful for confronting the impending doom.
 
 The reason the reason I put in so much effort, talking with you multiple times, sending you that 2000 word email, is because I'm worried you're going to tell the story of this book as strictly the sociological lens of, here are these weird people forming a doomsday cult and they're pulling the strings in Silicon Valley.
 
@@ -822,7 +824,7 @@ The thing I just said is easy for an AI to understand. It's also easy for a huma
 
 **ZMD**: But also, the thing I'm terrified of, because you've totally been doing this in your _New York Times_ articles, and I'm hoping that I'm not an idiot for continuing to talk to you, because I'm hoping the book will be different. There's this important part where doomsday is still real. The basic obvious-to-a-child case of AI risk, I still believe in that part.
 
-**MV**: You reveal that you know why it's a doomsday cult through the things you say, and that the actual answer, you know is unspeakable, is taboo, so only putting a false answer in other people's mouths could give you a publishable piece. If you didn't know why people end up in doomsday cults, you wouldn't have ended up in the type of cult you ended up in.
+**MV**: You reveal that you know why it's a doomsday cult through the things you say, and that the actual answer is unspeakable, is taboo, so only putting a false answer in other people's mouths could give you a publishable piece. If you didn't know why people end up in doomsday cults, you wouldn't have ended up in the type of cult you ended up in.
 
 **CM**: My cult is what, _The New York Times_?
 
@@ -856,7 +858,7 @@ The thing I just said is easy for an AI to understand. It's also easy for a huma
 
 **CM**: That's exactly right.
 
-**MV**: But you don't do that as a journalist in your day to day articles, and we know that. Have you heard of _The Fort Bragg Conspiracy_?
+**MV**: But you don't do that as a journalist in your day to day articles, and we know that. Have you heard of [_The Fort Bragg Conspiracy_](https://en.wikipedia.org/wiki/The_Fort_Bragg_Cartel)?
 
 **CM**: Tell me about it.
 
